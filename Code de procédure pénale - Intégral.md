@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-09-06
+Version Consolidée au 1996-10-01
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -47231,16 +47231,21 @@ _Cite_:
 
 ###### Article D49-1
 
-Préalablement à la mise à exécution d'une condamnation à une peine égale ou inférieure à six mois d'emprisonnement concernant
+Préalablement à la mise à exécution d'une condamnation à une peine égale ou inférieure à un an d'emprisonnement concernant
 une personne non incarcérée, le ministère public communique au juge de l'application des peines un extrait de la décision
 accompagné, le cas échéant, de toutes informations utiles. Il en est de même en cas de cumul des condamnations concernant la
-même personne si le total des peines prononcées n'excède pas six mois.
+même personne si le total des peines prononcées n'excède pas un an.
+
+Le juge de l'application des peines peut charger le comité de probation et d'assistance aux libérés de vérifier la situation
+matérielle, familiale et sociale de la personne condamnée et de proposer les mesures propres à favoriser l'insertion sociale
+de l'intéressé.
 
 Le juge de l'application des peines détermine les modalités d'exécution de la peine en considération de la situation du
 condamné.
 
-A défaut de réponse du juge de l'application des peines dans le mois suivant la communication visée à l'alinéa précédent et
-même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en la forme ordinaire.
+A défaut de réponse du juge de l'application des peines dans les deux mois [*délai*] suivant la communication visée au
+premier alinéa et même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en
+la forme ordinaire.
 
 **Liens relatifs à cet article**
 
@@ -47248,9 +47253,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-836 1985-08-06 art. 1 et art. 4 JORF 8 août 1985
+  - Décret n°96-651 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996 en vigueur le 1er octobre 1996
 
 _Cité par_:
 
