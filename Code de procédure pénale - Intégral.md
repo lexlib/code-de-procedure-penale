@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1965-02-24
+Version Consolidée au 1966-09-07
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -326,14 +326,17 @@ Version Consolidée au 1965-02-24
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#323)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#324)
             - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A26 à A38)](#325)
-    - [Livre V : Des procédures d'exécution (art. A50 à A53)](#326)
-      - [Titre IV : Du sursis (art. A50 à A51)](#327)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#328)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#329)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#330)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#331)
-        - [Disposition générale (art. A53)](#332)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#333)
+    - [Livre V : Des procédures d'exécution (art. A40 à A53)](#326)
+      - [Titre II : De la détention (art. A40)](#327)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#328)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#329)
+      - [Titre IV : Du sursis (art. A50 à A51)](#330)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#331)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#332)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#333)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#334)
+        - [Disposition générale (art. A53)](#335)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#336)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -23825,13 +23828,42 @@ _Abrogé par_:
 
 ## Livre V : Des procédures d'exécution<a id=326></a>
 
-### Titre IV : Du sursis<a id=327></a>
+### Titre II : De la détention<a id=327></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=328></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=328></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=329></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=329></a>
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=330></a>
+###### Article A40
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1964-02-27 art. 3 JORF 19 mars 1964
+
+_Abrogé par_:
+
+  - Arrêté 1973-03-07 art. 3 JORF 21 mars 1973
+
+_Cité par_:
+
+  - Arrêté du 25 avril 2008 - art. 2 (V)
+
+
+### Titre IV : Du sursis<a id=330></a>
+
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=331></a>
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=332></a>
+
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=333></a>
 
 ###### Article A50
 
@@ -23872,9 +23904,9 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=331></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=334></a>
 
-#### Disposition générale<a id=332></a>
+#### Disposition générale<a id=335></a>
 
 ###### Article A53
 
@@ -23892,7 +23924,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=333></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=336></a>
 
 ###### Article A56
 
