@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1977-11-27
+Version Consolidée au 1978-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 1977-11-27
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 79 à 190)](#23)
           - [Section 1 : Dispositions générales (art. 79)](#24)
           - [Section 2 : De la constitution de la partie civile et de ses effets (art. 85 à 90)](#25)
-          - [Section 4 : Des auditions de témoins (art. 101 à 113)](#26)
+          - [Section 4 : Des auditions de témoins (art. 111 à 113)](#26)
             - [Sous-section 1 : Dispositions générales (art. 101 à 113)](#27)
           - [Section 5 : Des interrogatoires et confrontations (art. 121)](#28)
           - [Section 6 : Des mandats et de leur exécution (art. 124 à 136)](#29)
@@ -41,7 +41,7 @@ Version Consolidée au 1977-11-27
           - [Section 1 : Dispositions générales (art. 195 à 215-1)](#38)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 141 à 187)](#39)
           - [Section 2 : De la constitution de la partie civile et de ses effets (art. 91)](#40)
-          - [Section 3 : Des transports, perquisitions et saisies (art. 92 à 96)](#41)
+          - [Section 3 : Des transports, perquisitions et saisies (art. 92 à 98)](#41)
           - [Section 4 : Des auditions de témoins (art. 104)](#42)
           - [Section 5 : Des interrogatoires et confrontations (art. 115 à 120)](#43)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 141-2 à 149-1)](#44)
@@ -1966,6 +1966,40 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 66 (V)
 
 
+###### Article 58
+
+Sous réserve des nécessités des enquêtes, toute communication ou toute divulgation sans l'autorisation de l'inculpé ou de ses
+ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition à une personne non qualifiée par
+la loi pour en prendre connaissance est punie d'une amende de 1.800 à 30.000 F et d'un emprisonnement de deux mois à deux
+ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - Ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+_Cité par_:
+
+  - Ordonnance n°67-833 du 28 septembre 1967 - art. 5 ter (Ab)
+  - Loi n°84-1208 du 29 décembre 1984 - art. 94 (P)
+  - Loi n°89-432 du 28 juin 1989 - art. 7 (Ab)
+  - Code des douanes - art. 64 (M)
+  - Code des douanes de Mayotte - art. 41 (VT)
+  - Code monétaire et financier - art. L621-12 (VD)
+  - Livre des procédures fiscales - art. L16 B (VT)
+  - Livre des procédures fiscales - art. L38 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°77-1468 du 30 décembre 1977 - art. 22 (V)
+
+
 ###### Article 59
 
 Sauf réclamations faites de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites
@@ -2674,6 +2708,35 @@ _Cite_:
 
 
 ##### Section 4 : Des auditions de témoins<a id=26></a>
+
+###### Article 111
+
+Toute personne qui déclare publiquement connaître les auteurs d'un crime ou d'un délit et qui refuse de répondre aux
+questions qui lui sont posées à cet égard par le juge d'instruction sera punie d'un emprisonnement de onze jours à un an et
+d'une amende de 375 F. à 20.000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+
+_Abrogé par_:
+
+  - Loi n°94-89 du 1 février 1994 - art. 14 (V) JORF 2 février 1994 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
+
 
 ##### Sous-section 1 : Dispositions générales<a id=27></a>
 
@@ -4228,6 +4291,25 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 97 (M)
   - Code de commerce. - art. Annexe 8-2 (V)
   - Code de procédure pénale - art. 136 (V)
+
+
+###### Article 98
+
+Sous réserve des nécessités de l'information judiciaire, toute communication ou toute divulgation sans autorisation de
+l'inculpé ou de ses ayants droit ou du signataire ou du destinataire d'un document provenant d'une perquisition, à une
+personne non qualifiée par la loi pour en prendre connaissance, est punie d'une amende de 1 800 F à 30 000 F et d'un
+emprisonnement de deux mois à deux ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
 
 
 ##### Section 4 : Des auditions de témoins<a id=42></a>
