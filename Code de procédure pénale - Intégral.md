@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-08-01
+Version Consolidée au 2001-08-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 880)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -275,11 +275,11 @@ Version Consolidée au 2001-08-01
               - [Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire (art. R16 à R16-2)](#272)
               - [Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire (art. R17 à R18-1)](#273)
               - [Paragraphe 3 : Du cautionnement (art. R19 à R25)](#274)
-            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R26 à R40-22)](#275)
-              - [Paragraphe 1er : De l'indemnisation demandée devant le premier président de la cour d'appel (art. R26 à R40-3)](#276)
-              - [Paragraphe 2 : Du recours devant la Commission nationale d'indemnisation des détentions provisoires (art. R40-4 à R40-22)](#277)
+            - [Sous-section 3 : De la réparation à raison d'une détention provisoire (art. R26 à R40-22)](#275)
+              - [Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel (art. R26 à R40-3)](#276)
+              - [Paragraphe 2 : Du recours devant la Commission nationale de réparation des détentions (art. R40-4 à R40-22)](#277)
                 - [A : De l'exercice du recours (art. R40-4 à R40-7)](#278)
-                - [B : De la procédure suivie devant la Commission nationale d'indemnisation des détentions provisoires (art. R40-8 à R40-22)](#279)
+                - [B : De la procédure suivie devant la Commission nationale de réparation des détentions (art. R40-8 à R40-22)](#279)
                   - [a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor. (art. R40-8 à R40-12)](#280)
                   - [b : Des communications et notifications applicables lorsque l'auteur du recours est le procureur général près la cour d'appel (art. R40-13)](#281)
                   - [c : Des autres actes de procédure. (art. R40-14 à R40-22)](#282)
@@ -42972,8 +42972,8 @@ R. 15-33-8 et R. 15-33-9, notamment la copie des arrêtés d'habilitation ;
 
 4° Les notations annuelles établies en application des dispositions ci-après.
 
-Le dossier est communiqué à la chambre d'accusation lorsque celle-ci se trouve saisie dans les conditions fixées à l'article
-225.
+Le dossier est communiqué à la chambre de l'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à
+l'article 225.
 
 **Liens relatifs à cet article**
 
@@ -42981,9 +42981,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1072 du 2 novembre 2000 - art. 2 () JORF 4 novembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -43000,8 +43004,8 @@ Le procureur de la République près le tribunal de grande instance de Paris, ap
 observations des juges d'instruction et des présidents des chambres correctionnelles, établit une proposition de notation
 qu'il transmet chaque année au procureur général près la cour d'appel de Paris.
 
-Celui-ci établit la notation après avoir recueilli, le cas échéant, les observations des présidents de la chambre
-d'accusation de Paris et des autres procureurs généraux concernés.
+Celui-ci établit la notation après avoir recueilli, le cas échéant, les observations des présidents de la chambre de
+l'instruction de Paris et des autres procureurs généraux concernés.
 
 **Liens relatifs à cet article**
 
@@ -43009,9 +43013,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1072 du 2 novembre 2000 - art. 2 () JORF 4 novembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -44119,7 +44127,7 @@ _Cite_:
 
 La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort
 du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au
-président de la chambre d'accusation.
+président de la chambre de l'instruction.
 
 La demande présentée par une association comporte notamment :
 
@@ -44148,11 +44156,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4 Décret 2001-709 2001-07-31 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 _Cité par_:
 
@@ -44164,7 +44172,7 @@ _Cité par_:
 ###### Article R15-36
 
 Après avoir procédé à toute les diligences qu'il juge utiles, le doyen des juges d'instruction ou le président de la chambre
-d'accusation communique la demande au président du tribunal ou au premier président.
+de l'instruction communique la demande au président du tribunal ou au premier président.
 
 **Liens relatifs à cet article**
 
@@ -44174,11 +44182,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4 Décret 2001-709 2001-07-31 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 _Cité par_:
 
@@ -44217,7 +44225,7 @@ _Cité par_:
 
 En cas d'urgence, une habilitation provisoire, valable jusqu'à la décision de la prochaine assemblée générale ou commission
 restreinte, peut être prise par le doyen des juges d'instruction, sur proposition ou après avis conforme du procureur de la
-République, ou par le président de la chambre d'accusation, sur proposition ou après avis conforme du procureur général.
+République, ou par le président de la chambre de l'instruction, sur proposition ou après avis conforme du procureur général.
 
 **Liens relatifs à cet article**
 
@@ -44227,11 +44235,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4 Décret 2001-709 2001-07-31 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 
 ###### Article R15-39
@@ -44263,7 +44271,7 @@ l'assemblée générale des magistrats du siège et du parquet du tribunal, cell
 compétente.
 
 En cas d'urgence, le doyen des juges d'instruction, sur proposition ou avis conforme du procureur de la République, ou le
-président de la chambre d'accusation, sur proposition ou avis conforme du procureur général, peut retirer provisoirement
+président de la chambre de l'instruction, sur proposition ou avis conforme du procureur général, peut retirer provisoirement
 l'habilitation jusqu'à la décision de la prochaine assemblée générale ou commission restreinte.
 
 **Liens relatifs à cet article**
@@ -44274,11 +44282,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
+  - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4 Décret 2001-709 2001-07-31 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 _Cite_:
 
@@ -44879,9 +44887,9 @@ _Modifié par_:
   - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
-##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=275></a>
+##### Sous-section 3 : De la réparation à raison d'une détention provisoire<a id=275></a>
 
-##### Paragraphe 1er : De l'indemnisation demandée devant le premier président de la cour d'appel<a id=276></a>
+##### Paragraphe 1er : De la réparation demandée devant le premier président de la cour d'appel<a id=276></a>
 
 ###### Article R26
 
@@ -44890,8 +44898,8 @@ d'acquittement est saisi par une requête signée du demandeur ou d'un des manda
 l'article R. 27 et remise contre récépissé ou adressée par lettre recommandée avec demande d'avis de réception au greffe de
 la cour d'appel.
 
-La requête contient l'exposé des faits, le montant de l'indemnité demandée et toutes indications utiles, notamment en ce qui
-concerne :
+La requête contient l'exposé des faits, le montant de la réparation demandée et toutes indications utiles, notamment en ce
+qui concerne :
 
 1° La date et la nature de la décision qui a ordonné la détention provisoire ainsi que l'établissement pénitentiaire où cette
 détention a été subie ;
@@ -44905,18 +44913,23 @@ d'acquittement.
 
 Le délai de six mois prévu à l'article 149-2 ne court à compter de la décision de non-lieu, de relaxe ou d'acquittement
 devenue définitive que si, lors de la notification de cette décision, la personne a été avisée de son droit de demander une
-indemnisation ainsi que des dispositions de l'article 149-1.
+réparation ainsi que des dispositions de l'article 149-1, 149-2 et 149-3 (premier alinéa).
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 149-1 (M)
   - CODE DE PROCEDURE PENALE - art. 149-2 (M)
+  - CODE DE PROCEDURE PENALE - art. 149-3 (M)
   - CODE DE PROCEDURE PENALE - art. R27 (M)
 
 _Cité par_:
@@ -44940,19 +44953,23 @@ dans les mêmes formes au seul avocat ou avoué.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
-
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R29 (M)
   - Code de procédure pénale - art. R26 (V)
   - Code de procédure pénale - art. R40-5 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
 
 
 ###### Article R28
@@ -44967,10 +44984,6 @@ judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
-
 _Cité par_:
 
   - Code de procédure pénale - art. R31 (V)
@@ -44978,6 +44991,14 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R29
@@ -44987,17 +45008,21 @@ communication du dossier au greffe de la cour d'appel.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R30 (M)
-
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R30 (M)
 
 
 ###### Article R30
@@ -45013,7 +45038,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R31
@@ -45026,9 +45055,17 @@ quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire d
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45038,10 +45075,6 @@ _Cité par_:
 
   - Code de procédure pénale - art. R32 (V)
   - Code de procédure pénale - art. R36 (V)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
 
 
 ###### Article R32
@@ -45057,10 +45090,6 @@ conclusions à l'agent judiciaire du Trésor.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
-
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R31 (M)
@@ -45072,6 +45101,14 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R33
@@ -45087,7 +45124,11 @@ Les conclusions produites ultérieurement par les parties sont communiquées ent
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45117,7 +45158,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R35
@@ -45133,7 +45178,11 @@ ceux-ci aient lieu en audience publique.
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -45156,9 +45205,17 @@ Il est alors fait application des dispositions de l'article R. 35.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45169,10 +45226,6 @@ _Cite_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R40-17 (V)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
 
 
 ###### Article R37
@@ -45192,7 +45245,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R38
@@ -45201,44 +45258,11 @@ La décision du premier président de la cour d'appel est rendue en audience pub
 
 Cette décision est notifiée au demandeur et à l'agent judiciaire du Trésor soit par remise d'une copie contre récépissé, soit
 par lettre recommandée avec demande d'avis de réception. La notification indique que la décision peut faire l'objet d'un
-recours devant la Commission nationale d'indemnisation des détentions provisoires dans un délai de dix jours.
+recours devant la Commission nationale de réparation des détentions dans un délai de dix jours.
 
 Une copie de la décision est remise au procureur général.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
-
-_Modifié par_:
-
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
-
-
-###### Article R39
-
-Le premier président de la cour d'appel peut à tout moment de la procédure accorder en référé une provision au demandeur.
-Cette décision n'est susceptible d'aucun recours.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
-
-
-###### Article R40
-
-Les décisions du premier président de la cour d'appel accordant une indemnité sont assorties de plein droit de l'exécution
+Une copie de la décision est en outre adressée, au ministère de la justice, à la commission de suivi de la détention
 provisoire.
 
 **Liens relatifs à cet article**
@@ -45249,13 +45273,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
-###### Article R40-1
+###### Article R39
 
-Par dérogation aux dispositions de l'article R. 233, le paiement au demandeur de l'indemnité ou de la provision est effectué
-par les comptables directs du Trésor.
+Le premier président de la cour d'appel peut à tout moment de la procédure accorder en référé une provision au demandeur.
+Cette décision n'est susceptible d'aucun recours.
 
 **Liens relatifs à cet article**
 
@@ -45265,7 +45293,55 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+
+###### Article R40
+
+Les décisions du premier président de la cour d'appel accordant une réparation sont assorties de plein droit de l'exécution
+provisoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+
+###### Article R40-1
+
+Par dérogation aux dispositions de l'article R. 233, le paiement au demandeur de la réparation ou de la provision est
+effectué par les comptables directs du Trésor.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45287,7 +45363,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-3
@@ -45307,17 +45387,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
-##### Paragraphe 2 : Du recours devant la Commission nationale d'indemnisation des détentions provisoires<a id=277></a>
+##### Paragraphe 2 : Du recours devant la Commission nationale de réparation des détentions<a id=277></a>
 
 ##### A : De l'exercice du recours<a id=278></a>
 
 ###### Article R40-4
 
-Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un recours devant la Commission nationale
-d'indemnisation des détentions provisoires de la part :
+Les décisions du premier président de la cour d'appel peuvent faire l'objet d'un recours devant la Commission nationale de
+réparation des détentions de la part :
 
 1° Du demandeur ;
 
@@ -45334,7 +45418,11 @@ et qui adresse un exemplaire aux personnes énumérées aux 1° à 3° autres qu
 
 _Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -45366,14 +45454,18 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-6
 
-Le dossier de la procédure d'indemnisation, assorti de la déclaration de recours et du dossier de la procédure pénale, est
+Le dossier de la procédure de réparation, assorti de la déclaration de recours et du dossier de la procédure pénale, est
 transmis sans délai par le greffe de la cour d'appel au secrétariat de la commission nationale.
 
 Les fonctions de secrétaire et de greffier de la commission sont remplies par un greffier de la Cour de cassation.
@@ -45384,9 +45476,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-7
@@ -45401,12 +45497,16 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
-##### B : De la procédure suivie devant la Commission nationale d'indemnisation des détentions provisoires<a id=279></a>
+##### B : De la procédure suivie devant la Commission nationale de réparation des détentions<a id=279></a>
 
 ##### a : Des communications et notifications applicables lorsque l'auteur du recours est le demandeur ou l'agent judiciaire du Trésor.<a id=280></a>
 
@@ -45418,17 +45518,21 @@ avec demande d'avis de réception, de lui adresser ses conclusions dans le déla
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
-
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R40-4 (M)
 
 
 ###### Article R40-9
@@ -45445,9 +45549,17 @@ commission transmet le dossier au procureur général près la Cour de cassation
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -45457,10 +45569,6 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R40-4 (M)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-10
@@ -45473,9 +45581,9 @@ _Codifié par_:
 
   - Décret n°58-358 du 2 avril 1958, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4
 
 
 ###### Article R40-11
@@ -45488,9 +45596,13 @@ Il communique à cette personne les conclusions du procureur général près la 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -45516,9 +45628,13 @@ Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45552,9 +45668,17 @@ Les dispositions du second alinéa de l'article R. 33 sont applicables.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45563,10 +45687,6 @@ _Cite_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R40-14 (V)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
 
 
 ##### c : Des autres actes de procédure.<a id=282></a>
@@ -45578,17 +45698,21 @@ Dans le mois qui suit l'expiration du délai de quinze jours prévu à l'article
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°58-358 1958-04-22
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R40-13 (M)
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-22
 
 
 ###### Article R40-15
@@ -45604,9 +45728,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-16
@@ -45620,17 +45748,21 @@ ceux-ci aient lieu en audience publique.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
-
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
 
 
 ###### Article R40-17
@@ -45645,9 +45777,13 @@ Il est alors fait application des dispositions de l'article R. 40-16.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45681,9 +45817,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -45699,36 +45839,47 @@ par lettre recommandée avec demande d'avis de réception.
 
 Une copie de la décision est remise au procureur général près la Cour de cassation.
 
+Une copie de la décision est en outre adressée, au ministère de la justice, à la commission de suivi de la détention
+provisoire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-20
 
-Si la commission accorde une provision ou une indemnité d'un montant supérieur à celui fixé par la décision du premier
+Si la commission accorde une provision ou une réparation d'un montant supérieur à celui fixé par la décision du premier
 président de la cour d'appel, son paiement au demandeur est, par dérogation aux dispositions de l'article R. 233, effectué
 par le comptable direct du Trésor de Paris.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R233 (M)
-
 _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R233 (M)
 
 
 ###### Article R40-21
@@ -45747,9 +45898,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R40-22
@@ -45765,9 +45920,13 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-1204 du 12 décembre 2000 - art. 1 () JORF 13 décembre 2000 en vigueur le 16 décembre 2000
+  - Décret n°2001-709 du 31 juillet 2001 - art. 4 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ## Livre II : Des juridictions de jugement<a id=283></a>
@@ -47943,7 +48102,7 @@ _Cité par_:
 
 La désignation d'un administrateur ad hoc en application des dispositions de l'article 706-50 est notifiée aux représentants
 légaux du mineur et peut être contestée par ces derniers par la voie de l'appel dans un délai de dix jours à compter de la
-notification. Cet appel n'est pas suspensif. Il est porté devant la chambre d'accusation ou la chambre des appels
+notification. Cet appel n'est pas suspensif. Il est porté devant la chambre de l'instruction ou la chambre des appels
 correctionnels.
 
 **Liens relatifs à cet article**
@@ -47952,9 +48111,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cite_:
 
@@ -50862,7 +51025,8 @@ après avoir fait procéder si nécessaire à des vérifications de toute nature
 l'expert.
 
 S'il n'est pas tenu compte de ses observations, le ministère public peut saisir, par l'intermédiaire du procureur général, le
-président de la chambre d'accusation, qui statue dans les huit jours par une décision qui ne peut faire l'objet de recours.
+président de la chambre de l'instruction, qui statue dans les huit jours par une décision qui ne peut faire l'objet de
+recours.
 
 **Liens relatifs à cet article**
 
@@ -50872,10 +51036,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 4 () JORF 20 mars 1999
+  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 _Cité par_:
@@ -51059,8 +51225,8 @@ _Cité par_:
 
 Lorsque les experts justifient qu'ils se sont trouvés, par suite de circonstances indépendantes de leur volonté, dans
 l'impossibilité de remplir leur mission, les magistrats commettants peuvent, par décision motivée soumise à l'agrément du
-président de la chambre d'accusation, leur allouer une indemnité, outre leurs frais de transport, de séjour et autres débours
-s'il y a lieu.
+président de la chambre de l'instruction, leur allouer une indemnité, outre leurs frais de transport, de séjour et autres
+débours s'il y a lieu.
 
 **Liens relatifs à cet article**
 
@@ -51068,14 +51234,14 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 **Liens**:
 
-  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5 Décret 2001-709 2001-07-31 art. 6
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Modifié par_:
+
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 _Cité par_:
 
@@ -53322,7 +53488,7 @@ séjour nécessités :
 1° Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de
 procédure pénale ou par des lois spéciales ;
 
-2° Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets
+2° Par les transports du président de la chambre de l'instruction à l'effet de s'assurer du bon fonctionnement des cabinets
 d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ;
 
 3° (dispositions abrogées)
@@ -53355,7 +53521,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 13 () JORF 20 mars 1999
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -53422,13 +53592,13 @@ _Modifié par_:
 
 ###### Article R210
 
-Les seules impressions qui doivent être payées à titre de frais de justice sont :
+Les seules impressions qui doivent être payées à titre de frais de justice sont : 
 
 1° Celle des publications ou insertions de communiqué, relatives à des décisions de non-lieu, qui sont ordonnées par le juge
-d'instruction ou la chambre d'accusation en application des articles 177-1 et 212-1 ;
+d'instruction ou la chambre de l'instruction en application des articles 177-1 et 212-1 ; 
 
 2° Celles des signalements individuels de personnes arrêtées dans les cas exceptionnels où l'envoi de ces signalements aurait
-été reconnu indispensable ;
+été reconnu indispensable ; 
 
 3° Celle de l'arrêt ou du jugement de révision d'où résulte l'innocence d'un condamné et dont l'affichage est prescrit par
 l'article 626, alinéas 9 et 10.
@@ -53441,18 +53611,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 16 () JORF 20 mars 1999
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
-_Cite_:
+**Liens**:
 
-  - CODE DE PROCEDURE PENALE - art. 177-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 212-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 626 (M)
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R93 (M)
   - Code de procédure pénale - art. R92 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 177-1 (V)
+  - Code de procédure pénale - art. 212-1 (V)
+  - Code de procédure pénale - art. 626 (V)
 
 
 ###### Article R211
@@ -53772,7 +53946,7 @@ procédures et sous les garanties prévues en matière d'amende pénale.
 
 La partie condamnée aux dépens peut former un recours contre la disposition de la décision relative à la liquidation de ces
 frais. A défaut d'appel sur le fond, le recours, motivé, est formé au greffe de la juridiction dont émane la décision, dans
-le mois de la notification de cette décision. Il est porté devant la chambre d'accusation.
+le mois de la notification de cette décision. Il est porté devant la chambre de l'instruction.
 
 En l'absence de condamnation aux dépens, les frais d'enquête sociale sont recouvrés contre la partie désignée par le juge qui
 a ordonné l'enquête.
@@ -53785,11 +53959,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5 Décret 2001-709 2001-07-31 art. 6
 
 _Modifié par_:
 
-  - Décret n°93-867 du 28 juin 1993 - art. 11 () JORF 29 juin 1993
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
 
 
 #### Chapitre IV : Du payement et du recouvrement des frais<a id=368></a>
@@ -54066,9 +54240,9 @@ _Cité par_:
 
 ###### Article R228-1
 
-L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère public d'un recours devant la chambre
-d'accusation quelle que soit la juridiction à laquelle appartient le magistrat taxateur. Le délai de recours est de dix jours
-à compter de la notification. Le délai de recours et l'exercice du recours dans le délai sont suspensifs d'exécution.
+L'ordonnance de taxe peut être frappée par la partie prenante ou le ministère public d'un recours devant la chambre de
+l'instruction quelle que soit la juridiction à laquelle appartient le magistrat taxateur. Le délai de recours est de dix
+jours à compter de la notification. Le délai de recours et l'exercice du recours dans le délai sont suspensifs d'exécution.
 
 **Liens relatifs à cet article**
 
@@ -54078,14 +54252,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R229
 
-Un recours contre l'ordonnance de taxe peut être formé devant la chambre d'accusation par le ministère public, à la demande
-du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur entre les
-mains de ce comptable.
+Un recours contre l'ordonnance de taxe peut être formé devant la chambre de l'instruction par le ministère public, à la
+demande du comptable assignataire, dans un délai d'un mois à compter du versement de la pièce de dépense par le régisseur
+entre les mains de ce comptable.
 
 En matière d'aide juridictionnelle, le délai d'un mois court à compter de la transmission qui est faite par le greffe au
 comptable assignataire de l'ordonnance de taxe.
@@ -54101,7 +54279,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 18 () JORF 20 mars 1999
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
@@ -54117,7 +54299,7 @@ recommandée avec demande d'accusé de réception adressée à ce greffe.
 
 La partie prenante est informée du recours du procureur de la République par lettre recommandée, adressée par le greffe.
 
-La décision de la chambre d'accusation est adressée pour exécution au greffe de la juridiction à laquelle appartient le
+La décision de la chambre de l'instruction est adressée pour exécution au greffe de la juridiction à laquelle appartient le
 magistrat taxateur. En cas de trop-versé le greffier en chef procède à l'émission d'un titre de recouvrement.
 
 Le pourvoi en cassation est ouvert dans tous les cas.
@@ -54130,7 +54312,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ###### Article R231
@@ -54141,7 +54327,7 @@ Ce recours est porté devant la juridiction d'appel au cas où la décision qui 
 cette voie.
 
 Dans le cas où la décision qui contient la liquidation des dépens n'est pas susceptible d'appel, le recours est porté devant
-la chambre d'accusation.
+la chambre de l'instruction.
 
 Le recours est formé au greffe de la juridiction qui a rendu la décision, selon les règles et dans le délai qui sont, suivant
 le cas, ceux de l'appel ou du pourvoi en cassation.
@@ -54156,7 +54342,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 
 ##### Paragraphe 5 : Paiement<a id=374></a>
@@ -75619,7 +75809,7 @@ Le président de la Cour de justice de la République ;
 
 Les premiers présidents des cours d'appel et les procureurs généraux près les cours d'appel ;
 
-Les présidents de chambre d'accusation ;
+Les présidents de chambre de l'instruction ;
 
 Les présidents des tribunaux de grande instance et les procureurs de la République près les tribunaux de grande instance ;
 
@@ -75705,7 +75895,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2001-06-29 art. 1 JORF 11 juillet 2001
+  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
 
 _Cité par_:
 
