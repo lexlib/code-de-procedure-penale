@@ -1,18 +1,18 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. 11 à 230-5)](#3)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. 11 à 52)](#4)
-        - [Chapitre Ier : De la police judiciaire (art. 12 à 29)](#5)
+        - [Chapitre Ier : De la police judiciaire (art. 12 à 29-1)](#5)
           - [Section 1 : Dispositions générales (art. 12 à 15-3)](#6)
           - [Section 2 : Des officiers de police judiciaire (art. 16 à 19-1)](#7)
           - [Section 3 : Des agents de police judiciaire (art. 20 à 21-2)](#8)
-          - [Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire (art. 22 à 29)](#9)
+          - [Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire (art. 22 à 29-1)](#9)
             - [Paragraphe 1er : Des ingénieurs, chefs de district et agents techniques des eaux et forêts et des gardes champêtres (art. 22 à 27)](#10)
             - [Paragraphe 2 : Des fonctionnaires et agents des administrations et services publics (art. 28 à 28-1)](#11)
-            - [Paragraphe 3 : Des gardes particuliers assermentés (art. 29)](#12)
+            - [Paragraphe 3 : Des gardes particuliers assermentés (art. 29 à 29-1)](#12)
         - [Chapitre Ier bis : Des attributions du garde des sceaux, ministre de la justice (art. 30)](#13)
         - [Chapitre II : Du ministère public (art. 31 à 48-1)](#14)
           - [Section 1 : Dispositions générales (art. 31 à 33)](#15)
@@ -3188,6 +3188,59 @@ _Cité par_:
   - Code rural - art. L944-2 (V)
   - Code rural ancien - art. 387 (Ab)
   - Code rural ancien - art. 456 (Ab)
+
+
+###### Article 29-1
+
+Les gardes particuliers mentionnés à l'article 29 sont commissionnés par le propriétaire ou tout autre titulaire de droits
+sur la propriété qu'ils sont chargés de surveiller. Ils doivent être agréés par le préfet du département dans lequel se situe
+la propriété désignée dans la commission. 
+
+Ne peuvent être agréés comme gardes particuliers : 
+
+1° Les personnes dont le comportement est incompatible avec l'exercice de ces fonctions, en particulier si elles ne
+remplissent pas les conditions de moralité et d'honorabilité requises, au vu notamment des mentions portées au bulletin n° 2
+de leur casier judiciaire ou dans les traitements automatisés de données personnelles mentionnés à l'article 21 de la loi n°
+2003-239 du 18 mars 2003 pour la sécurité intérieure ; 
+
+2° Les personnes qui ne remplissent pas les conditions d'aptitude technique, fixées par décret en Conseil d'Etat, qui sont
+exigées pour l'exercice de leurs fonctions ; 
+
+3° Les agents mentionnés aux articles 15 (1° et 2°) et 22 ; 
+
+4° Les personnes membres du conseil d'administration de l'association qui les commissionne, ainsi que les propriétaires ou
+titulaires de droits réels sur les propriétés gardées. 
+
+Les conditions d'application du présent article, notamment les modalités d'obtention de l'agrément, les conditions dans
+lesquelles celui-ci peut être suspendu ou retiré, les conditions d'assermentation des gardes particuliers, les principaux
+éléments de leur tenue ainsi que les conditions d'exercice de leurs missions, sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cite_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 21 (V)
+  - Code de procédure pénale - art. 15 (V)
+  - Code de procédure pénale - art. 29 (V)
+
+_Cité par_:
+
+  - Décret n°2004-374 du 29 avril 2004 - art. 78-3 (V)
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code de la sécurité intérieure - art. R611-1 (VD)
+  - Code de procédure pénale - art. R15-33-24 (V)
+  - Code de procédure pénale - art. R15-33-27 (V)
+  - Code de procédure pénale - art. R15-33-29-2 (V)
+  - Code forestier (nouveau) - art. L161-6 (VD)
+  - Code forestier (nouveau) - art. L361-1 (VD)
+
+_Créé par_:
+
+  - Loi n°2005-157 du 23 février 2005 - art. 176 () JORF 24 février 2005
 
 
 #### Chapitre Ier bis : Des attributions du garde des sceaux, ministre de la justice<a id=13></a>
@@ -70820,19 +70873,24 @@ membres de la chambre de l'application des peines de la cour d'appel en applicat
 l'article 712-13, sont désignés par le premier président, après avis de l'assemblée générale des magistrats du siège, pour
 une durée de trois ans. Deux suppléants sont désignés dans les mêmes formes pour une même durée.
 
+Avant d'entrer en fonction, les personnes mentionnées à l'alinéa précédent prêtent devant la cour d'appel le serment de bien
+et fidèlement remplir leurs fonctions et de conserver le secret des délibérations. Les dispositions de l'article R. 522-10 du
+code de l'organisation judiciaire leur sont applicables.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-163 du 23 février 2005 - art. 7 () JORF 24 février 2005
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 712-13 (M)
+  - Code de l'organisation judiciaire R522-10
 
 
 ###### Article D49-10
@@ -71138,7 +71196,8 @@ avocat, contre émargement au dossier de la procédure.
 Si la décision a été mise en délibéré, le jugement est notifié au condamné détenu par le chef de l'établissement
 pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie du jugement lui est
 adressée par lettre recommandée ; une copie du jugement est également adressée par lettre recommandée ou par télécopie à
-l'avocat du condamné.
+l'avocat du condamné ; lorsqu'il s'agit d'un jugement révoquant ou retirant une mesure, la copie du jugement adressée au
+condamné non détenu l'est par lettre recommandée avec demande d'avis de réception.
 
 Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie en est adressée au directeur du service
 pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
@@ -71149,9 +71208,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-163 du 23 février 2005 - art. 8 () JORF 24 février 2005
 
 _Cité par_:
 
@@ -71213,10 +71272,11 @@ _Cité par_:
 
 ###### Article D49-21
 
-Les ordonnances prévues par l'article 712-5 sont notifiées au condamné détenu par le chef de l'établissement pénitentiaire
-qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie de l'ordonnance lui est adressée par
-lettre recommandée ; une copie de l'ordonnance est également adressée par lettre recommandée ou par télécopie à l'avocat du
-condamné.
+Les ordonnances prévues par les articles 712-5 et 712-8 sont notifiées au condamné détenu par le chef de l'établissement
+pénitentiaire qui lui en remet une copie contre émargement ; si le condamné n'est pas détenu, copie de l'ordonnance lui est
+adressée par lettre recommandée ; une copie de l'ordonnance est également adressée par lettre recommandée ou par télécopie à
+l'avocat du condamné ; lorsqu'il s'agit d'une ordonnance refusant de faire droit à une demande du condamné non détenu, la
+copie de la décision adressée à celui-ci l'est par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -71224,9 +71284,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-163 du 23 février 2005 - art. 9 () JORF 24 février 2005
 
 
 ###### Article D49-22
@@ -75102,10 +75162,9 @@ _Cité par_:
 ###### Article D115-6
 
 Lorsqu'un détenu condamné à l'étranger est transféré en France, le calcul du crédit de réduction de peine se fait
-conformément à l'article 721 sur la partie de la détention restant à subir au titre de la condamnation en cours d'exécution
-au jour de l'arrivée sur le sol français. Pour les condamnations n'ayant pas reçu un commencement d'exécution à cette date,
-quelle que soit la date d'inscription sur la fiche pénale, le crédit de réduction de peine est calculé en application de
-l'article 721.
+conformément à l'article 721 sur la partie de la détention restant à subir au titre de la condamnation en cours d'exécution.
+Pour les condamnations n'ayant pas reçu un commencement d'exécution à cette date, quelle que soit la date d'inscription sur
+la fiche pénale, le crédit de réduction de peine est calculé en application de l'article 721.
 
 **Liens relatifs à cet article**
 
@@ -75113,13 +75172,13 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-163 du 23 février 2005 - art. 10 () JORF 24 février 2005
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 721 (M)
+  - Code de procédure pénale - art. 721 (V)
 
 
 ##### Paragraphe 2 : Du retrait du crédit de réduction de peine.<a id=529></a>
@@ -76480,12 +76539,12 @@ _Cité par_:
 
 ###### Article D146-2
 
-Lorsque le condamné est en état de récidive légale, la condition d'exécution de la moitié de la peine pour accorder une
-permission de sortir prévue par les articles D. 143, D. 144, D. 145 (premier alinéa) et D. 146 est remplacée par la condition
-d'exécution des deux tiers de la peine.
+Lorsque le condamné est en état de récidive légale, la condition d'exécution de la moitié ou du tiers de la peine pour
+accorder une permission de sortir prévue par les articles D. 143, D. 144, D. 145 (premier alinéa) et D. 146 est remplacée par
+la condition d'exécution des deux tiers de la peine. 
 
 Toutefois, si la situation du condamné le justifie, le juge de l'application des peines peut, par ordonnance spécialement
-motivée, accorder ces permissions de sortir après exécution de la moitié de la peine.
+motivée, accorder ces permissions de sortir après exécution de la moitié ou du tiers de la peine.
 
 **Liens relatifs à cet article**
 
@@ -76493,16 +76552,17 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 9 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-163 du 23 février 2005 - art. 11 () JORF 24 février 2005
+
+_Abrogé par_:
+
+  - Décret n°2014-1582 du 23 décembre 2014 - art. 25
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D143 (M)
-  - CODE DE PROCEDURE PENALE - art. D144 (M)
-  - CODE DE PROCEDURE PENALE - art. D145 (M)
-  - CODE DE PROCEDURE PENALE - art. D146 (M)
+  - Code de procédure pénale - art. D143
 
 
 ###### Article D147
@@ -79242,10 +79302,7 @@ _Cite_:
 
 Une mission des services pénitentiaires de l'outre-mer, confiée à un directeur régional des services pénitentiaires, a
 compétence sur les établissements et services pénitentiaires des départements d'outre-mer, du territoire de la Polynésie
-française et de la Nouvelle-Calédonie.
-
-Cette mission est, en outre, chargée, dans le domaine pénitentiaire, des relations avec les collectivités territoriales de
-Saint-Pierre-et-Miquelon et de Mayotte, liées par convention avec l'Etat.
+française et de la Nouvelle-Calédonie ainsi que de Saint-Pierre-et-Miquelon et de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -79255,7 +79312,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-209 du 19 mars 1999 - art. 222 () JORF 21 mars 1999
+  - Décret n°2005-163 du 23 février 2005 - art. 6 () JORF 24 février 2005
 
 _Cité par_:
 
