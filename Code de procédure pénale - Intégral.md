@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-05-12
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -30971,11 +30971,11 @@ _Cité par_:
 
 ###### Article 706-30
 
-En cas d'information ouverte pour infraction aux articles 222-34 à 222-38 du code pénal, et afin de garantir le paiement des
-amendes encourues, ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 du code pénal, le
-président du tribunal de grande instance ou un juge délégué par lui, sur requête du procureur de la République, peut
-ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures
-conservatoires sur les biens de la personne mise en examen.
+En cas d'information ouverte pour infraction aux articles 222-34 à 222-38, 324-1 et 324-2 du code pénal, et afin de garantir
+le paiement des amendes encourues, ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 et
+au 12° de l'article 324-7 du code pénal, le président du tribunal de grande instance ou un juge délégué par lui, sur requête
+du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de
+procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
 
 La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
 
@@ -30988,14 +30988,21 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
+
 _Modifié par_:
 
-  - Loi n°94-89 du 1 février 1994 - art. 10 () JORF 2 février 1994 en vigueur le 1er mars 1994
+  - Loi n°2001-420 du 15 mai 2001 - art. 47 () JORF 16 mai 2001
 
 _Cite_:
 
-  - Code pénal - art. 222-49 (M)
-  - Code pénal 222-34 à 222-38, 222-49
+  - Code pénal - art. 324-1 (M)
+  - Code pénal - art. 324-2 (M)
+  - Code pénal - art. 324-7 (M)
+  - Code pénal 222-34 à 222-38, 324-1, 324-2, 324-7
+  - Code de procédure pénale 222-49
 
 _Cité par_:
 
