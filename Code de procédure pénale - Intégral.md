@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-01-09
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -173,7 +173,7 @@ Version Consolidée au 1978-01-01
               - [Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire (art. R16-1 à R16-2)](#170)
               - [Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire (art. R17 à R18-1)](#171)
               - [Paragraphe 3 : Du cautionnement (art. R22 à R25)](#172)
-            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R40-4)](#173)
+            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R26 à R40-4)](#173)
     - [Livre II : Des juridictions de jugement (art. R41 à R48)](#174)
       - [Titre Ier : De la cour d'assises (art. R41)](#175)
         - [Chapitre II : De la tenue des assises (art. R41)](#176)
@@ -20052,6 +20052,370 @@ _Modifié par_:
 
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=173></a>
+
+###### Article R26
+
+La commission prévue à l'article 149-1 est saisie par une requête signée du demandeur et remise ou adressée au secrétaire de
+la commission qui en délivre récépissé.
+
+La requête contient l'exposé des faits et toutes indications utiles, notamment :
+
+1° Sur la date et la nature de la décision qui a ordonné la détention provisoire ainsi que sur l'établissement pénitentiaire
+où cette détention a été subie ;
+
+2° Sur la juridiction qui a pronconcé la décision de non-lieu, de relaxe ou d'acquittement ainsi que sur la date de sa
+décision ;
+
+3° Sur la nature et le montant des préjudices allégués ;
+
+4° Sur l'adresse où doivent être faites les notifications au demandeur.
+
+La requête est accompagnée de toutes pièces justificatives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 149-1 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D24 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R27
+
+Dans un délai de quinze jours à compter de la réception de la requête, le secrétaire de la commission en transmet copie au
+procureur général près la Cour de cassation et, par lettre recommandée avec demande d'avis de réception, à l'agent judiciaire
+du Trésor.
+
+Il demande au greffe de la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement la communication du
+dossier de la procédure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R29 (M)
+  - Code de procédure pénale - art. R26 (V)
+  - Code de procédure pénale - art. R40-5 (VD)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R28
+
+Le demandeur peut se faire délivrer à ses frais copie des pièces de la procédure pénale. Son avocat peut prendre
+communication du dossier au secrétariat de la commission.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R31 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R29
+
+L'agent judiciaire du Trésor peut prendre connaissance du dossier de la procédure pénale au secrétariat de la commission. Il
+lui est délivré sans frais, sur sa demande, copie des pièces.
+
+L'agent judiciaire du Trésor dépose ses conclusions au secrétariat de la commission dans le délai de deux mois à compter de
+la réception de la lettre recommandée prévue à l'article R. 27.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R27 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R30 (M)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R30
+
+Lorsque l'agent judiciaire du Trésor a déposé ses conclusions ou à l'expiration du délai prévu à l'article précédent, le
+secrétaire de la commission transmet le dossier au procureur général près la Cour de cassation.
+
+Le procureur général dépose ses conclusions dans le mois suivant.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R29 (M)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R31
+
+Le secrétaire de la commission notifie au demandeur, par lettre recommandée avec demande d'avis de réception, dans le délai
+de quinze jours à compter de leur dépôt, les conclusions de l'agent judiciaire du Trésor et celles du procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R32 (V)
+  - Code de procédure pénale - art. R36 (V)
+
+
+###### Article R32
+
+Dans le délai d'un mois à compter de la dernière des notifications prévues à l'article précédent, le demandeur remet ou
+adresse au secrétaire de la commission ses observations en réponse qui sont communiquées à l'agent judiciaire du Trésor et au
+procureur général dans le délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R31 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R33 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R33
+
+Dans le mois qui suit l'expiration du délai de quinze jours prévu à l'article précédent, le président de la commission charge
+du rapport un de ses assesseurs ou un conseiller référendaire à la Cour de cassation, lequel n'a pas voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R32 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R40-12 (V)
+  - Code de procédure pénale - art. R40-13 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R34
+
+La commission procède ou fait procéder à toutes mesures d'instruction utiles, notamment, s'il y a lieu, à l'audition du
+demandeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R35
+
+Le président de la commission fixe la date de l'audience après avis du procureur général. Cette date est notifiée par le
+secrétaire de la commission, par lettre recommandée avec demande d'avis de réception, au demandeur et à l'agent judiciaire du
+Trésor un mois au moins avant l'audience.
+
+Le demandeur est invité à faire connaître s'il comparaîtra, assisté ou non d'un avocat, devant la commission pour être
+entendu personnellement ou s'il entend se faire représenter par un avocat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R36 (V)
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+
+###### Article R36
+
+Le demandeur et l'agent judiciaire du Trésor peuvent être représentés ou assistés par un avocat au conseil d'Etat et à la
+Cour de cassation ou par un avocat régulièrement inscrit à un barreau.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R40-17 (V)
+
+
+###### Article R37
+
+Après le rapport, le demandeur s'il y a lieu, l'agent judiciaire du Trésor et leurs avocats respectifs sont entendus.
+
+Le procureur général développe ses conclusions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R38
+
+Si la requête est rejetée, le demandeur est condamné aux dépens, à moins que la commission ne l'en décharge d'une partie ou
+de la totalité.
+
+La décision de la commission comporte exécution forcée pour le paiement des dépens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R40
+
+La décision de la commission est notifiée sans délai au demandeur et à l'agent judiciaire du Trésor par lettre recommandée
+avec demande d'avis de réception.
+
+Le dossier de la procédure pénale est renvoyé avec une copie de la décision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R40-1
+
+Lorsqu'il apparaît manifestement, au vu des renseignements recueillis sur les énonciations de la requête, que le demandeur ne
+remplit pas la condition d'avoir fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par
+une décision de non-lieu, de relaxe ou d'acquittement devenue définitive, le président peut décider qu'il n'y a pas lieu à
+plus ample instruction et fixer sans délai la date de l'audience.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R40-3
+
+Parmi les magistrats désignés pour composer la commission, le bureau de la Cour de cassation désigne celui qui est chargé
+d'en exercer la présidence, ainsi que son suppléant.
+
+La désignation des magistrats appelés à composer la commission est faite pour l'année judiciaire.
+
+Lorsqu'un des magistrats désignés cesse de pouvoir faire partie de la commission, il est procédé à une désignation en
+remplacement qui produit effet jusqu'à l'expiration de l'année en cours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
 
 ###### Article R40-4
 
