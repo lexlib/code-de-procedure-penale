@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1994-11-10
+Version Consolidée au 1994-11-16
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -32533,19 +32533,24 @@ des gendarmes ayant la qualité d'officier de police judiciaire est composée co
 1° Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les
 avocats généraux près la Cour de cassation, président ;
 
-2° Neuf magistrats du ministère public, dont deux au plus peuvent être des magistrats honoraires ou en retraite ;
+2° Le général de gendarmerie, inspecteur général des armées, ou son représentant ;
 
-3° Le général inspecteur général de la gendarmerie ou son représentant ;
+3° Des magistrats du ministère public, dont quatre au plus peuvent être des magistrats honoraires, et des officiers
+supérieurs de la gendarmerie dont quatre au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
+huit et au plus de quinze, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
+chargé des armées en fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
 
-Huit officiers supérieurs de gendarmerie.
-
-Le secrétariat de la commission est assuré par la direction de la gendarmerie et de la justice militaire.
+Le secrétariat de la commission est assuré par la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°94-983 du 15 novembre 1994 - art. 1 () JORF 16 novembre 1994
 
 _Cité par_:
 
@@ -32558,7 +32563,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de procédure pénale 16 (2°)
+  - CODE DE PROCEDURE PENALE - art. 16 (M)
+  - CODE DE PROCEDURE PENALE - art. R5 (M)
 
 
 ###### Article R4
@@ -32584,7 +32590,7 @@ _Cité par_:
 ###### Article R5
 
 La qualité d'officier de police judiciaire peut être attribuée à la suite d'un examen technique aux gendarmes comptant au
-moins cinq ans de service dans la gendarmerie.
+moins quatre ans de service dans la gendarmerie.
 
 Les candidats doivent totaliser au moins trois ans de service dans la gendarmerie au 1er janvier de l'année de l'examen pour
 être autorisés à subir les épreuves.
@@ -32601,7 +32607,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°94-983 du 15 novembre 1994 - art. 2 () JORF 16 novembre 1994
 
 _Cité par_:
 
@@ -32648,7 +32654,7 @@ ministre de la Justice, et du ministre des Armées, au gendarme blessé dans le 
 au cours de laquelle il a fait preuve de qualités particulières de courage.
 
 En aucun cas, l'attribution de la qualité d'officier de police judiciaire ne peut prendre effet avant que les bénéficiaires
-aient accompli cinq ans en activité de service dans la gendarmerie.
+aient accompli quatre ans en activité de service dans la gendarmerie.
 
 **Liens relatifs à cet article**
 
@@ -32658,11 +32664,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°94-983 du 15 novembre 1994 - art. 2 () JORF 16 novembre 1994
 
 _Cite_:
 
-  - Code de procédure pénale R5 et R6
+  - CODE DE PROCEDURE PENALE - art. R5 (M)
+  - CODE DE PROCEDURE PENALE - art. R6 (V)
 
 
 ##### B : Désignation des officiers de police judiciaire de la police nationale<a id=196></a>
