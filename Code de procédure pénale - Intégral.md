@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-09-11
+Version Consolidée au 1986-09-18
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -204,7 +204,7 @@ Version Consolidée au 1986-09-11
       - [Titre II : Du jugement des délits (art. R41-2)](#201)
         - [Chapitre Ier : Du tribunal correctionnel (art. R41-2)](#202)
       - [Titre III : Du jugement des contraventions (art. R42 à R50)](#203)
-        - [Chapitre II : Procédure simplifiée (art. R42 à R48)](#204)
+        - [Chapitre II : Procédure simplifiée (art. R42 à R48-2)](#204)
         - [Chapitre III : De l'instruction définitive devant le tribunal de police (art. R50)](#205)
     - [Livre IV : De quelques procédures particulières (art. R50-1 à R50-28)](#206)
       - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. R50-1 à R50-28)](#207)
@@ -31264,6 +31264,112 @@ _Modifié par_:
 _Cite_:
 
   - Code de procédure pénale 527 al. 3 et al. 4
+
+
+###### Article R48-1
+
+Les magistrats ou officiers du ministère public vérifient les extraits. Ils vérifient et visent le bordereau d'envoi de ces
+documents, adressé par le secrétaire-greffier en chef aux services du Trésor.
+
+Le délai d'envoi des extraits d'ordonnances pénales est fixé à trente-cinq jours à compter de la date à laquelle le
+secrétaire-greffier en chef aura eu connaissance, par la réception de l'avis prévu à l'article R. 45, du non-paiement de
+l'amende et des frais de justice.
+
+Le recouvrement est opéré suivant les règles établies pour l'exécution des sentences pénales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Cité par_:
+
+  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+  - Décret n°2011-348 du 29 mars 2011 - art. 2 (V)
+  - Décret n°2012-343 du 9 mars 2012 (V)
+  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
+  - Décret n°2019-725 du 9 juillet 2019 - art. 1
+  - Décret n°2019-1114 du 30 octobre 2019 - art. 4 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
+  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
+  - Code de l'environnement - art. R*242-78 (Ab)
+  - Code de l'environnement - art. R322-42 (V)
+  - Code de l'environnement - art. R331-72 (M)
+  - Code de l'environnement - art. R331-74 (V)
+  - Code de l'environnement - art. R332-79 (V)
+  - Code de procédure pénale - art. R251 (VD)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. R11 (T)
+
+_Modifié par_:
+
+  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°86-1044 du 18 septembre 1986 - art. 1 () JORF 18 septembre 1986
+
+_Abrogé par_:
+
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R45 (M)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R322-42 (V)
+
+
+###### Article R48-2
+
+Si le contrevenant forme opposition dans le délai fixé à l'article 527 (alinéa 6), le procureur de la République informe
+immédiatement le comptable direct du Trésor de l'annulation de l'extrait correspondant.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Cité par_:
+
+  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
+
+_Modifié par_:
+
+  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°83-1155 1983-12-23 art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+  - Décret n°86-1044 du 18 septembre 1986 - art. 1 () JORF 18 septembre 1986
+
+_Abrogé par_:
+
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 524 à 528-2
+
+_Cite_:
+
+  - Code de procédure pénale 527 al. 6
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police<a id=205></a>
