@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-07-12
+Version Consolidée au 2003-08-02
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -31895,8 +31895,7 @@ entreprises ;
 
 10° Délits prévus par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
 
-11° Délits prévus par l'ordonnance n° 67-833 du 28 septembre 1967 instituant une commission des opérations de bourse et
-relative à l'information des porteurs de valeurs mobilières et à la publicité de certaines opérations de bourse ;
+11° Abrogé ;
 
 12° Délits prévus par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
 
@@ -31983,11 +31982,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-595 du 30 juin 2000 - art. 6 () JORF 1er juillet 2000
+  - Loi n°2003-706 du 1 août 2003 - art. 15 () JORF 2 août 2003
 
-**Liens**:
 
-  - SPEC_APPLI: Loi n°2000-595 du 30 juin 2000 - art. 8 (M)
+###### Article 704-1
+
+Le tribunal de grande instance de Paris a seul compétence pour la poursuite, l'instruction et le jugement des délits prévus
+aux articles L. 465-1 et L. 465-2 du code monétaire et financier. Cette compétence s'étend aux infractions connexes. Le
+procureur de la République et le juge d'instruction de Paris exercent leurs attributions sur toute l'étendue du territoire
+national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 15 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+  - Code de procédure pénale - art. 693 (VD)
+  - Code de procédure pénale - art. 706-2 (VD)
+
+_Anciens textes_:
+
+  - Code de procédure pénale - art. 705 (MMN)
+  - Code de procédure pénale - art. 705 (VT)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L465-1 (M)
+  - Code monétaire et financier - art. L465-2 (M)
 
 
 ###### Article 706
@@ -40091,7 +40120,7 @@ adjudications de travaux ou de marchés publics ;
 3° Aux présidents des tribunaux de commerce en cas de redressement ou de liquidation judiciaires, ainsi qu'aux juges commis à
 la surveillance du registre du commerce et des sociétés à l'occasion des demandes d'inscription audit registre ;
 
-4° A la Commission des opérations de bourse en ce qui concerne les personnes morales faisant appel public à l'épargne.
+4° A l'Autorité des marchés financiers en ce qui concerne les personnes morales faisant appel public à l'épargne.
 
 **Liens relatifs à cet article**
 
@@ -40099,9 +40128,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 123 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -54622,8 +54651,8 @@ ou de déchéance de la nationalité française ;
 19° Aux établissements mentionnés à l'article L. 792 du Code de la santé publique lorsqu'ils sont saisis d'une demande
 d'emploi ;
 
-20° A la Commission des opérations de bourse, en ce qui concerne les dirigeants d'entreprises faisant appel public à
-l'épargne lors de la nomination de ces dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un document
+20° A l'Autorité des marchés financiers, en ce qui concerne les dirigeants d'entreprises faisant appel public à l'épargne
+lors de la nomination de ces dirigeants, lors d'une demande de visa formulée par ceux-ci ou du dépôt d'un document
 d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 1983 ;
 
 21° A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des
@@ -54658,10 +54687,6 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Modifié par_:
-
-  - Décret n°92-360 1990-04-01 art. 34 JORF 3 avril 1992
-
 _Cite_:
 
   - Décret n°75-911 du 6 octobre 1975 - art. 6 (V)
@@ -54683,9 +54708,11 @@ _Cite_:
   - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 1 ()
   - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 2 ()
   - TXT_SOURCE: Décret n°94-965 du 2 novembre 1994 - art. 3 ()
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
   - PILOTE_SUIVEUR: Code de la propriété intellectuelle - art. R421-3 (V)
-  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
