@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-01-01
+Version Consolidée au 1984-02-02
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -349,8 +349,8 @@ Version Consolidée au 1984-01-01
             - [Paragraphe 3 : Dossiers individuels des détenus. (art. D155 à D166)](#346)
               - [A : Dossier spécial aux condamnés à une longue peine. (art. D156 à D164)](#347)
               - [B : Dossiers des autres détenus. (art. D165 à D166)](#348)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D169 à D175)](#349)
-            - [Paragraphe 1 : Punition de cellule (art. D169)](#350)
+          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D167 à D175)](#349)
+            - [Paragraphe 1 : Punition de cellule (art. D167 à D169)](#350)
             - [Paragraphe 2 : Mise à l'isolement (art. D170 à D171)](#351)
             - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#352)
           - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#353)
@@ -395,7 +395,7 @@ Version Consolidée au 1984-01-01
             - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#392)
             - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#393)
           - [Section 2 : Du service sanitaire (art. D364 à D400)](#394)
-            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#395)
+            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D372)](#395)
             - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D378)](#396)
             - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#397)
             - [Paragraphe 4 : Soins divers (art. D391 à D398)](#398)
@@ -36521,6 +36521,87 @@ _Cite_:
 
 ##### Paragraphe 1 : Punition de cellule<a id=350></a>
 
+###### Article D167
+
+La punition de cellule consiste dans le placement du détenu dans une cellule aménagée à cet effet et qu'il doit occuper
+seul ; sa durée ne peut excéder quarante-cinq jours. Pour les mineurs de seize à dix-huit ans, elle est limitée à quinze
+jours lorsque l'infraction disciplinaire est accompagnée de violences contre les personnes et à cinq jours dans les autres
+cas.
+
+Elle est infligée dans les conditions visées à l'article D249 et peut être assortie du sursis pour tout ou partie de son
+exécution, ainsi qu'il est prévu à l'article D251.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+
+_Abrogé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D250 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D249 et D251
+
+
+###### Article D168
+
+Dans les conditions visées à l'article D249, le chef de l'établissement peut prononcer une punition de cellule dans la limite
+de quarante-cinq jours. Toutefois, dans les prisons dirigées par un chef de maison d'arrêt ou un surveillant chef, cette
+faculté est réduite à huit jours au maximum ; le directeur régional peut élever la durée de la sanction jusqu'à quarante-cinq
+jours. Les durées fixées ci-dessus sont réduites respectivement à quinze jours, trois jours et quinze jours lorsque le détenu
+est un mineur de seize à dix-huit ans.
+
+Le temps passé en prévention disciplinaire s'impute sur la durée de la punition à subir.
+
+Les détenus punis doivent être visités par le médecin, si possible dès leur mise en cellule de punition et en tout cas deux
+fois par semaine au moins. La punition est suspendue si le médecin constate que sa continuation est de nature à compromettre
+la santé du détenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+
+_Abrogé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D249 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D250 (M)
+  - CODE DE PROCEDURE PENALE - art. D375 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D169
 
 La mise en cellule de punition entraîne pendant toute sa durée la privation de cantine et de visites. Elle comporte aussi des
@@ -36778,6 +36859,47 @@ _Cité par_:
 
   - Code de procédure pénale - art. D229 (VD)
   - Code de procédure pénale - art. D230 (Ab)
+  - Code de procédure pénale - art. D261 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D177
+
+Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il estime
+nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation
+des inculpés en état de détention provisoire. 
+
+Il transmet ses observations éventuelles au président de la chambre d'accusation compétent à l'égard des prévenus qui ne
+relèvent pas d'une juridiction du ressort de sa cour d'appel. 
+
+Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa juridiction, le juge des enfants, peuvent également
+visiter la maison d'arrêt et y voir les prévenus aussi souvent qu'ils l'estiment utile. 
+
+En outre, le juge des enfants procède à une visite de la maison d'arrêt au moins une fois par an pour y vérifier les
+conditions de la détention des mineurs. A cette occasion, il fait part de ses observations éventuelles aux autorités
+compétentes pour y donner suite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 222 (M)
+
+_Cité par_:
+
   - Code de procédure pénale - art. D261 (Ab)
 
 **Liens**:
@@ -40835,6 +40957,42 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D400 (V)
   - Code de procédure pénale - art. D381 (Ab)
   - Code de procédure pénale - art. D384-1 (V)
+
+
+###### Article D372
+
+L'inspection générale des affaires sociales et les services du ministre chargé de la santé veillent à l'observation des
+mesures nécessaires au maintien de la santé des détenus et de l'hygiène dans les prisons.
+
+Ces services contrôlent à l'intérieur des établissements pénitentiaires l'exécution des lois et règlements se rapportant à la
+santé publique et effectuent toutes vérifications utiles à leurs missions.
+
+Les médecins des établissements peuvent correspondre directement avec les médecins de ces services à l'occasion des affaires
+mettant en cause le secret professionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D368 (V)
+  - Code de procédure pénale - art. D373 (V)
+  - Code de procédure pénale - art. D375 (V)
+  - Code de procédure pénale - art. D376 (M)
+  - Code de procédure pénale - art. D382 (V)
+  - Code de procédure pénale - art. D386 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=396></a>
