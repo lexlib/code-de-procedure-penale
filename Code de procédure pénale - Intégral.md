@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-07-29
+Version Consolidée au 1978-09-29
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -5464,6 +5464,38 @@ _Cité par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+
+###### Article 225
+
+Elle est saisie soit par le procureur général, soit par son président.
+
+Elle peut se saisir d'office à l'occasion de l'examen de la procédure qui lui est soumise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - loi 78-788 1978-07-28 art. 6 JORF 29 juillet 1978
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D44 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D45 (M)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D46 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D47 (M)
+  - Code de la route - art. L23-1 (M)
+  - Code de procédure pénale - art. 229-1 (V)
+  - Code de procédure pénale - art. D44 (V)
+  - Code de procédure pénale - art. R15-33-14 (V)
+  - Code de procédure pénale - art. R15-33-29-13 (V)
 
 
 ###### Article 226
