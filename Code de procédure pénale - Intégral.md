@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-10-20
+Version Consolidée au 2004-11-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -491,7 +491,7 @@ Version Consolidée au 2004-10-20
             - [Paragraphe 2 : Dispenses dont bénéficient les prévenus (art. D61 à D63)](#488)
             - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#489)
             - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#490)
-        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70 à D114)](#491)
+        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70 à D111)](#491)
           - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D70 à D73)](#492)
           - [Section 2 : De la procédure d'orientation et des décisions d'affectation des condamnés (art. D74 à D82-4)](#493)
             - [Paragraphe 1er : Dispositions générales (art. D74)](#494)
@@ -516,7 +516,7 @@ Version Consolidée au 2004-10-20
           - [Section 4 : Du travail des détenus (art. D99 à D110)](#513)
             - [Paragraphe 1er : Principes (art. D99 à D101)](#514)
             - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D110)](#515)
-          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#516)
+          - [Section 5 : De la répartition du produit du travail (art. D111)](#516)
         - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D148 à D187)](#517)
           - [Section 1 : Du greffe judiciaire des établissements pénitentiaires (art. D148 à D167)](#518)
             - [Paragraphe 1er : Registre et formalités d'écrou (art. D148 à D151)](#519)
@@ -69930,7 +69930,7 @@ _Cite_:
 ###### Article D63
 
 Les sommes appartenant ou venant à échoir aux prévenus sont inscrites à leur compte nominatif dans les conditions fixées aux
-articles D328 et D329.
+articles D. 319 à D. 320-3.
 
 **Liens relatifs à cet article**
 
@@ -69940,15 +69940,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 _Cite_:
 
-  - Code de procédure pénale D328 et D329
+  - Code de procédure pénale
 
 
 ##### Paragraphe 3 : Visites et correspondance<a id=489></a>
@@ -73698,8 +73698,12 @@ _Nouveaux textes_:
 
 ###### Article D111
 
-La rémunération du travail est répartie conformément aux dispositions de la présente section, après qu'aient été précomptées
-les cotisations à caractère social mises à la charge des détenus.
+La rémunération du travail est répartie conformément aux dispositions des articles D. 320 à D. 320-3, après qu'ont été
+précomptées les cotisations à caractère social mises à la charge des détenus.
+
+La portion attribuée aux détenus sur les produits de leur travail peut être accrue de gratifications, à titre exceptionnel et
+sous réserve que celles-ci n'excèdent pas le quart de la rémunération principale. Par dérogation, elles sont entièrement
+versées à la part disponible.
 
 **Liens relatifs à cet article**
 
@@ -73709,7 +73713,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
 
 _Cité par_:
 
@@ -73718,88 +73726,13 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D327. (M)
   - Code de procédure pénale - art. D106 (T)
 
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D113
-
-Une part égale à 10 % de la rémunération telle qu'elle résulte de l'article D. 111 est affectée à la constitution du pécule
-de libération, sous réserve des dispositions particulières de l'article D. 121-1.
-
-Une part égale à 10 % de la rémunération telle qu'elle résulte de l'article D. 111 est affectée à l'indemnisation des parties
-civiles et aux créanciers d'aliments.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°98-1099 du 8 décembre 1998 - art. 20 () JORF 9 décembre 1998
-
-_Abrogé par_:
-
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
-
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D111 (M)
-  - CODE DE PROCEDURE PENALE - art. D121-1 (V)
+  - Code de procédure pénale
 
-_Cité par_:
+_Nouveaux textes_:
 
-  - CODE DE PROCEDURE PENALE - art. D114 (Ab)
-  - CODE DE PROCEDURE PENALE - art. D324. (M)
-  - CODE DE PROCEDURE PENALE - art. D325. (M)
-  - CODE DE PROCEDURE PENALE - art. D328. (Ab)
-  - CODE DE PROCEDURE PENALE - art. D329. (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D114
-
-Après déduction des versements prévus aux articles D. 111 et D. 113, le solde de la rémunération est acquis au détenu qui
-peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
-
-La portion attribuée aux détenus sur les produits de leur travail peut toutefois être accrue de gratifications, à titre
-exceptionnel et sous réserve que celles-ci n'excèdent pas le quart de la rémunération principale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°2003-259 2003-03-20 art. 15 III, IV JORF 22 mars 2003 en vigueur le 1er janvier 2003
-  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
-
-_Abrogé par_:
-
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D111 (M)
-  - CODE DE PROCEDURE PENALE - art. D113 (M)
-  - CODE DE PROCEDURE PENALE - art. D323 (M)
-  - Code de procédure pénale D111, D113, D323, D330 et D331
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D329. (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Code de procédure pénale - art. D434 (V)
 
 
 #### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=517></a>
@@ -79177,6 +79110,133 @@ _Cité par_:
   - Code de procédure pénale - art. D422 (Ab)
 
 
+###### Article D320
+
+Toutes les sommes qui échoient aux détenus sont considérées comme ayant un caractère alimentaire, dans la mesure où elles
+n'excèdent pas chaque mois 200 Euros. Cette somme est doublée à l'occasion des fêtes de fin d'année.
+
+Elles sont dès lors entièrement versées à la part disponible jusqu'à concurrence de cette provision alimentaire et, pour le
+surplus, elles sont soumises à répartition dans les proportions ci-après déterminées, sous réserve des dispositions
+particulières concernant les rentes, les pensions et les indemnités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D122 (V)
+  - Code de procédure pénale - art. D320-3 (V)
+  - Code de procédure pénale - art. D327 (V)
+  - Code de procédure pénale - art. D422 (Ab)
+  - Code de procédure pénale - art. D434 (V)
+
+
+###### Article D320-1
+
+La première part, affectée à l'indemnisation des parties civiles et créanciers d'aliments, est déterminée en appliquant à la
+fraction des sommes qui échoient aux détenus les taux de :
+
+- 20 %, pour la fraction supérieure à 200 Euros et inférieure ou égale à 400 Euros ;
+
+- 25 %, pour la fraction supérieure à 400 Euros et inférieure ou égale à 600 Euros ;
+
+- 30 %, pour la fraction supérieure à 600 Euros.
+
+Lorsque, d'une part, les sommes inscrites sur cette part atteignent le montant de 1 000 Euros, que, d'autre part, les parties
+civiles ont été entièrement indemnisées ou qu'il ressort de la décision définitive sur l'action publique et les intérêts
+civils qu'il n'y a pas de parties civiles ou qu'aucun dommage et intérêt n'a été accordé et que, enfin, aucun créancier
+d'aliments ne s'est prévalu de sa créance sur le fondement d'un titre exécutoire, la répartition opérée au titre de cette
+part a lieu au profit de la part affectée à la constitution du pécule de libération à concurrence de la limite déterminée
+pour cette part et, pour le surplus, au profit de la part disponible.
+
+Si aucune condamnation à des dommages et intérêts n'a été prononcée, les sommes prélevées au-delà du plafond de 1 000 Euros
+sont reversées sur la part affectée à la constitution du pécule de libération à concurrence de la limite déterminée pour
+cette part et, pour le surplus, au profit de la part disponible.
+
+Toutefois, le prélèvement au titre de la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments est
+opéré à nouveau, y compris au-delà du plafond précité, dès qu'un créancier d'aliments vient à se prévaloir de sa créance sur
+le fondement d'un titre exécutoire ou qu'une victime d'une infraction visée par une condamnation inscrite à l'écrou se
+prévaut d'une décision exécutoire de condamnation à des dommages et intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D325 (V)
+
+
+###### Article D320-2
+
+La deuxième part, affectée à la constitution du pécule de libération, est déterminée en appliquant à la fraction des sommes
+qui échoient aux détenus le taux de 10 %, sous réserve de la dispense prévue par l'article D. 121-1.
+
+Lorsque les sommes inscrites atteignent un montant égal à 1 000 Euros, sauf lorsque ce montant a été atteint ou dépassé par
+application des dispositions du troisième alinéa de l'article D. 324, les sommes prélevées au titre de cette part sont
+intégralement versées à la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments.
+
+Si les prélèvements au titre de la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments ont
+cessé, les sommes qui viennent à échoir au détenu sont intégralement versées à la part disponible.
+
+**Nota:**
+
+Le Conseil d'Etat, par décision n° 274997, en date du 15 février 2006, dispose que L'article D. 320-2 du code de procédure
+pénale est annulé en tant qu'il limite à 1 000 euros le montant du pécule de libération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D121-1 (V)
+  - CODE DE PROCEDURE PENALE - art. D324. (M)
+
+
+###### Article D320-3
+
+La troisième part, laissée à la libre disposition des détenus, correspond aux sommes restantes après que les prélèvements
+prévus aux articles D. 320 à D. 320-2 ont été opérés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cite_:
+
+  - Code de procédure pénale - art. D320 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D422 (Ab)
+
+
 ###### Article D321
 
 Le détenu conserve la gestion de ses biens patrimoniaux extérieurs, dans la limite de sa capacité civile. Le cas échéant,
@@ -79270,9 +79330,10 @@ par arrêté du garde des sceaux, ministre de la justice, elles sont versées à
 Une instruction de service détermine les modalités d'application de ces dispositions.
 
 Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n°
-59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
+59-734 du 15 juin 1959 est intégralement versé au pécule de libération et y sont maintenues même si ce versement a pour effet
+de porter le montant des sommes inscrites sur cette part au-delà de 1 000 Euros.
 
-Pendant l'incarcération, le pécule de libération ne peut faire l'objet d'aucune voie d'exécution.
+Pendant l'incarcération, le pécule de libération est indisponible et ne peut faire l'objet d'aucune voie d'exécution.
 
 **Liens relatifs à cet article**
 
@@ -79286,7 +79347,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 81 () JORF 9 décembre 1998
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
 _Cité par_:
 
@@ -79297,16 +79358,13 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D320-2 (M)
   - Code de procédure pénale - art. A41 (V)
 
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 
 ###### Article D325
 
-L'indemnisation des parties civiles est assurée sur la part prévue à l'article D113. A cette fin, le ministère public près la
-juridiction ayant prononcé la condamnation, dès que cette dernière a acquis un caractère définitif, informe sans délai
-l'établissement où se trouve incarcéré le ou les détenus de l'existence de parties civiles et du montant de leurs créances.
+L'indemnisation des parties civiles concernées par les condamnations inscrites à l'écrou est assurée sur la première part
+prévue à l'article D. 320-1. A cette fin, le ministère public près la juridiction ayant prononcé la condamnation, dès que
+cette dernière a acquis un caractère définitif, informe sans délai l'établissement où se trouve incarcéré le ou les détenus
+de l'existence de parties civiles et du montant de leurs créances. 
 
 Cette part ne saurait faire l'objet d'aucun acte de disposition émanant du détenu.
 
@@ -79318,21 +79376,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-128 1975-03-07 art. 1 JORF 9 mars 1975
-  - Décret n°78-460 1978-03-28 art. 3 JORF 1er avril 1978
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D113 (M)
+  - Code de procédure pénale - art. D320-1 (V)
 
 _Cité par_:
 
   - Code de procédure pénale - art. D49-71 (V)
   - Code de procédure pénale - art. D77 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D326
@@ -79371,7 +79424,7 @@ _Abrogé par_:
 
 ###### Article D327
 
-La répartition prévue aux articles D111 à D114 est applicable aux détenus soumis à la contrainte judiciaire.
+La répartition prévue aux articles D. 320 à D. 320-3 est applicable aux détenus soumis à la contrainte judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -79380,85 +79433,12 @@ _Codifié par_:
   - Décret n°59-322 1959-02-23
 
 _Modifié par_:
-
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D111 (M)
-  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
-  - Code de procédure pénale D111, D112, D113 et D114
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D328
-
-L'avoir des détenus subit le prélèvement prévu à l'article D113 après déduction de la provision alimentaire définie à
-l'article D329.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: > M(Décret 78-460 1978-03-28 art. 3 JORF 1er avril 1978)
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
-
-_Abrogé par_:
 
   - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D113 (M)
-  - CODE DE PROCEDURE PENALE - art. D129 (Ab)
-
-
-###### Article D329
-
-Les sommes qui échoient aux détenus sont considérées comme ayant un caractère alimentaire, dans la mesure où elles n'excèdent
-pas chaque mois la somme fixée par arrêté du ministre de la justice.
-
-Elles sont dès lors entièrement versées à la part disponible jusqu'à concurrence de cette somme et pour le surplus elles sont
-soumises au prélèvement prévu à l'article D. 113 sous réserve des dispositions particulières concernant les rentes, les
-pensions et les indemnités.
-
-Les gratifications exceptionnelles visées au dernier alinéa de l'article D. 114 sont entièrement versées à la part
-disponible.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
-  - Décret n°75-128 1975-07-03 art. 1 et art. 3 JORF 1er avril 1975
-
-_Abrogé par_:
-
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D113 (M)
-  - CODE DE PROCEDURE PENALE - art. D114 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Code de procédure pénale D320 à D320-3
 
 
 ###### Article D330
@@ -82578,7 +82558,7 @@ titulaires d'un permis permanent de visite ou autorisées par le chef de l'étab
 
 Pour les condamnés, cette faculté s'exerce dans les conditions déterminées par une instruction de service.
 
-La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 328 et D. 329.
+La destination à donner à ces subsides est réglée conformément aux dispositions des articles D. 319 et D. 320-3.
 
 **Liens relatifs à cet article**
 
@@ -82588,19 +82568,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 164 () JORF 9 décembre 1998
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. A41-2 (Ab)
 
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 _Cite_:
 
-  - Code de procédure pénale D328, D329
+  - CODE DE PROCEDURE PENALE - art. D319. (M)
+  - CODE DE PROCEDURE PENALE - art. D320-3 (V)
 
 
 ###### Article D423
