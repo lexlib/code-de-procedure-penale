@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-02-01
+Version Consolidée au 1996-04-05
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -369,7 +369,7 @@ Version Consolidée au 1996-02-01
               - [B : Etablissements en commun (art. D88 à D90)](#366)
               - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#367)
             - [Paragraphe 2 : Etablissements pour peines (art. D94 à D97)](#368)
-          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D115 à D117-1)](#369)
+          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D115 à D117-2)](#369)
           - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D118 à D147)](#370)
             - [Paragraphe 1er : Dispositions communes (art. D119 à D125-1)](#371)
             - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D126 à D135)](#372)
@@ -387,68 +387,68 @@ Version Consolidée au 1996-02-01
             - [Paragraphe 3 : Dossiers individuels des détenus. (art. D155 à D166)](#384)
               - [A : Dossier spécial aux condamnés à une longue peine. (art. D156 à D164)](#385)
               - [B : Dossiers des autres détenus. (art. D165 à D166)](#386)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D167 à D175)](#387)
-            - [Paragraphe 1 : Punition de cellule (art. D167 à D169)](#388)
-            - [Paragraphe 2 : Mise à l'isolement (art. D170 à D171)](#389)
-            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#390)
-          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#391)
-          - [Section 4 : De la commission de surveillance (art. D180 à D185)](#392)
-          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#393)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#394)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D193)](#395)
-          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D196 à D228)](#396)
-            - [Paragraphe 1er : Attributions particulières (art. D198)](#397)
-            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#398)
-          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D229 à D233)](#399)
-          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#400)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#401)
-          - [Section 1 : De la police intérieure (art. D241 à D248)](#402)
-          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D249 à D254)](#403)
-            - [Paragraphe 1er : Sanctions disciplinaires (art. D249 à D251-1)](#404)
-            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D254)](#405)
-          - [Section 3 : Du règlement intérieur de chaque prison (art. D255 à D258)](#406)
-          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#407)
-          - [Section 5 : De la sécurité (art. D265 à D283)](#408)
-            - [Paragraphe 1er : Dispositions générales (art. D266 à D276)](#409)
-            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#410)
-            - [Paragraphe 3 : Incidents (art. D280 à D283)](#411)
-        - [Chapitre VI : Des mouvements de détenus (art. D284 à D317)](#412)
-          - [Section 1 : Des entrées et sorties des détenus (art. D284 à D289)](#413)
-          - [Section 2 : Des transfèrements et des extractions (art. D290 à D317)](#414)
-            - [Paragraphe 1er : Dispositions communes (art. D292 à D296)](#415)
-            - [Paragraphe 2 : Transfèrements (art. D297 à D313-1)](#416)
-              - [A : Translations judiciaires (art. D297 à D299)](#417)
-              - [B : Transfèrements administratifs (art. D300 à D303)](#418)
-              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#419)
-              - [D : Cas particuliers (art. D311 à D313-1)](#420)
-            - [Paragraphe 3 : Extractions (art. D314 à D317)](#421)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D318 à D348)](#422)
-          - [Section 1 : De la gestion des biens des détenus (art. D318 à D341)](#423)
-            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#424)
-            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#425)
-          - [Section 2 : De l'entretien des détenus (art. D342 à D348)](#426)
-        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D401-1)](#427)
-          - [Section 1 : De l'hygiène (art. D349 à D363)](#428)
-            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#429)
-            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#430)
-            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#431)
-            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#432)
-          - [Section 2 : Du service sanitaire (art. D364 à D401-1)](#433)
-            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D372-3)](#434)
-            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D379)](#435)
-            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#436)
-            - [Paragraphe 4 : Soins divers (art. D391 à D398)](#437)
-            - [Paragraphe 5 : Maternité (art. D399 à D401-1)](#438)
-        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#439)
-          - [Section 1 : Des visites (art. D403 à D412)](#440)
-          - [Section 2 : De la correspondance (art. D413 à D419)](#441)
-          - [Section 3 : Du maintien des liens familiaux (art. D420 à D423)](#442)
-          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D426)](#443)
-          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D427 à D431)](#444)
-        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D432 à D486)](#445)
-          - [Section 1 : De l'assistance spirituelle (art. D432 à D439)](#446)
-          - [Section 2 : De l'action socio-culturelle (art. D440 à D449)](#447)
-          - [Section 2 : De l'assistance socioculturelle (art. D443)](#448)
+          - [Section 2 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#387)
+          - [Section 3 : De la commission de surveillance (art. D180 à D185)](#388)
+          - [Section 4 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#389)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#390)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D193)](#391)
+          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D196 à D228)](#392)
+            - [Paragraphe 1er : Attributions particulières (art. D198)](#393)
+            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#394)
+          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D229 à D233)](#395)
+          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#396)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283-6)](#397)
+          - [Section 1 : De la police intérieure (art. D241 à D248)](#398)
+          - [Section 2 : Du régime disciplinaire et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D249 à D254)](#399)
+            - [Paragraphe 1er : Du régime disciplinaire (art. D249 à D251-8)](#400)
+              - [A : Les fautes disciplinaires (art. D249 à D249-4)](#401)
+              - [B : La procédure disciplinaire (art. D250 à D250-6)](#402)
+              - [C : Les sanctions disciplinaires (art. D251 à D251-8)](#403)
+            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D254)](#404)
+          - [Section 3 : Du règlement intérieur de chaque prison (art. D255 à D258)](#405)
+          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#406)
+          - [Section 5 : De la sécurité (art. D265 à D283-6)](#407)
+            - [Paragraphe 1er : Dispositions générales (art. D266 à D276)](#408)
+            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#409)
+            - [Paragraphe 3 : Incidents (art. D280 à D283)](#410)
+            - [Paragraphe 4 : Mise à l'isolement (art. D283-1 à D283-2)](#411)
+            - [Paragraphe 5 : Moyens de contrainte (art. D283-3 à D283-6)](#412)
+        - [Chapitre VI : Des mouvements de détenus (art. D284 à D317)](#413)
+          - [Section 1 : Des entrées et sorties des détenus (art. D284 à D289)](#414)
+          - [Section 2 : Des transfèrements et des extractions (art. D290 à D317)](#415)
+            - [Paragraphe 1er : Dispositions communes (art. D292 à D296)](#416)
+            - [Paragraphe 2 : Transfèrements (art. D297 à D313-1)](#417)
+              - [A : Translations judiciaires (art. D297 à D299)](#418)
+              - [B : Transfèrements administratifs (art. D300 à D303)](#419)
+              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#420)
+              - [D : Cas particuliers (art. D311 à D313-1)](#421)
+            - [Paragraphe 3 : Extractions (art. D314 à D317)](#422)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D318 à D348)](#423)
+          - [Section 1 : De la gestion des biens des détenus (art. D318 à D341)](#424)
+            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#425)
+            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#426)
+          - [Section 2 : De l'entretien des détenus (art. D342 à D348)](#427)
+        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D401-1)](#428)
+          - [Section 1 : De l'hygiène (art. D349 à D363)](#429)
+            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#430)
+            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#431)
+            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#432)
+            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#433)
+          - [Section 2 : Du service sanitaire (art. D364 à D401-1)](#434)
+            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D372-3)](#435)
+            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D379)](#436)
+            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#437)
+            - [Paragraphe 4 : Soins divers (art. D391 à D398)](#438)
+            - [Paragraphe 5 : Maternité (art. D399 à D401-1)](#439)
+        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#440)
+          - [Section 1 : Des visites (art. D403 à D412)](#441)
+          - [Section 2 : De la correspondance (art. D413 à D419)](#442)
+          - [Section 3 : Du maintien des liens familiaux (art. D420 à D423)](#443)
+          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D426)](#444)
+          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D427 à D431)](#445)
+        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D432 à D486)](#446)
+          - [Section 1 : De l'assistance spirituelle (art. D432 à D439)](#447)
+          - [Section 2 : De l'action socio-culturelle (art. D440 à D449)](#448)
           - [Section 3 : De l'enseignement (art. D450 à D459)](#449)
             - [Paragraphe 1er : Enseignement scolaire (art. D452)](#450)
             - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#451)
@@ -49130,6 +49130,33 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D117-2
+
+Si le condamné ne satisfait pas aux obligations qui lui sont imposées ou s'il fait preuve de mauvaise conduite, le juge de
+l'application des peines peut, après avis de la commission de l'application des peines, prononcer une décision consistant
+soit dans le rejet ou l'ajournement d'une mesure relevant de sa compétence, soit dans le retrait d'une telle mesure
+précédemment accordée. Il en est ainsi pour la réduction de peine dont le retrait total ou partiel est prononcé dans les
+conditions définies à l'article 721.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 3 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 721 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D124 (M)
+
+
 ##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=370></a>
 
 ###### Article D118
@@ -51285,323 +51312,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D165. (M)
 
 
-##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=387></a>
-
-##### Paragraphe 1 : Punition de cellule<a id=388></a>
-
-###### Article D167
-
-La punition de cellule consiste dans le placement du détenu dans une cellule aménagée à cet effet et qu'il doit occuper
-seul ; sa durée ne peut excéder quarante-cinq jours. Pour les mineurs de seize à dix-huit ans, elle est limitée à quinze
-jours lorsque l'infraction disciplinaire est accompagnée de violences contre les personnes et à cinq jours dans les autres
-cas.
-
-Elle est infligée dans les conditions visées à l'article D249 et peut être assortie du sursis pour tout ou partie de son
-exécution, ainsi qu'il est prévu à l'article D251.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D250 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Cite_:
-
-  - Code de procédure pénale D249 et D251
-
-
-###### Article D168
-
-Dans les conditions visées à l'article D249, le chef de l'établissement peut prononcer une punition de cellule dans la limite
-de quarante-cinq jours. Toutefois, dans les prisons dirigées par un chef de maison d'arrêt ou un surveillant chef, cette
-faculté est réduite à huit jours au maximum ; le directeur régional peut élever la durée de la sanction jusqu'à quarante-cinq
-jours. Les durées fixées ci-dessus sont réduites respectivement à quinze jours, trois jours et quinze jours lorsque le détenu
-est un mineur de seize à dix-huit ans.
-
-Le temps passé en prévention disciplinaire s'impute sur la durée de la punition à subir.
-
-Les détenus punis doivent être visités par le médecin, si possible dès leur mise en cellule de punition et en tout cas deux
-fois par semaine au moins. La punition est suspendue si le médecin constate que sa continuation est de nature à compromettre
-la santé du détenu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D249 (M)
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D250 (M)
-  - CODE DE PROCEDURE PENALE - art. D375 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D169
-
-La mise en cellule de punition entraîne pendant toute sa durée la privation de cantine et de visites. Elle comporte aussi des
-restrictions à la correspondance autre que familiale. Toutefois, les détenus conservent la faculté de communiquer librement
-avec leur conseil, conformément aux dispositions des articles D67, D411 et D419.
-
-Les détenus punis de cellule font une promenade d'une heure par jour au préau individuel.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D67 (M)
-  - Code de procédure pénale D67, D411 et D419
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Paragraphe 2 : Mise à l'isolement<a id=389></a>
-
-###### Article D170
-
-Tout détenu se trouvant dans un établissement ou quartier en commun peut soit sur sa demande, soit par mesure de précaution
-ou de sécurité, être placé à l'isolement.
-
-La mise à l'isolement est ordonnée par le chef de l'établissement qui rend compte à bref délai au directeur régional et au
-juge de l'application des peines. Le chef de l'établissement fait en outre rapport à la commission de l'application des
-peines dès la première réunion suivant la mise à l'isolement ou le refus opposé à la demande d'isolement du détenu.
-
-Le détenu peut faire parvenir au juge de l'application des peines soit directement, soit par l'intermédiaire de son conseil,
-toutes observations utiles en ce qui concerne la décision prise à son égard.
-
-Les détenus placés à l'isolement sont signalés au médecin qui les visite dans les conditions prévues à l'article D375. Le
-médecin émet, chaque fois qu'il l'estime utile, un avis sur l'opportunité de prolonger l'isolement ou d'y mettre fin.
-
-La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un nouveau rapport ait été fait devant la
-commission de l'application des peines et sans une décision du directeur régional, prononcée après avis du médecin.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D375 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D171
-
-La mise à l'isolement ne constitue pas une mesure disciplinaire.
-
-Les détenus qui en font l'objet sont soumis au régime ordinaire de détention.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Paragraphe 3 : Moyens de contrainte<a id=390></a>
-
-###### Article D172
-
-Aucun moyen de contrainte ne doit être employé à titre de sanction disciplinaire.
-
-Les moyens de contrainte visés à l'article 726 ne peuvent être utilisés, en application des dispositions dudit article, que
-sur prescription médicale ou sur ordre du chef de l'établissement, s'il n'est d'autre possibilité de maîtriser un détenu, de
-l'empêcher de causer des dommages ou de porter atteinte à lui-même ou à autrui. Le chef d'établissement doit faire visiter
-d'urgence le détenu par le médecin qui décide de maintenir ou de faire cesser la contrainte.
-
-Il doit en être rendu compte sans délai au directeur régional.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Modifié par_:
-
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 726 (V)
-
-
-###### Article D173
-
-Par mesure de précaution contre les évasions, les détenus peuvent être soumis au port des menottes et des entraves pendant
-leur transfèrement ou leur extraction, ou lorsque les circonstances ne permettent pas d'assurer efficacement leur garde d'une
-autre manière.
-
-Toutefois, aucun lien ne doit être laissé à un détenu au moment de sa comparution devant une juridiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-
-###### Article D174
-
-Le personnel de l'administration pénitentiaire ne doit utiliser la force envers les détenus qu'en cas de légitime défense, de
-tentative d'évasion ou de résistance par la violence ou par inertie physique aux ordres donnés.
-
-Lorsqu'il y recourt, il ne peut le faire qu'en se limitant à ce qui est strictement nécessaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-
-###### Article D175
-
-Conformément aux dispositions de la loi du 28 décembre 1943 "les membres du personnel des établissements pénitentiaires en
-uniforme ou en tenue civile doivent, en l'absence de l'autorité judiciaire ou administrative, déployer la force armée dans
-les cas suivants :
-
-Lorsque des violences ou des voies de fait sont exercées contre eux ou lorsqu'ils sont menacés par des individus armés ;
-
-Lorsqu'ils ne peuvent défendre autrement les établissements pénitentiaires dont ils ont la garde, le postes ou les personnes
-qui leur sont confiés ou, enfin, si la résistance est telle qu'elle ne puisse être vaincue que par la force des armes ;
-
-Lorsque des personnes cherchant à pénétrer dans un établissement pénitentiaire ou des détenus invités à s'arrêter par des
-appels répétés de "halte" faits à haute voix cherchent à échapper à leur garde ou à leurs investigations et ne peuvent être
-contraints de s'arrêter que par l'usage des armes".
-
-Pour l'application des dispositions qui précèdent, les membres des forces préposées au maintien de l'ordre, intervenant à
-l'intérieur d'un établissement pénitentiaire ou assurant une mission de protection et de garde dans l'établissement ou aux
-abords de celui-ci en application des dispositions de l'article D266, sont, pendant le temps de cette intervention ou de
-l'accomplissement de cette mission, assimilés aux membres du personnel des établissements pénitentiaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D266. (M)
-  - Loi n°1943-12-28
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D267. (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=391></a>
+##### Section 2 : Des visites effectuées par les autorités judiciaires<a id=387></a>
 
 ###### Article D176
 
@@ -51621,7 +51332,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cité par_:
 
@@ -51636,15 +51347,15 @@ _Cité par_:
 
 ###### Article D177
 
-Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il estime
+Conformément aux dispositions de l'article 222, le président de la chambre d'accusation visite, chaque fois qu'il l'estime
 nécessaire et au moins une fois par trimestre, les maisons d'arrêt du ressort de la cour d'appel, et y vérifie la situation
-des inculpés en état de détention provisoire. 
+des inculpés en état de détention provisoire.
 
 Il transmet ses observations éventuelles au président de la chambre d'accusation compétent à l'égard des prévenus qui ne
-relèvent pas d'une juridiction du ressort de sa cour d'appel. 
+relèvent pas d'une juridiction du ressort de sa cour d'appel.
 
 Le juge d'instruction et, en ce qui concerne les mineurs relevant de sa juridiction, le juge des enfants, peuvent également
-visiter la maison d'arrêt et y voir les prévenus aussi souvent qu'ils l'estiment utile. 
+visiter la maison d'arrêt et y voir les prévenus aussi souvent qu'ils l'estiment utile.
 
 En outre, le juge des enfants procède à une visite de la maison d'arrêt au moins une fois par an pour y vérifier les
 conditions de la détention des mineurs. A cette occasion, il fait part de ses observations éventuelles aux autorités
@@ -51658,9 +51369,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cite_:
 
@@ -51692,8 +51401,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cité par_:
 
@@ -51720,13 +51428,17 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
+_Modifié par_:
 
-##### Section 4 : De la commission de surveillance<a id=392></a>
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
+
+
+##### Section 3 : De la commission de surveillance<a id=388></a>
 
 ###### Article D180
 
-La commission de surveillance comprend, sous la présidence du commissaire de la République dans les chefs-lieux de
-département et du commissaire adjoint de la République dans les chefs-lieux d'arrondissement :
+La commission de surveillance comprend, sous la présidence du préfet dans les chefs-lieux de département et du sous-préfet
+dans les chefs-lieux d'arrondissement :
 
 1° Le président du tribunal de grande instance et le procureur de la République près ledit tribunal, ou les magistrats les
 représentant ;
@@ -51753,7 +51465,7 @@ enfant ;
 
 11° Le président de la chambre de commerce et d'industrie ou son représentant ;
 
-12° Le président de la chambre de métiers ou son représentant ;
+12° Le président de la chambre des métiers ou son représentant ;
 
 13° Le directeur départemental de l'action sanitaire et sociale ou son représentant ;
 
@@ -51780,10 +51492,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-  - Décret n°85-836 1985-08-06 art. 1 et art. 9 7° JORF 8 août 1985
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 
 ###### Article D181
@@ -51794,14 +51503,22 @@ s'ils ne désirent y assister eux-mêmes.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 
 ###### Article D182
@@ -51818,7 +51535,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-836 1985-08-06 art. 9-7° JORF 8 août 1985
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 **Liens**:
 
@@ -51848,7 +51565,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cite_:
 
@@ -51870,7 +51587,7 @@ La commission est chargée de la surveillance intérieure de la prison en ce qui
 alimentaire et le service de santé, le travail, la discipline et l'observation des règlements, ainsi que l'enseignement et la
 réadaptation sociale des détenus.
 
-Il lui appartient de communiquer au ministre de la justice les observations critiques ou suggestions qu'elle croit devoir
+Il lui appartient de communiquer au ministre de la justice les observations, critiques ou suggestions qu'elle croit devoir
 formuler.
 
 Elle ne peut, en aucun cas, faire acte d'autorité.
@@ -51883,7 +51600,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cité par_:
 
@@ -51907,14 +51624,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°70-696 1970-07-31 art. 4 JORF 4 août 1970
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=393></a>
+##### Section 4 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=389></a>
 
 ###### Article D186
 
@@ -51931,6 +51652,10 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cité par_:
 
@@ -51959,7 +51684,12 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 6 () JORF 5 avril 1996
 
 _Cité par_:
 
@@ -51970,9 +51700,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D473 (M)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=394></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=390></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=395></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=391></a>
 
 ###### Article D188
 
@@ -52152,7 +51882,7 @@ _Cité par_:
   - Décret n°2016-1877 du 27 décembre 2016 (V)
 
 
-##### Section 2 : Du personnel de l'administration pénitentiaire<a id=396></a>
+##### Section 2 : Du personnel de l'administration pénitentiaire<a id=392></a>
 
 ###### Article D196
 
@@ -52228,7 +51958,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Attributions particulières<a id=397></a>
+##### Paragraphe 1er : Attributions particulières<a id=393></a>
 
 ###### Article D198
 
@@ -52267,7 +51997,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispositions générales<a id=398></a>
+##### Paragraphe 2 : Dispositions générales<a id=394></a>
 
 ###### Article D216
 
@@ -52621,7 +52351,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
-##### Section 3 : Du contrôle des établissements pénitentiaires<a id=399></a>
+##### Section 3 : Du contrôle des établissements pénitentiaires<a id=395></a>
 
 ###### Article D229
 
@@ -52741,7 +52471,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=400></a>
+##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=396></a>
 
 ###### Article D234
 
@@ -53034,9 +52764,9 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=401></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=397></a>
 
-##### Section 1 : De la police intérieure<a id=402></a>
+##### Section 1 : De la police intérieure<a id=398></a>
 
 ###### Article D241
 
@@ -53119,57 +52849,6 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-###### Article D245
-
-Tout cri, chant, interpellation ou tapage, toute réunion en groupe bruyant, et généralement tous actes individuels ou
-collectifs de nature à troubler le bon ordre sont interdits aux détenus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D246
-
-Tous dons, échanges, trafics, tractations, paris et toutes communications clandestines ou en langage conventionnel sont
-interdits entre détenus.
-
-Toutefois, les échanges et les prêts de livres personnels entre détenus sont autorisés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-
-_Abrogé par_:
-
-  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
 ###### Article D247
 
 Le règlement intérieur de chaque établissement détermine l'emploi du temps qui y est appliqué, en précisant en particulier
@@ -53221,30 +52900,16 @@ _Cite_:
   - Code de procédure pénale D222
 
 
-##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=403></a>
+##### Section 2 : Du régime disciplinaire et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=399></a>
 
-##### Paragraphe 1er : Sanctions disciplinaires<a id=404></a>
+##### Paragraphe 1er : Du régime disciplinaire<a id=400></a>
+
+##### A : Les fautes disciplinaires<a id=401></a>
 
 ###### Article D249
 
-Les sanctions disciplinaires énumérées à l'article D250 sont prononcées par le chef de l'établissement qui recueille
-préalablement toutes informations utiles sur les circonstances de l'infraction disciplinaire et la personnalité de leur
-auteur.
-
-Le détenu doit avoir été informé par écrit et avant sa comparution des faits qui lui sont reprochés ; il doit être mis en
-mesure de présenter ses explications.
-
-En cas d'urgence, l'auteur d'une infraction grave à la discipline peut être conduit au quartier disciplinaire à titre de
-prévention, en attente de la décision à intervenir.
-
-Le juge de l'application des peines et le directeur régional doivent être avisés à bref délai de toutes les sanctions
-disciplinaires. Lors de leurs visites à l'établissement pénitentiaire, ils visent le registre prévu à l'article D251-1.
-
-Le détenu peut faire parvenir au juge de l'application des peines soit directement, soit par l'intermédiaire de son conseil,
-toutes observations utiles en ce qui concerne la décision prise à son égard.
-
-Le chef de l'établissement fait en outre rapport à la commission de l'application des peines de toute punition de cellule
-d'une durée supérieure à quinze jours.
+Les fautes disciplinaires sont classées, suivant leur gravité et selon les distinctions prévues aux articles D. 249-1 à D.
+249-3, en trois degrés.
 
 **Liens relatifs à cet article**
 
@@ -53254,91 +52919,46 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 _Cité par_:
 
   - Décret n°2010-1635 du 23 décembre 2010 - art. 47 (V)
   - CODE DE PROCEDURE PENALE - art. D168 (Ab)
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D250 (M)
-  - CODE DE PROCEDURE PENALE - art. D251-1. (M)
-
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
-
-###### Article D250
-
-Les sanctions disciplinaires qui peuvent être prononcées par le chef d'établissement à l'encontre des détenus sont les
-suivantes :,
-
-1° L'avertissement avec inscription au dossier individuel du détenu ;
-
-2° Le déclassement d'emploi lorsque l'infraction disciplinaire a été commise au cours ou à l'occasion du travail ;
-
-3° La privation pendant une période déterminée de la faculté d'acheter de la bière ou du cidre en cantine, ou d'effectuer en
-cantine tout autre achat que les produits ou objets de toilette, de recevoir des subsides de l'extérieur, ou plus
-généralement de profiter des mesures que le présent titre admet sans toutefois leur reconnaître un caractère obligatoire ;
-
-4° La privation temporaire de tout appareil acheté ou loué par l'intermédiaire de l'administration lorsque l'infraction
-disciplinaire a été commise à l'occasion de l'utilisation de ce matériel ;
-
-5° La suppression pour une période déterminée de l'accès au parloir sans dispositif de séparation, lorsque l'infraction
-disciplinaire a été commise au cours où à l'occasion d'une visite ;
-
-6° La mise en cellule de punition, dans les conditions fixées aux articles D167 à D169. Cette sanction disciplinaire n'est
-pas applicable aux mineurs de seize ans.
-
-La privation de lecture, de correspondance et de visites ne peut être ordonnée à titre de sanction disciplinaire.
-
-Aucune amende ne peut être infligée par mesure disciplinaire, mais si des retenues sont décidées en réparation de faits
-dommageables matériels dans les conditions prévues à l'article D332, elles sont prononcées dans la même forme que les
-sanctions disciplinaires.
-
-Les sanctions disciplinaires collectives sont prohibées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 7 mai 1975
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
-  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
-
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D167 (Ab)
-  - CODE DE PROCEDURE PENALE - art. D168 (Ab)
-  - Code de procédure pénale D167, D168, D169 et D332
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D249 (M)
-  - Code de procédure pénale - art. D249-3 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Code de procédure pénale D249-1 à D249-3
 
 
-###### Article D250-1
+###### Article D249-1
 
-Le juge de l'application des peines prononce, après avis de la commission de l'application des peines, le sanctions
-consistant soit dans le rejet ou l'ajournement d'une mesure relevant de sa compétence, soit dans le retrait d'une telle
-mesure précédemment accordée. Il en est ainsi pour la réduction de peine dont le retrait total ou partiel est prononcé sous
-les conditions définies à l'article 721.
+Constitue une faute disciplinaire du premier degré le fait, pour un détenu :
+
+1° D'exercer des violences physiques à l'encontre d'un membre du personnel de l'établissement ou d'une personne en mission ou
+en visite dans l'établissement pénitentiaire ;
+
+2° De participer à toute action collective de nature à compromettre la sécurité de l'établissement ;
+
+3° De détenir des stupéfiants ou tous objets ou substances dangereux pour la sécurité des personnes et de l'établissement, ou
+de faire trafic de tels objets ou substances ;
+
+4° D'obtenir ou de tenter d'obtenir par menace de violences ou contrainte un engagement ou une renonciation ou la remise d'un
+bien quelconque ;
+
+5° D'exercer des violences physiques à l'encontre d'un codétenu ;
+
+6° De participer à une évasion ou à une tentative d'évasion ;
+
+7° De causer délibérément de graves dommages aux locaux ou au matériel affecté à l'établissement ;
+
+8° De commettre intentionnellement des actes de nature à mettre en danger la sécurité d'autrui ;
+
+9° D'inciter un codétenu à commettre l'un des manquements énumérés par le présent article.
 
 **Liens relatifs à cet article**
 
@@ -53348,33 +52968,165 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
-_Modifié par_:
+_Cité par_:
 
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Code de procédure pénale - art. D249-2 (Ab)
+  - Code de procédure pénale - art. D249-4 (Ab)
+  - Code de procédure pénale - art. D251-1-1 (Ab)
+  - Code de procédure pénale - art. D251-1-2 (Ab)
+
+
+###### Article D249-2
+
+Constitue une faute disciplinaire du deuxième degré le fait, pour un détenu :
+
+1° De proférer des insultes ou des menaces à l'égard d'un membre du personnel de l'établissement ou d'une personne en mission
+ou en visite au sein de l'établissement pénitentiaire ;
+
+2° De participer à des actions collectives de nature à perturber l'ordre de l'établissement, hors le cas prévu au 2° de
+l'article D. 249-1 ;
+
+3° De commettre ou tenter de commettre des vols ou toute autre atteinte frauduleuse à la propriété d'autrui ;
+
+4° De causer délibérément un dommage aux locaux ou au matériel affecté à l'établissement, hors le cas prévu au 7° de
+l'article D. 249-1 ;
+
+5° D'imposer à la vue d'autrui des actes obscènes ou susceptibles d'offenser la pudeur ;
+
+6° De refuser de se soumettre à une mesure de sécurité définie par les règlements et instructions de service ;
+
+7° De se soustraire à une sanction disciplinaire prononcée à son encontre ;
+
+8° De se livrer à des trafics, des échanges non autorisés par les règlements ou tractations avec des codétenus ou des
+personnes extérieures ;
+
+9° De détenir des objets ou substances non autorisés par les règlements ou de se livrer à leur trafic, hors le cas prévu au
+3° de l'article D. 249-1 ;
+
+10° De se trouver en état d'ébriété ou d'absorber sans autorisation médicale des substances de nature à troubler son
+comportement ;
+
+11° De provoquer un tapage de nature à troubler l'ordre de l'établissement ;
+
+12° De mettre en danger la sécurité d'autrui par une imprudence ou une négligence ;
+
+13° De tenter d'obtenir d'un membre du personnel de l'établissement ou d'une personne en mission au sein de l'établissement
+un avantage quelconque par des offres, des promesses, des dons ou des présents ;
+
+14° D'inciter un codétenu à commettre l'un des manquements énumérés au présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 721 (M)
+  - CODE DE PROCEDURE PENALE - art. D249-1 (M)
 
-**Liens**:
+_Cité par_:
 
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Code de procédure pénale - art. D249-4 (Ab)
+  - Code de procédure pénale - art. D251-1-2 (Ab)
 
 
-###### Article D251
+###### Article D249-3
 
-L'autorité à laquelle il appartient de prononcer une sanction disciplinaire a la faculté d'accorder le bénéfice du sursis
-pour tout ou partie de son exécution, cette mesure pouvant même intervenir au cours de l'exécution.
+Constitue une faute disciplinaire du troisième degré le fait, pour un détenu :
 
-L'attention du détenu doit être alors appelée sur les conséquences suivantes qu'entraîne une décision de sursis :
+1° De formuler des outrages ou des menaces dans les lettres adressées aux autorités administratives et judiciaires ;
 
-- si, avant l'expiration d'un délai qui est fixé lors de l'octroi du sursis, mais qui ne peut dépasser six mois, l'intéressé
-n'a pas encouru une autre sanction disciplinaire, celle qui aura été prononcée contre lui avec sursis sera réputée non
-avenue ;
+2° De formuler dans les lettres adressées à des tiers, des menaces, des injures ou des propos outrageants à l'encontre de
+toute personne ayant mission dans l'établissement ou à l'encontre des autorités administratives et judiciaires, ou de
+formuler dans ces lettres des menaces contre la sécurité des personnes ou de l'établissement ;
 
-- dans le cas contraire, il aura à subir les deux sanctions disciplinaires.
+3° De proférer des insultes ou des menaces à l'encontre d'un codétenu ;
+
+4° De refuser d'obtempérer aux injonctions des membres du personnel de l'établissement ;
+
+5° De ne pas respecter les dispositions du règlement intérieur de l'établissement ou les instructions particulières arrêtées
+par le chef de l'établissement ;
+
+6° De négliger de préserver ou d'entretenir la propreté de sa cellule ou des locaux communs ;
+
+7° D'entraver ou de tenter d'entraver les activités de travail, de formation, culturelles ou de loisirs ;
+
+8° De jeter des détritus ou tout autre objet par les fenêtres de l'établissement ;
+
+9° De communiquer irrégulièrement avec un codétenu ou avec toute autre personne extérieure à l'établissement ;
+
+10° De faire un usage abusif ou nuisible d'objets autorisés par le règlement intérieur ;
+
+11° De pratiquer des jeux non autorisés par le règlement intérieur ;
+
+12° De multiplier, auprès des autorités administratives et judiciaires, des réclamations injustifiées ayant déjà fait l'objet
+d'une décision de rejet ;
+
+13° D'inciter un codétenu à commettre l'un des manquements énumérés au présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D250 (M)
+  - CODE DE PROCEDURE PENALE - art. D251-1. (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D251-1-2 (Ab)
+
+
+###### Article D249-4
+
+A moins qu'il n'en soit disposé autrement dans les articles D. 249-1 à D. 249-3, les faits énumérés par ces articles
+constituent des fautes disciplinaires même lorsqu'ils sont commis à l'extérieur de l'établissement pénitentiaire. En ce cas,
+les violences, dégradations, menaces mentionnées aux 1° et 7° de l'article D. 249-1 et 1° et 4° de l'article D. 249-2 peuvent
+être retenues comme fautes disciplinaires, quelle que soit la qualité de la personne visée ou du propriétaire des biens en
+cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D249-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D249-2 (M)
+  - Code de procédure pénale D249-1 à D249-3, D249-1, D249-2
+
+
+##### B : La procédure disciplinaire<a id=402></a>
+
+###### Article D250
+
+Les sanctions disciplinaires sont, sous réserve des dispositions de l'article D. 250-3, prononcées en commission de
+discipline par le chef d'établissement ou l'un de ses adjoints ou membres du personnel de direction ayant reçu à cet effet
+une délégation écrite.
+
+La commission de discipline comprend, outre le chef d'établissement ou son délégué, président, deux membres du personnel de
+surveillance dont un appartenant au grade de surveillant. Les membres du personnel sont désignés par le chef d'établissement.
+Ils ont voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -53384,7 +53136,222 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-402 1975-05-23 art. 2-2°JORF 27 mai 1975
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D249 (M)
+  - Code de procédure pénale - art. D249-3 (Ab)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D250-3 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D250-1
+
+En cas de manquement à la discipline de nature à justifier une sanction disciplinaire et sans préjudice des dispositions de
+l'article D. 280, un compte rendu est établi dans les plus brefs délais par l'agent présent lors de l'incident ou informé de
+ce dernier. A la suite de ce compte rendu d'incident, un rapport est établi par un chef de service pénitentiaire ou un
+premier surveillant et adressé au chef d'établissement. Ce rapport comporte tout élément d'information utile sur les
+circonstances des faits reprochés au détenu et la personnalité de celui-ci.
+
+Le chef d'établissement apprécie, au vu du rapport et après s'être fait communiquer, le cas échéant, tout élément
+d'information complémentaire, l'opportunité de poursuivre la procédure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D280. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D250-2
+
+En cas d'engagement des poursuites disciplinaires, le détenu est convoqué par écrit devant la commission de discipline. La
+convocation doit comporter l'exposé des faits qui lui sont reprochés et indiquer le délai dont il dispose pour préparer sa
+défense. Ce délai ne peut être inférieur à trois heures.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+
+###### Article D250-3
+
+Le chef d'établissement ou un membre du personnel ayant reçu délégation écrite à cet effet peut, à titre préventif et sans
+attendre la réunion de la commission de discipline, décider le placement du détenu dans une cellule disciplinaire si les
+faits constituent une faute du premier ou du deuxième degré et si la mesure est l'unique moyen de mettre fin à la faute ou de
+préserver l'ordre à l'intérieur de l'établissement.
+
+Le placement préventif en cellule disciplinaire n'est pas applicable aux mineurs de seize ans. Il s'exécute dans les
+conditions prévues aux articles D. 251-3 et D. 251-4. Sa durée est limitée au strict nécessaire et ne peut excéder deux jours
+à compter de la date à laquelle les faits ont été portés à la connaissance du chef d'établissement. Le calcul de ce délai
+s'effectue conformément aux dispositions de l'article 801 du présent code.
+
+La durée du placement s'impute sur celle de la sanction à subir lorsqu'est prononcée à l'encontre du détenu l'une des
+sanctions de cellule prévues aux 4° et 5° de l'article D. 251.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 801 (M)
+  - CODE DE PROCEDURE PENALE - art. D251-3 (M)
+  - CODE DE PROCEDURE PENALE - art. D251-4 (M)
+  - CODE DE PROCEDURE PENALE - art. D251. (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D250 (V)
+
+
+###### Article D250-4
+
+Lors de sa comparution devant la commission de discipline, le détenu présente en personne, sous la seule réserve des
+dispositions du deuxième alinéa ci-dessous, ses explications écrites ou orales. Le président de la commission peut décider de
+faire entendre par la commission, en qualité de témoin, toute personne dont l'audition lui paraît utile.
+
+Si le détenu ne comprend pas la langue française, n'est pas en mesure de s'exprimer dans cette langue, ou s'il est
+physiquement incapable de s'exprimer, ses explications sont présentées, dans la mesure du possible, par l'intermédiaire d'un
+interprète désigné par le chef d'établissement.
+
+La décision sur la sanction disciplinaire est prononcée en présence du détenu. Elle lui est notifiée par écrit sans délai et
+doit comporter, outre l'indication de ses motifs, le rappel des dispositions de l'article D. 250-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D250-5 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D506 (V)
+
+
+###### Article D250-5
+
+Le détenu qui entend contester la sanction disciplinaire dont il est l'objet doit, dans le délai de quinze jours à compter du
+jour de la notification de la décision, la déférer au directeur régional des services pénitentiaires préalablement à tout
+autre recours. Le directeur régional dispose d'un délai d'un mois à compter de la réception du recours pour répondre par
+décision motivée. L'absence de réponse dans ce delai vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D250-4 (Ab)
+
+
+###### Article D250-6
+
+Dans le délai de cinq jours à compter de la décision prononçant une sanction disciplinaire, le chef d'établissement avise de
+la décision, d'une part, le directeur régional des services pénitentiaires et, d'autre part, le juge de l'application des
+peines sous le contrôle duquel le détenu est placé ou, le cas échéant, le magistrat saisi du dossier de l'information.
+
+Le chef de l'établissement fait en outre rapport à la commission de l'application des peines de toute sanction de cellule
+prévue aux 4° et 5° de l'article D. 251 lorsqu'elle a été prononcé à l'encontre d'un mineur de plus de seize ans ou, si sa
+durée excède quinze jours, à l'encontre d'un majeur.
+
+Les sanctions disciplinaires prononcées sont inscrites sur un registre tenu sous l'autorité du chef d'établissement. Ce
+registre est présenté aux autorités administratives et judiciaires lors de leurs visites de contrôle ou d'inspection.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D251. (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D251-6 (Ab)
+
+
+##### C : Les sanctions disciplinaires<a id=403></a>
+
+###### Article D251
+
+Peuvent être prononcées, quelle que soit la faute disciplinaire, les sanctions disciplinaires suivantes :
+
+1° L'avertissement ;
+
+2° L'interdiction de recevoir des subsides de l'extérieur pendant une période maximum de deux mois ;
+
+3° La privation pendant une période maximum de deux mois de la faculté d'effectuer en cantine tout achat autre que l'achat de
+produits d'hygiène, du nécessaire de correspondance et de tabac ;
+
+4° Le confinement en cellule individuelle ordinaire dans les conditions prévues à l'article D. 251-2 ;
+
+5° La mise en cellule disciplinaire dans les conditions prévues aux articles D. 251-3 et D. 251-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D251-4 (M)
 
 _Cité par_:
 
@@ -53403,7 +53370,75 @@ _Cité par_:
 
 ###### Article D251-1
 
-Les sanctions disciplinaires prononcées sont inscrites sur un registre tenu sous l'autorité du chef de l'établissement.
+Peuvent être prononcées, en fonction des circonstances de la faute disciplinaire, les sanctions disciplinaires suivantes :
+
+1° La mise à pied d'un emploi pour une durée maximum de huit jours lorsque la faute disciplinaire a été commise au cours ou à
+l'occasion du travail ;
+
+2° Le déclassement d'un emploi ou d'une formation, lorsque la faute disciplinaire a été commise au cours ou à l'occasion de
+l'activité considérée ;
+
+3° La privation pendant une durée maximum d'un mois de tout appareil acheté ou loué par l'intermédiaire de l'administration
+lorsque la faute disciplinaire a été commise à l'occasion de l'utilisation de ce matériel ou lorsque la sanction accompagne
+une décision de confinement en cellule individuelle ordinaire ;
+
+4° La suppression de l'accès au parloir sans dispositif de séparation pour une période maximum de quatre mois lorsque la
+faute a été commise au cours ou à l'occasion d'une visite ;
+
+5° L'exécution d'un travail de nettoyage des locaux pour une durée globale n'excédant pas quarante heures lorsque la faute
+disciplinaire est en relation avec un manquement aux règles de l'hygiène ;
+
+6° La privation d'activités de formation, culturelles, sportives et de loisirs pour une période maximum d'un mois lorsque la
+faute disciplinaire a été commise au cours de ces activités ;
+
+7° L'exécution de travaux de réparation lorsque la faute disciplinaire est en relation avec la commission de dommages ou de
+dégradations.
+
+La mise à pied et le déclassement d'un emploi prévus aux 1° et 2° ainsi que la privation d'activités de formation ne sont pas
+applicables aux mineurs de seize ans.
+
+Les sanctions prévues aux 5° et 7° ne peuvent être prononcées que pour se substituer aux sanctions prévues aux 4° et 5° de
+l'article D. 251. Le consentement du détenu doit alors être préalablement recueilli.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D249 (M)
+  - Code de procédure pénale - art. D249-3 (Ab)
+  - Code de procédure pénale - art. D251-5 (Ab)
+  - Code de procédure pénale - art. D251-7 (Ab)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D251. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D251-2
+
+Le confinement en cellule ordinaire prévu par l'article D. 251 (4°) emporte pendant toute sa durée, la privation de cantine
+prévue au 3° du même article, ainsi que la privation de toutes les activités à l'exception de la promenade et de l'assistance
+aux offices religieux. Elle n'entraîne aucune restriction au droit de correspondance du détenu ni aux visites.
+
+La durée du confinement ne peut excéder quarante-cinq jours pour une faute du premier degré, trente jours pour une faute du
+deuxième degré et quinze jours pour une faute du troisième degré.
+
+A l'égard des mineurs de plus de seize ans, cette durée est ramenée respectivement à quinze jours, huit jours et quatre
+jours.
+
+Le confinement en cellule ordinaire ne peut être prononcé à l'encontre des mineurs de seize ans.
 
 **Liens relatifs à cet article**
 
@@ -53413,21 +53448,198 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 _Cité par_:
 
-  - CODE DE PROCEDURE PENALE - art. D249 (M)
-  - Code de procédure pénale - art. D249-3 (Ab)
-  - Code de procédure pénale - art. D251-5 (Ab)
+  - Code de procédure pénale - art. D251 (Ab)
+  - Code de procédure pénale - art. D251-1-1 (Ab)
+
+
+###### Article D251-3
+
+La mise en cellule disciplinaire prévue par l'article D. 251 (5°) consiste dans le placement du détenu dans une cellule
+aménagée à cet effet et qu'il doit occuper seul. La sanction emporte pendant toute sa durée la privation d'achats en cantine
+prévue à l'article D. 251 (3°) ainsi que la privation des visites et de toutes les activités.
+
+Toutefois, les détenus placés en cellule disciplinaire font une promenade d'une heure par jour dans une cour individuelle. La
+sanction n'emporte en outre aucune restriction à leur droit de correspondance écrite.
+
+La durée de la mise en cellule disciplinaire ne peut excéder quarante-cinq jours pour une faute disciplinaire du premier
+degré, trente jours pour une faute disciplinaire du deuxième degré, et quinze jours pour une faute disciplinaire du troisième
+degré.
+
+A l'égard des mineurs de plus de seize ans, la durée maximum de la mise en cellule disciplinaire est de quinze jours pour une
+faute disciplinaire du premier degré avec violences contre les personnes, de huit jours pour une faute du même degré sans
+violences, de cinq jours pour une faute du deuxième degré et de trois jours pour une faute du troisième degré.
+
+La mise en cellule disciplinaire ne peut être prononcée à l'encontre des mineurs de seize ans.
+
+Les sanctions de mise en cellule disciplinaire sont inscrites sur le registre du quartier disciplinaire tenu sous l'autorité
+du chef d'établissement. Ce registre est présenté aux autorités administratives et judiciaires lors de leurs visites de
+contrôle et d'inspection.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D250-3 (Ab)
+  - Code de procédure pénale - art. D251 (Ab)
+  - Code de procédure pénale - art. D251-1-2 (Ab)
+
+
+###### Article D251-4
+
+La liste des personnes présentes au quartier disciplinaire est communiquée quotidiennement à l'équipe médicale. Le médecin
+examine sur place chaque détenu au moins deux fois par semaine, et aussi souvent qu'il l'estime nécessaire. La sanction est
+suspendue si le médecin constate que son exécution est de nature à compromettre la santé du détenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D250-3 (Ab)
+  - Code de procédure pénale - art. D251 (Ab)
+  - Code de procédure pénale - art. D381 (Ab)
+
+
+###### Article D251-5
+
+Le président de la commission de discipline prononce celles des sanctions prévues aux articles D. 251 et D. 251-1 qui lui
+paraissent proportionnées à la gravité des faits et adaptées à la personnalité de leur auteur.
+
+Il peut prononcer une ou plusieurs sanctions. Toutefois, les sanctions prévues à l'article D. 251 ne peuvent se cumuler entre
+elles. En cas de poursuites simultanées pour plusieurs fautes, le président de la commission de discipline ne peut pas
+prononcer deux sanctions de même nature ; pour l'application de cette disposition, le confinement en cellule individuelle
+ordinaire et le placement en cellule disciplinaire sont réputés de même nature. La sanction prononcée ne peut excéder le
+maximum encouru pour la faute la plus grave.
+
+Les sanctions collectives sont prohibées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D251-1. (M)
+  - CODE DE PROCEDURE PENALE - art. D251. (M)
+
+
+###### Article D251-6
+
+Le président de la commission de discipline peut accorder le bénéfice du sursis pour tout ou partie de l'exécution de la
+sanction disciplinaire, soit lors du prononcé de celle-ci, soit au cours de son exécution.
+
+Lorsqu'il octroie le bénéfice du sursis, le président de la commission de discipline fixe un délai de suspension de la
+sanction sans que celui-ci puisse excéder six mois. Il appelle l'attention du détenu sur les conséquences du sursis telles
+qu'elles sont réglées par le présent article.
+
+Si, au cours du délai de suspension de la sanction, le détenu commet une nouvelle faute donnant lieu à une sanction, le
+sursis est, sauf décision contraire du président de la commission, révoqué de plein droit. La première sanction est alors
+exécutée cumulativement avec celle afférente à la seconde faute.
+
+Toutefois, lorsque les deux sanctions sont de même nature, leur durée cumulée ne peut excéder la limite du maximum prévu,
+pour la faute la plus grave, par les articles D. 251 à D. 251-3 ; pour l'application de cette disposition, le confinement en
+cellule individuelle ordinaire et le placement en cellule disciplinaire sont réputés de même nature. En tout état de cause,
+la sanction de mise en cellule disciplinaire s'exécute préalablement à toute autre sanction.
+
+Si, au cours du délai de suspension de la sanction, le détenu n'a commis aucune faute disciplinaire donnant lieu à une
+sanction, la sanction assortie du sursis est réputée non avenue. Il en est fait mention sur le registre prévu par l'article
+D. 250-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D250-6 (M)
+  - Code de procédure pénale D251 à D251-3, D250-6
+
+_Cité par_:
+
   - Code de procédure pénale - art. D251-7 (Ab)
 
-**Liens**:
 
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+###### Article D251-7
+
+Lorsqu'elle ordonne le sursis à l'exécution de l'une des sanctions de cellule prévues aux 4° et 5° de l'article D. 251,
+l'autorité disciplinaire peut décider que le détenu devra accomplir, pendant tout ou partie du délai de suspension de la
+sanction, des travaux de nettoyage pour une durée globale n'excédant pas quarante heures. Le consentement du détenu doit être
+préalablement recueilli.
+
+Le sursis peut être révoqué en tout ou en partie, en cas d'inexécution totale ou partielle du travail ordonné. L'inexécution
+doit être constatée par l'autorité disciplinaire sur rapport d'un membre du personnel, le détenu ayant été préalablement
+entendu.
+
+Les dispositions de l'article D. 251-6 sont, pour le surplus, applicables au sursis ordonné dans les conditions prévues au
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D251-6 (M)
+  - CODE DE PROCEDURE PENALE - art. D251. (M)
 
 
-##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=405></a>
+###### Article D251-8
+
+Le chef d'établissement peut, après le prononcé de la sanction, dispenser le détenu de tout ou partie de son exécution soit à
+l'occasion d'une fête légale, soit en raison de la bonne conduite de l'intéressé ou pour lui permettre de suivre un
+traitement médical ou une formation professionnelle.
+
+Il peut, pour les mêmes motifs, après le prononcé de la sanction, décider d'en suspendre ou d'en fractionner l'exécution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
+
+
+##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=404></a>
 
 ###### Article D252
 
@@ -53443,8 +53655,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 **Liens**:
 
@@ -53469,8 +53680,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-128 1975-03-07 art. 1 JORF 9 mars 1975
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 _Cite_:
 
@@ -53501,9 +53711,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
-  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+  - Décret n°96-287 du 2 avril 1996 - art. 1 () JORF 5 avril 1996
 
 _Cite_:
 
@@ -53515,7 +53723,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du règlement intérieur de chaque prison<a id=406></a>
+##### Section 3 : Du règlement intérieur de chaque prison<a id=405></a>
 
 ###### Article D255
 
@@ -53636,7 +53844,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=407></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=406></a>
 
 ###### Article D259
 
@@ -53716,10 +53924,6 @@ liste est fixée par le ministre de la justice.
 Ces lettres peuvent être remises sous pli fermé et échappent alors à tout contrôle ; aucun retard ne doit être apporté à leur
 envoi.
 
-Les détenus qui mettraient à profit la faculté qui leur est ainsi accordée soit pour formuler des outrages, des menaces ou
-des imputations calomnieuses, soit pour multiplier des réclamations injustifiées ayant déjà fait l'objet d'une décision de
-rejet, encourent une sanction disciplinaire, sans préjudice des sanctions pénales éventuelles.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -53728,7 +53932,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-402 1975-05-23 art. 2-2° JORF 27 mai 1975
+  - Décret n°96-287 du 2 avril 1996 - art. 9 (V) JORF 5 avril 1996
 
 _Cité par_:
 
@@ -53797,7 +54001,7 @@ _Cite_:
   - Code de procédure pénale D406 et D416
 
 
-##### Section 5 : De la sécurité<a id=408></a>
+##### Section 5 : De la sécurité<a id=407></a>
 
 ###### Article D265
 
@@ -53823,7 +54027,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Dispositions générales<a id=409></a>
+##### Paragraphe 1er : Dispositions générales<a id=408></a>
 
 ###### Article D266
 
@@ -54092,7 +54296,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=410></a>
+##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=409></a>
 
 ###### Article D277
 
@@ -54183,7 +54387,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Incidents<a id=411></a>
+##### Paragraphe 3 : Incidents<a id=410></a>
 
 ###### Article D280
 
@@ -54305,9 +54509,180 @@ _Cité par_:
   - Code de procédure pénale - art. D125 (V)
 
 
-#### Chapitre VI : Des mouvements de détenus<a id=412></a>
+##### Paragraphe 4 : Mise à l'isolement<a id=411></a>
 
-##### Section 1 : Des entrées et sorties des détenus<a id=413></a>
+###### Article D283-1
+
+Tout détenu se trouvant dans un établissement ou quartier en commun peut soit sur sa demande, soit par mesure de précaution
+ou de sécurité, être placé à l'isolement.
+
+La mise à l'isolement est ordonnée par le chef de l'établissement qui rend compte à bref délai au directeur régional et au
+juge de l'application des peines. Le chef de l'établissement fait en outre rapport à la commission de l'application des
+peines dès la première réunion suivant la mise à l'isolement ou le refus opposé à la demande d'isolement du détenu.
+
+Le détenu peut faire parvenir au juge de l'application des peines soit directement, soit par l'intermédiaire de son conseil,
+toutes observations utiles en ce qui concerne la décision prise à son égard.
+
+Les détenus placés à l'isolement sont signalés au médecin qui les visite dans les conditions prévues à l'article D375. Le
+médecin émet, chaque fois qu'il l'estime utile, un avis sur l'opportunité de prolonger l'isolement ou d'y mettre fin.
+
+La durée de l'isolement ne peut être prolongée au-delà de trois mois sans qu'un nouveau rapport ait été fait devant la
+commission de l'application des peines et sans une décision du directeur régional, prononcée après avis du médecin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D375 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D381 (M)
+  - Code de procédure pénale - art. D283-1-7 (Ab)
+  - Code de procédure pénale - art. D283-2-1 (Ab)
+
+
+###### Article D283-2
+
+La mise à l'isolement ne constitue pas une mesure disciplinaire.
+
+Les détenus qui en font l'objet sont soumis au régime ordinaire de détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+
+##### Paragraphe 5 : Moyens de contrainte<a id=412></a>
+
+###### Article D283-3
+
+Aucun moyen de contrainte ne doit être employé à titre de sanction disciplinaire.
+
+Les moyens de contrainte visés à l'article 726 ne peuvent être utilisés, en application des dispositions dudit article, que
+sur prescription médicale ou sur ordre du chef de l'établissement, s'il n'est d'autre possibilité de maîtriser un détenu, de
+l'empêcher de causer des dommages ou de porter atteinte à lui-même ou à autrui. Le chef d'établissement doit faire visiter
+d'urgence le détenu par le médecin qui décide de maintenir ou de faire cesser la contrainte.
+
+Il doit en être rendu compte sans délai au directeur régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 726 (V)
+
+
+###### Article D283-4
+
+Par mesure de précaution contre les évasions, les détenus peuvent être soumis au port des menottes et des entraves pendant
+leur transfèrement ou leur extraction, ou lorsque les circonstances ne permettent pas d'assurer efficacement leur garde d'une
+autre manière.
+
+Toutefois, aucun lien ne doit être laissé à un détenu au moment de sa comparution devant une juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D294 (V)
+
+
+###### Article D283-5
+
+Le personnel de l'administration pénitentiaire ne doit utiliser la force envers les détenus qu'en cas de légitime défense, de
+tentative d'évasion ou de résistance par la violence ou par inertie physique aux ordres donnés.
+
+Lorsqu'il y recourt, il ne peut le faire qu'en se limitant à ce qui est strictement nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+
+###### Article D283-6
+
+Conformément aux dispositions de la loi du 28 décembre 1943, "les membres du personnel des établissements pénitentiaires en
+uniforme ou en tenue civile doivent, en l'absence de l'autorité judiciaire ou administrative, déployer la force armée dans
+les cas suivants :
+
+Lorsque des violences ou des voies de fait sont exercées contre eux ou lorsqu'ils sont menacés par des individus armés ;
+
+Lorsqu'ils ne peuvent défendre autrement les établissements pénitentiaires dont ils ont la garde, le postes ou les personnes
+qui leur sont confiés ou, enfin, si la résistance est telle qu'elle ne puisse être vaincue que par la force des armes ;
+
+Lorsque des personnes cherchant à pénétrer dans un établissement pénitentiaire ou des détenus invités à s'arrêter par des
+appels répétés de "halte" faits à haute voix cherchent à échapper à leur garde ou à leurs investigations et ne peuvent être
+contraints de s'arrêter que par l'usage des armes".
+
+Pour l'application des dispositions qui précèdent, les membres des forces préposées au maintien de l'ordre, intervenant à
+l'intérieur d'un établissement pénitentiaire ou assurant une mission de protection et de garde dans l'établissement ou aux
+abords de celui-ci en application des dispositions de l'article D266, sont, pendant le temps de cette intervention ou de
+l'accomplissement de cette mission, assimilés aux membres du personnel des établissements pénitentiaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 4 () JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D266. (M)
+  - Loi n°1943-12-28
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D267 (V)
+
+
+#### Chapitre VI : Des mouvements de détenus<a id=413></a>
+
+##### Section 1 : Des entrées et sorties des détenus<a id=414></a>
 
 ###### Article D284
 
@@ -54457,7 +54832,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des transfèrements et des extractions<a id=414></a>
+##### Section 2 : Des transfèrements et des extractions<a id=415></a>
 
 ###### Article D290
 
@@ -54506,7 +54881,7 @@ _Cité par_:
   - Arrêté du 21 mai 2019 - art. 3 (V)
 
 
-##### Paragraphe 1er : Dispositions communes<a id=415></a>
+##### Paragraphe 1er : Dispositions communes<a id=416></a>
 
 ###### Article D292
 
@@ -54653,9 +55028,9 @@ _Cite_:
   - Code de procédure pénale - art. D295 (V)
 
 
-##### Paragraphe 2 : Transfèrements<a id=416></a>
+##### Paragraphe 2 : Transfèrements<a id=417></a>
 
-##### A : Translations judiciaires<a id=417></a>
+##### A : Translations judiciaires<a id=418></a>
 
 ###### Article D297
 
@@ -54761,7 +55136,7 @@ _Cite_:
   - Code de procédure pénale D298
 
 
-##### B : Transfèrements administratifs<a id=418></a>
+##### B : Transfèrements administratifs<a id=419></a>
 
 ###### Article D300
 
@@ -54892,7 +55267,7 @@ _Abrogé par_:
   - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
 
 
-##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=419></a>
+##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=420></a>
 
 ###### Article D304
 
@@ -55030,7 +55405,7 @@ _Cité par_:
   - Code de procédure pénale - art. D334 (V)
 
 
-##### D : Cas particuliers<a id=420></a>
+##### D : Cas particuliers<a id=421></a>
 
 ###### Article D311
 
@@ -55155,7 +55530,7 @@ _Cité par_:
   - Code de procédure pénale - art. D149-1 (V)
 
 
-##### Paragraphe 3 : Extractions<a id=421></a>
+##### Paragraphe 3 : Extractions<a id=422></a>
 
 ###### Article D314
 
@@ -55298,9 +55673,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=422></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=423></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=423></a>
+##### Section 1 : De la gestion des biens des détenus<a id=424></a>
 
 ###### Article D318
 
@@ -55328,7 +55703,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Valeurs pécuniaires.<a id=424></a>
+##### Paragraphe 1er : Valeurs pécuniaires.<a id=425></a>
 
 ###### Article D319
 
@@ -55735,10 +56110,10 @@ _Abrogé par_:
 ###### Article D332
 
 L'administration pénitentiaire a la faculté d'opérer d'office sur la part disponible des détenus des retenues en réparation
-de dommages matériels causés, sans préjudice de poursuites disciplinaires et pénales, s'il y a lieu. 
+de dommages matériels causés, sans préjudice de poursuites disciplinaires et pénales, s'il y a lieu.
 
-Ces retenues sont prononcées par le chef de l'établissement, s'il s'agit d'un membre du personnel de direction, ou sinon par
-le directeur régional des services pénitentiaires et les fonds correspondants sont versés au Trésor. 
+Ces retenues sont prononcées par le chef d'établissement, qui en informe préalablement l'intéressé. Les fonds correspondants
+sont versés au Trésor.
 
 Sont de même versées au Trésor les sommes trouvées en possession irrégulière des détenus, à moins qu'elles ne soient saisies
 par ordre de l'autorité judiciaire.
@@ -55751,12 +56126,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-  - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Décret n°96-287 du 2 avril 1996 - art. 7 () JORF 5 avril 1996
 
 
 ###### Article D333
@@ -55826,7 +56196,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Valeurs non pécuniaires.<a id=425></a>
+##### Paragraphe 2 : Valeurs non pécuniaires.<a id=426></a>
 
 ###### Article D335
 
@@ -56005,7 +56375,7 @@ _Cité par_:
   - Arrêté du 23 février 2018 (V)
 
 
-##### Section 2 : De l'entretien des détenus<a id=426></a>
+##### Section 2 : De l'entretien des détenus<a id=427></a>
 
 ###### Article D342
 
@@ -56161,9 +56531,9 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=427></a>
+#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=428></a>
 
-##### Section 1 : De l'hygiène<a id=428></a>
+##### Section 1 : De l'hygiène<a id=429></a>
 
 ###### Article D349
 
@@ -56183,7 +56553,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Salubrité et propreté des locaux<a id=429></a>
+##### Paragraphe 1er : Salubrité et propreté des locaux<a id=430></a>
 
 ###### Article D350
 
@@ -56246,7 +56616,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=430></a>
+##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=431></a>
 
 ###### Article D353
 
@@ -56328,7 +56698,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Hygiène personnelle<a id=431></a>
+##### Paragraphe 3 : Hygiène personnelle<a id=432></a>
 
 ###### Article D357
 
@@ -56397,7 +56767,7 @@ _Cité par_:
   - Code de procédure pénale - art. D283-1-2 (Ab)
 
 
-##### Paragraphe 4 : Exercices physiques<a id=432></a>
+##### Paragraphe 4 : Exercices physiques<a id=433></a>
 
 ###### Article D360
 
@@ -56491,9 +56861,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du service sanitaire<a id=433></a>
+##### Section 2 : Du service sanitaire<a id=434></a>
 
-##### Paragraphe 1 : Organisation sanitaire<a id=434></a>
+##### Paragraphe 1 : Organisation sanitaire<a id=435></a>
 
 ###### Article D364
 
@@ -56880,7 +57250,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=435></a>
+##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=436></a>
 
 ###### Article D373
 
@@ -57090,7 +57460,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Traitement médical<a id=436></a>
+##### Paragraphe 3 : Traitement médical<a id=437></a>
 
 ###### Article D380
 
@@ -57383,7 +57753,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D280. (M)
 
 
-##### Paragraphe 4 : Soins divers<a id=437></a>
+##### Paragraphe 4 : Soins divers<a id=438></a>
 
 ###### Article D391
 
@@ -57631,7 +58001,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D386 (M)
 
 
-##### Paragraphe 5 : Maternité<a id=438></a>
+##### Paragraphe 5 : Maternité<a id=439></a>
 
 ###### Article D399
 
@@ -57757,7 +58127,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=439></a>
+#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=440></a>
 
 ###### Article D402
 
@@ -57781,7 +58151,7 @@ _Abrogé par_:
   - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
-##### Section 1 : Des visites<a id=440></a>
+##### Section 1 : Des visites<a id=441></a>
 
 ###### Article D403
 
@@ -58105,7 +58475,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Section 2 : De la correspondance<a id=441></a>
+##### Section 2 : De la correspondance<a id=442></a>
 
 ###### Article D413
 
@@ -58322,7 +58692,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du maintien des liens familiaux<a id=442></a>
+##### Section 3 : Du maintien des liens familiaux<a id=443></a>
 
 ###### Article D420
 
@@ -58434,7 +58804,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=443></a>
+##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=444></a>
 
 ###### Article D424
 
@@ -58545,7 +58915,7 @@ _Cite_:
   - Code de procédure pénale - art. 723-6
 
 
-##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=444></a>
+##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=445></a>
 
 ###### Article D427
 
@@ -58723,9 +59093,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=445></a>
+#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=446></a>
 
-##### Section 1 : De l'assistance spirituelle<a id=446></a>
+##### Section 1 : De l'assistance spirituelle<a id=447></a>
 
 ###### Article D432
 
@@ -58970,7 +59340,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'action socio-culturelle<a id=447></a>
+##### Section 2 : De l'action socio-culturelle<a id=448></a>
 
 ###### Article D440
 
@@ -59045,6 +59415,30 @@ _Modifié par_:
 _Cite_:
 
   - Loi n°1901-07-01
+
+
+###### Article D443
+
+Chaque établissement possède au moins une bibliothèque dont les ouvrages sont mis gratuitement à la disposition des détenus.
+
+Ils doivent être suffisamment nombreux et variés pour tenir compte des diversités linguistiques et culturelles des détenus,
+et pour respecter leur liberté de choix.
+
+Les échanges et les prêts de livres personnels entre détenus sont autorisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 7 () JORF 5 avril 1996
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D444
@@ -59213,30 +59607,6 @@ _Modifié par_:
 
   - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
   - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-##### Section 2 : De l'assistance socioculturelle<a id=448></a>
-
-###### Article D443
-
-Chaque établissement possède au moins une bibliothèque dont les ouvrages sont mis gratuitement à la disposition des détenus.
-
-Ils doivent être suffisamment nombreux et variés pour tenir compte des diversités linguistiques et culturelles des détenus,
-et pour respecter leur liberté de choix.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 **Liens**:
 
