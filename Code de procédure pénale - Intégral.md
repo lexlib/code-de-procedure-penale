@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1982-02-25
+Version Consolidée au 1982-03-30
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -34014,6 +34014,39 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. A41-1 (T)
   - CODE DE PROCEDURE PENALE - art. D320-2 (M)
   - Code de procédure pénale - art. A41 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D325
+
+L'indemnisation des parties civiles est assurée sur la part prévue à l'article D113. A cette fin, le ministère public près la
+juridiction ayant prononcé la condamnation, dès que cette dernière a acquis un caractère définitif, informe sans délai
+l'établissement où se trouve incarcéré le ou les détenus de l'existence de parties civiles et du montant de leurs créances.
+
+Cette part ne saurait faire l'objet d'aucun acte de disposition émanant du détenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 JORF 9 mars 1975
+  - Décret n°78-460 1978-03-28 art. 3 JORF 1er avril 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D113 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D49-71 (V)
+  - Code de procédure pénale - art. D77 (V)
 
 **Liens**:
 
