@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-06-13
+Version Consolidée au 2001-06-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -13260,6 +13260,34 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 181 (M)
 
 
+###### Article 215-2
+
+L'accusé détenu en raison des faits pour lesquels il est renvoyé devant la cour d'assises est immédiatement remis en liberté
+s'il n'a pas comparu devant celle-ci à l'expiration d'un délai d'un an à compter de la date à laquelle la décision de mise en
+accusation est devenue définitive.
+
+Toutefois, si l'audience sur le fond ne peut débuter avant l'expiration de ce délai, la chambre de l'instruction peut, à
+titre exceptionnel, par une décision rendue conformément à l'article 144 et mentionnant les raisons de fait ou de droit
+faisant obstacle au jugement de l'affaire, ordonner la prolongation des effets de l'ordonnance de prise de corps pour une
+nouvelle durée de six mois. La comparution personnelle de l'accusé est de droit si lui-même ou son avocat en font la demande.
+Cette prolongation peut être renouvelée une fois dans les mêmes formes. Si l'accusé n'a pas comparu devant la cour d'assises
+à l'issue de cette nouvelle prolongation, il est immédiatement remis en liberté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2000-516 du 15 juin 2000 - art. 77 () JORF 16 juin 2000 en vigueur le 16 juin 2001
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 144 (M)
+
+
 ###### Article 216
 
 Les arrêts de la chambre de l'instruction sont signés par le président et par le greffier. Il y est fait mention du nom des
@@ -17558,9 +17586,14 @@ Si l'accusé est exempté de peine ou acquitté, s'il est condamné à une peine
 s'il est condamné à une peine ferme privative de liberté couverte par la détention provisoire, il est mis immédiatement en
 liberté s'il n'est retenu pour autre cause.
 
-Dans les autres cas, tant que l'arrêt n'est pas définitif, et, le cas échéant, pendant l'instance d'appel, l'ordonnance de
-prise de corps est mise à exécution ou continue de produire ses effets jusqu'à ce que la durée de détention ait atteint celle
-de la peine prononcée.
+Dans les autres cas, tant que l'arrêt n'est pas définitif et, le cas échéant, pendant l'instance d'appel, l'ordonnance de
+prise de corps est mise à exécution ou continue de produire ses effets, jusqu'à ce que la durée de détention ait atteint
+celle de la peine prononcée. Toutefois, si la cour d'assises saisie en appel n'a pas commencé à examiner l'affaire à
+l'expiration d'un délai d'un an à compter de la date à laquelle a été interjeté l'appel, l'accusé est remis en liberté. La
+chambre de l'instruction peut toutefois, à titre exceptionnel, par une décision rendue conformément à l'article 144 et
+mentionnant les raisons de fait ou de droit faisant obstacle au jugement de l'affaire, ordonner la prolongation des effets de
+l'ordonnance de prise de corps pour une durée de six mois. La comparution personnelle de l'accusé est de droit si lui-même ou
+son avocat en fait la demande.
 
 La cour d'assises peut, par décision spéciale et motivée, décider que l'ordonnance de prise de corps sera mise à exécution
 contre la personne renvoyée pour délit connexe qui n'est pas détenue au moment où l'arrêt est rendu, si la peine prononcée
@@ -17583,11 +17616,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 2000-06-15 art. 140 JORF 16 juin 2000 en vigueur le 1er janvier 2001
+  - Loi n°2000-516 du 15 juin 2000 - art. 85 () JORF 16 juin 2000 en vigueur le 16 juin 2001
 
 _Cite_:
 
   - Code pénal 131-6 à 131-11
+  - CODE DE PROCEDURE PENALE - art. 144 (M)
 
 
 ###### Article 368
@@ -33011,20 +33045,19 @@ ans.
 Les mesures de placement à l'extérieur, de semi-liberté, de fractionnement et suspension des peines, de placement sous
 surveillance électronique et de libération conditionnelle sont accordées, ajournées, refusées, retirées ou révoquées par
 décision motivée du juge de l'application des peines saisi d'office, sur la demande du condamné ou sur réquisition du
-procureur de la République. Cette décision est rendue, au vu des observations écrites du condamné ou de son avocat, après
-avis de la commission de l'application des peines ; à sa demande, le condamné, assisté le cas échéant de son avocat, peut
-également présenter oralement des observations devant le juge de l'application des peines ; ce magistrat procède à cette
-audition et statue sans être assisté d'un greffier ; le condamné peut demander à bénéficier de l'aide juridictionnelle. La
-décision du juge de l'application des peines peut être attaquée par la voie de l'appel par le condamné ou le procureur de la
-République dans le délai de dix jours à compter de sa notification. L'appel est porté devant la chambre des appels
-correctionnels.
+procureur de la République. Cette décision est rendue, après avis du représentant de l'administration pénitentiaire, à
+l'issue d'un débat contradictoire tenu en chambre du conseil, au cours duquel le juge de l'application des peines entend les
+réquisitions du ministère public et les observations du condamné ainsi que, le cas échéant, celle de son avocat ; elle peut
+être attaquée par la voie de l'appel par le condamné, par le procureur de la République et par le procureur général, dans le
+délai de dix jours à compter de sa notification. L'appel est porté devant la chambre des appels correctionnels.
 
 Les décisions du juge de l'application des peines sont exécutoires par provision. Toutefois, lorsque l'appel du ministère
 public est formé, dans les vingt-quatre heures de la notification, contre une décision accordant l'une des mesures prévues
 par le sixième alinéa, il suspend l'exécution de cette décision jusqu'à ce que la cour ait statué. L'affaire doit venir
 devant la cour d'appel au plus tard dans les deux mois suivant l'appel du parquet, faute de quoi celui-ci est non avenu.
 
-Un décret détermine les modalités d'application des deux alinéas précédents.
+Un décret détermine les modalités d'application des deux alinéas précédents. Ce décret précise la localisation des débats
+contradictoires que doit tenir le juge de l'application des peines lorsqu'ils concernent des condamnés incarcérés.
 
 **Liens relatifs à cet article**
 
@@ -33035,10 +33068,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 125 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -33080,6 +33109,10 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D49-1 (M)
   - CODE DE PROCEDURE PENALE - art. D519 (M)
   - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+_Modifié par_:
+
+  - Loi n°2000-1354 du 30 décembre 2000 - art. 22 () JORF 31 décembre 2000 en vigueur le 16 juin 2001
 
 _Cite_:
 
@@ -57353,23 +57386,18 @@ _Cite_:
 
 Chaque fois qu'ils l'estiment utile, le président de la juridiction qui a prononcé la condamnation ainsi que le représentant
 du ministère public peuvent exprimer leur avis sur l'affectation qui leur semble la mieux appropriée au condamné ou sur celle
-qui, au contraire, leur paraît inadaptée.
+qui, au contraire, leur paraît inadaptée. 
 
 Ces avis sont joints aux documents mentionnés à l'article D. 77, en vue de leur transmission à l'établissement où le condamné
-est détenu.
+est détenu. 
 
-Une copie de ces avis est également adressée au juge de l'application des peines compétent ou à son secrétariat.
+Une copie de ces avis est également adressée au secrétariat-greffe du juge de l'application des peines compétent.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 2 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
-  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -57380,6 +57408,10 @@ _Cité par_:
   - Code de procédure pénale - art. D163 (V)
   - Code de procédure pénale - art. D55-1 (V)
   - Code de procédure pénale - art. D77 (V)
+
+_Modifié par_:
+
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
 
 **Liens**:
 
@@ -58344,16 +58376,12 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D147-1 (M)
 
 
-###### Article D116-4
+###### Article D116-3
 
-Pour l'application des dispositions du sixième alinéa de l'article 722 ou de celles de l'article 722-1, le condamné peut
-faire connaître au juge de l'application des peines le nom de l'avocat choisi par lui : le choix de l'avocat par le condamné
-détenu peut aussi résulter du courrier adressé à celui-ci par cette personne et le désignant pour assurer sa défense et dont
-une copie est remise par l'avocat au juge de l'application des peines. Le condamné peut également demander au juge de
-l'application des peines qu'il lui en soit désigné un d'office par le bâtonnier de l'ordre des avocats ; le bâtonnier est
-avisé de cette demande par tous moyens et sans délai. Cet avocat communique librement avec le condamné dans les conditions
-prévues par les articles D. 68 et D. 69. Le permis prévu par l'article D. 68 est délivré par le juge de l'application des
-peines.
+Pour le fonctionnement de son cabinet, le juge de l'application des peines est doté d'un secrétariat-greffe.
+
+Les fonctions de secrétaire et de greffier du juge de l'application des peines sont remplies par un greffier du tribunal de
+grande instance.
 
 **Liens relatifs à cet article**
 
@@ -58365,13 +58393,31 @@ _Créé par_:
 
   - Décret n°2000-1213 du 13 décembre 2000 - art. 6 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2000-1388 du 30 décembre 2000 - art. 1 (V)
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
+
+
+###### Article D116-4
+
+Pour l'application des dispositions du sixième alinéa de l'article 722 ou de celles de l'article 722-1, le condamné peut
+faire connaître au juge de l'application des peines le nom de l'avocat choisi par lui : le choix de l'avocat par le condamné
+détenu peut aussi résulter du courrier adressé à celui-ci par cette personne et le désignant pour assurer sa défense et dont
+une copie est remise par l'avocat au juge de l'application des peines. Le condamné peut également demander au juge de
+l'application des peines qu'il lui en soit désigné un d'office par le bâtonnier de l'ordre des avocats ; le bâtonnier est
+avisé de cette demande par tous moyens et sans délai. Cet avocat communique librement avec le condamné dans les conditions
+prévues par les articles D. 68 et D. 69. Le permis prévu par l'article D. 68 est délivré par le juge de l'application des
+peines ou son greffier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
 
 _Modifié par_:
 
-  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
 
 _Cité par_:
 
@@ -58481,9 +58527,9 @@ Les demandes du condamné tendant au prononcé ou à la modification d'une des m
 l'article 722 font l'objet d'une requête écrite adressée au juge de l'application des peines, signée du condamné ou de son
 avocat.
 
-Cette requête est remise au juge de l'application des peines ou à son secrétariat contre récépissé ou adressée par lettre
-recommandée avec demande d'avis de réception. Si le condamné est détenu, elle peut faire l'objet d'une déclaration auprès du
-chef de l'établissement pénitentiaire dans les conditions prévues aux deux derniers alinéas de l'article 148-7.
+Cette requête est remise au greffe du juge de l'application des peines contre récépissé ou adressée par lettre recommandée
+avec demande d'avis de réception. Si le condamné est détenu, elle peut faire l'objet d'une déclaration auprès du chef de
+l'établissement pénitentiaire dans les conditions prévues aux deux derniers alinéas de l'article 148-7.
 
 Le juge de l'application des peines n'est pas tenu de répondre aux demandes formées sans respecter les conditions prévues par
 le présent article.
@@ -58494,17 +58540,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
-
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 6 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2000-1388 du 30 décembre 2000 - art. 1 (V)
-
 _Modifié par_:
 
-  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
 
 _Cité par_:
 
@@ -58512,6 +58550,10 @@ _Cité par_:
   - Décret n°2004-837 du 20 août 2004 - art. 7 (V)
   - CODE DE PROCEDURE PENALE - art. D116-10 (Ab)
   - CODE DE PROCEDURE PENALE - art. D524 (M)
+
+_Abrogé par_:
+
+  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -58610,6 +58652,9 @@ télécopie à l'avocat du condamné.
 Dès qu'il est rendu, le jugement est notifié au ministère public. Une copie en est adressée au directeur du service
 pénitentiaire d'insertion et de probation et, lorsque le condamné est incarcéré, au chef de l'établissement pénitentiaire.
 
+L'appel du jugement est formé soit au greffe du juge de l'application des peines selon les modalités prévues aux deux
+premiers alinéas de l'article 502, soit selon les modalités prévues à l'article 503.
+
 Lorsque le juge de l'application des peines accorde l'une des mesures mentionnées au sixième alinéa de l'article 722, la mise
 à exécution de la mesure ne peut intervenir, avant l'expiration du délai de vingt-quatre heures à compter de la notification
 de la décision au magistrat du ministère public, en l'absence de visa de ce dernier indiquant qu'il ne fait pas appel ; si le
@@ -58621,10 +58666,6 @@ de l'application des peines et le chef de l'établissement pénitentiaire.
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
-
-_Créé par_:
-
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 6 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -58640,15 +58681,20 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D528-1 (Ab)
   - CODE DE PROCEDURE PENALE - art. D529-1 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°2000-1388 du 30 décembre 2000 - art. 1 (V)
-  - SPEC_APPLI: Décret n°2000-1388 du 30 décembre 2000 - art. 3 (V)
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
+
+_Abrogé par_:
+
+  - Décret n°2004-1364 du 13 décembre 2004 - art. 4 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 109 (M)
   - CODE DE PROCEDURE PENALE - art. 125 (M)
+  - CODE DE PROCEDURE PENALE - art. 502 (V)
+  - CODE DE PROCEDURE PENALE - art. 503 (V)
   - CODE DE PROCEDURE PENALE - art. 722 (M)
 
 
