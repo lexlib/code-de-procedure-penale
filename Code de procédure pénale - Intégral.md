@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1963-02-24
+Version Consolidée au 1964-03-19
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -320,18 +320,21 @@ Version Consolidée au 1963-02-24
           - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#317)
       - [Titre VI : De la contrainte par corps (art. D569)](#318)
   - [Partie Arrêtés (art. A1 à A57)](#319)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#320)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#321)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#322)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#323)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A38)](#320)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A38)](#321)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A38)](#322)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A38)](#323)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#324)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#325)
-    - [Livre V : Des procédures d'exécution (art. A50 à A51)](#326)
-      - [Titre IV : Du sursis (art. A50 à A51)](#327)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#328)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#329)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#330)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#331)
+            - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A26 à A38)](#326)
+    - [Livre V : Des procédures d'exécution (art. A50 à A53)](#327)
+      - [Titre IV : Du sursis (art. A50 à A51)](#328)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#329)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#330)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#331)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#332)
+        - [Disposition générale (art. A53)](#333)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#334)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -23062,15 +23065,238 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=326></a>
+##### Paragraphe 3 : Désignation des officiers de police de la préfecture de police<a id=326></a>
 
-### Titre IV : Du sursis<a id=327></a>
+###### Article A26
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=328></a>
+[*Article abrogé*].
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=329></a>
+**Liens relatifs à cet article**
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=330></a>
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1960-09-24 art. 1 JORF 25 août 1960
+  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+
+###### Article A27
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+
+###### Article A28
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A29
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A30
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A31
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A32
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A31 (T)
+
+
+###### Article A33
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A34
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A35
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A36
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+###### Article A37
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-29 (VD)
+
+
+###### Article A38
+
+[*Article abrogé*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Abrogé par_:
+
+  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
+
+
+## Livre V : Des procédures d'exécution<a id=327></a>
+
+### Titre IV : Du sursis<a id=328></a>
+
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=329></a>
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=330></a>
+
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=331></a>
 
 ###### Article A50
 
@@ -23111,7 +23337,27 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=331></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=332></a>
+
+#### Disposition générale<a id=333></a>
+
+###### Article A53
+
+Le présent code, ainsi que les arrêtés qui le modifient, est applicable aux départements de la Guadeloupe, de la Guyane, de
+la Martinique et de la Réunion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=334></a>
 
 ###### Article A56
 
