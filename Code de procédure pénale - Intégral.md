@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-10-01
+Version Consolidée au 1992-11-05
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -37183,8 +37183,9 @@ pénitentiaire, les frais de transport des procédures et des pièces à convict
 procédure pénale en matière internationale.
 
 3° Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes-traducteurs ainsi qu'aux personnes
-chargées des enquêtes sociales ou de personnalité, ou contribuant au contrôle judiciaire dans les conditions prévues aux
-articles R. 121 et R. 121-1 du présent code.
+chargées des enquêtes sociales ou de personnalité ou d'une mission de médiation ou tendant à favoriser la réparation du
+dommage préalablement à la décision du procureur de la République sur les poursuites ou contribuant au contrôle judiciaire
+dans les conditions prévues aux articles R. 121 et R. 121-1 du présent code.
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux
 parties civiles par application des articles 375-1 et 422.
@@ -37231,7 +37232,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-1211 du 21 décembre 1990 - art. 11 () JORF 30 décembre 1990 en vigueur le 1er janvier 1991
+  - Décret n°92-1181 du 4 novembre 1992 - art. 1 () JORF 5 novembre 1992
 
 _Cité par_:
 
@@ -38446,12 +38447,19 @@ _Modifié par_:
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
 fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
-Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par
-les articles 41 (alinéa 5) et 81 (alinéa 7) ainsi que pour l'information sur les mesures propres à favoriser l'insertion
-sociale des intéressés : 255 F.
+1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
+par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
 
-Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
-l'article 81 (alinéa 6) : 383 F..
+2° Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
+l'article 81 (alinéa 6) : 480 F ;
+
+3° Pour une mission de médiation ou une mission tendant à favoriser la réparation du dommage préalablement à la décision du
+procureur de la République sur les poursuites : 255 F.
+
+Lorsque la personne habilitée est une association qui a passé une convention avec le ministère de la justice, l'indemnité
+prévue au 1° ci-dessus est portée à 420 F, l'indemnité prévue au 2° à 1 000 F et l'indemnité prévue au 3° à 500 F lorsque la
+durée de la mission est inférieure ou égale à un mois, 1 000 F lorsque cette durée est supérieure à un mois et inférieure ou
+égale à trois mois, 2 000 F lorsqu'elle est supérieure à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -38470,15 +38478,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-21 du 4 janvier 1990 - art. 1 () JORF 6 janvier 1990
+  - Décret n°92-1181 du 4 novembre 1992 - art. 2 () JORF 5 novembre 1992
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 41 (M)
+  - CODE DE PROCEDURE PENALE - art. 81 (M)
 
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-_Cite_:
-
-  - Code de procédure pénale 41 al. 5 et 81 al. 6 et 7
 
 
 ###### Article R121-1
@@ -38494,6 +38503,9 @@ inculpé, en application du 6° de l'article 138 (alinéa 2) :
 
 1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
+Lorsque cette mission est effectuée par une association qui a passé une convention avec le ministère de la justice,
+l'indemnité allouée est portée respectivement à 1 000 F, 1 670 F et 2 670 F.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -38502,7 +38514,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-21 du 4 janvier 1990 - art. 2 () JORF 6 janvier 1990
+  - Décret n°92-1181 du 4 novembre 1992 - art. 3 () JORF 5 novembre 1992
 
 _Cité par_:
 
@@ -38513,13 +38525,14 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
   - Code de procédure pénale - art. R121 (V)
 
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 138 (M)
+  - CODE DE PROCEDURE PENALE - art. R16-2 (V)
+
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-_Cite_:
-
-  - Code de procédure pénale 138 (alinéa 2) et R16-2 (alinéa 1)
 
 
 ##### Paragraphe 3 : Des interprètes traducteurs<a id=270></a>
