@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-06-16
+Version Consolidée au 2001-06-17
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -57333,8 +57333,8 @@ l'intéressé, qui auraient été prescrites conformément aux dispositions de l
 Ces pièces doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue définitive
 lorsque l'intéressé est détenu ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
 
-Une copie des documents prévus par le présent article est également adressée par le ministère public au juge de l'application
-des peines compétent ou à son secrétariat pour être versé dans le dossier individuel du condamné prévu par l'article D.
+Une copie des documents prévus par le présent article est également adressée par le ministère public au secrétariat-greffe du
+juge de l'application des peines compétent pour être versé dans le dossier individuel du condamné prévu par l'article D.
 116-6.
 
 **Liens relatifs à cet article**
@@ -57342,11 +57342,6 @@ des peines compétent ou à son secrétariat pour être versé dans le dossier i
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 2 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
-  - Décret n°2000-1388 2000-12-31 art. 2 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 _Cité par_:
 
@@ -57357,6 +57352,10 @@ _Cité par_:
   - Code de procédure pénale - art. D158 (V)
   - Code de procédure pénale - art. D76 (V)
   - Code de procédure pénale - art. D78 (V)
+
+_Modifié par_:
+
+  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
 
 _Cite_:
 
