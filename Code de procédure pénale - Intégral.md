@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-01-28
+Version Consolidée au 1983-02-08
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -228,7 +228,7 @@ Version Consolidée au 1983-01-28
                 - [d) Biologie (art. R119)](#225)
                 - [e) Radiodiagnostic (art. R120)](#226)
                 - [f) Expertise mécanique (art. R120-1)](#227)
-            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire (art. R121-1)](#228)
+            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire (art. R121 à R121-1)](#228)
           - [Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés (art. R123 à R145)](#229)
             - [Paragraphe 1er : Des témoins (art. R123 à R138)](#230)
               - [A : Règles générales (art. R123 à R128)](#231)
@@ -26336,6 +26336,53 @@ _Modifié par_:
 
 
 ##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire<a id=228></a>
+
+###### Article R121
+
+En sus du remboursement de leurs frais de déplacement, il est alloué aux personnes habilitées par arrêté du ministre de la
+Justice :
+
+Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête, prévue par
+l'article 41 (alinéa 5) : 220 F.
+
+Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
+l'article 81 (alinéa 6) : 330 F .
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°46-734 du 16 avril 1946 - art. 25-1 (V)
+  - CODE DE PROCEDURE PENALE - art. A43-5 (V)
+  - CODE DE PROCEDURE PENALE - art. R121-2 (V)
+  - CODE DE PROCEDURE PENALE - art. R121-4 (V)
+  - CODE DE PROCEDURE PENALE - art. R224-1 (M)
+  - CODE DE PROCEDURE PENALE - art. R92 (M)
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+  - Décret n°78-263 1978-03-09 art. 2 JORF 10 mars 1978
+  - Décret n°83-75 1983-02-02 art. 1 JORF 8 février 1983
+  - Décret n°74-88 1984-02-04 art. 1 JORF 6 février 1974
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Cite_:
+
+  - Code de procédure pénale 41 al. 5, 81 al. 6
+
 
 ###### Article R121-1
 
