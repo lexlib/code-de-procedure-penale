@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-05-03
+Version Consolidée au 2002-05-04
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -57527,7 +57527,9 @@ biologiques et chimiques ;
 
 8° Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
 
-9° Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication.
+9° Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
+
+10° Office central chargé des disparitions inquiétantes de personnes.
 
 **Liens relatifs à cet article**
 
@@ -57552,7 +57554,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2001-475 du 30 mai 2001 - art. 1 () JORF 3 juin 2001
+  - Décret n°2002-730 du 3 mai 2002 - art. 1 () JORF 4 mai 2002
 
 _Cite_:
 
