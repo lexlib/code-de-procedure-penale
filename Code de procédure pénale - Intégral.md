@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-10-24
+Version Consolidée au 1975-12-29
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -11405,6 +11405,43 @@ _Cité par_:
   - Loi n°83-520 du 27 juin 1983 - art. 73 (V)
   - Loi n°2016-819 du 21 juin 2016 - art. 2
   - Code monétaire et financier - art. L465-3-6 (V)
+
+
+###### Article 552
+
+Le délai entre le jour où la citation est délivrée et le jour fixé pour la comparution devant le tribunal correctionnel ou de
+police est d'au moins dix jours, si la partie citée réside dans un département de la France métropolitaine ou si, résidant
+dans un département d'outre-mer, elle est citée devant un tribunal de ce département.
+
+Si la partie citée réside hors de France métropolitaine, ce délai est porté :
+
+1° A deux mois si elle demeure en Europe, en Afrique et en Amérique du Nord sauf dans les territoires mentionnés au 2° ci-
+dessous ;
+
+2° A trois mois si elle demeure en Amérique centrale, en Amérique du Sud sauf au Pérou, au Mexique, en Turquie, en Israël et
+à la Réunion ;
+
+3° A quatre mois si elle demeure en Syrie, au Liban, en Jordanie, en Iran et en Irak ;
+
+4° A cinq mois si elle demeure en Asie, sauf pour les Etats déjà mentionnés ci-dessus, en Océanie et au Pérou.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 5 (V)
+  - Loi n°64-1360 du 31 décembre 1964 - art. 26 (V)
+  - Loi n°83-520 du 27 juin 1983 - art. 45 (V)
+  - CODE DE PROCEDURE PENALE - art. 553 (V)
+  - CODE DE PROCEDURE PENALE - art. 932 (V)
+  - Code de procédure pénale - art. 390-1 (V)
+  - Code de procédure pénale - art. 558 (V)
+  - Code de procédure pénale - art. 854 (V)
+  - Code de procédure pénale - art. 897 (V)
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 553
