@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-03-10
+Version Consolidée au 1978-04-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -335,7 +335,7 @@ Version Consolidée au 1978-03-10
             - [Paragraphe 3 : Extractions (art. D314 à D315)](#332)
         - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348-1)](#333)
           - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#334)
-            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D333)](#335)
+            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#335)
             - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#336)
           - [Section 2 : De l'entretien des détenus (art. D342 à D348-1)](#337)
         - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#338)
@@ -30175,6 +30175,80 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D323
+
+La part disponible du compte nominatif peut être utilisée par le détenu, conformément aux règlements, pour effectuer des
+achats à l'intérieur de l'établissement pénitentiaire, ou même, sur autorisation spéciale, pour procéder à des versements au
+dehors.
+
+En cas d'évasion du titulaire du compte, cette part est appliquée d'office à l'indemnisation des parties civiles. Le reliquat
+est acquis à l'Etat, sauf décision du ministre de la justice ordonnant qu'il soit rétabli en tout ou partie au profit du
+détenu lorsque ce dernier a été repris.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°78-460 1978-03-28 art. 2 JORF 1 avril 1978
+  - Décret n°71-274 1971-04-15 art. 2 JORF 16 avril 1971
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D114 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D324.
+
+Les sommes constituant le pécule de libération sont inscrites à un compte spécial ; lorsqu'elles dépassent une somme fixée
+par arrêté du garde des sceaux, ministre de la justice, elles sont versées à un livret de caisse d'épargne.
+
+Une instruction de service détermine les modalités d'application de ces dispositions.
+
+Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n°
+59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
+
+Pendant l'incarcération, le pécule de libération ne peut faire l'objet d'aucune voie d'exécution sous réserve des
+dispositions prévues à l'article D113.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Cite_:
+
+  - Décret n°59-734 1959-06-15
+  - CODE DE PROCEDURE PENALE - art. D113 (M)
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°78-460 1978-03-28 art. 4 JORF 1er avril 1978
+
+_Cité par_:
+
+  - Décret n°2009-1561 du 14 décembre 2009 - art. 5 (VD)
+  - Décret n°2009-1561 du 14 décembre 2009 - art. 6 (V)
+  - Décret n°2015-1411 du 5 novembre 2015 - art. Annexe II (V)
+  - CODE DE PROCEDURE PENALE - art. A41-1 (T)
+  - CODE DE PROCEDURE PENALE - art. D320-2 (M)
+  - Code de procédure pénale - art. A41 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D326
 
 Les sommes représentatives des frais d'entretien prélevées sur la rémunération versée aux prévenus sont restituées aux
@@ -30232,6 +30306,36 @@ _Cite_:
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D328
+
+L'avoir des détenus subit le prélèvement prévu à l'article D113 après déduction de la provision alimentaire définie à
+l'article D329.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - HISTO: > M(Décret 78-460 1978-03-28 art. 3 JORF 1er avril 1978)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+_Abrogé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D113 (M)
+  - CODE DE PROCEDURE PENALE - art. D129 (Ab)
 
 
 ###### Article D329
@@ -30360,6 +30464,48 @@ _Modifié par_:
 
   - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
   - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D334
+
+Au moment de sa libération, chaque détenu reçoit les sommes qui résultent de la liquidation de son compte nominatif ;
+éventuellement lui sont également remis ;
+
+Les pièces justificatives du paiement des sommes versées pour l'exécution de ses condamnations pécuniaires ;
+
+Un état des sommes prélevées au titre des frais d'entretien ;
+
+Un état des sommes épargnées au titre du pécule de libération ;
+
+Un état des sommes prélevées au titre des cotisations à caractère social.
+
+Si l'intéressé doit, après son élargissement, être remis à une escorte, les fonds et les pièces justificatives sont remis
+contre décharge au chef de cette escorte, par dérogation aux dispositions du premier alinéa de l'article D310.
+
+Il en sera de même en cas de transfert uniquement en ce qui concerne les pièces justificatives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°78-460 1978-03-28 art. 4 JORF 1er avril 1978
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D310. (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D149-3 (V)
 
 **Liens**:
 
