@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-02-22
+Version Consolidée au 1990-02-27
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -36740,6 +36740,9 @@ bulletins de casier judiciaire.
 16° Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor
 public.
 
+18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la
+prévention et au règlement des difficultés liées au surendettement des particuliers et des familles.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -36776,6 +36779,7 @@ _Cite_:
 
   - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
   - Loi n°85-98 1985-01-25 art. 215
+  - Loi n°89-1010 1989-12-31 art. 11
   - Code civil - art. 287-1 (M)
   - CODE DE PROCEDURE PENALE - art. 16-2 (V)
   - CODE DE PROCEDURE PENALE - art. R92 (M)
@@ -36783,7 +36787,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°88-600 du 6 mai 1988 - art. 1 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+  - Décret n°90-175 du 21 février 1990 - art. 21 () JORF 27 février 1990
 
 **Liens**:
 
