@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-08-18
+Version Consolidée au 2000-09-21
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -6658,10 +6658,10 @@ _Modifié par_:
 
 ###### Article 99-1
 
-Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à l'article 283-5 du code rural, il a été procédé à
-la saisie ou au retrait, à quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la République près
-le tribunal de grande instance du lieu de l'infraction ou, lorsqu'il est saisi, le juge d'instruction peut placer l'animal
-dans un lieu de dépôt prévu à cet effet et qu'il désigne, jusqu'à ce qu'il ait été statué sur l'infraction.
+Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à l'article L. 214-23 du code rural, il a été
+procédé à la saisie ou au retrait, à quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la
+République près le tribunal de grande instance du lieu de l'infraction ou, lorsqu'il est saisi, le juge d'instruction peut
+placer l'animal dans un lieu de dépôt prévu à cet effet et qu'il désigne, jusqu'à ce qu'il ait été statué sur l'infraction.
 
 Lorsque les conditions du placement sont susceptibles de rendre l'animal dangereux ou de mettre sa santé en péril, le juge
 d'instruction, lorsqu'il est saisi, ou le président du tribunal de grande instance ou un magistrat du siège délégué par lui
@@ -6684,18 +6684,18 @@ exonération peut également être accordée en cas de non-lieu ou de relaxe.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Code rural L214-23
+  - CODE DE PROCEDURE PENALE - art. 99 (M)
+
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-5 du 6 janvier 1999 - art. 9 () JORF 7 janvier 1999
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 99 (M)
-  - Code rural 283-5
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
 
 _Cité par_:
 
