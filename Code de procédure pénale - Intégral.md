@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-01-04
+Version Consolidée au 2002-02-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -288,9 +288,9 @@ Version Consolidée au 2002-01-04
                   - [b : Des communications et notifications applicables lorsque l'auteur du recours est le procureur général près la cour d'appel (art. R40-13)](#285)
                   - [c : Des autres actes de procédure. (art. R40-14 à R40-22)](#286)
     - [Livre II : Des juridictions de jugement (art. R41 à R50)](#287)
-      - [Titre Ier : De la cour d'assises (art. R41 à R41-1)](#288)
+      - [Titre Ier : De la cour d'assises (art. R41 à R41-1-A)](#288)
         - [Chapitre II : De la tenue des assises (art. R41)](#289)
-        - [Chapitre III : De la composition de la cour d'assises (art. R41-1)](#290)
+        - [Chapitre III : De la composition de la cour d'assises (art. R41-1 à R41-1-A)](#290)
       - [Titre II : Du jugement des délits (art. R41-2)](#291)
         - [Chapitre Ier : Du tribunal correctionnel (art. R41-2)](#292)
       - [Titre III : Du jugement des contraventions (art. R42 à R50)](#293)
@@ -47023,24 +47023,30 @@ _Modifié par_:
 
 La liste des jurés suppléants prévue par l'article 264 comprend :
 
-- 1° Six cents jurés pour la cour d'assises de Paris ;
+1° Sept cents jurés pour la cour d'assises de Paris ;
 
-- 2° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde et des Yvelines ;
+2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
 
-- 3° Trois cent cinquante jurés pour les cours d'assises du Nord, de la Seine-Saint-Denis et du Val-de-Marne ;
+3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
 
-- 4° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de
-l'Essonne, des Hauts-de-Seine, de la Loire-Atlantique, du Rhône, de la Seine-Maritime, de Seine-et-Marne, du Val-d'Oise et du
-Var ;
+4° Trois cent cinquante jurés pour la cour d'assises de la Seine-Saint-Denis ;
 
-- 5° Deux cents jurés pour les cours d'assises d'Ille-et-Vilaine, de la Marne et de la Réunion ;
+5° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de
+l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime,
+de Seine-et-Marne, du Val-d'Oise et du Var ;
 
-- 6° Cent cinquante jurés pour les cours d'assises de l'Aisne, du Calvados, de la Côte-d'Or, de l'Eure, du Finistère, du
-Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire, de Meurthe-et-
-Moselle, de la Meuse, de la Moselle, de l'Oise, du Pas-de-Calais, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-
-Rhin, du Haut-Rhin, de la Sarthe, de la Somme, de Vaucluse et des Vosges ;
+6° Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
 
-- 7° Cent jurés pour les autres cours d'assises.
+7° Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du Calvados, de la Côte-d'Or, de l'Eure, du
+Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire,
+de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin,
+du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
+
+8° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
+
+9° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+
+10° Cent jurés pour les autres cours d'assises.
 
 **Liens relatifs à cet article**
 
@@ -47050,7 +47056,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-672 du 25 juillet 2001 - art. 1 () JORF 28 juillet 2001
+  - Décret n°2002-195 du 11 février 2002 - art. 2 () JORF 16 février 2002
 
 _Cite_:
 
@@ -47060,6 +47066,114 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R50 (M)
   - Nouveau code de procédure civile - art. 852-1 (M)
+
+
+###### Article R41-1-A
+
+En application des dispositions du deuxième alinéa de l'article 260, le nombre des jurés figurant sur les listes annuelles
+établies dans le ressort des cours d'assises énumérées ci-dessous est fixé comme suit :
+
+Cours d'assises
+
+DÉPARTEMENTS
+
+NOMBRE DE JURÉS
+
+figurant sur la liste annuelle
+
+Alpes-Maritimes
+
+1 000 
+
+Ardèche
+
+420 
+
+Bouches-du-Rhône
+
+2 000 
+
+Charente
+
+300 
+
+Côte-d'Or
+
+600 
+
+Dordogne
+
+400 
+
+Eure
+
+500 
+
+Guadeloupe
+
+450 
+
+Haute-Marne
+
+300 
+
+Haute-Savoie
+
+600 
+
+Ille-et-Vilaine
+
+900 
+
+Indre
+
+230 
+
+Mayenne
+
+300 
+
+Nièvre
+
+230 
+
+Paris
+
+2 300 
+
+Savoie
+
+390 
+
+Val-de-Marne
+
+1 700 
+
+Var
+
+1 000 
+
+Yonne
+
+350 
+
+Les dispositions du présent article cessent d'être applicables si, en raison de l'évolution officiellement constatée du
+nombre des habitants du ressort de la cour d'assises, le nombre des jurés résultant des dispositions du premier alinéa de
+l'article 260 dépasse celui fixé ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2002-195 du 11 février 2002 - art. 1 () JORF 16 février 2002
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 260 (M)
 
 
 ### Titre II : Du jugement des délits<a id=291></a>
