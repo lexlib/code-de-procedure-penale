@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-01-24
+Version Consolidée au 1995-02-03
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -20149,8 +20149,8 @@ _Cite_:
 
 Pour les contraventions des quatre premières classes à la réglementation des transports par route, au Code des assurances en
 ce qui concerne l'assurance obligatoire des véhicules terrestres à moteur et de leurs remorques et semi-remorques et à la
-règlementation sur les parcs nationaux qui sont punies seulement d'une peine d'amende, l'action publique est éteinte par le
-paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
+réglementation sur les parcs nationaux et les réserves naturelles qui sont punies seulement d'une peine d'amende, l'action
+publique est éteinte par le paiement d'une amende forfaitaire qui est exclusive de l'application des règles de la récidive.
 
 Toutefois, la procédure de l'amende forfaitaire n'est pas applicable si plusieurs infractions, dont l'une au moins ne peut
 donner lieu à une amende forfaitaire, ont été constatées simultanément.
@@ -20195,7 +20195,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-469 du 10 juillet 1989 - art. 1 () JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+  - Loi n°95-101 du 2 février 1995 - art. 87 () JORF 3 février 1995
 
 
 ###### Article 529-1
