@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-08-07
+Version Consolidée au 1993-08-11
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -23,7 +23,7 @@ Version Consolidée au 1993-08-07
       - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-5)](#20)
         - [Chapitre Ier : Des crimes et des délits flagrants (art. 53 à 74)](#21)
         - [Chapitre II : De l'enquête préliminaire (art. 75 à 78)](#22)
-        - [Chapitre III : Des contrôles d'identité (art. 78-1 à 78-5)](#23)
+        - [Chapitre III : Des contrôles et vérifications d'identité (art. 78-1 à 78-5)](#23)
       - [Titre III : Des juridictions d'instruction (art. 79 à 230)](#24)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 79 à 190)](#25)
           - [Section 1 : Dispositions générales (art. 79 à 84)](#26)
@@ -4291,7 +4291,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 62 (M)
 
 
-#### Chapitre III : Des contrôles d'identité<a id=23></a>
+#### Chapitre III : Des contrôles et vérifications d'identité<a id=23></a>
 
 ###### Article 78-1
 
@@ -4322,13 +4322,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
-_Créé par_:
-
-  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
 _Modifié par_:
 
-  - Loi n°86-1004 1986-09-03 art. 1 JORF 4 septembre 1986
+  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 _Cite_:
 
@@ -4350,8 +4346,23 @@ identité toute personne à l'égard de laquelle existe un indice faisant présu
 
 - ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
 
-L'identité de toute personne peut également être contrôlée, selon les mêmes modalités, pour prévenir une atteinte à l'ordre
-public, notamment une atteinte à la sécurité des personnes et des biens.
+Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite d'infractions qu'il précise,
+l'identité de toute personne peut être également contrôlée, selon les mêmes modalités, dans les lieux et pour une période de
+temps déterminés par ce magistrat. Le fait que le contrôle d'identité révèle des infractions autres que celles visées dans
+les réquisitions du procureur de la République ne constitue pas une cause de nullité des procédures incidentes.
+
+L'identité de toute personne, quel que soit son comportement, peut également être contrôlée, selon les modalités prévues au
+premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
+
+Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le
+19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, [Dispositions déclarées non conformes à la Constitution par
+décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] ainsi que dans les zones accessibles au public des ports,
+aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté [Dispositions déclarées
+non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] l'identité de toute
+personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des
+obligations de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle
+d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de
+nullité des procédures incidentes.
 
 La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit
 être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
@@ -4401,15 +4412,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-_Créé par_:
-
-  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+  - SPEC_APPLI: Loi n°93-992 1993-08-10 art. 3 et 4
 
 _Modifié par_:
 
-  - Loi n°86-1004 1986-09-03 art. 2 JORF 4 septembre 1986
+  - Loi n°93-992 du 10 août 1993 - art. 1 () JORF 11 août 1993
 
 _Cite_:
 
@@ -4498,7 +4505,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 162 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 _Cite_:
 
@@ -4519,9 +4526,13 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°83-466 1983-6-10 art. 43
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 _Cité par_:
 
@@ -4544,13 +4555,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
-_Créé par_:
-
-  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
-
 _Modifié par_:
 
-  - Loi n°86-1004 1986-09-03 art. 5 JORF 4 septembre 1986
+  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
 
 _Cite_:
 
