@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-12-29
+Version Consolidée au 2000-02-01
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 1999-12-29
           - [Section 3 : Des agents de police judiciaire (art. 20 à 21-2)](#8)
           - [Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire (art. 22 à 29)](#9)
             - [Paragraphe 1er : Des ingénieurs, chefs de district et agents techniques des eaux et forêts et des gardes champêtres (art. 22 à 27)](#10)
-            - [Paragraphe 2 : Des fonctionnaires et agents des administrations et services publics (art. 28)](#11)
+            - [Paragraphe 2 : Des fonctionnaires et agents des administrations et services publics (art. 28 à 28-1)](#11)
             - [Paragraphe 3 : Des gardes particuliers assermentés (art. 29)](#12)
         - [Chapitre II : Du ministère public (art. 31 à 48)](#13)
           - [Section 1 : Dispositions générales (art. 31 à 33)](#14)
@@ -2461,6 +2461,137 @@ _Cité par_:
   - Code de la consommation - art. L512-60 (V)
   - Code de la propriété intellectuelle - art. L331-21-1 (V)
   - Code du travail - art. L8271-6-1 (V)
+
+
+###### Article 28-1
+
+I. - Des agents des douanes de catégories A et B, spécialement désignés par arrêté des ministres chargés de la justice et du
+budget, pris après avis conforme d'une commission dont la composition et le fonctionnement sont déterminés par décret en
+Conseil d'Etat, peuvent être habilités à effectuer des enquêtes judiciaires sur réquisition du procureur de la République ou
+sur commission rogatoire du juge d'instruction.
+
+Ces agents ont, pour l'exercice des missions prévues par le présent article, compétence sur l'ensemble du territoire
+national. Ils sont compétents pour rechercher et constater les infractions prévues par le code des douanes, les infractions
+en matière de contributions indirectes, les infractions prévues aux articles L. 716-9 à L. 716-11 du code de la propriété
+intellectuelle, ainsi que pour les infractions qui leur sont connexes.
+
+Toutefois, sous réserve des dispositions du II, ils n'ont pas compétence en matière de trafic de stupéfiants, de trafic
+d'armes, de vols de biens culturels et de blanchiment du produit de ces trois catégories d'infractions.
+
+II. - Pour la recherche et la constatation des infractions prévues par les articles 222-34 à 222-40 du code pénal et par le
+décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, et des infractions qui leur sont
+connexes, le procureur de la République ou le juge d'instruction territorialement compétent peut constituer des unités
+temporaires composées d'officiers de police judiciaire et d'agents des douanes pris parmi ceux mentionnés au I. Le procureur
+de la République ou le juge d'instruction désigne le chef de chaque unité qu'il constitue.
+
+Les unités temporaires agissent sous la direction du procureur de la République ou du juge d'instruction mandant,
+conformément aux dispositions du présent code. Elles ont compétence sur toute l'étendue du territoire national.
+
+III. - Les agents de l'administration des douanes mentionnés aux I et II ne sont pas compétents pour effectuer des enquêtes
+judiciaires lorsque les faits ont été constatés en application des dispositions du code des douanes. Toutefois, ils peuvent
+dans ce cas exécuter des commissions rogatoires du juge d'instruction.
+
+IV. - Les agents des douanes désignés dans les conditions prévues au I doivent, pour mener des enquêtes judiciaires et
+recevoir des commissions rogatoires, y être habilités personnellement en vertu d'une décision du procureur général.
+
+La décision d'habilitation est prise par le procureur général près la cour d'appel du siège de leur fonction. Elle est
+accordée, suspendue ou retirée dans des conditions fixées par décret en Conseil d'Etat.
+
+Dans le mois qui suit la notification de la décision de suspension ou de retrait de l'habilitation, l'agent concerné peut
+demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois. A
+défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à partir du rejet de la demande, l'agent concerné peut
+former un recours devant la commission prévue à l'article 16-2. La procédure applicable devant cette commission est celle
+prévue par l'article 16-3 et ses textes d'application.
+
+V. - Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur
+de la République, sous la surveillance du procureur général et sous le contrôle de la chambre d'accusation du siège de leur
+fonction dans les conditions prévues par les articles 224 à 230.
+
+VI. - Lorsque, sur réquisition du procureur de la République, les agents des douanes mentionnés aux I et II procèdent à des
+enquêtes judiciaires, il est fait application des articles 54 (deuxième et troisième alinéas), 56, 57 à 62, 63 à 67, 75 à 78,
+706-28, 706-29 et 706-32.
+
+Lorsque ces agents agissent sur commission rogatoire d'un juge d'instruction, il est également fait application des articles
+152 à 155.
+
+Ces agents sont autorisés à déclarer comme domicile l'adresse du siège du service dont ils dépendent.
+
+VII. - Les agents des douanes mentionnés aux I et II sont placés sous la direction administrative d'un magistrat de l'ordre
+judiciaire selon des modalités fixées par décret en Conseil d'Etat.
+
+VIII. - Les agents de l'administration des douanes mentionnés aux I et II ne peuvent, à peine de nullité, exercer d'autres
+attributions ou accomplir d'autres actes que ceux prévus par le présent code dans le cadre des faits dont ils sont saisis par
+l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cité par_:
+
+  - Arrêté du 14 juin 1982 - art. 3 (V)
+  - Décret n°87-249 du 8 avril 1987 - art. 8 (V)
+  - Loi n°95-73 du 21 janvier 1995 - art. 15-1 (V)
+  - Arrêté du 20 janvier 2006 - art. 1 (V)
+  - Décret n°2010-219 du 2 mars 2010 - art. 5 (V)
+  - Arrêté du 15 juillet 2011 - art. 1 (V)
+  - Décret n°2012-895 du 19 juillet 2012 - art. 3 (V)
+  - Décret n°2013-1054 du 22 novembre 2013 - art. 4 (V)
+  - Décret n°2015-1700 du 18 décembre 2015 - art. 4 (V)
+  - Loi n°2016-731 du 3 juin 2016 - art. 37
+  - Décret du 15 juillet 2016 (V)
+  - Arrêté du 16 août 2016 (V)
+  - Arrêté du 16 août 2016 - art. 2
+  - Arrêté du 25 avril 2017 - art. 1
+  - Arrêté du 25 juillet 2017 (V)
+  - Arrêté du 30 mars 2018 - art. 1 (V)
+  - Décret n°2018-219 du 30 mars 2018 (V)
+  - Décret n°2018-220 du 30 mars 2018 - art. 1
+  - Arrêté du 22 mai 2018 - art. 4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (V)
+  - Code de la défense. - art. L2344-6 (V)
+  - Code de procédure pénale - art. 15-4 (V)
+  - Code de procédure pénale - art. 230-16 (V)
+  - Code de procédure pénale - art. D8-5 (V)
+  - Code de procédure pénale - art. R15-33-1 (V)
+  - Code de procédure pénale - art. R15-33-10 (V)
+  - Code de procédure pénale - art. R15-33-12 (V)
+  - Code de procédure pénale - art. R15-33-14 (V)
+  - Code de procédure pénale - art. R15-33-18 (V)
+  - Code de procédure pénale - art. R15-33-5 (V)
+  - Code des douanes - art. 323-9 (VD)
+  - Code des douanes - art. 343 (V)
+  - Code des douanes - art. 453 (V)
+  - Code des douanes de Mayotte - art. 193-9 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 368 C (P)
+  - Livre des procédures fiscales - art. L135 ZC (V)
+  - Livre des procédures fiscales - art. L235 (V)
+
+_Créé par_:
+
+  - Loi n°99-515 du 23 juin 1999 - art. 28 (V) JORF 24 juin 1999 en vigueur le 1er février 2000
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2000-1072 du 2 novembre 2000
+  - TXT_SOURCE: Décret n°2000-1072 du 2 novembre 2000 - art. 1 ()
+  - TXT_SOURCE: Décret n°2000-1072 du 2 novembre 2000 - art. 2 ()
+
+_Cite_:
+
+  - Décret-loi 1939-04-18
+  - Code de la propriété intellectuelle L716-9 à L716-11
+  - Code pénal 222-34 à 222-40
+  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
+  - CODE DE PROCEDURE PENALE - art. 16-3 (V)
+  - CODE DE PROCEDURE PENALE - art. 54 (V)
+  - CODE DE PROCEDURE PENALE - art. 56 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-28 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-29 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-32 (Ab)
+  - Code de procédure pénale 16-2, 16-3, 224 à 230, 54, 56, 57 à 62, 63 à 67, 75 à 78, 706-28, 706-29, 706-32, 152 à 155
 
 
 ##### Paragraphe 3 : Des gardes particuliers assermentés<a id=12></a>
