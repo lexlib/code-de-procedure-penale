@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-04-20
+Version Consolidée au 1984-08-31
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -426,7 +426,7 @@ Version Consolidée au 1984-04-20
         - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#423)
         - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#424)
         - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#425)
-          - [Section 2 : Des conditions particulières (art. D537)](#426)
+          - [Section 2 : Des conditions particulières (art. D535 à D537)](#426)
         - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#427)
         - [Chapitre V : Dispositions diverses (art. D543)](#428)
         - [Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1 (art. D544-1 à D544-4)](#429)
@@ -43995,6 +43995,47 @@ _Codifié par_:
 
 
 ##### Section 2 : Des conditions particulières<a id=426></a>
+
+###### Article D535
+
+La décision accordant à un condamné le bénéfice de la libération conditionnelle peut subordonner l'octroi de cette mesure à
+l'une des conditions suivantes :
+
+1° Avoir satisfait à une épreuve de semi-liberté dont les modalités sont déterminées par ladite décision ;
+
+2° Remettre tout ou partie de son pécule au comité de probation et d'assistance aux libérés, à charge par ledit comité de
+restitution par fractions ;
+
+3° S'engager dans les armées de terre, de mer ou de l'air dans les cas où la loi l'autorise, ou rejoindre une formation des
+forces armées s'il s'agit d'un détenu appartenant à un contingent d'âge présent ou appelé sous les drapeaux, ou s'il s'agit
+d'un militaire ou d'un marin en activité de service ;
+
+4° S'il s'agit d'un étranger, être expulsé du territoire national, reconduit à la frontière ou être extradé, ou quitter le
+territoire national et n'y plus paraître.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°84-809 1984-08-28 art. 2 JORF 31 août 1984
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D120 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D528 (M)
+  - Code de procédure pénale - art. D143 (V)
+  - Code de procédure pénale - art. D145 (M)
+  - Code de procédure pénale - art. D523 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
 
 ###### Article D537
 
