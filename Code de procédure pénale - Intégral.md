@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-01-05
+Version Consolidée au 1980-04-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -293,7 +293,7 @@ Version Consolidée au 1980-01-05
           - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D118 à D147)](#290)
             - [Paragraphe 1er : Dispositions communes (art. D120 à D125)](#291)
             - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#292)
-            - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#293)
+            - [Paragraphe 3 : Régime de semi-liberté (art. D141)](#293)
             - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#294)
             - [Paragraphe 4 : Permissions de sortir (art. D142-1 à D147)](#295)
           - [Section 4 : Du travail des détenus (art. D99 à D109)](#296)
@@ -28391,25 +28391,6 @@ _Cite_:
 
 ##### Paragraphe 3 : Régime de semi-liberté<a id=293></a>
 
-###### Article D140
-
-[Article abrogé]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Abrogé par_:
-
-  - Décret n°80-227 1980-03-27 art. 3 JORF 1er avril 1980
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
 ###### Article D141
 
 Par exception au principe rappelé à l'article D110, les condamnés admis au régime de semi-liberté relèvent du régime général
@@ -28878,6 +28859,45 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D111 (M)
   - CODE DE PROCEDURE PENALE - art. D114 (M)
   - CODE DE PROCEDURE PENALE - art. D327. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D113
+
+Une part égale à 20 % [*pourcentage*] de la rémunération telle qu'elle résulte de l'article D111 est affectée à la
+constitution d'un pécule de libération ainsi qu'à l'indemnisation des parties civiles.
+
+Les prélèvements relatifs à l'indemnisation des parties civiles sont limités à la moitié de cette part.
+
+La part prévue par le premier alinéa du présent article est réduite à 10 % [*pourcentage*] pour les semi-libres. Elle est
+exclusivement réservée à l'indemnisation des parties civiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°78-460 1978-03-28 art. 1 JORF 1er avril 1978
+  - Décret n°80-227 1980-03-27 art. 1 JORF 1er avril 1980
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D111 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D114 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D324. (M)
+  - CODE DE PROCEDURE PENALE - art. D325. (M)
+  - CODE DE PROCEDURE PENALE - art. D328. (Ab)
+  - CODE DE PROCEDURE PENALE - art. D329. (Ab)
 
 **Liens**:
 
