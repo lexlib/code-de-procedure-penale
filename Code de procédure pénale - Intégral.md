@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-08-08
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -306,163 +306,173 @@ Version Consolidée au 1985-07-26
             - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D16 à D26)](#303)
             - [Paragraphe 6 : Désignation du juge d'instruction. (art. D27 à D31)](#304)
           - [Section 2 : De la constitution de partie civile et de ses effets (art. D32)](#305)
-          - [Section 8 : Des commissions rogatoires (art. D33 à D36)](#306)
-        - [Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré (art. D43)](#307)
-          - [Section 1 : Dispositions générales (art. D43)](#308)
-        - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. D44 à D47)](#309)
-          - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#310)
-    - [Livre IV : De quelques procédures particulières (art. D47-1)](#311)
-      - [Titre II : Du faux (art. D47-1)](#312)
-    - [Livre V : Des procédures d'exécution (art. D48 à D572)](#313)
-      - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49)](#314)
-      - [Titre II : De la détention (art. D51 à D519)](#315)
-        - [Chapitre Ier : De l'exécution de la détention provisoire (art. D56 à D69)](#316)
-          - [Section 2 : Des ordres donnés par l'autorité judiciaire (art. D56)](#317)
-          - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#318)
-            - [Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel (art. D58 à D59)](#319)
-            - [Paragraphe 2 : Dispenses dont bénéficient les prévenus (art. D61 à D63)](#320)
-            - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#321)
-            - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#322)
-        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70-2 à D114)](#323)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D70-2 à D73-1)](#324)
-          - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#325)
-          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D97)](#326)
-            - [Paragraphe 1er : Maisons d'arrêt (art. D83 à D93)](#327)
-              - [A : Etablissements cellulaires (art. D84 à D86)](#328)
-              - [B : Etablissements en commun (art. D88 à D90)](#329)
-              - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#330)
-            - [Paragraphe 2 : Etablissements pour peines (art. D94 à D97)](#331)
-          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#332)
-          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D118 à D147)](#333)
-            - [Paragraphe 1er : Dispositions communes (art. D120 à D125)](#334)
-            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#335)
-            - [Paragraphe 3 : Régime de semi-liberté (art. D141)](#336)
-            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#337)
-            - [Paragraphe 4 : Régime de semi-liberté (art. D137)](#338)
-            - [Paragraphe 4 : Permissions de sortir (art. D142-1 à D147)](#339)
-          - [Section 4 : Du travail des détenus (art. D99 à D109)](#340)
-            - [Paragraphe 1er : Principes (art. D99 à D100)](#341)
-            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#342)
-          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#343)
-        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D148 à D187)](#344)
-          - [Section 1 : Du greffe judiciaire des prisons (art. D148 à D166)](#345)
-            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D148 à D151)](#346)
-            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#347)
-            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D155 à D166)](#348)
-              - [A : Dossier spécial aux condamnés à une longue peine. (art. D156 à D164)](#349)
-              - [B : Dossiers des autres détenus. (art. D165 à D166)](#350)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D167 à D175)](#351)
-            - [Paragraphe 1 : Punition de cellule (art. D167 à D169)](#352)
-            - [Paragraphe 2 : Mise à l'isolement (art. D170 à D171)](#353)
-            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#354)
-          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#355)
-          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#356)
-          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#357)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#358)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#359)
-          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D196 à D228)](#360)
-            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#361)
-          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#362)
-          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#363)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#364)
-          - [Section 1 : De la police intérieure (art. D241 à D247)](#365)
-          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D249 à D253)](#366)
-            - [Paragraphe 1er : Sanctions disciplinaires (art. D249 à D251-1)](#367)
-            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D253)](#368)
-          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#369)
-          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#370)
-          - [Section 5 : De la sécurité (art. D265 à D283)](#371)
-            - [Paragraphe 1er : Dispositions générales (art. D267 à D276)](#372)
-            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#373)
-            - [Paragraphe 3 : Incidents (art. D281 à D283)](#374)
-        - [Chapitre VI : Des mouvements de détenus (art. D286 à D317)](#375)
-          - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#376)
-          - [Section 2 : Des transfèrements et des extractions (art. D290 à D317)](#377)
-            - [Paragraphe 1er : Dispositions communes (art. D292 à D296)](#378)
-            - [Paragraphe 2 : Transfèrements (art. D297 à D312)](#379)
-              - [A : Translations judiciaires (art. D297 à D299)](#380)
-              - [B : Transfèrements administratifs (art. D301 à D303)](#381)
-              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#382)
-              - [D : Cas particuliers (art. D311 à D312)](#383)
-            - [Paragraphe 3 : Extractions (art. D314 à D317)](#384)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348)](#385)
-          - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#386)
-            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#387)
-            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#388)
-          - [Section 2 : De l'entretien des détenus (art. D342 à D348)](#389)
-        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#390)
-          - [Section 1 : De l'hygiène (art. D349 à D363)](#391)
-            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#392)
-            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#393)
-            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#394)
-            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#395)
-          - [Section 2 : Du service sanitaire (art. D364 à D400)](#396)
-            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D372)](#397)
-            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D378)](#398)
-            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#399)
-            - [Paragraphe 4 : Soins divers (art. D391 à D398)](#400)
-            - [Paragraphe 5 : Maternité (art. D399 à D400)](#401)
-        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#402)
-          - [Section 1 : Des visites (art. D403 à D412)](#403)
-          - [Section 2 : De la correspondance (art. D413 à D419)](#404)
-          - [Section 3 : Du maintien des liens familiaux (art. D420 à D423)](#405)
-          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D426)](#406)
-          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D428 à D431)](#407)
-        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D433 à D484)](#408)
-          - [Section 1 : De l'assistance spirituelle (art. D433 à D439)](#409)
-          - [Section 2 : De l'action socio-culturelle (art. D444 à D449-1)](#410)
-          - [Section 3 : De l'enseignement (art. D450 à D459)](#411)
-            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#412)
-          - [Section 4 : Du service socio-éducatif (art. D477)](#413)
-            - [Paragraphe 2 : Visiteurs de prison (art. D477)](#414)
-          - [Section 5 : De l'aide à la libération (art. D484)](#415)
-            - [Paragraphe 2 : Aide aux indigents (art. D484)](#416)
-        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#417)
-          - [Section 1 : Des condamnés de police (art. D488 à D489)](#418)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D490 à D495)](#419)
-          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#420)
-          - [Section 4 : Des détenus appartenant aux forces armées (art. D508 à D513)](#421)
-          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#422)
-      - [Titre III : De la libération conditionnelle (art. D520 à D544-4)](#423)
-        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D520 à D525)](#424)
-        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#425)
-        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#426)
-          - [Section 2 : Des conditions particulières (art. D535 à D537)](#427)
-        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#428)
-        - [Chapitre V : Dispositions diverses (art. D543)](#429)
-        - [Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1 (art. D544-1 à D544-4)](#430)
-      - [Titre IV : Du sursis (art. D545 à D568)](#431)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#432)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#433)
-      - [Titre VI : De la contrainte par corps (art. D569)](#434)
-      - [Titre XI : Le comité de probation et d'assistance aux libérés (art. D572)](#435)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D573)](#436)
-  - [Partie Arrêtés (art. A1 à A57)](#437)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A27)](#438)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A27)](#439)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A27)](#440)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A27)](#441)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#442)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#443)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#444)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#445)
-      - [Titre II : De la détention (art. A39 à A43-1)](#446)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#447)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#448)
-          - [Section 5 (art. A39-1 à A39-2)](#449)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#450)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#451)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#452)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#453)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#454)
-      - [Titre IV : Du sursis (art. A45 à A52)](#455)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#456)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#457)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#458)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#459)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#460)
-        - [Disposition générale (art. A53)](#461)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#462)
+          - [Section 3 : Instructions et renseignements donnés par l'autorité judiciaire (art. D32-1)](#306)
+          - [Section 8 : Des commissions rogatoires (art. D33 à D36)](#307)
+        - [Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré (art. D43)](#308)
+          - [Section 1 : Dispositions générales (art. D43)](#309)
+        - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. D44 à D47)](#310)
+          - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#311)
+    - [Livre IV : De quelques procédures particulières (art. D47-1)](#312)
+      - [Titre II : Du faux (art. D47-1)](#313)
+    - [Livre V : Des procédures d'exécution (art. D48 à D572)](#314)
+      - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49-1)](#315)
+      - [Titre II : De la détention (art. D50 à D519)](#316)
+        - [Chapitre Ier : De l'exécution de la détention provisoire (art. D53 à D69)](#317)
+          - [Section 1 : Des établissements dans lesquels la détention provisoire est subie (art. D53 à D54)](#318)
+          - [Section 2 : Des ordres donnés par l'autorité judiciaire (art. D55 à D57)](#319)
+          - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#320)
+            - [Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel (art. D58 à D60)](#321)
+            - [Paragraphe 2 : Dispenses dont bénéficient les prévenus (art. D61 à D63)](#322)
+            - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#323)
+            - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#324)
+        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D69-1 à D114)](#325)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D69-1 à D75)](#326)
+          - [Section 2 : De l'orientation des condamnés à une longue peine (art. D76 à D82)](#327)
+          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D97)](#328)
+            - [Paragraphe 1er : Maisons d'arrêt (art. D83 à D93)](#329)
+              - [A : Etablissements cellulaires (art. D84 à D87)](#330)
+              - [B : Etablissements en commun (art. D88 à D90)](#331)
+              - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#332)
+            - [Paragraphe 2 : Etablissements pour peines (art. D94 à D97)](#333)
+          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D115 à D117-1)](#334)
+          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D118 à D147)](#335)
+            - [Paragraphe 1er : Dispositions communes (art. D119 à D125)](#336)
+            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D126 à D135)](#337)
+            - [Paragraphe 3 : Régime de semi-liberté (art. D141)](#338)
+            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#339)
+            - [Paragraphe 4 : Régime de semi-liberté (art. D137)](#340)
+            - [Paragraphe 4 : Permissions de sortir (art. D142 à D147)](#341)
+          - [Section 4 : Du travail des détenus (art. D98 à D110)](#342)
+            - [Paragraphe 1er : Principes (art. D98 à D101)](#343)
+            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D110)](#344)
+          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#345)
+        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D148 à D187)](#346)
+          - [Section 1 : Du greffe judiciaire des prisons (art. D148 à D166)](#347)
+            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D148 à D151)](#348)
+            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#349)
+            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D155 à D166)](#350)
+              - [A : Dossier spécial aux condamnés à une longue peine. (art. D156 à D164)](#351)
+              - [B : Dossiers des autres détenus. (art. D165 à D166)](#352)
+          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D167 à D175)](#353)
+            - [Paragraphe 1 : Punition de cellule (art. D167 à D169)](#354)
+            - [Paragraphe 2 : Mise à l'isolement (art. D170 à D171)](#355)
+            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#356)
+          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#357)
+          - [Section 4 : De la commission de surveillance (art. D180 à D185)](#358)
+          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#359)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#360)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#361)
+          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D196 à D228)](#362)
+            - [Paragraphe 1er : Attributions particulières (art. D198)](#363)
+            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#364)
+          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D229 à D233)](#365)
+          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#366)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#367)
+          - [Section 1 : De la police intérieure (art. D241 à D248)](#368)
+          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D249 à D254)](#369)
+            - [Paragraphe 1er : Sanctions disciplinaires (art. D249 à D251-1)](#370)
+            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D254)](#371)
+          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#372)
+          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#373)
+          - [Section 5 : De la sécurité (art. D265 à D283)](#374)
+            - [Paragraphe 1er : Dispositions générales (art. D266 à D276)](#375)
+            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#376)
+            - [Paragraphe 3 : Incidents (art. D280 à D283)](#377)
+        - [Chapitre VI : Des mouvements de détenus (art. D285 à D317)](#378)
+          - [Section 1 : Des entrées et sorties des détenus (art. D285 à D289)](#379)
+          - [Section 2 : Des transfèrements et des extractions (art. D290 à D317)](#380)
+            - [Paragraphe 1er : Dispositions communes (art. D292 à D296)](#381)
+            - [Paragraphe 2 : Transfèrements (art. D297 à D312)](#382)
+              - [A : Translations judiciaires (art. D297 à D299)](#383)
+              - [B : Transfèrements administratifs (art. D300 à D303)](#384)
+              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#385)
+              - [D : Cas particuliers (art. D311 à D312)](#386)
+            - [Paragraphe 3 : Extractions (art. D314 à D317)](#387)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D318 à D348)](#388)
+          - [Section 1 : De la gestion des biens des détenus (art. D318 à D341)](#389)
+            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#390)
+            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#391)
+          - [Section 2 : De l'entretien des détenus (art. D342 à D348)](#392)
+        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D401-1)](#393)
+          - [Section 1 : De l'hygiène (art. D349 à D363)](#394)
+            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#395)
+            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#396)
+            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#397)
+            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#398)
+          - [Section 2 : Du service sanitaire (art. D364 à D401-1)](#399)
+            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D372-3)](#400)
+            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D379)](#401)
+            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#402)
+            - [Paragraphe 4 : Soins divers (art. D391 à D398)](#403)
+            - [Paragraphe 5 : Maternité (art. D399 à D401-1)](#404)
+        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#405)
+          - [Section 1 : Des visites (art. D403 à D412)](#406)
+          - [Section 2 : De la correspondance (art. D413 à D419)](#407)
+          - [Section 3 : Du maintien des liens familiaux (art. D420 à D423)](#408)
+          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D426)](#409)
+          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D428 à D431)](#410)
+        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D432 à D486)](#411)
+          - [Section 1 : De l'assistance spirituelle (art. D432 à D439)](#412)
+          - [Section 2 : De l'action socio-culturelle (art. D440 à D449)](#413)
+          - [Section 2 : De l'assistance socioculturelle (art. D443)](#414)
+          - [Section 3 : De l'enseignement (art. D450 à D459)](#415)
+            - [Paragraphe 1er : Enseignement scolaire (art. D452)](#416)
+            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#417)
+          - [Section 4 : Du service socio-éducatif (art. D460 à D477)](#418)
+            - [Paragraphe 1er : Travailleurs sociaux (art. D461 à D471)](#419)
+              - [A : Rôle des travailleurs sociaux à l'égard des détenus (art. D464 à D466)](#420)
+              - [B : Moyens d'action des travailleurs sociaux (art. D467 à D471)](#421)
+            - [Paragraphe 2 : Visiteurs de prison (art. D472 à D477)](#422)
+          - [Section 5 : De l'aide à la libération (art. D478 à D486)](#423)
+            - [Paragraphe 1er : Avis donnés aux détenus au moment de leur libération (art. D479 à D480)](#424)
+            - [Paragraphe 2 : Aide aux indigents (art. D481 à D486)](#425)
+        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#426)
+          - [Section 1 : Des condamnés de police (art. D488 à D489)](#427)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D490 à D495)](#428)
+          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#429)
+          - [Section 4 : Des détenus appartenant aux forces armées (art. D508 à D513)](#430)
+          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#431)
+      - [Titre III : De la libération conditionnelle (art. D520 à D544-4)](#432)
+        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D520 à D525)](#433)
+        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D526 à D529)](#434)
+        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D530 à D535)](#435)
+          - [Section 1 : Des mesures d'aide et de contrôle (art. D532)](#436)
+          - [Section 2 : Des conditions particulières (art. D535)](#437)
+        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#438)
+        - [Chapitre V : Dispositions diverses (art. D542 à D544)](#439)
+        - [Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1 (art. D544-1 à D544-4)](#440)
+      - [Titre IV : Du sursis (art. D545 à D568)](#441)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#442)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#443)
+      - [Titre VI : De la contrainte par corps (art. D569 à D570)](#444)
+      - [Titre XI : Le comité de probation et d'assistance aux libérés (art. D572)](#445)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D573)](#446)
+  - [Partie Arrêtés (art. A1 à A57)](#447)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A27)](#448)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A27)](#449)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A27)](#450)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A27)](#451)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#452)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#453)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#454)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#455)
+      - [Titre II : De la détention (art. A39 à A43-1)](#456)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#457)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#458)
+          - [Section 5 (art. A39-1 à A39-2)](#459)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#460)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#461)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#462)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#463)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#464)
+      - [Titre IV : Du sursis (art. A45 à A52)](#465)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#466)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#467)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#468)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#469)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#470)
+        - [Disposition générale (art. A53)](#471)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#472)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -34944,7 +34954,53 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R155 (M)
 
 
-##### Section 8 : Des commissions rogatoires<a id=306></a>
+##### Section 3 : Instructions et renseignements donnés par l'autorité judiciaire<a id=306></a>
+
+###### Article D32-1
+
+Outre le titre de détention qu'il délivre, le juge d'instruction transmet au chef d'établissement une notice individuelle
+comportant des renseignements relatifs aux faits ayant motivé la poursuite de l'inculpé, à ses antécédents judiciaires et à
+sa personnalité.
+
+Il indique sur cette notice, le cas échéant, les mesures qu'il prescrit en application des dispositions des articles D. 55,
+D. 56, D. 61, D. 65, D. 105, D. 321, D. 337, D. 397 et D. 421.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 et art. 3 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+  - Décret n°2016-1455 du 28 octobre 2016 - art. 18 (V)
+  - Code de procédure pénale - art. D55-1 (V)
+  - Code de procédure pénale - art. D56-1 (Ab)
+  - Code de procédure pénale - art. D56-2 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D105 (M)
+  - CODE DE PROCEDURE PENALE - art. D321. (M)
+  - CODE DE PROCEDURE PENALE - art. D397 (M)
+  - CODE DE PROCEDURE PENALE - art. D421 (V)
+  - CODE DE PROCEDURE PENALE - art. D55 (M)
+  - CODE DE PROCEDURE PENALE - art. D56 (M)
+  - CODE DE PROCEDURE PENALE - art. D61 (V)
+  - CODE DE PROCEDURE PENALE - art. D65 (V)
+  - Code de procédure pénale D55, D56, D61, D65, D105, D321, D337, D397, D421
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 83 et 84
+
+
+##### Section 8 : Des commissions rogatoires<a id=307></a>
 
 ###### Article D33
 
@@ -35065,9 +35121,9 @@ _Cite_:
   - Code de procédure pénale 155 al. 2
 
 
-#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré<a id=307></a>
+#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré<a id=308></a>
 
-##### Section 1 : Dispositions générales<a id=308></a>
+##### Section 1 : Dispositions générales<a id=309></a>
 
 ###### Article D43
 
@@ -35103,9 +35159,9 @@ _Modifié par_:
   - Décret n°60-134 1960-02-02 art. 1 JORF 17 février 1960
 
 
-#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré<a id=309></a>
+#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré<a id=310></a>
 
-##### Section 3 : Du contrôle de l'activité des officiers de police judiciaire<a id=310></a>
+##### Section 3 : Du contrôle de l'activité des officiers de police judiciaire<a id=311></a>
 
 ###### Article D44
 
@@ -35234,9 +35290,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D44 (M)
 
 
-## Livre IV : De quelques procédures particulières<a id=311></a>
+## Livre IV : De quelques procédures particulières<a id=312></a>
 
-### Titre II : Du faux<a id=312></a>
+### Titre II : Du faux<a id=313></a>
 
 ###### Article D47-1
 
@@ -35251,9 +35307,9 @@ _Codifié par_:
   - Décret n°59-322 1959-02-23
 
 
-## Livre V : Des procédures d'exécution<a id=313></a>
+## Livre V : Des procédures d'exécution<a id=314></a>
 
-### Titre Ier : De l'exécution des sentences pénales<a id=314></a>
+### Titre Ier : De l'exécution des sentences pénales<a id=315></a>
 
 ###### Article D48
 
@@ -35323,7 +35379,80 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D48 (M)
 
 
-### Titre II : De la détention<a id=315></a>
+###### Article D49-1
+
+Préalablement à la mise à exécution d'une condamnation à une peine égale ou inférieure à six mois d'emprisonnement concernant
+une personne non incarcérée, le ministère public communique au juge de l'application des peines un extrait de la décision
+accompagné, le cas échéant, de toutes informations utiles. Il en est de même en cas de cumul des condamnations concernant la
+même personne si le total des peines prononcées n'excède pas six mois.
+
+Le juge de l'application des peines détermine les modalités d'exécution de la peine en considération de la situation du
+condamné.
+
+A défaut de réponse du juge de l'application des peines dans le mois suivant la communication visée à l'alinéa précédent et
+même, en cas d'urgence, avant ce terme, la peine peut être ramenée à exécution par le ministère public en la forme ordinaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 et art. 4 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°96-651 du 22 juillet 1996 - art. 4 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 707 (T)
+  - TXT_SOURCE: Code de procédure pénale 707, 708 et 709
+
+
+### Titre II : De la détention<a id=316></a>
+
+###### Article D50
+
+Sont désignées dans le présent titre par le mot détenus, les personnes faisant l'objet d'une mesure privative de liberté à
+l'intérieur d'un établissement pénitentiaire.
+
+Sont désignés par le mot condamnés, uniquement les condamnés ayant fait l'objet d'une décision ayant acquis le caractère
+définitif. Toutefois, par application des dispositions du deuxième alinéa de l'article 708, le délai d'appel accordé au
+procureur général par l'article 505 n'est pas pris en considération à cet égard.
+
+Sont indistinctement désignés par le mot prévenus, tous les détenus qui sont sous le coup de poursuites pénales et n'ont pas
+fait l'objet d'une condamnation définitive au sens précisé ci-dessus, c'est-à-dire aussi bien les inculpés, les prévenus, et
+les accusés, que les condamnés ayant formé opposition, appel ou pourvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Arrêté du 4 octobre 2010 - art. 6 (V)
+  - Arrêté du 29 décembre 2016 - art. 5 (V)
+  - Code de procédure pénale - art. D147 (V)
+  - Code de procédure pénale - art. D315 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 505 (V)
+  - CODE DE PROCEDURE PENALE - art. 708 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D51
 
@@ -35370,9 +35499,348 @@ _Cité par_:
   - Code de procédure pénale - art. D53 (V)
 
 
-#### Chapitre Ier : De l'exécution de la détention provisoire<a id=316></a>
+#### Chapitre Ier : De l'exécution de la détention provisoire<a id=317></a>
 
-##### Section 2 : Des ordres donnés par l'autorité judiciaire<a id=317></a>
+##### Section 1 : Des établissements dans lesquels la détention provisoire est subie<a id=318></a>
+
+###### Article D53
+
+Les prévenus placés en détention provisoire sont incarcérés, selon les prescriptions du mandat ou de la décision de justice
+dont ils font l'objet, à la maison d'arrêt de la ville où siège la juridiction d'instruction ou du jugement devant laquelle
+ils ont à comparaître.
+
+Toutefois, au cas où il n'y a pas de maison d'arrêt dans cette ville ou lorsque la maison d'arrêt ne comporte pas de locaux
+appropriés à l'âge ou à l'état de santé des intéressés, ou en ce qui concerne les femmes, de quartiers aménagés pour elles,
+ou encore lorsque cet établissement n'offre pas une capacité d'accueil ou des garanties de sécurité suffisantes, les prévenus
+sont incarcérés à la maison d'arrêt la plus proche disposant d'installations convenables, d'où ils sont extraits chaque fois
+que l'autorité judiciaire le requiert.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Loi - art. 37 (V)
+
+
+###### Article D54
+
+Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers,
+de la Haute-Savoie et du Vaucluse sont retenus respectivement à la maison d'arrêt d'Agen, à la maison d'arrêt de Bonneville
+et à la maison d'arrêt d'Avignon.
+
+La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison d'arrêt est fixée conformément au tableau
+ci-dessous, qui détermine en outre la ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à ces
+juridictions.
+
+COURS D'APPEL : AGEN
+
+JURIDICTION : Auch.
+
+PRISON DE RATTACHEMENT : Agen.
+
+JURIDICTION : Marmande.
+
+PRISON DE RATTACHEMENT : Agen. 
+
+COURS D'APPEL : AIX.
+
+JURIDICTION : Tarascon.
+
+PRISON DE RATTACHEMENT : Avignon. 
+
+COURS D'APPEL : AMIENS.
+
+JURIDICTION : Abbeville.
+
+PRISON DE RATTACHEMENT : Amiens.
+
+JURIDICTION : Laon.
+
+PRISON DE RATTACHEMENT : Saint-Quentin et Soissons.
+
+JURIDICTION : Péronne.
+
+PRISON DE RATTACHEMENT : Amiens et Saint-Quentin.
+
+JURIDICTION : Senlis.
+
+PRISON DE RATTACHEMENT : Compiègne.
+
+COURS D'APPEL : ANGERS.
+
+JURIDICTION : Saumur.
+
+PRISON DE RATTACHEMENT : Angers.
+
+COURS D'APPEL : BESANCON.
+
+JURIDICTION : Dôle.
+
+PRISON DE RATTACHEMENT : Besançon.
+
+COURS D'APPEL : BORDEAUX.
+
+JURIDICTION : Bergerac.
+
+PRISON DE RATTACHEMENT : Périgueux.
+
+JURIDICTION : Libourne.
+
+PRISON DE RATTACHEMENT : Bordeaux.
+
+COURS D'APPEL : CHAMBERY.
+
+JURIDICTION : Albertville.
+
+PRISON DE RATTACHEMENT : Chambéry.
+
+JURIDICTION : Annecy.
+
+PRISON DE RATTACHEMENT : Bonneville.
+
+JURIDICTION : Thonon-les-Bains.
+
+PRISON DE RATTACHEMENT : Bonneville.
+
+COURS D'APPEL : DOUAI.
+
+JURIDICTION : Avesnes-sur-Helpe.
+
+PRISON DE RATTACHEMENT : Valenciennes.
+
+JURIDICTION : Boulogne.
+
+PRISON DE RATTACHEMENT : Béthune et Saint-Omer.
+
+JURIDICTION : Hazebrouck.
+
+PRISON DE RATTACHEMENT : Saint-Omer.
+
+COURS D'APPEL : GRENOBLE.
+
+JURIDICTION : Vienne.
+
+PRISON DE RATTACHEMENT : Lyon. COURS D'APPEL : LYON.
+
+JURIDICTION : Belley.
+
+PRISON DE RATTACHEMENT : Chambéry.
+
+JURIDICTION : Montbrison.
+
+PRISON DE RATTACHEMENT : Saint-Etienne.
+
+JURIDICTION : Villefranche-sur-Saône.
+
+PRISON DE RATTACHEMENT : Lyon et Trévoux.
+
+COURS D'APPEL : METZ.
+
+JURIDICTION : Thionville.
+
+PRISON DE RATTACHEMENT : Metz.
+
+COURS D'APPEL : MONTPELLIER.
+
+JURIDICTION : Narbonne.
+
+PRISON DE RATTACHEMENT : Carcassonne.
+
+JURIDICTION : Millau.
+
+PRISON DE RATTACHEMENT : Rodez.
+
+COURS D'APPEL : NANCY.
+
+JURIDICTION : Saint-Dié.
+
+PRISON DE RATTACHEMENT : Remiremont en Epinal.
+
+COURS D'APPEL : NIMES.
+
+JURIDICTION : Carpentras.
+
+PRISON DE RATTACHEMENT : Avignon.
+
+COURS D'APPEL : PARIS.
+
+JURIDICTION : Bobigny.
+
+PRISON DE RATTACHEMENT : Fleury-Mérogis et Fresnes.
+
+JURIDICTION : Sens.
+
+PRISON DE RATTACHEMENT : Auxerre.
+
+COURS D'APPEL : PAU.
+
+JURIDICTION : Dax.
+
+PRISON DE RATTACHEMENT : Bayonne et Mont-de-Marsan.
+
+COURS D'APPEL : POITIERS.
+
+JURIDICTION : La Rochelle.
+
+PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+
+JURIDICTION : Rochefort.
+
+PRISON DE RATTACHEMENT : Saintes.
+
+JURIDICTION : Bressuire.
+
+PRISON DE RATTACHEMENT : Fontenay-le-Comte.
+
+JURIDICTION : Les Sables-d'Olonne.
+
+PRISON DE RATTACHEMENT : La Roche-sur-Yon.
+
+COURS D'APPEL : RENNES.
+
+JURIDICTION : Dinan.
+
+PRISON DE RATTACHEMENT : Saint-Malo.
+
+JURIDICTION : Guingamp.
+
+PRISON DE RATTACHEMENT : Saint-Brieuc.
+
+JURIDICTION : Morlaix.
+
+PRISON DE RATTACHEMENT : Brest et Saint-Brieuc. COURS D'APPEL :
+
+RIOM.
+
+JURIDICTION : Cusset.
+
+PRISON DE RATTACHEMENT : Moulins-Yzeure.
+
+COURS D'APPEL : ROUEN.
+
+JURIDICTION : Bernay.
+
+PRISON DE RATTACHEMENT : Evreux.
+
+COURS D'APPEL : TOULOUSE.
+
+JURIDICTION : Saint-Gaudens.
+
+PRISON DE RATTACHEMENT : Toulouse.
+
+JURIDICTION : Castres.
+
+PRISON DE RATTACHEMENT : Albi et Toulouse.
+
+COURS D'APPEL : VERSAILLES.
+
+JURIDICTION : Nanterre.
+
+PRISON DE RATTACHEMENT : M.A. des Yvelines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°73-281 1973-03-07 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°84-584 1984-07-03 art. 1 JORF 11 juillet 1984
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2018-288 du 19 avril 2018 (V)
+  - Décret n°2018-288 du 19 avril 2018 - art. 1
+  - Décret n°2018-794 du 14 septembre 2018 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 2 : Des ordres donnés par l'autorité judiciaire<a id=319></a>
+
+###### Article D55
+
+Conformément aux dispositions de l'article 715, le juge d'instruction, le président de la chambre d'accusation et le
+président de la cour d'assises, ainsi que le procureur de la République et le procureur général, peuvent donner tous les
+ordres nécessaires [*compétence*] soit pour l'instruction, soit pour le jugement, qui devront être exécutés dans les maisons
+d'arrêt. 
+
+Compte rendu doit leur être adressé d'urgence des difficultés auxquelles pourrait donner lieu l'exécution desdits ordres. 
+
+Les mêmes prérogatives appartiennent au juge des enfants à l'égard des mineurs relevant de sa juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D56 (M)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 715 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D55-1
+
+Hors le cas de l'instruction préparatoire, l'autorité judiciaire qui ordonne un placement en détention provisoire ou, à
+défaut, le ministère public chargé de l'exécution de la décision, adresse au chef de l'établissement, en même temps que le
+titre de détention, la notice prévue par l'article D32-1 (alinéa 1er).
+
+Cette notice précise, le cas échéant, les mesures prescrites par l'autorité judiciaire et l'avis prévu par l'article D79.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 et art. 5 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D48-5-3 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D79 (M)
+  - Code de procédure pénale D32-1 al. 1, D79
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D56
 
@@ -35410,9 +35878,53 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du régime de la détention provisoire<a id=318></a>
+###### Article D57
 
-##### Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel<a id=319></a>
+Les autorités judiciaires requièrent la translation ou l'extraction des prévenus aux fins et dans les conditions visées aux
+articles D116, D292 à D296, D297 à D299 et D314 à D317.
+
+Sous réserve de l'application éventuelle des dispositions du deuxième alinéa de l'article R94, l'exécution des réquisitions
+de translation ou d'extraction est assurée par les services de gendarmerie ou de police.
+
+Les frais de l'opération sont imputables sur le chapitre des frais de justice criminelle et correctionnelle, sauf dans le cas
+prévu à l'article R99.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°79-534 1979-07-03 art. 18 JORF 5 juillet 1979
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1943
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Arrêté du 2 septembre 2011 - art. 1 (V)
+  - Décret n°2011-1045 du 2 septembre 2011 (V)
+  - Arrêté du 11 mars 2016 - art. 2 (V)
+  - Code de procédure pénale - art. D297 (V)
+  - Code de procédure pénale - art. D299 (V)
+  - Code de procédure pénale - art. D315 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D116 (M)
+  - CODE DE PROCEDURE PENALE - art. R94 (V)
+  - CODE DE PROCEDURE PENALE - art. R95 (V)
+  - Code de procédure pénale R94, R95, D116, D292 à D296, D297 à D299, D314 à D317
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 3 : Du régime de la détention provisoire<a id=320></a>
+
+##### Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel<a id=321></a>
 
 ###### Article D58
 
@@ -35474,7 +35986,31 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispenses dont bénéficient les prévenus<a id=320></a>
+###### Article D60
+
+Lorsqu'ils ont demandé à travailler et si la nature des travaux à exécuter l'exige ou s'il n'a pas été possible de trouver
+des tâches susceptibles d'être effectuées individuellement en cellule, les prévenus peuvent travailler en commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Dispenses dont bénéficient les prévenus<a id=322></a>
 
 ###### Article D61
 
@@ -35563,7 +36099,7 @@ _Cite_:
   - Code de procédure pénale D328 et D329
 
 
-##### Paragraphe 3 : Visites et correspondance<a id=321></a>
+##### Paragraphe 3 : Visites et correspondance<a id=323></a>
 
 ###### Article D64
 
@@ -35626,7 +36162,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Paragraphe 4 : Exercice des droits de la défense<a id=322></a>
+##### Paragraphe 4 : Exercice des droits de la défense<a id=324></a>
 
 ###### Article D66
 
@@ -35745,9 +36281,143 @@ _Cité par_:
   - Code de procédure pénale - art. D419 (Ab)
 
 
-#### Chapitre II : De l'exécution des peines privatives de liberté<a id=323></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté<a id=325></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=324></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=326></a>
+
+###### Article D69-1
+
+Les condamnés sont répartis dans les établissements affectés à l'exécution des peines compte tenu, notamment, de leur sexe,
+de leur âge, de leur situation pénale, de leurs antécédents, de leur état de santé physique et mentale, de leurs aptitudes,
+et, plus généralement, de leur personnalité ainsi que du régime pénitentiaire dont ils relèvent en vue de leur réadaptation
+sociale
+
+Les condamnés sont, dans la mesure du possible, intéressés à l'élaboration ou à la modification de leur programme de
+traitement individuel qui est conçu et mis en oeuvre en liaison avec les différentes catégories de personnel.
+
+Les affectations des condamnés sont décidées exclusivement par l'administration centrale des services pénitentiaires à la
+suite de la procédure d'orientation visée à la section II.
+
+Toutefois, les affectations relèvent de la compétence du directeur régional des services pénitentiaires pour les détenus dont
+le reliquat de la peine à subir n'excède pas deux ans d'emprisonnement.
+
+Dans l'un et l'autre cas, les décisions sont prises, sauf urgence, après consultation du juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 et art. 3 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 et art. 2 1° JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D70 (M)
+  - CODE DE PROCEDURE PENALE - art. D94 (M)
+
+
+###### Article D70
+
+Les établissements qui reçoivent les condamnés définitifs sont :
+
+Pour les condamnés à une longue peine, au sens du premier alinéa de l'article 717, les maisons centrales et les centres de
+détention à vocation nationale ou régionale dont les régimes et les critères d'affectation sont respectivement définis aux
+articles D70-1, D70-2 et D73 ;
+
+Pour les autres condamnés, les maisons d'arrêt.
+
+Des établissements ou quartiers d'établissements appartenant à l'une des catégories visées ci-dessus sont spécialement
+destinés à recevoir, en fonction, des critères définis au premier alinéa de l'article D69-1 :
+
+- soit les mineurs et les jeunes adultes dont la peine expirera avant qu'ils aient atteint l'âge de vingt-huit ans ;
+
+- soit les détenus dont l'état de santé nécessite une prise en charge médicale.
+
+Par ailleurs, les condamnés admis au régime de la semi-liberté sont détenus dans des quartiers ou des centres destinés à cet
+effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°80-239 1980-04-01 art. 1 JORF 4 avril 1980
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Loi - art. 37 (V)
+  - Arrêté du 6 octobre 2009 (V)
+  - Arrêté du 29 décembre 2016 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. A39 (M)
+  - CODE DE PROCEDURE PENALE - art. D74 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D69-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D70-1 (Ab)
+  - Code de procédure pénale D69-1, D70-1, D70-2 et D73
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D70-1
+
+Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent néanmoins
+de préserver et de développer les possibilités de reclassement des condamnés.
+
+Un arrêté ministériel fixe la liste des maisons centrales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D70 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D70-2
 
@@ -35779,6 +36449,50 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D71
+
+Les affectations des condamnés auxquels il reste à subir une peine d'une durée supérieure à deux ans ou plusieurs peines dont
+le total est supérieur à deux ans, après le moment où leur condamnation ou la dernière de leurs condamnations, est devenue
+définitive, sont décidées exclusivement par l'administration centrale des services pénitentiaires à la suite de la procédure
+d'orientation visée à la section II. Elles peuvent être modifiées au cours de l'exécution de la peine compte tenu notamment
+du comportement des condamnés ou de leurs perspectives de réadaptation sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 et art. 3 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. A39-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D70 (M)
+  - CODE DE PROCEDURE PENALE - art. D97 (M)
+  - Code de procédure pénale - art. A39 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D72 (V)
+
+_Anciens textes_:
+
+  - Code de procédure pénale D70-3
 
 
 ###### Article D72
@@ -35830,9 +36544,13 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-###### Article D73-1
+###### Article D73
 
-[Article abrogé].
+Les centres de détention régionaux reçoivent les condamnés auxquels il reste à subir un temps d'incarcération n'excédant pas
+trois ans.
+
+L'affectation est décidée à l'échelon régional pour les détenus dont le reliquat de la peine ou des peines n'excède pas deux
+ans d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -35840,28 +36558,226 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
-
-  - Décret n°80-239 1980-04-01 art. 2 JORF 4 avril 1980
-
 _Modifié par_:
 
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
   - Décret n°83-48 1983-01-26 art. 3 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
-_Abrogé par_:
+_Cité par_:
 
-  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
+  - CODE DE PROCEDURE PENALE - art. D70 (V)
 
 _Anciens textes_:
 
-  - CODE DE PROCEDURE PENALE - art. D72-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D72 (M)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D74 (V)
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'orientation des condamnés à une longue peine<a id=325></a>
+###### Article D74
+
+Le régime des centres de détention réservés aux jeunes condamnés fait l'objet d'aménagements correspondant aux besoins
+particuliers de cette catégorie de détenus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°83-48 1983-01-26 art. 3 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D73 (M)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D75 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D94 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D75
+
+Des établissements ou des quartiers d'établissements appartenant à la catégorie des maisons d'arrêt, des maisons centrales et
+des centres de détention ont une vocation sanitaire et sont aménagés, pour que les détenus puissent y recevoir les soins ou y
+être soumis à la surveillance d'ordre médical que nécessite soit leur âge ou leur infirmité, soit leur état de santé physique
+ou mental.
+
+L'admission est prononcée, sur avis médical, par l'administration centrale ou par le Directeur régional, selon les
+dispositions [*conditions*] des articles D300, D301 et D383 ; en ce qui concerne les détenus malades, la décision de sortie
+est prise dans des conditions identiques.
+
+Les condamnés placés dans ces établissements reçoivent un traitement médical approprié, mais ils demeurent soumis au régime
+des prisons ordinaires, en toutes celles de ses dispositions qui ne peuvent nuire à ce traitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°83-48 1983-01-26 art. 3 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D300. (M)
+  - Code de procédure pénale D300, D301 et D383
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D74 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 2 : De l'orientation des condamnés à une longue peine<a id=327></a>
+
+###### Article D76
+
+Pour l'application des dispositions de la présente section sont considérés comme ayant à subir une longue peine les condamnés
+à la réclusion criminelle et les condamnés à l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à
+deux ans ou plusieurs peines dont le total est supérieur à deux ans, après le moment où leur condamnation, ou la dernière de
+leurs condamnations, est devenue définitive.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 9 1° JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+  - Décret n°2016-1609 du 25 novembre 2016 (V)
+  - Code de procédure pénale - art. D601 (V)
+  - Code de procédure pénale - art. D75 (V)
+  - Code de procédure pénale - art. D79 (V)
+  - Code de procédure pénale - art. D81-2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D77
+
+L'orientation des condamnés à une longue peine a pour objet de déterminer l'établissement pénitentiaire qui convient à chacun
+d'eux, compte tenu de son âge, de ses antécédents, de sa catégorie pénale, de son état de santé physique et mentale, de ses
+aptitudes, des possibilités de son reclassement, et plus généralement, de sa personnalité.
+
+L'orientation relève exclusivement de l'administration centrale pour les condamnés auxquels il reste à subir une peine d'une
+durée supérieure à deux ans, ou plusieurs peines dont le total est supérieur à deux ans, après le moment où leur condamnation
+ou la dernière de leurs condamnations est devenue définitive. Elle s'opère à l'aide des renseignements qui sont fournis par
+l'autorité judiciaire et par l'administration pénitentiaire sur les intéressés, et éventuellement, grâce aux examens auxquels
+ces derniers sont soumis au centre national d'observation de l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 9 2° JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+  - Décret n°2004-837 du 20 août 2004 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. D147-13 (M)
+  - Code de procédure pénale - art. A54 (V)
+  - Code de procédure pénale - art. D158 (V)
+  - Code de procédure pénale - art. D76 (V)
+  - Code de procédure pénale - art. D78 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D78
+
+Le ministère public près la juridiction qui a prononcé une condamnation à une longue peine adresse à l'établissement
+pénitentiaire où le condamné est détenu ou vient à être incarcéré, outre l'extrait de jugement ou d'arrêt et la notice
+individuelle visée à l'article D158, les pièces ci-dessous désignées :
+
+1° Copie du rapport de l'enquête ou des enquêtes sur la personnalité, la situation matérielle, familiale ou sociale de
+l'intéressé qui auraient été prescrites conformément aux dispositions de l'alinéa 5 de l'article 81 ;
+
+2° Copie du rapport de l'examen ou des examens médicaux, psychiatriques ou médico-psychologiques auxquels il aurait été
+éventuellement procédé en vertu d'une décision judiciaire ;
+
+3° Copie du réquisitoire définitif et de la décision de condamnation ;
+
+4° Et, s'il échet, les avis indiqués à l'article D79.
+
+Ces pièces et copies doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue
+définitive lorsque l'intéressé est détenu, ou sinon, dans le mois qui suit l'incarcération de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+  - CODE DE PROCEDURE PENALE - art. D147-13 (M)
+  - CODE DE PROCEDURE PENALE - art. D158 (M)
+  - CODE DE PROCEDURE PENALE - art. D79 (M)
+  - Code de procédure pénale - art. D163 (V)
+  - Code de procédure pénale - art. D55-1 (V)
+  - Code de procédure pénale - art. D77 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale 81 al. 5, D79 et D158
+
 
 ###### Article D79
 
@@ -35894,9 +36810,123 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D78 (M)
 
 
-##### Section 3 : Du régime auquel les condamnés sont soumis<a id=326></a>
+###### Article D80
 
-##### Paragraphe 1er : Maisons d'arrêt<a id=327></a>
+Le chef d'établissement signale à l'administration centrale chaque condamné auquel il reste à subir une peine d'une durée
+supérieure à deux ans, ou plusieurs peines dont le total est supérieur à deux ans, après le moment où la condamnation, ou la
+dernière des condamnations, est devenue définitive, au moyen d'une notice d'orientation. Il communique le texte de cette
+notice au juge de l'application des peines afin que ce magistrat soit en mesure de formuler son avis sur la destination du
+condamné.
+
+La notice contient, avec les propositions du chef d'établissement, les principaux renseignements de nature à permettre
+l'orientation de l'intéressé, et son examen donne lieu :
+
+- soit à une décision d'envoi au centre national d'observation ;
+
+- soit à la délivrance d'un ordre de transfèrement à destination d'un établissement affecté à l'exécution des peines, s'il
+apparaît immédiatement que cet établissement répond à la situation du condamné ;
+
+- soit au maintien de l'intéressé à l'établissement où il se trouve, ou à sa mise à la disposition du directeur régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 et art. 2 1° JORF 27 mai 1975
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 et art. 9 2° JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D81 (M)
+  - Code de procédure pénale - art. A55 (V)
+  - Code de procédure pénale - art. D82 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D81
+
+Au vu de la notice mentionnée à l'article D80 et afin de compléter le dossier, l'administration centrale peut procéder ou
+faire procéder, notamment par un service socio-éducatif des services extérieurs, à toute enquête sur la situation familiale
+et sociale d'un condamné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D80 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D82 (M)
+  - Code de procédure pénale - art. A56 (V)
+  - Code de procédure pénale - art. D163 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D82
+
+En cas d'admission au centre national d'observation, le condamné est transféré dans cet établissement suivant les
+instructions et à la date arrêtées par l'administration centrale et il y est soumis obligatoirement aux différents examens
+qui semblent nécessaires.
+
+Au vu de ces examens, du dossier qui a été constitué et des propositions du centre national d'observation, une décision
+d'affectation dans l'établissement qui paraît le mieux approprié à la personnalité de l'intéressé est prise par
+l'administration centrale.
+
+Le juge de l'application des peines du tribunal dans le ressort duquel est situé le centre national d'observation exerce
+auprès dudit centre toutes les attributions qui lui sont dévolues par le présent code.
+
+L'affectation ne peut être modifiée que s'il survient un fait ou un élément d'appréciation nouveau et, éventuellement, après
+un nouvel examen par le centre national d'observation. Ce centre peut également être chargé d'un bilan d'évolution de la
+personnalité d'un condamné dans la perspective notamment, d'une libération conditionnelle ou d'une meilleure
+individualisation du régime de détention ou d'exécution de la peine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°79-534 1979-07-03 art. 1 JORF 5 juillet 1979
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+
+
+##### Section 3 : Du régime auquel les condamnés sont soumis<a id=328></a>
+
+##### Paragraphe 1er : Maisons d'arrêt<a id=329></a>
 
 ###### Article D83
 
@@ -35930,7 +36960,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### A : Etablissements cellulaires<a id=328></a>
+##### A : Etablissements cellulaires<a id=330></a>
 
 ###### Article D84
 
@@ -36005,7 +37035,27 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### B : Etablissements en commun<a id=329></a>
+###### Article D87
+
+Si la nature des travaux à exécuter l'exige, ou s'il n'a pas été possible de trouver des tâches susceptibles d'être
+effectuées individuellement en cellule les détenus peuvent travailler en commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### B : Etablissements en commun<a id=331></a>
 
 ###### Article D88
 
@@ -36097,7 +37147,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### C : Répartition des détenus dans les établissements<a id=330></a>
+##### C : Répartition des détenus dans les établissements<a id=332></a>
 
 ###### Article D91
 
@@ -36123,6 +37173,23 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D92
+
+Le chef d'établissement informe chaque mois le président du tribunal de grande instance dans le ressort duquel se trouve la
+maison d'arrêt, le juge de l'application des peines, le procureur de la République près ledit tribunal, ainsi que le
+directeur régional des services pénitentiaires, de l'état des effectifs au regard des capacités d'accueil de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+
 ###### Article D93
 
 Le directeur régional ordonne tous les transfèrements utiles à l'intérieur de sa région concernant les condamnés à de courtes
@@ -36143,7 +37210,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Etablissements pour peines<a id=331></a>
+##### Paragraphe 2 : Etablissements pour peines<a id=333></a>
 
 ###### Article D94
 
@@ -36288,7 +37355,108 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=332></a>
+##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=334></a>
+
+###### Article D115
+
+Dans chaque tribunal de grande instance un ou plusieurs magistrats du siège sont chargés des fonctions de juge de
+l'application des peines.
+
+La compétence de ce ou de ces magistrats s'exerce à l'égard des établissements pénitentiaires situés dans le ressort du
+tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 JORF 16 mars 1973 rectificatif JORF 13 avril 1973
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D116
+
+Le juge de l'application des peines est chargé, auprès des établissements pénitentiaires situés dans le ressort de sa
+juridiction et dans lesquels sont détenus des condamnés, de suivre l'exécution des peines de ceux-ci.
+
+Il ne peut se substituer au directeur régional ou au chef de l'établissement, en ce qui concerne l'organisation ou le
+fonctionnement de celui-ci, mais il doit assurer l'individualisation de l'exécution de la sentence judiciaire en orientant et
+en contrôlant les conditions de son application *obligation*. A cet effet, il lui appartient de décider les principales
+modalités du traitement auquel sera soumis chaque condamné, et notamment les mesures visées à l'article D. 97 et aux articles
+D. 118 et suivants.
+
+Lorsqu'il n'y a pas urgence, il se prononce au sein de la commission de l'application des peines.
+
+Le juge de l'application des peines ordonne l'extraction des condamnés, soit en vue de la comparution de ceux-ci dans son
+cabinet lorsqu'il l'a estimé utile, soit dans les cas prévus aux articles 723-6, D. 424, D. 425 et D. 455, soit plus
+généralement pour la mise en application d'une décision relevant de sa compétence. Il requiert l'extraction par les services
+de police ou de gendarmerie selon la distinction de l'article D. 315.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°79-534 1979-07-03 art. 3 JORF 5 juillet 1979
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 723-6 (M)
+  - CODE DE PROCEDURE PENALE - art. D118 (V)
+  - CODE DE PROCEDURE PENALE - art. D424 (V)
+  - CODE DE PROCEDURE PENALE - art. D425 (V)
+  - CODE DE PROCEDURE PENALE - art. D455 (M)
+  - CODE DE PROCEDURE PENALE - art. D97 (M)
+  - Code de procédure pénale 723-6, D97, D118, D315, D424, D425, D455
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D528 (M)
+  - CODE DE PROCEDURE PENALE - art. D57 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D116-1
+
+Dans l'exercice de ses attributions, le juge de l'application des peines peut procéder ou faire procéder à toutes auditions,
+enquêtes ou examens utiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 et art. 6 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2004-837 du 20 août 2004 - art. 11 (V)
+  - Décret n°2004-837 du 20 août 2004 - art. 8 (V)
+  - Code de procédure pénale - art. D570 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D117
 
@@ -36313,7 +37481,51 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R200 (M)
 
 
-##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=333></a>
+###### Article D117-1
+
+La commission de l'application des peines qui siège dans chaque établissement pénitentiaire comprend, outre les membres de
+droit mentionnés à l'article 722 (alinéa 4), les membres du personnel de direction, le surveillant chef, un membre du
+personnel de surveillance, les travailleurs sociaux, le médecin et le psychiatre.
+
+Le juge de l'application des peines peut, en accord avec le chef de l'établissement, faire appel soit à titre permanent, soit
+pour une séance déterminée, à toute personne remplissant une mission dans la prison, lorsque sa connaissance des cas
+individuels ou des problèmes à examiner rend sa présence utile.
+
+Le juge de l'application des peines peut ordonner la comparution du détenu devant la commission de l'application des peines
+afin qu'il soit entendu par cette dernière dans les domaines qui relèvent de sa compétence.
+
+Les membres de la commission ainsi que les personnes appelées, à un titre quelconque, à assister à ses réunions sont tenus à
+l'égard des tiers au secret pour tout ce qui concerne ses travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°79-534 1979-07-03 art. 4 JORF 5 juillet 1979
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 et 9 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 722 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D528 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=335></a>
 
 ###### Article D118
 
@@ -36346,7 +37558,46 @@ _Cite_:
   - Code de procédure pénale 723 et 723-3
 
 
-##### Paragraphe 1er : Dispositions communes<a id=334></a>
+##### Paragraphe 1er : Dispositions communes<a id=336></a>
+
+###### Article D119
+
+La décision de placement à l'extérieur des condamnés en vue de leur emploi à des travaux contrôlés par l'administration,
+d'admission au régime de semi-liberté, sous réserve de l'application des dispositions de l'article 723-1, d'autorisation de
+sortie sous escorte ou de permission de sortir est prise [*compétence*] par le juge de l'application des peines, sur la
+proposition ou après avis du chef de l'établissement et, sauf urgence, au sein de la commission de l'application des peines.
+
+Ce magistrat recueille tous les renseignements qu'il estime utiles, sans préjudice de l'application des dispositions de
+l'article D. 127 lorsqu'il s'agit de l'ouverture d'un chantier de travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 723-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D127 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D120 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D133 (M)
+  - CODE DE PROCEDURE PENALE - art. D528 (M)
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 8 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°72-582 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°79-534 1979-07-03 art. 6 JORF 5 juillet 1979
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
 
 ###### Article D120
 
@@ -36398,6 +37649,36 @@ _Cité par_:
   - Code de procédure pénale - art. D106 (T)
   - Code de procédure pénale - art. D147-30-24 (VT)
   - Code de procédure pénale - art. D433-4 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D122
+
+Par dérogation aux dispositions de l'article D. 318, les détenus admis au régime de semi-liberté ou bénéficiaires d'une
+permission de sortir sont autorisés à détenir une somme d'argent leur permettant d'effectuer en dehors de l'établissement les
+dépenses nécessaires et, notamment, de payer les repas pris à l'extérieur et d'utiliser des moyens de transport.
+
+Le chef de l'établissement apprécie, au moment de la sortie des intéressés, l'importance de la somme qui doit leur être
+remise, par prélèvement sur leur part disponible. Lorsqu'ils réintègrent la prison, et à intervalles réguliers en ce qui
+concerne les semi-libres, les détenus doivent justifier des dépenses effectuées et le reliquat de la somme qui avait été mise
+à leur disposition est déposé au service comptable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D318 (Ab)
 
 **Liens**:
 
@@ -36502,7 +37783,67 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=335></a>
+##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=337></a>
+
+###### Article D126
+
+En application des dispositions du premier alinéa de l'article 723, les condamnés peuvent être employés en dehors d'un
+établissement pénitentiaire à des travaux contrôlés par l'administration.
+
+Ces travaux, quelle qu'en soit la nature, peuvent être exécutés pour le compte d'une administration, d'une collectivité
+publique, d'une personne physique ou morale sous les régimes définis à l'article D103.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 723 (M)
+  - CODE DE PROCEDURE PENALE - art. D103 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D127 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D127
+
+L'ouverture d'un chantier de travail dans les conditions prévues à l'article D126 est subordonnée à l'accord du commissaire
+de la République si l'effectif des détenus est supérieur à trois. Dans les autres cas, il en est tenu informé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D119 (Ab)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D126 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D128
 
@@ -36597,20 +37938,112 @@ _Cité par_:
 ###### Article D132
 
 Le chef d'établissement pénitentiaire doit s'assurer de la stricte exécution des consignes données au personnel de
-surveillance pour l'application des dispositions de l'article D130 [*obligation*].
+surveillance pour l'application des dispositions de l'article D130.
 
 Dans les cas visés à l'article D131, il détermine les modalités du contrôle en fonction de la personnalité du détenu, de la
 nature et du lieu des activités ou du traitement.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D130 (M)
   - CODE DE PROCEDURE PENALE - art. D131 (M)
 
+**Liens**:
 
-##### Paragraphe 3 : Régime de semi-liberté<a id=336></a>
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D133
+
+Le chef d'établissement, s'il s'agit d'un membre du personnel de direction, a qualité pour accorder une concession pour une
+durée égale ou inférieure à trois mois ou concernant un effectif égal ou inférieur à cinq détenus.
+
+Les concessions envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus font l'objet
+d'un contrat qui en fixe les conditions particulières, notamment en ce qui concerne l'effectif et la rémunération des détenus
+et la durée de la concession.
+
+Ainsi qu'il est dit à l'article D119, il ne peut recevoir effet à l'égard du placement de chaque détenu qu'après autorisation
+du juge de l'application des peines. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le directeur
+régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D119 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D134
+
+Les prix payés pour le travail des détenus doivent être égaux aux salaires et aux accessoires de salaires des travailleurs
+libres de la même catégorie placés dans les mêmes conditions de tâche et de lieu, déduction faite des frais particuliers
+pouvant incomber à l'employeur.
+
+Les salaires sont acquis à l'Etat qui verse au compte des détenus la part leur revenant en application des dispositions
+relatives à la répartition des produits du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-4° et 5° JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D135
+
+Les détenus placés à l'extérieur sont soumis aux mêmes horaires et conditions de travail que les travailleurs libres de même
+profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-5° JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 3 : Régime de semi-liberté<a id=338></a>
 
 ###### Article D141
 
@@ -36643,7 +38076,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D110 (V)
 
 
-##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=337></a>
+##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=339></a>
 
 ###### Article D136
 
@@ -36688,7 +38121,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 4 : Régime de semi-liberté<a id=338></a>
+##### Paragraphe 4 : Régime de semi-liberté<a id=340></a>
 
 ###### Article D137
 
@@ -36731,7 +38164,32 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 4 : Permissions de sortir<a id=339></a>
+##### Paragraphe 4 : Permissions de sortir<a id=341></a>
+
+###### Article D142
+
+La permission de sortir est accordée pour une ou plusieurs sorties. Elle autorise le condamné à se rendre en un lieu situé
+sur le territoire national.
+
+Un délai de route peut être accordé au bénéficiaire de la permission de sortir ; il est calculé en fonction de la durée du
+trajet et des horaires des moyens de transport utilisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°79-534 1979-07-03 art. 9 JORF 5 juillet 1979
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D142-1
 
@@ -36843,6 +38301,40 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D145
+
+Des permissions de sortir d'une durée maximale de trois jours peuvent être accordées en vue du maintien des liens familiaux
+ou de la préparation de la réinsertion sociale, aux condamnés qui ont exécuté la moitié de leur peine et qui n'ont plus à
+subir qu'un temps de détention inférieur à trois ans.
+
+Ces permissions sont accordées sans condition de délai aux condamnés exécutant une ou plusieurs peines d'emprisonnement
+n'excédant pas au total une durée d'un an.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D146-2 (M)
+  - Code de procédure pénale - art. D146 (M)
+  - Code de procédure pénale - art. D146-1 (Ab)
+  - Code de procédure pénale - art. D146-3 (Ab)
+  - Code de procédure pénale - art. D424 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D146
 
 Les condamnés incarcérés dans les centres de détention peuvent bénéficier des permissions de sortir prévues à l'article D145,
@@ -36898,9 +38390,38 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du travail des détenus<a id=340></a>
+##### Section 4 : Du travail des détenus<a id=342></a>
 
-##### Paragraphe 1er : Principes<a id=341></a>
+##### Paragraphe 1er : Principes<a id=343></a>
+
+###### Article D98
+
+Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont dispensés du
+travail  s'ils suivent effectivement un enseignement ou une formation professionnelle ou si, après avis du médecin, ils sont
+reconnus inaptes.
+
+L'inobservation par des détenus des ordres ou des instructions donnés pour l'exécution d'une tâche peut entraîner
+l'application de sanctions disciplinaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D99
 
@@ -36960,7 +38481,44 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D432-2 (M)
 
 
-##### Paragraphe 2 : Formes et modalités du travail<a id=342></a>
+###### Article D101
+
+Le travail est procuré aux détenus compte tenu du régime pénitentiaire auquel ceux-ci sont soumis, des nécessités de bon
+fonctionnement des établissements ainsi que des possibilités locales d'emploi.
+
+Dans la mesure du possible, le travail de chaque détenu est choisi en fonction non seulement de ses capacités physiques et
+intellectuelles, mais encore de l'influence que ce travail peut exercer sur les perspectives de sa réinsertion. Il est aussi
+tenu compte de sa situation familiale et de l'existence de parties civiles à indemniser.
+
+Les détenus peuvent être autorisés à travailler pour leur propre compte par le chef d'établissement s'il s'agit d'un membre
+du personnel de direction, sinon, par le directeur régional. Ils peuvent également être autorisés à travailler pour le compte
+d'associations constituées en vue de préparer leur réinsertion sociale et professionnelle.
+
+Ces associations sont agréées par décision du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+  - Décret n°75-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D103 (T)
+  - Code de procédure pénale - art. D107 (T)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Formes et modalités du travail<a id=344></a>
 
 ###### Article D102
 
@@ -36979,6 +38537,74 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+
+###### Article D103
+
+Le travail est effectué dans les établissements pénitentiaires sous le régime de la régie directe, de la concession ou de
+celui qui est défini pour les détenus autorisés à travailler pour leur propre compte ou dans le cadre d'une association
+agréée.
+
+Sont exclusives de tout contrat de travail les relations qui s'établissent entre l'administration pénitentiaire et le détenu
+auquel elle procure un travail ainsi que les relations entre l'entreprise concessionnaire et le détenu mis à sa disposition
+selon les conditions d'une convention administrative qui fixe, notamment, les conditions de rémunération et d'emploi.
+
+Toutefois, conformément au second alinéa de l'article 723, les dispositions ci-dessus ne sont pas applicables aux condamnés
+admis au régime de semi-liberté qui font l'objet, s'ils sont préalablement détenus, d'une décision de placement à laquelle
+ils doivent souscrire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D121 (V)
+  - CODE DE PROCEDURE PENALE - art. D126 (M)
+  - Code de la sécurité sociale. - art. D412-36 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale 723 al. 2
+
+
+###### Article D104
+
+Les concessions de travail à l'intérieur des établissements pénitentiaires font l'objet de clauses et conditions générales
+arrêtées par le ministre de la justice.
+
+Le chef d'établissement, s'il s'agit d'un membre du personnel de direction, a qualité [*compétence*] pour accorder une
+concession de travail pour une durée égale ou inférieure à trois mois ou pour un effectif égal ou inférieur à cinq détenus.
+
+Les concessions [*de travail*] envisagées pour une durée supérieure à trois mois ou pour un effectif supérieur à cinq détenus
+font l'objet d'un contrat qui en fixe les conditions particulières notamment quant à l'effectif des détenus, au montant des
+rémunérations et à la durée de la concession. Ce contrat est signé par le représentant de l'entreprise concessionnaire et le
+directeur régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D105
@@ -37009,6 +38635,40 @@ _Codifié par_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+
+
+###### Article D107
+
+Indépendamment de la garde des détenus, les surveillants assurent le respect des règles de discipline et de sécurité sur les
+lieux du travail.
+
+L'encadrement technique est assuré soit par un personnel spécialisé relevant de l'administration pénitentiaire, soit par des
+préposés des entreprises concessionnaires ou des animateurs des associations visées à l'article D101. Ces personnes
+extérieures sont agréées par le directeur régional après consultation du procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale - art. D101
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. D433-5 (M)
 
 
 ###### Article D108
@@ -37057,7 +38717,44 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : De la répartition du produit du travail<a id=343></a>
+###### Article D110
+
+Le droit à la réparation des accidents du travail et des maladies professionnelles est reconnu aux détenus exécutant un
+travail, selon les modalités du régime spécial établi par le décret n° 49-1585 du 10 décembre 1949 pris pour l'application
+aux détenus de la loi n° 46-2426 du 30 octobre 1946 sur la prévention et la réparation des accidents du travail et des
+maladies professionnelles.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-2426 du 30 octobre 1946
+  - Décret n°49-1585 du 10 décembre 1949
+  - Code de la sécurité sociale.
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9 JORF 8 août 1985
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2010-1635 du 23 décembre 2010 - art. 36
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D141 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. D433-9 (V)
+
+
+##### Section 5 : De la répartition du produit du travail<a id=345></a>
 
 ###### Article D111
 
@@ -37203,11 +38900,11 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=344></a>
+#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=346></a>
 
-##### Section 1 : Du greffe judiciaire des prisons<a id=345></a>
+##### Section 1 : Du greffe judiciaire des prisons<a id=347></a>
 
-##### Paragraphe 1 : Registre et formalités d'écrou.<a id=346></a>
+##### Paragraphe 1 : Registre et formalités d'écrou.<a id=348></a>
 
 ###### Article D148
 
@@ -37343,7 +39040,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=347></a>
+##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=349></a>
 
 ###### Article D154
 
@@ -37364,7 +39061,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Dossiers individuels des détenus.<a id=348></a>
+##### Paragraphe 3 : Dossiers individuels des détenus.<a id=350></a>
 
 ###### Article D155
 
@@ -37395,7 +39092,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### A : Dossier spécial aux condamnés à une longue peine.<a id=349></a>
+##### A : Dossier spécial aux condamnés à une longue peine.<a id=351></a>
 
 ###### Article D156
 
@@ -37425,6 +39122,35 @@ _Cité par_:
 
   - Code de procédure pénale - art. D162 (V)
   - Code de procédure pénale - art. D165 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D157
+
+La partie judiciaire du dossier contient l'extrait ou les extraits de jugement ou d'arrêt de condamnation, la notice
+individuelle visée à l'article D158 et toutes autres pièces ou documents relatifs à l'exécution des peines, notamment ceux
+qui concernent les victimes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D158 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D156 (V)
 
 **Liens**:
 
@@ -37464,6 +39190,32 @@ _Cité par_:
 
   - Code de procédure pénale - art. D157 (V)
   - Code de procédure pénale - art. D77 (V)
+
+
+###### Article D159
+
+La partie pénitentiaire du dossier est constituée par le chef de l'établissement dans lequel le condamné accomplit sa peine.
+
+Elle contient tous les renseignements tenus à jour sur son comportement en détention et au travail, son compte nominatif, et
+sur les décisions administratives prises à son égard.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D156 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-08 art. 9-6° JORF 8 août 1985
 
 
 ###### Article D160
@@ -37521,6 +39273,43 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D378 (M)
 
 
+###### Article D162
+
+La quatrième partie du dossier visé à l'article D156 correspond au dossier destiné au service socio-éducatif.
+
+Contenant des éléments ou documents recueillis par les travailleurs sociaux ou qui leur ont été fournis, ce dossier leur
+permet de suivre l'évolution du détenu et, ainsi, de mieux individualiser sa situation pénale et la préparation de sa
+libération. Il a aussi pour objet de leur permettre de renseigner l'autorité judiciaire qui en fait la demande, en
+application de l'article D462.
+
+Les documents couverts par le secret professionnel ne peuvent être consultés que par un membre d'un service socio-éducatif.
+En cas de transfèrement, le service socio-éducatif transmet ces documents sous pli fermé au service correspondant de
+l'établissement de destination ou, en cas de libération et s'il y a lieu, au comité de probation et d'assistance aux libérés
+du lieu de résidence où l'intéressé a déclaré se retirer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D462 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D156 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D163
 
 Une partie du dossier individuel constitue une cote d'observation où sont assemblés les pièces et documents contenant le
@@ -37568,7 +39357,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### B : Dossiers des autres détenus.<a id=350></a>
+##### B : Dossiers des autres détenus.<a id=352></a>
 
 ###### Article D165
 
@@ -37622,9 +39411,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D165. (M)
 
 
-##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=351></a>
+##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=353></a>
 
-##### Paragraphe 1 : Punition de cellule<a id=352></a>
+##### Paragraphe 1 : Punition de cellule<a id=354></a>
 
 ###### Article D167
 
@@ -37741,7 +39530,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Mise à l'isolement<a id=353></a>
+##### Paragraphe 2 : Mise à l'isolement<a id=355></a>
 
 ###### Article D170
 
@@ -37810,7 +39599,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Moyens de contrainte<a id=354></a>
+##### Paragraphe 3 : Moyens de contrainte<a id=356></a>
 
 ###### Article D172
 
@@ -37938,7 +39727,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=355></a>
+##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=357></a>
 
 ###### Article D176
 
@@ -38012,6 +39801,35 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D178
+
+Le procureur de la République et le procureur général visitent les établissements pénitentiaires.
+
+Le procureur de la République doit se rendre dans chaque prison une fois par trimestre et plus souvent s'il y a lieu,
+notamment pour entendre les détenus qui auraient des réclamations à présenter.
+
+Il rend compte de ses observations éventuelles au procureur général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D261 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D179
 
 Un rapport conjoint du premier président et du procureur général rend compte chaque année au ministre de la justice du
@@ -38029,7 +39847,70 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : De la commission de surveillance<a id=356></a>
+##### Section 4 : De la commission de surveillance<a id=358></a>
+
+###### Article D180
+
+La commission de surveillance comprend, sous la présidence du commissaire de la République dans les chefs-lieux de
+département et du commissaire adjoint de la République dans les chefs-lieux d'arrondissement :
+
+1° Le président du tribunal de grande instance et le procureur de la République près ledit tribunal, ou les magistrats les
+représentant ;
+
+2° Le juge de l'application des peines ;
+
+3° Un juge d'instruction désigné par le président du tribunal de grande instance ;
+
+4° Le juge des enfants, si la commission est instituée auprès d'une maison d'arrêt située au siège d'un tribunal pour
+enfant ;
+
+5° Le bâtonnier de l'ordre des avocats ou son représentant ;
+
+6° Un officier représentant le général commandant la région militaire, si la commission est instituée auprès d'un
+établissement où sont incarcérés des militaires et marins ;
+
+7° Un membre du conseil général élu par ses collègues ;
+
+8° Le maire de la commune où est situé l'établissement ou son représentant ;
+
+9° Le directeur départemental du travail et de la main-d'oeuvre ou son représentant ;
+
+10° L'inspecteur d'académie ou son représentant ;
+
+11° Le président de la chambre de commerce et d'industrie ou son représentant ;
+
+12° Le président de la chambre de métiers ou son représentant ;
+
+13° Le directeur départemental de l'action sanitaire et sociale ou son représentant ;
+
+14° Un représentant des oeuvres d'assistance aux détenus ou aux libérés agréées au titre de l'aide sociale, désigné sur la
+proposition du juge de l'application des peines ;
+
+15° Trois à six personnes appartenant à des oeuvres sociales ou choisies en raison de l'intérêt qu'elles portent aux
+problèmes pénitentiaires et post-pénaux.
+
+Les membres de la commission visés aux deux numéros précédents sont nommés pour une période de deux ans renouvelable par un
+arrêté préfectoral dont une ampliation est adressée au ministre de la justice.
+
+Le chef de l'établissement et les membres du personnel, les visiteurs agréés, les membres des services médico-sociaux ainsi
+que les aumôniers attachés à l'établissement, et toutes autres personnes y exerçant habituellement une activité ne peuvent
+faire partie de la commission de surveillance.
+
+Le directeur régional des services pénitentiaires, ou son représentant, assiste aux travaux de la commission de surveillance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 et art. 9 7° JORF 8 août 1985
+
 
 ###### Article D181
 
@@ -38046,6 +39927,66 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D182
+
+En l'absence du commissaire de la République ou du secrétaire général de la préfecture, ou dans les chefs-lieux
+d'arrondissement en l'absence du commissaire adjoint de la République, les séances sont présidées par le magistrat du rang le
+plus élevé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-7° JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D183
+
+La commission de surveillance se réunit sur convocation de son président, au moins une fois par an, dans l'établissement près
+duquel elle est instituée.
+
+En outre, un ou plusieurs de ses membres peuvent être délégués pour visiter la prison plus fréquemment si la commission
+l'estime utile.
+
+La commission entend le chef d'établissement qui présente un rapport sur l'organisation et le fonctionnement de
+l'établissement. Elle peut également procéder à l'audition de toute personne susceptible de lui apporter des informations
+utiles à l'exercice de sa mission.
+
+En application de l'article D261, le président de la commission de surveillance reçoit les requêtes des détenus portant sur
+toute matière relevant de la compétence de cette commission, telle qu'elle est définie à l'article D184.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D184. (M)
+  - Code de procédure pénale D261, D184
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D261 (Ab)
+
+**Liens**:
+
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
@@ -38099,7 +40040,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=357></a>
+##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=359></a>
 
 ###### Article D186
 
@@ -38155,9 +40096,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D473 (M)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=358></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=360></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=359></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=361></a>
 
 ###### Article D188
 
@@ -38308,7 +40249,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du personnel de l'administration pénitentiaire<a id=360></a>
+##### Section 2 : Du personnel de l'administration pénitentiaire<a id=362></a>
 
 ###### Article D196
 
@@ -38384,7 +40325,46 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispositions générales<a id=361></a>
+##### Paragraphe 1er : Attributions particulières<a id=363></a>
+
+###### Article D198
+
+Les agents visés à l'article D196, 1°, exercent les fonctions définies par le statut spécial des fonctionnaires des services
+extérieurs de l'administration pénitentiaire et par les textes relatifs à l'organisation et à la gestion des établissements.
+
+Les agents visés à l'article D196, 2° et 3°, soit qu'ils relèvent du statut général de la fonction publique, soit qu'ils
+soient soumis à d'autres dispositions, réglementaires ou contractuelles, exercent leurs fonctions dans les conditions et sous
+les obligations particulières résultant soit des textes relatifs à l'organisation des établissements, soit, en général, du
+service pénitentiaire.
+
+Notamment, les aumôniers, les médecins, les infirmiers ou infirmières, les travailleurs sociaux, exercent leurs fonctions
+dans les conditions et sous les obligations particulières définies respectivement aux articles D433 et suivants, D373 et
+suivants, D367 et D461 et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 9 11° JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D196. (M)
+  - CODE DE PROCEDURE PENALE - art. D367 (M)
+  - CODE DE PROCEDURE PENALE - art. D373 (M)
+  - Code de procédure pénale D196, 1°, 2° et 3°, D367, D373, D433 et D461
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Dispositions générales<a id=364></a>
 
 ###### Article D216
 
@@ -38400,6 +40380,30 @@ par tout autre organisme.
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D217
+
+A l'exception des agents exerçant les fonctions de chef d'établissement ou de ceux qui exercent une fonction définie par
+instruction de service, le personnel de surveillance est tenu au port de l'uniforme pendant le service, et, en dehors du
+service, lorsqu'il se trouve dans les locaux de la détention.
+
+Les surveillants sont tenus de consigner leurs observations concernant les différentes missions qui leur sont confiées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 **Liens**:
 
@@ -38490,6 +40494,52 @@ _Codifié par_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D463 (M)
+
+
+###### Article D221
+
+Les membres du personnel ne peuvent entretenir avec les personnes placées ou ayant été placées par décision de justice sous
+l'autorité ou le contrôle de l'établissement ou du service dont ils relèvent, ainsi qu'avec leurs parents ou amis, des
+relations qui ne seraient pas justifiées par les nécessités de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D222
+
+Le personnel masculin n'a accès au quartier des femmes que sur autorisation du chef de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D248 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D223
@@ -38636,7 +40686,43 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
-##### Section 3 : Du contrôle des établissements pénitentiaires<a id=362></a>
+##### Section 3 : Du contrôle des établissements pénitentiaires<a id=365></a>
+
+###### Article D229
+
+Sans préjudice du contrôle des autorités judiciaires, prévu aux articles D176 et suivants, et celui de la commission de
+surveillance, les établissements pénitentiaires font l'objet du contrôle général de l'inspection des services pénitentiaires
+et des inspections périodiques des magistrats ou des fonctionnaires de la direction de l'administration pénitentiaire et des
+directeurs régionaux ou de leurs adjoints ; en outre, ils sont soumis aux inspections du commissaire de la République ou du
+commissaire adjoint de la République, ainsi que, dans le domaine de leur compétence, de toutes autres autorités
+administratives investies d'un pouvoir de contrôle à l'égard des différents services de l'administration pénitentiaire.
+
+Les modalités selon lesquelles les directeurs régionaux et leurs adjoints effectuent leurs inspections et en dressent rapport
+sont définies par une instruction de service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D176 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D277 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D230
 
@@ -38720,7 +40806,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=363></a>
+##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=366></a>
 
 ###### Article D234
 
@@ -39013,9 +41099,9 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=364></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=367></a>
 
-##### Section 1 : De la police intérieure<a id=365></a>
+##### Section 1 : De la police intérieure<a id=368></a>
 
 ###### Article D241
 
@@ -39170,9 +41256,39 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=366></a>
+###### Article D248
 
-##### Paragraphe 1er : Sanctions disciplinaires<a id=367></a>
+Les hommes et les femmes sont incarcérés dans des établissements distincts. Lorsque néanmoins des quartiers séparés doivent
+être aménagés dans le même établissement pour recevoir respectivement des hommes et des femmes, toutes dispositions doivent
+être prises pour qu'il ne puisse y avoir aucune communication entre les uns et les autres.
+
+Les femmes détenues ne sont surveillées que par des personnes de leur sexe ; les agents masculins du personnel ont seulement
+accès aux locaux qu'elles occupent dans les conditions déterminées à l'article D222.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D222
+
+
+##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=369></a>
+
+##### Paragraphe 1er : Sanctions disciplinaires<a id=370></a>
 
 ###### Article D249
 
@@ -39216,6 +41332,66 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D250 (M)
   - CODE DE PROCEDURE PENALE - art. D251-1. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D250
+
+Les sanctions disciplinaires qui peuvent être prononcées par le chef d'établissement à l'encontre des détenus sont les
+suivantes :,
+
+1° L'avertissement avec inscription au dossier individuel du détenu ;
+
+2° Le déclassement d'emploi lorsque l'infraction disciplinaire a été commise au cours ou à l'occasion du travail ;
+
+3° La privation pendant une période déterminée de la faculté d'acheter de la bière ou du cidre en cantine, ou d'effectuer en
+cantine tout autre achat que les produits ou objets de toilette, de recevoir des subsides de l'extérieur, ou plus
+généralement de profiter des mesures que le présent titre admet sans toutefois leur reconnaître un caractère obligatoire ;
+
+4° La privation temporaire de tout appareil acheté ou loué par l'intermédiaire de l'administration lorsque l'infraction
+disciplinaire a été commise à l'occasion de l'utilisation de ce matériel ;
+
+5° La suppression pour une période déterminée de l'accès au parloir sans dispositif de séparation, lorsque l'infraction
+disciplinaire a été commise au cours où à l'occasion d'une visite ;
+
+6° La mise en cellule de punition, dans les conditions fixées aux articles D167 à D169. Cette sanction disciplinaire n'est
+pas applicable aux mineurs de seize ans.
+
+La privation de lecture, de correspondance et de visites ne peut être ordonnée à titre de sanction disciplinaire.
+
+Aucune amende ne peut être infligée par mesure disciplinaire, mais si des retenues sont décidées en réparation de faits
+dommageables matériels dans les conditions prévues à l'article D332, elles sont prononcées dans la même forme que les
+sanctions disciplinaires.
+
+Les sanctions disciplinaires collectives sont prohibées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 7 mai 1975
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D167 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D168 (Ab)
+  - Code de procédure pénale D167, D168, D169 et D332
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D249 (M)
+  - Code de procédure pénale - art. D249-3 (Ab)
 
 **Liens**:
 
@@ -39316,7 +41492,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=368></a>
+##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=371></a>
 
 ###### Article D252
 
@@ -39374,7 +41550,37 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du règlement intérieur de chaque prison<a id=369></a>
+###### Article D254
+
+Outre l'application des dispositions des articles 721 et D253, le comportement d'un détenu peut motiver de la part du juge de
+l'application des peines ou du chef d'établissement, après avis de la commission de l'application des peines, une proposition
+en vue d'une modification de régime, d'un transfèrement ou d'une mesure de grâce, soit à la suite d'un acte de courage et de
+dévouement, soit en fonction de la situation familiale ou professionnelle de l'intéressé ou de l'intérêt susceptible de
+présenter une telle mesure pour sa réinsertion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 721 (M)
+  - CODE DE PROCEDURE PENALE - art. D253. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 3 : Du règlement intérieur de chaque prison<a id=372></a>
 
 ###### Article D256
 
@@ -39470,7 +41676,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=370></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=373></a>
 
 ###### Article D259
 
@@ -39631,7 +41837,7 @@ _Cite_:
   - Code de procédure pénale D406 et D416
 
 
-##### Section 5 : De la sécurité<a id=371></a>
+##### Section 5 : De la sécurité<a id=374></a>
 
 ###### Article D265
 
@@ -39657,7 +41863,42 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Dispositions générales<a id=372></a>
+##### Paragraphe 1er : Dispositions générales<a id=375></a>
+
+###### Article D266
+
+La sécurité intérieure des prisons incombe au personnel de l'administration pénitentiaire.
+
+Toutefois, lorsque la gravité ou l'ampleur d'un incident survenu ou redouté à l'intérieur d'un établissement ne permet pas
+d'assurer le rétablissement ou d'envisager le maintien de l'ordre et de la sécurité par les seuls moyens du personnel de
+surveillance, le chef de l'établissement doit faire appel au chef du service local de police ou de gendarmerie et en rendre
+compte sur-le-champ au commissaire de la République. Il en est de même dans l'hypothèse d'une attaque ou d'une menace
+provenant de l'extérieur.
+
+Les modalités de l'appel aux forces préposées au maintien de l'ordre et de l'intervention de celles-ci sont déterminées par
+une instruction de service et précisées, en ce qui concerne chaque établissement pénitentiaire, par un plan de protection et
+d'intervention dressé et tenu à jour sous l'autorité du commissaire de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 9 7° JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D175 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D283-6 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D267
 
@@ -39724,6 +41965,36 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D270
+
+Hormis les cas visés aux articles D131, D136 à D147, les détenus doivent faire l'objet d'une surveillance constante.
+
+Pendant la nuit, les dortoirs demeurent éclairés sans que la lumière soit assez intense pour empêcher le sommeil. A moins
+qu'ils ne comportent des cloisonnements permettant l'isolement individuel des détenus, personne ne doit y pénétrer, non plus
+que dans les cellules, en l'absence de raisons graves ou de péril imminent. En toute hypothèse, l'intervention de deux
+membres du personnel au moins est nécessaire, ainsi que celle d'un gradé, s'il y en a un en service de nuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D131 (M)
+  - Code de procédure pénale D131, D136 à D147
+
+**Liens**:
+
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
@@ -39815,6 +42086,31 @@ _Cité par_:
   - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
 
 
+###### Article D275
+
+Les détenus doivent être fouillés fréquemment et aussi souvent que le chef de l'établissement l'estime nécessaire.
+
+Ils le sont notamment à leur entrée dans l'établissement et chaque fois qu'ils en sont extraits et y sont reconduits pour
+quelque cause que ce soit. Ils peuvent également être l'objet d'une fouille avant et après tout parloir ou visite quelconque.
+
+Les détenus ne peuvent être fouillés que par des agents de leur sexe et dans des conditions qui, tout en garantissant
+l'efficacité du contrôle, préservent le respect de la dignité inhérente à la personne humaine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D276
 
 Le surveillant-chef inscrit chaque jour sur le carnet de chaque surveillant les divers locaux qu'il devra visiter le
@@ -39836,7 +42132,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=373></a>
+##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=376></a>
 
 ###### Article D277
 
@@ -39927,7 +42223,46 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Incidents<a id=374></a>
+##### Paragraphe 3 : Incidents<a id=377></a>
+
+###### Article D280
+
+Tout incident grave touchant à l'ordre, à la discipline ou à la sécurité de la prison doit être immédiatement porté par le
+chef de l'établissement à la connaissance du commissaire de la République et du procureur de la République, en même temps
+qu'à celle du directeur régional des services pénitentiaires et du ministre de la justice.
+
+Si l'incident concerne un prévenu, avis doit en être donné également au magistrat saisi du dossier de l'information et, si
+l'incident concerne un condamné, au juge de l'application des peines.
+
+Si le détenu appartient aux forces armées, l'autorité militaire ou maritime doit en outre être avisée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Cité par_:
+
+  - Décret n°74-27 du 14 janvier 1974 - art. 25 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D390 (M)
+  - Code de la santé publique - art. R1112-32 (V)
+  - Code de procédure pénale - art. D125 (V)
+  - Code de procédure pénale - art. D147-30-24 (VT)
+  - Code de procédure pénale - art. D250-1 (Ab)
+  - Code de procédure pénale - art. D274 (V)
+  - Code de procédure pénale - art. D282 (V)
+  - Code de procédure pénale - art. D283 (V)
+  - Code de procédure pénale - art. D364 (V)
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-7° JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D281
 
@@ -40010,13 +42345,20 @@ _Cité par_:
   - Code de procédure pénale - art. D125 (V)
 
 
-#### Chapitre VI : Des mouvements de détenus<a id=375></a>
+#### Chapitre VI : Des mouvements de détenus<a id=378></a>
 
-##### Section 1 : Des entrées et sorties des détenus<a id=376></a>
+##### Section 1 : Des entrées et sorties des détenus<a id=379></a>
 
-###### Article D286
+###### Article D285
 
-[Article abrogé].
+Le jour de son arrivée à la prison ou, au plus tard, le lendemain, chaque détenu doit être visité par le chef de
+l'établissement ou par un de ses subordonnés immédiats.
+
+Dans les délais les plus brefs, le détenu est soumis à un examen médical destiné à déceler toute affection de nature
+contagieuse ou évolutive qui nécessiterait des mesures d'isolement ou des soins urgents.
+
+Le détenu est également visité, dès que possible, par un membre du service socio-éducatif et, s'il y a lieu, par le ministre
+de son culte, conformément aux dispositions des articles D436 et D464.
 
 **Liens relatifs à cet article**
 
@@ -40024,13 +42366,22 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+  - Code de procédure pénale - art. D94 (V)
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D436 et D464
 
 
 ###### Article D287
@@ -40114,7 +42465,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des transfèrements et des extractions<a id=377></a>
+##### Section 2 : Des transfèrements et des extractions<a id=380></a>
 
 ###### Article D290
 
@@ -40155,7 +42506,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Dispositions communes<a id=378></a>
+##### Paragraphe 1er : Dispositions communes<a id=381></a>
 
 ###### Article D292
 
@@ -40301,9 +42652,9 @@ _Cite_:
   - Code de procédure pénale - art. D295 (V)
 
 
-##### Paragraphe 2 : Transfèrements<a id=379></a>
+##### Paragraphe 2 : Transfèrements<a id=382></a>
 
-##### A : Translations judiciaires<a id=380></a>
+##### A : Translations judiciaires<a id=383></a>
 
 ###### Article D297
 
@@ -40408,7 +42759,49 @@ _Cite_:
   - Code de procédure pénale D298
 
 
-##### B : Transfèrements administratifs<a id=381></a>
+##### B : Transfèrements administratifs<a id=384></a>
+
+###### Article D300
+
+Le ministre de la justice ordonne les transfèrements de caractère administratif, c'est-à-dire les transfèrements autres que
+ceux visés aux articles D. 297 à D. 299.
+
+La compétence du ministre est exclusive en ce qui concerne :
+
+- Le transfèrement à titre administratif de tout détenu d'une région pénitentiaire à une autre ;
+
+- Le transfèrement dans une maison centrale, un centre de détention ;
+
+- Le transfèrement dans un établissement pénitentiaire à vocation sanitaire, à moins qu'il ne s'agisse d'un établissement
+dans lequel le directeur régional a été autorisé par décision ministérielle à affecter lui-même les détenus de sa région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 28 mai 1975
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+  - CODE DE PROCEDURE PENALE - art. D75 (M)
+  - Code de procédure pénale - art. D301 (V)
+
+_Cite_:
+
+  - Code de procédure pénale D297 à D299
+
 
 ###### Article D301
 
@@ -40495,7 +42888,7 @@ _Abrogé par_:
   - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
 
 
-##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=382></a>
+##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=385></a>
 
 ###### Article D304
 
@@ -40629,7 +43022,7 @@ _Cité par_:
   - Code de procédure pénale - art. D334 (V)
 
 
-##### D : Cas particuliers<a id=383></a>
+##### D : Cas particuliers<a id=386></a>
 
 ###### Article D311
 
@@ -40692,7 +43085,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Extractions<a id=384></a>
+##### Paragraphe 3 : Extractions<a id=387></a>
 
 ###### Article D314
 
@@ -40754,6 +43147,31 @@ _Cité par_:
   - Code de procédure pénale - art. D49-30 (V)
 
 
+###### Article D316
+
+Le commissaire de la République apprécie si l'extraction des détenus appelés à comparaître devant des juridictions ou des
+organismes d'ordre administratif est indispensable. Dans l'affirmative, il requiert l'extraction par les services de police
+ou de gendarmerie selon la distinction de l'article D315 [*réquisition*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-7° JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D315
+
+
 ###### Article D317
 
 Dans les hypothèses où, en raison des nécessités de l'enquête à laquelle ils procèdent, il n'est pas suffisant pour les
@@ -40781,11 +43199,37 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=385></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=388></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=386></a>
+##### Section 1 : De la gestion des biens des détenus<a id=389></a>
 
-##### Paragraphe 1er : Valeurs pécuniaires.<a id=387></a>
+###### Article D318
+
+Sous réserve des dispositions prévues à l'article D122, il n'est laissé aux détenus ni argent, ni valeurs, ni bijoux autres
+que leur alliance et leur montre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D395 (V)
+  - Code de procédure pénale - art. D122 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 1er : Valeurs pécuniaires.<a id=390></a>
 
 ###### Article D319
 
@@ -40853,6 +43297,42 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D321
+
+Le détenu conserve la gestion de ses biens patrimoniaux extérieurs, dans la limite de sa capacité civile. Toutefois, cette
+gestion ne peut s'effectuer que par mandataire, celui-ci devant être étranger à l'administration pénitentiaire.
+
+Les procurations éventuelles sont envoyées dans les conditions fixées aux articles D414 et suivants et, lorsqu'elles émanent
+de prévenus, sont notamment soumises au contrôle du magistrat saisi du dossier de l'information dans les conditions que
+celui-ci détermine ; l'apposition d'un visa en vue de l'acheminement de ces documents ne saurait faire préjuger de la
+capacité du signataire.
+
+En toute hypothèse, un acte requérant le ministère d'un notaire peut être dressé en prison, lorsque cet officier ministériel
+a obtenu l'autorisation visée à l'article D411.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D411 et D414
 
 
 ###### Article D322
@@ -41247,7 +43727,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Valeurs non pécuniaires.<a id=388></a>
+##### Paragraphe 2 : Valeurs non pécuniaires.<a id=391></a>
 
 ###### Article D335
 
@@ -41277,6 +43757,67 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°75-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+
+###### Article D336
+
+Les bijoux, après estimation, et les valeurs sont inventoriés, inscrits au registre visé à l'article D335 et déposés au
+service comptable de la prison. A la demande du détenu, ils peuvent toutefois être rendus à sa famille, avec l'accord du
+magistrat saisi du dossier de l'information, lorsque l'intéressé est prévenu.
+
+En cas de perte à l'établissement, il est remis au détenu où à ses ayants droit la valeur d'estimation de l'objet perdu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-8° JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D336 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D337
+
+Les objets et les bijoux dont sont porteurs les détenus à leur entrée peuvent donner lieu au refus de leur prise en charge en
+raison de leur prix, de leur importance ou de leur volume. 
+
+Dans ce cas, ils n'en sont pas moins inscrits provisoirement au registre visé à l'article D335, mais les détenus sont invités
+à s'en défaire, soit en les renvoyant à leur famille, soit en les faisant déposer entre les mains d'un notaire ou de toute
+personne agréée par l'administration, soit en les vendant, les frais d'expédition, de garde ou de vente étant à la charge du
+détenu ; s'il s'agit d'un prévenu, le chef d'établissement en réfère préalablement au magistrat saisi du dossier de
+l'information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+_Cite_:
+
+  - Code de procédure pénale - art. D335
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D338
@@ -41365,7 +43906,7 @@ _Cité par_:
   - Arrêté du 23 février 2018 (V)
 
 
-##### Section 2 : De l'entretien des détenus<a id=389></a>
+##### Section 2 : De l'entretien des détenus<a id=392></a>
 
 ###### Article D342
 
@@ -41520,9 +44061,9 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=390></a>
+#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=393></a>
 
-##### Section 1 : De l'hygiène<a id=391></a>
+##### Section 1 : De l'hygiène<a id=394></a>
 
 ###### Article D349
 
@@ -41542,7 +44083,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Salubrité et propreté des locaux<a id=392></a>
+##### Paragraphe 1er : Salubrité et propreté des locaux<a id=395></a>
 
 ###### Article D350
 
@@ -41605,7 +44146,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=393></a>
+##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=396></a>
 
 ###### Article D353
 
@@ -41687,7 +44228,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Hygiène personnelle<a id=394></a>
+##### Paragraphe 3 : Hygiène personnelle<a id=397></a>
 
 ###### Article D357
 
@@ -41756,7 +44297,7 @@ _Cité par_:
   - Code de procédure pénale - art. D283-1-2 (Ab)
 
 
-##### Paragraphe 4 : Exercices physiques<a id=395></a>
+##### Paragraphe 4 : Exercices physiques<a id=398></a>
 
 ###### Article D360
 
@@ -41850,9 +44391,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du service sanitaire<a id=396></a>
+##### Section 2 : Du service sanitaire<a id=399></a>
 
-##### Paragraphe 1 : Organisation sanitaire<a id=397></a>
+##### Paragraphe 1 : Organisation sanitaire<a id=400></a>
 
 ###### Article D364
 
@@ -42100,7 +44641,138 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=398></a>
+###### Article D372-1
+
+Le comité interministériel de coordination de la santé en milieu carcéral est présidé par le garde des sceaux, ministre de la
+justice, ou son représentant. Il comprend en outre :
+
+- le chef de l'inspection générale des affaires sociales ou son représentant ;
+
+- le directeur de l'administration pénitentiaire ou son représentant ;
+
+- le directeur de la sécurité sociale ou son représentant ;
+
+- le directeur général de la santé ou son représentant ;
+
+- le directeur des hôpitaux ou son représentant ;
+
+- le directeur de la pharmacie et du médicament ou son représentant ;
+
+- le chef de l'inspection des services pénitentiaires ;
+
+- le sous-directeur de l'exécution des peines privatives de liberté et de la réinsertion à la direction de l'administration
+pénitentiaire ;
+
+- le sous-directeur du personnel et des affaires administratives à à la direction de l'administration pénitentiaire ;
+
+- le chef du bureau du personnel à la direction de l'administration pénitentiaire ;
+
+- un médecin inspecteur régional désigné par le directeur général de la santé ;
+
+- un médecin inspecteur départemental désigné par le directeur général de la santé ;
+
+- un chef d'établissement pénitentiaire désigné par le directeur de l'administration pénitentiaire ;
+
+- un médecin exerçant ses fonctions dans un établissement pénitentiaire désigné par le directeur de l'administration
+pénitentiaire ;
+
+- un infirmier exerçant ses fonctions dans un établissement pénitentiaire désigné par le directeur de l'administration
+pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 96 () JORF 9 décembre 1998
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D372-2 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D372-3 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-08 art. 1 et art. 7 JORF 8 août 1985
+
+
+###### Article D372-2
+
+Le comité prévu à l'article D. 372-1 est chargé d'examiner toute question d'ordre général se rapportant à la protection, à
+l'amélioration de la santé des détenus et à l'hygiène dans les établissements pénitentiaires.
+
+Il veille à la mise en oeuvre des orientations fixées pour l'organisation et le fonctionnement des établissements
+pénitentiaires dans les domaines de l'hygiène et de la santé.
+
+Il assure la concertation, à l'échelon national, entre les services des ministères compétents chargés de promouvoir
+l'amélioration des soins dispensés aux personnes incarcérées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 96 () JORF 9 décembre 1998
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D372-1 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-08 art. 1 et art. 7 JORF 8 août 1985
+
+
+###### Article D372-3
+
+Le comité interministériel prévu à l'article D. 372-1 se réunit au moins une fois par an.
+
+Le président peut convoquer aux séances du comité interministériel toute personne qualifiée par sa compétence ou en raison de
+ses fonctions.
+
+Le comité interministériel peut constituer des groupes de travail afin d'examiner les questions relevant de sa compétence.
+
+Le secrétariat de ce comité est assuré par un magistrat ou un fonctionnaire de la direction de l'administration
+pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-08 art. 1 et art. 7 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 96 () JORF 9 décembre 1998
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D372-1 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=401></a>
 
 ###### Article D373
 
@@ -42151,6 +44823,57 @@ _Codifié par_:
 _Cite_:
 
   - Code de procédure pénale D349 à D363
+
+
+###### Article D375
+
+Le médecin, chargé de veiller à la santé physique et mentale des détenus, visite obligatoirement :
+
+1° Les détenus qui viennent d'être écroués dans l'établissement, ainsi qu'il est prévu à l'article D. 285 ;
+
+2° Les détenus signalés malades ou qui se sont déclarés tels ;
+
+3° Au moins deux fois par semaine les détenus placés au quartier disciplinaire ou à l'isolement, ainsi qu'il est dit aux
+articles D. 168 et D. 170 ;
+
+4° Les détenus réclamant, pour raison de santé, l'exemption de travail, ou le changement d'affectation, ou la dispense
+d'exercices physiques, ou une modification ou un aménagement quelconque à leur régime ;
+
+5° Les détenus à transférer, en vue de signaler ceux pour lesquels il devrait être sursis au transfèrement ou prévu des
+mesures spéciales ;
+
+6° Aux fins et dans les conditions visées à l'article D. 388, les détenus hospitalisés.
+
+Si le médecin estime que la santé physique ou mentale d'un détenu risque d'être affectée par la prolongation ou par une
+modalité quelconque de la détention, il en avise par écrit le chef de l'établissement, notamment dans les cas et aux fins
+prévus aux articles D. 84, D. 97, D. 168 et D. 170. Ce dernier informe aussitôt, s'il y a lieu, l'autorité judiciaire
+compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D168 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D84 (M)
+  - CODE DE PROCEDURE PENALE - art. D97 (M)
+  - Code de procédure pénale D84, D97, D168, D170 et D388
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D170. (Ab)
+  - CODE DE PROCEDURE PENALE - art. D283-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D376
@@ -42233,7 +44956,29 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Traitement médical<a id=399></a>
+###### Article D379
+
+A la fin de chaque année, le médecin fait un rapport d'ensemble sur l'état sanitaire des détenus.
+
+Ce rapport est remis au chef de l'établissement qui le transmet, accompagné de ses observations, au juge de l'application des
+peines ainsi qu'au directeur régional en vue de son envoi au ministère de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 3 : Traitement médical<a id=402></a>
 
 ###### Article D380
 
@@ -42521,7 +45266,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D280. (M)
 
 
-##### Paragraphe 4 : Soins divers<a id=400></a>
+##### Paragraphe 4 : Soins divers<a id=403></a>
 
 ###### Article D391
 
@@ -42762,7 +45507,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D386 (M)
 
 
-##### Paragraphe 5 : Maternité<a id=401></a>
+##### Paragraphe 5 : Maternité<a id=404></a>
 
 ###### Article D399
 
@@ -42805,7 +45550,90 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=402></a>
+###### Article D401
+
+Les enfants peuvent être laissés auprès de leur mère en détention jusqu'à l'âge de dix-huit mois.
+
+Toutefois, à la demande de la mère, cette limite peut être prolongée, sur décision du ministre de la justice, après avis
+d'une commission consultative.
+
+Avant d'émettre son avis, la commission entend l'avocat de la mère.
+
+La situation de chaque enfant est examinée au moins une fois par an.
+
+Il appartient au service socio-éducatif de la prison de pourvoir au placement des enfants, au mieux de leur intérêt, avant
+qu'ils ne soient séparés de leur mère, et avec l'accord de la ou des personnes qui exercent à leur égard l'autorité
+parentale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 9 9° JORF 8 août 1985
+  - Décret n°79-534 1979-05-03 art. 20 JORF 5 juillet 1979
+
+_Cité par_:
+
+  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+  - CODE DE PROCEDURE PENALE - art. D401-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D401-1
+
+La commission consultative prévue à l'article D. 401 comprend :
+
+Un magistrat au ministère de la justice, chef du bureau de l'individualisation des régimes de détention ou un magistrat de ce
+bureau, président ;
+
+Un médecin psychiatre ;
+
+Un médecin pédiatre ;
+
+Un psychologue ;
+
+Un chef d'établissement pénitentiaire spécialement affecté à la détention des femmes ;
+
+Un travailleur social.
+
+Les membres de la commission sont nommés par arrêté ministériel pour une période de deux ans renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°79-534 1979-07-03 art. 21 JORF 5 juillet 1979
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-10° JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D401 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D401-2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=405></a>
 
 ###### Article D402
 
@@ -42829,7 +45657,7 @@ _Abrogé par_:
   - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
-##### Section 1 : Des visites<a id=403></a>
+##### Section 1 : Des visites<a id=406></a>
 
 ###### Article D403
 
@@ -43153,7 +45981,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Section 2 : De la correspondance<a id=404></a>
+##### Section 2 : De la correspondance<a id=407></a>
 
 ###### Article D413
 
@@ -43235,6 +46063,41 @@ _Abrogé par_:
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D416
+
+Sous réserve des dispositions des articles D. 69, D. 438 et D. 469, les lettres de tous les détenus, tant à l'arrivée qu'au
+départ, peuvent être lues aux fins de contrôle.
+
+Celles qui sont écrites par les prévenus, ou à eux adressées, sont au surplus communiquées au magistrat saisi du dossier de
+l'information dans les conditions que celui-ci détermine.
+
+Les lettres qui ne satisfont pas aux prescriptions réglementaires peuvent être retenues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D418 (Ab)
+  - Code de procédure pénale - art. D419 (Ab)
+  - Code de procédure pénale - art. D69 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D69, D438 et D469
 
 
 ###### Article D417
@@ -43335,7 +46198,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du maintien des liens familiaux<a id=405></a>
+##### Section 3 : Du maintien des liens familiaux<a id=408></a>
 
 ###### Article D420
 
@@ -43355,6 +46218,37 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+
+###### Article D421
+
+Sur autorisation du chef de l'établissement, les détenus peuvent faire envoyer aux membres de leur famille des sommes
+figurant à leur part disponible. En ce qui concerne les prévenus, le chef de l'établissement en réfère préalablement au
+magistrat saisi du dossier de l'information dans les conditions fixées par celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°75-128 1975-03-07 art. 2 et art. 3 JORF 9 mars 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D422
@@ -43416,7 +46310,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=406></a>
+##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=409></a>
 
 ###### Article D424
 
@@ -43527,7 +46421,7 @@ _Cite_:
   - Code de procédure pénale - art. 723-6
 
 
-##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=407></a>
+##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=410></a>
 
 ###### Article D428
 
@@ -43557,6 +46451,32 @@ _Modifié par_:
 _Cité par_:
 
   - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D429
+
+Il est délivré aux détenus qui en font la demande, soit au cours de leur incarcération, soit au moment de leur libération,
+soit même après, un certificat attestant leur présence ou la durée de leur présence en établissement pénitentiaire sans en
+préciser le motif, et mentionnant s'il y a lieu leur affiliation à la sécurité sociale.
+
+Ce certificat peut également être délivré à un membre du service socio-éducatif en vue de permettre le paiement des
+prestations dues par les caisses d'allocations familiales.
+
+Il ne doit comporter en aucun cas d'appréciation sur l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-9° JORF 8 août 1985
 
 **Liens**:
 
@@ -43630,9 +46550,35 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=408></a>
+#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=411></a>
 
-##### Section 1 : De l'assistance spirituelle<a id=409></a>
+##### Section 1 : De l'assistance spirituelle<a id=412></a>
+
+###### Article D432
+
+Chaque détenu doit satisfaire aux exigences de sa vie religieuse, morale ou spirituelle. 
+
+Il peut à ce titre participer aux offices ou réunions organisés par les personnes agréées à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D62 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D433
 
@@ -43817,7 +46763,82 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'action socio-culturelle<a id=410></a>
+##### Section 2 : De l'action socio-culturelle<a id=413></a>
+
+###### Article D440
+
+Des activités socio-culturelles sont organisées dans chaque établissement pénitentiaire.
+
+Elles ont notamment pour objet de développer, en fonction des possibilités locales, les moyens d'expression, les
+connaissances et les capacités physiques et intellectuelles des détenus.
+
+L'emploi du temps hebdomadaire doit permettre à tout détenu qui le souhaite de participer aux activités socio-culturelles et
+sportives organisées à l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D441
+
+En concertation avec le responsable de l'établissement et sous son autorité, le service socio-éducatif est particulièrement
+chargé d'organiser et de coordonner les activités socio-culturelles auxquelles peut concourir l'ensemble des personnels.
+
+Le service socio-éducatif recherche en outre le concours d'intervenants extérieurs auxquels peut être confiée l'animation de
+certaines activités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D442
+
+Une association fonctionnant sous le régime de la loi du 1er juillet 1901 est constituée auprès de chaque établissement
+pénitentiaire en vue de soutenir et de développer l'action socio-culturelle et sportive au profit des détenus.
+
+Pour obtenir l'agrément du garde des sceaux, ministre de la justice, les statuts de ces associations doivent remplir les
+conditions fixées par une instruction de service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Loi n°1901-07-01
+
 
 ###### Article D444
 
@@ -43846,6 +46867,66 @@ _Modifié par_:
 _Cité par_:
 
   - Code de procédure pénale - art. D431 (Ab)
+
+
+###### Article D445
+
+Le règlement intérieur de chaque établissement détermine les conditions dans lesquelles les détenus empruntent ou consultent
+les ouvrages de la bibliothèque.
+
+Il doit notamment prévoir et favoriser, compte tenu des possibilités locales, les conditions d'accès direct des détenus à la
+bibliothèque.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D446
+
+Pour l'animation d'activités par des personnes extérieures, l'autorisation est donnée par le chef d'établissement si celui-ci
+est un membre du personnel de direction ou, sinon, par le directeur régional.
+
+Sous le contrôle du service socio-éducatif, des détenus peuvent être associés à l'organisation de ces activités et certains
+d'entre eux chargés de les préparer et de les animer.
+
+La liste des détenus autorisés à participer à ces activités est établie par le chef d'établissement après concertation avec
+le service socio-éducatif et, éventuellement, avec l'animateur extérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D83 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D447
@@ -43931,9 +47012,14 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-###### Article D449-1
+##### Section 2 : De l'assistance socioculturelle<a id=414></a>
 
-[Article abrogé].
+###### Article D443
+
+Chaque établissement possède au moins une bibliothèque dont les ouvrages sont mis gratuitement à la disposition des détenus.
+
+Ils doivent être suffisamment nombreux et variés pour tenir compte des diversités linguistiques et culturelles des détenus,
+et pour respecter leur liberté de choix.
 
 **Liens relatifs à cet article**
 
@@ -43941,28 +47027,16 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
-
-  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
-
 _Modifié par_:
 
-  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
-
-_Abrogé par_:
-
-  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
-
-_Cité par_:
-
-  - Code de procédure pénale - art. A42-1 (V)
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : De l'enseignement<a id=411></a>
+##### Section 3 : De l'enseignement<a id=415></a>
 
 ###### Article D450
 
@@ -44006,6 +47080,106 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 718 (M)
 
 
+###### Article D453
+
+Les détenus peuvent se livrer à toutes études compatibles avec leur situation pénale et les conditions de leur détention.
+
+Il leur est permis de disposer du matériel et des fournitures scolaires ainsi que des documents pédagogiques nécessaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 2 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D438-2 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D454
+
+Dans tout établissement, les détenus peuvent recevoir et suivre les cours par correspondance organisés par les services du
+ministère de l'éducation nationale.
+
+Ils peuvent également recevoir d'autres cours par correspondance avec l'autorisation du chef de l'établissement qui, en cas
+de difficulté, en réfère au ministère de la justice. Lorsque la prison est dirigée par un chef de maison d'arrêt ou un
+surveillant-chef, la décision appartient au directeur régional.
+
+Dans l'un et l'autre cas, les détenus doivent effectuer les exercices que comporte cette forme d'enseignement et ils en
+supportent les frais.
+
+D'autre part, le régime de semi-liberté peut être accordé dans les conditions fixées aux articles D. 136 et suivants afin que
+soit suivi, à l'extérieur de l'établissement, un enseignement qui ne pourrait être dispensé en détention ou reçu par
+correspondance et qui apparaîtrait nécessaire au reclassement du sujet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D136 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D458 (T)
+
+
+###### Article D455
+
+Les détenus qui reçoivent un enseignement primaire sont admis à subir les épreuves des examens qui le sanctionnent lorsque
+l'instituteur estime leur préparation suffisante.
+
+Les détenus peuvent, après avis des services compétents du ministère de l'éducation nationale, se présenter aux épreuves
+écrites ou orales de tous autres examens organisés à l'établissement sauf opposition du chef d'établissement s'il s'agit d'un
+membre du personnel de direction, sinon du directeur régional.
+
+Si les épreuves ne peuvent se dérouler à l'établissement, les candidats sont extraits de la prison ou, si leur situation le
+permet, bénéficient d'une permission de sortir dans les conditions prévues à l'article D. 143.
+
+Les examens donnent lieu à la délivrance de certificats, brevets ou diplômes qui ne font pas apparaître l'état de détention
+des intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D116 (M)
+  - CODE DE PROCEDURE PENALE - art. D143 (V)
+  - CODE DE PROCEDURE PENALE - art. D459 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D456
 
 Le service de l'enseignement, comme la charge d'aider ou de conseiller les détenus qui ont été admis à poursuivre des études
@@ -44032,7 +47206,40 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Formation professionnelle<a id=412></a>
+##### Paragraphe 1er : Enseignement scolaire<a id=416></a>
+
+###### Article D452
+
+L'enseignement primaire est assuré dans tous les établissements pénitentiaires.
+
+Les condamnés qui ne savent pas lire, écrire ou calculer couramment doivent bénéficier de cet engagement. Les autres détenus
+peuvent y être admis sur leur demande.
+
+Des cours spéciaux sont organisés pour les illettrés ainsi que pour ceux qui ne parlent ni n'écrivent la langue française.
+
+Le règlement intérieur détermine les horaires et les modalités dudit enseignement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D83 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Formation professionnelle<a id=417></a>
 
 ###### Article D457
 
@@ -44057,6 +47264,36 @@ _Codifié par_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D573 (V)
+
+
+###### Article D458
+
+Dans la mesure où les nécessités du service, de l'ordre et de la sécurité le permettent, et où les conditions matérielles
+d'incarcération s'y prêtent, les détenus peuvent être autorisés à entreprendre ou à poursuivre individuellement des études
+techniques, notamment à l'aide des cours par correspondance ainsi qu'il est précisé à l'article D. 454. 
+
+Par ailleurs, le régime de semi-liberté peut être accordé dans les conditions fixées aux articles D. 136 et suivants, afin
+que soit suivie, à l'extérieur de l'établissement, une formation professionnelle qui apparaîtrait indispensable à la
+réinsertion sociale du condamné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D136 (M)
+  - CODE DE PROCEDURE PENALE - art. D454 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D459
@@ -44089,9 +47326,504 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D455 (M)
 
 
-##### Section 4 : Du service socio-éducatif<a id=413></a>
+##### Section 4 : Du service socio-éducatif<a id=418></a>
 
-##### Paragraphe 2 : Visiteurs de prison<a id=414></a>
+###### Article D460
+
+Au sein de chaque établissement pénitentiaire est institué un service socio-éducatif qui comprend des assistants sociaux et
+des éducateurs. 
+
+Dans le présent titre, le terme de travailleur social [*définition*] s'applique indifféremment aux assistants sociaux et aux
+éducateurs. 
+
+Dans les établissements pénitentiaires les plus importants, le service socio-éducatif est dirigé par un membre du corps des
+assistants sociaux ou des éducateurs. 
+
+Afin de coordonner, de développer et d'orienter l'action de l'ensemble des travailleurs sociaux en milieu ouvert et en milieu
+fermé, un délégué régional à l'action socio-éducative issu du corps des assistants sociaux ou des éducateurs est affecté au
+siège de chaque direction régionale des services pénitentiaires. 
+
+Des travailleurs sociaux sont affectés à l'administration centrale pour participer à l'élaboration de la politique socio-
+éducative et à sa mise en oeuvre. 
+
+Des visiteurs de prison, bénévoles, ont pour mission d'aider dans leur tâche les membres du service socio-éducatif qui, dans
+chaque établissement, coordonnent leur action.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D472 (M)
+  - Code de procédure pénale - art. D514-1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 1er : Travailleurs sociaux<a id=419></a>
+
+###### Article D461
+
+Le service socio-éducatif a pour mission de participer à la prévention des effets désocialisants de l'emprisonnement sur les
+détenus, de favoriser le maintien de leurs liens sociaux et familiaux et de les aider à préparer leur réadaptation sociale.
+
+Les travailleurs sociaux assurent les liaisons avec les divers services sociaux, éducatifs, médico-sociaux locaux et prennent
+tous contacts qu'ils jugent nécessaires pour la réinsertion des détenus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-322 1959-02-23 JORF 25 février 1959) M(Décret 63-502 1963-05-17 JORF 23 mai 1963
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D462 (M)
+  - Code de procédure pénale - art. D162 (V)
+
+
+###### Article D462
+
+Dans le cadre des dispositions légales et sous réserve des liaisons établies conformément à l'article D. 461, les
+travailleurs sociaux sont tenus à l'égard des tiers au secret en tout ce qui concerne les informations qu'ils ont pu
+recueillir dans l'exercice de leurs fonctions [*obligations*]. 
+
+Chaque fois que la demande leur en est faite ou à leur initiative, ils fournissent à l'autorité judiciaire ou à
+l'administration pénitentiaire les éléments permettant de mieux individualiser la situation pénale des détenus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D162 (M)
+  - Code de procédure pénale - art. D49-63 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D461 (M)
+
+
+###### Article D463
+
+Les travailleurs sociaux doivent remplir leurs fonctions dans des conditions telles que celles-ci ne puissent préjudicier à
+la sécurité et à la discipline de l'établissement non plus qu'à la bonne marche des procédures judiciaires.
+
+Plus généralement, ils doivent se conformer aux interdictions visées à l'article D. 220, qui sont imposées à toutes les
+personnes accomplissant des fonctions ou un service quelconque dans un établissement pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-11° JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D220. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### A : Rôle des travailleurs sociaux à l'égard des détenus<a id=420></a>
+
+###### Article D464
+
+Le travailleur social s'entretient avec les entrants dès que possible. A cet effet, il est systématiquement avisé de
+l'identité et de la situation pénale de tout détenu venant d'être écroué.
+
+En vue de prendre toutes mesures utiles relevant de sa compétence, le travailleur social examine la situation personnelle,
+sociale et administrative de l'intéressé ainsi que les conséquences de l'incarcération sur les conditions de vie de sa
+famille.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D285 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D465
+
+Les travailleurs sociaux affectés dans les établissements pénitentiaires interviennent auprès des détenus lors d'entretiens
+individuels ou à l'occasion d'animations ou de réunions de groupes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D466
+
+Le travailleur social doit être régulièrement informé par le chef d'établissement de la situation pénale du détenu et, avant
+la libération de ce dernier, avoir un entretien avec lui pour examiner les mesures susceptibles d'améliorer les conditions de
+sa sortie. 
+
+Le travailleur social prend les dispositions qui lui paraissent utiles pour la réinsertion du libéré, notamment en l'aidant à
+se procurer un travail, un hébergement ou en le secondant dans ses diverses démarches.
+
+A cette fin, il prend tous contacts utiles avec le comité de probation et d'assistance aux libérés dans le ressort duquel
+l'intéressé a déclaré vouloir se rendre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 2 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°73-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - Code de procédure pénale 714 à 728
+
+
+##### B : Moyens d'action des travailleurs sociaux<a id=421></a>
+
+###### Article D467
+
+Les travailleurs sociaux ont libre accès aux heures du service de jour, aux locaux de détention pour les besoins de leur
+service. Toutefois, l'accès aux ateliers ou aux dortoirs en commun est subordonné à l'autorisation du chef d'établissement.
+
+Sous cette réserve, les entretiens avec les détenus ont lieu dans les conditions fixées à l'article D. 437, alinéa 2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cite_:
+
+  - Code de procédure pénale D437 al. 2
+
+
+###### Article D468
+
+Pendant toute la durée de leur incarcération, les détenus peuvent être reçus par un travailleur social, soit à la suite de
+leur demande, soit sur convocation.
+
+Le travailleur social apprécie l'opportunité de recevoir un détenu ou d'effectuer les démarches qu'il sollicite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D469
+
+La correspondance échangée entre les détenus et les travailleurs sociaux appartenant à l'un des services du ministère de la
+justice se fait librement et sous pli fermé.
+
+Les lettres adressées par les détenus à d'autres travailleurs sociaux peuvent être transmises sous pli fermé sous le contrôle
+du travailleur social de l'établissement ou, en son absence, du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D416 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D470
+
+Par dérogation aux dispositions des articles D. 467 à D. 469, les prévenus auxquels il est interdit de communiquer par
+application des dispositions du second alinéa de l'article 116 ne peuvent ni correspondre avec le travailleur social, ni
+recevoir sa visite, à moins que celui-ci ne soit en possession d'une autorisation du magistrat saisi du dossier de
+l'information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-13° JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 116 (M)
+  - Code de procédure pénale 116, D467 à D469
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D471
+
+A la fin de chaque année, un rapport sur le fonctionnement du service socio-éducatif est établi par le chef de service ou, à
+défaut, par le ou les travailleurs sociaux en fonction dans l'établissement.
+
+Ce rapport est adressé par la voie hiérarchique à l'administration centrale ainsi qu'au juge de l'application des peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Visiteurs de prison<a id=422></a>
+
+###### Article D472
+
+Les visiteurs de prison aident bénévolement dans leur tâche les travailleurs sociaux des établissements pénitentiaires dans
+les conditions de l'article D. 460.
+
+Leur rôle consiste à prendre en charge les détenus signalés par le service socio-éducatif afin de les soutenir durant leur
+incarcération et contribuer à la préparation de leur réinsertion.
+
+De plus, en fonction de leurs aptitudes, ils peuvent participer à des actions d'enseignement ou à l'animation socio-
+culturelle des établissements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Cité par_:
+
+  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+  - Arrêté du 29 décembre 2016 - art. 4 (V)
+  - Code de la sécurité sociale. - art. D412-79 (M)
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D460 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D473
+
+Les visiteurs de prison sont agréés, pour une période de deux ans renouvelable, aux fins d'accès auprès des détenus ou d'une
+catégorie de détenus d'un ou de plusieurs établissements déterminés.
+
+L'agrément est accordé et retiré par le directeur régional, après avis du préfet et du juge de l'application des peines.
+
+En cas d'urgence et pour des motifs graves, cet agrément peut être suspendu par le directeur régional soit d'office, soit à
+la demande du juge de l'application des peines ou du procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 9-14° JORF 8 août 1985
+  - Décret n°84-77 1977-01-30 art. 1 JORF 2 février 1977
+
+_Cité par_:
+
+  - Arrêté du 29 décembre 2016 - art. 4 (V)
+  - Code de la sécurité sociale. - art. D412-79 (M)
+  - Code de procédure pénale - art. D187 (V)
+
+
+###### Article D474
+
+Les visiteurs maintiennent une collaboration étroite avec le ou les travailleurs sociaux de l'établissement qui ont pour
+tâche de rassembler, d'orienter et de coordonner leurs efforts ; ils sont réunis par celui-ci ou ceux-ci chaque trimestre en
+présence du chef de l'établissement, afin que soient confrontés les méthodes et les résultats obtenus.
+
+Ils doivent par ailleurs se conformer non seulement aux dispositions du présent titre et du règlement intérieur de
+l'établissement relatives à la discipline et à la sécurité, mais aussi aux obligations particulières résultant de leur
+qualité et de leur rôle, telles que ces obligations sont portées à leur connaissance au moment de leur agrément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Arrêté du 29 décembre 2016 - art. 4 (V)
+  - Code de la sécurité sociale. - art. D412-79 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D475
+
+Les visiteurs de prison peuvent exercer leur action auprès de tous les détenus écroués dans l'établissement pour lequel ils
+sont accrédités ou auprès des détenus appartenant à la catégorie visée à l'autorisation qui leur a été accordée, quelle que
+soit la situation pénale de ces détenus.
+
+Toutefois, le droit de visite est suspendu à l'égard des détenus placés au quartier disciplinaire et à l'égard des prévenus
+dans le cas où ces derniers font l'objet de l'interdiction de communiquer prévue au second alinéa de l'article 116.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-14° JORF 8 août 1985
+
+_Cité par_:
+
+  - Arrêté du 29 décembre 2016 - art. 4 (V)
+  - Code de la sécurité sociale. - art. D412-79 (M)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 116 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D476
+
+Les visiteurs de prison ont accès à un local aménagé à l'intérieur de la détention afin d'y recevoir les détenus dont ils
+s'occupent.
+
+Sous cette réserve, ils s'entretiennent avec les détenus dans les conditions fixées à l'article D. 437.
+
+Les visites ont lieu aux jours et heures fixés par le chef de l'établissement en accord avec les visiteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-14° JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D437 (V)
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. D412-79 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D477
 
@@ -44118,9 +47850,150 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : De l'aide à la libération<a id=415></a>
+##### Section 5 : De l'aide à la libération<a id=423></a>
 
-##### Paragraphe 2 : Aide aux indigents<a id=416></a>
+###### Article D478
+
+Au moment de la libération des détenus, l'administration pénitentiaire les informe de l'aide qu'ils peuvent recevoir,
+notamment auprès du comité de probation et d'assistance aux libérés du lieu de leur résidence.
+
+Elle peut fournir, éventuellement, une aide matérielle à certains d'entre eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 1er : Avis donnés aux détenus au moment de leur libération<a id=424></a>
+
+###### Article D479
+
+Le billet de sortie remis à chaque libéré dans les conditions visées à l'article D. 288 mentionne les ressources financières
+dont le détenu dispose à sa sortie et les secours, sous les diverses formes, dont il a pu éventuellement bénéficier à sa
+libération.
+
+Il comporte l'adresse du comité de probation et d'assistance aux libérés du lieu de sa résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 2 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D288 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D480
+
+Un certificat de présence destiné à l'association pour l'emploi dans l'industrie et le commerce est joint au billet de
+sortie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°73-281 1973-03-07 art. 2 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°81-40 1981-01-16 art. 2 JORF 23 janvier 1981
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D288 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Paragraphe 2 : Aide aux indigents<a id=425></a>
+
+###### Article D481
+
+Une aide matérielle peut être attribuée aux détenus dépourvus de ressources au moment de leur libération afin de leur
+permettre de subvenir à leurs besoins pendant le temps nécessaire pour rejoindre le lieu où ils ont déclaré se rendre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D482
+
+En accord avec le chef de l'établissement, le service socio-éducatif se préoccupe, dans toute la mesure du possible, de
+pourvoir de vêtements les détenus libérables qui n'en posséderaient pas et seraient dépourvus de ressources suffisantes pour
+s'en procurer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D483
+
+L'administration pénitentiaire peut procéder ou participer à l'acquisition d'un titre de transport pour les détenus qui, à
+leur libération, n'auraient pas un pécule suffisant pour se rendre au lieu où ils justifient de moyens réguliers d'existence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D484
 
@@ -44144,7 +48017,60 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D490 (M)
 
 
-#### Chapitre XI : De différentes catégories de détenus<a id=417></a>
+###### Article D485
+
+Il entre dans les attributions du service socio-éducatif d'effectuer, en accord avec le chef de l'établissement, les
+diligences voulues pour que les détenus malades soient, s'il y a lieu, hospitalisés dès leur libération.
+
+A cet égard, les intéressés sont considérés comme étant domiciliés au lieu de détention, sous réserve des dispositions
+spéciales arrêtées d'un commun accord entre le ministre de la justice et le ministre de la santé publique et de la population
+pour les malades mentaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-9° JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D486
+
+Le service socio-éducatif doit également assurer la prise en charge du détenu libéré par le dispensaire le plus proche du
+lieu où l'intéressé se propose de fixer son domicile, s'il doit faire l'objet d'une surveillance prophylactique ou de post-
+cure pour une affection traitée au cours de sa détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 9-9° JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+#### Chapitre XI : De différentes catégories de détenus<a id=426></a>
 
 ###### Article D487
 
@@ -44168,7 +48094,7 @@ _Cite_:
   - Code de procédure pénale - art. D58 (V)
 
 
-##### Section 1 : Des condamnés de police<a id=418></a>
+##### Section 1 : Des condamnés de police<a id=427></a>
 
 ###### Article D488
 
@@ -44227,7 +48153,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=419></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=428></a>
 
 ###### Article D490
 
@@ -44417,7 +48343,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Des détenus de nationalité étrangère<a id=420></a>
+##### Section 3 : Des détenus de nationalité étrangère<a id=429></a>
 
 ###### Article D505
 
@@ -44487,7 +48413,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des détenus appartenant aux forces armées<a id=421></a>
+##### Section 4 : Des détenus appartenant aux forces armées<a id=430></a>
 
 ###### Article D508
 
@@ -44626,7 +48552,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=422></a>
+##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=431></a>
 
 ###### Article D514
 
@@ -44704,6 +48630,40 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D74 (V)
   - Code de procédure pénale - art. D601 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D516
+
+Les détenus âgés de moins de vingt et un ans sont soumis, en principe, à l'isolement de nuit.
+
+Toutefois, ils peuvent être placés en cellule avec d'autres détenus de leur âge, soit pour motif médical, soit en raison de
+leur personnalité.
+
+Sauf si, pour les prévenus, le magistrat saisi du dossier de l'affaire en dispose autrement, ils participent à des activités
+telles que la formation professionnelle, l'enseignement général, le travail et les séances éducatives et sportives ou de
+loisirs.
+
+Des dispositions doivent être prises pour que l'emploi du temps réserve une place aussi importante que possible aux activités
+de plein air, compte tenu des conditions atmosphériques et des nécessités du service.
+
+Les détenus âgés de moins de vingt et un ans doivent être séparés des adultes. Cependant, ils peuvent participer en même
+temps que les adultes aux offices religieux et, à titre exceptionnel, aux autres activités organisées dans la prison.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°84-77 1984-01-30 art. 1 JORF 2 février 1984
+  - Décret n°85-836 1985-08-06 art. 9 4° JORF 8 août 1985
 
 **Liens**:
 
@@ -44791,9 +48751,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-### Titre III : De la libération conditionnelle<a id=423></a>
+### Titre III : De la libération conditionnelle<a id=432></a>
 
-#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=424></a>
+#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=433></a>
 
 ###### Article D520
 
@@ -44993,7 +48953,73 @@ _Modifié par_:
   - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
 
 
-#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=425></a>
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=434></a>
+
+###### Article D526
+
+Le cas des condamnés ayant vocation à la libération conditionnelle doit être examiné en temps utile pour que les intéressés
+puissent éventuellement être admis au bénéficie de la mesure dès qu'ils remplissent les conditions de délai prévues par la
+loi.
+
+Sauf s'il est envisagé d'assortir le bénéfice de la mesure de l'une des conditions prévues à l'article D. 535 (3° et 4°), cet
+examen porte essentiellement sur les perspectives de réinsertion du condamné en fonction de sa situation personnelle,
+familiale et sociale.
+
+Des éléments d'information complémentaires sont, en tant que de besoin, recueillis par l'intermédiaire du comité de probation
+du lieu où le condamné souhaite établir sa résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°84-809 1984-08-28 art. 1 JORF 31 août 1984
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D527-1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+_Cite_:
+
+  - Code de procédure pénale D535 3° et 4°
+
+
+###### Article D527-1
+
+Dès lors qu'il remplit les conditions prévues par l'article 729, tout condamné peut, même s'il n'est pas sous écrou, être
+admis au bénéfice de la libération conditionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 et art. 8 JORF 8 août 1985
+
+_Abrogé par_:
+
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 14 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 729 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
 
 ###### Article D529
 
@@ -45015,7 +49041,32 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=426></a>
+#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=435></a>
+
+###### Article D530
+
+Les condamnés admis au bénéfice de la libération conditionnelle peuvent être soumis, en vertu de la décision dont ils font
+l'objet, aux mesures d'aide et de contrôle prévues à la section I du présent chapitre, destinées à faciliter et à vérifier
+leur reclassement.
+
+L'octroi ou le maintien de la liberté conditionnelle peut être subordonné, en outre, à l'observation des conditions
+particulières prévues à la section II.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°85-836 1985-08-06 art. 13 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
 
 ###### Article D531
 
@@ -45036,7 +49087,34 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-##### Section 2 : Des conditions particulières<a id=427></a>
+##### Section 1 : Des mesures d'aide et de contrôle<a id=436></a>
+
+###### Article D532
+
+Les mesures d'aide ont pour objet de susciter et de seconder les efforts du condamné en vue de son reclassement social, et
+notamment de sa réadaptation familiale et professionnelle.
+
+Elle s'exerce sous la forme d'aide psychologique et, s'il y a lieu, matérielle apportée par le comité de probation et
+d'assistance aux libérés, ou sur intervention de celui-ci, par tout organisme d'assistance ou d'aide sociale, et notamment
+par les oeuvres privées habilitées à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°85-836 1985-08-06 art. 13 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+##### Section 2 : Des conditions particulières<a id=437></a>
 
 ###### Article D535
 
@@ -45079,30 +49157,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-###### Article D537
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
-
-_Abrogé par_:
-
-  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
-
-
-#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=428></a>
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=438></a>
 
 ###### Article D538
 
@@ -45150,11 +49205,18 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre V : Dispositions diverses<a id=429></a>
+#### Chapitre V : Dispositions diverses<a id=439></a>
 
-###### Article D543
+###### Article D542
 
-[Article abrogé].
+Les comités d'assistance aux libérés sont chargés, conformément à l'article R. 8 du Code pénal [*attributions*], d'assurer la
+prise en charge des interdits de séjour faisant l'objet des mesures d'assistance visées à l'article 46 dudit code [* article
+abrogé *].
+
+**Nota:**
+
+[*Les articles R. 1 à R. 43 du code pénal ont été abrogés et remplacés par le décret n° 93-726 du 29 mars 1993 en vigueur le
+1er mars 1994. *]
 
 **Liens relatifs à cet article**
 
@@ -45162,17 +49224,48 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
+_Cite_:
 
-#### Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1<a id=430></a>
+  - Code pénal 46, R8
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D544
+
+Tout sortant de prison peut, à sa demande, bénéficier de l'aide du comité de probation de sa résidence. Cette aide s'exerce
+en liaison et avec la participation, le cas échéant, de tous organismes publics ou privés.
+
+L'attribution de secours ne peut être accordée que pendant les six premiers mois [*durée*] suivant la date de la libération.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D576 (M)
+  - Code de procédure pénale - art. D578 (V)
+  - Code de procédure pénale - art. D582 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+#### Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1<a id=440></a>
 
 ###### Article D544-1
 
@@ -45263,11 +49356,11 @@ _Créé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-### Titre IV : Du sursis<a id=431></a>
+### Titre IV : Du sursis<a id=441></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=432></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=442></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=433></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=443></a>
 
 ###### Article D545
 
@@ -45787,7 +49880,7 @@ _Abrogé par_:
   - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
-### Titre VI : De la contrainte par corps<a id=434></a>
+### Titre VI : De la contrainte par corps<a id=444></a>
 
 ###### Article D569
 
@@ -45817,7 +49910,36 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-### Titre XI : Le comité de probation et d'assistance aux libérés<a id=435></a>
+###### Article D570
+
+Les personnes détenues en vertu d'une décision de contrainte par corps sont soumises au même régime que les condamnés, sous
+réserve des dispositions de l'article D. 99. 
+
+Pour l'admission au bénéfice des mesures prévues aux articles 723 et 723-3, les conditions de délai fixées aux articles D.
+119 à D. 145 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D99 (M)
+  - Code de procédure pénale 723 et 723-3, D99, D119 à D145
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 749 à 762
+
+
+### Titre XI : Le comité de probation et d'assistance aux libérés<a id=445></a>
 
 ###### Article D572
 
@@ -45845,7 +49967,7 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. D599 (V)
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=436></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=446></a>
 
 ###### Article D573
 
@@ -45876,17 +49998,17 @@ _Cité par_:
   - Code de procédure pénale - art. D572 (V)
 
 
-# Partie Arrêtés<a id=437></a>
+# Partie Arrêtés<a id=447></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=438></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=448></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=439></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=449></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=440></a>
+#### Chapitre Ier : De la police judiciaire<a id=450></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=441></a>
+##### Section 2 : Des officiers de police judiciaire<a id=451></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=442></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=452></a>
 
 ###### Article A1
 
@@ -46100,7 +50222,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=443></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=453></a>
 
 ###### Article A2
 
@@ -46201,7 +50323,7 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=444></a>
+##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=454></a>
 
 ###### Article A13
 
@@ -46870,13 +50992,13 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. A22 (Ab)
 
 
-## Livre V : Des procédures d'exécution<a id=445></a>
+## Livre V : Des procédures d'exécution<a id=455></a>
 
-### Titre II : De la détention<a id=446></a>
+### Titre II : De la détention<a id=456></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=447></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=457></a>
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=448></a>
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=458></a>
 
 ###### Article A39
 
@@ -46963,7 +51085,7 @@ _Cite_:
   - Code de procédure pénale D70, D70-2, D490 à D496
 
 
-##### Section 5<a id=449></a>
+##### Section 5<a id=459></a>
 
 ###### Article A39-1
 
@@ -47011,11 +51133,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=450></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=460></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=451></a>
+##### Section 1 : De la gestion des biens des détenus<a id=461></a>
 
-##### Paragraphe 1er : Pécule.<a id=452></a>
+##### Paragraphe 1er : Pécule.<a id=462></a>
 
 ###### Article A41
 
@@ -47065,6 +51187,54 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D324. (M)
+
+
+###### Article A41-2
+
+Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D. 422 est fixé à 900 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1979-07-09 art. 2 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
+
+_Modifié par_:
+
+  - Arrêté 1981-01-14 art. 1 JORF 27 janvier 1981
+  - Arrêté 1982-10-22 art. 1 JORF 2 novembre 1982
+  - Arrêté 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D422 (M)
+
+
+###### Article A42
+
+La somme prévue au premier alinéa de l'article D. 329 du Code de procédure pénale est fixée à 900 F par mois. Cette somme est
+doublée à l'occasion des fêtes de fin d'année.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1979-07-09 art. 1 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
+  - Arrêté 1981-01-14 art. 2 JORF 27 janvier 1981
+  - Arrêté 1982-10-22 art. 2 JORF 2 novembre 1982
+  - Arrêté 1985-08-06 art. 2 JORF 8 août 1985
+
+_Cite_:
+
+  - Code de procédure pénale D329 al. 1
 
 
 ###### Article A42-1
@@ -47128,9 +51298,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=453></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=463></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=454></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=464></a>
 
 ###### Article A43
 
@@ -47189,13 +51359,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=455></a>
+### Titre IV : Du sursis<a id=465></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=456></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=466></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=457></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=467></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=458></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=468></a>
 
 ###### Article A45
 
@@ -47256,7 +51426,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=459></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=469></a>
 
 ###### Article A48
 
@@ -47357,9 +51527,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=460></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=470></a>
 
-#### Disposition générale<a id=461></a>
+#### Disposition générale<a id=471></a>
 
 ###### Article A53
 
@@ -47377,7 +51547,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=462></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=472></a>
 
 ###### Article A54
 
