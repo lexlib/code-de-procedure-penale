@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-07-01
+Version Consolidée au 1997-11-08
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -2001,6 +2001,8 @@ Sont agents de police judiciaire adjoints :
 
 1° Les fonctionnaires des services actifs de police nationale ne remplissant pas les conditions prévues par l'article 20 ;
 
+1° bis Les volontaires servant en qualité de militaire dans la gendarmerie ;
+
 2° Les agents de police municipale.
 
 Ils ont pour mission :
@@ -2115,18 +2117,16 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Loi n°66-493 1966-07-09 art. 2 JORF 10 juillet 1966
-  - Loi n°78-788 1978-07-28 art. 5 JORF 29 juillet 1978
-  - Loi n°85-1196 1985-11-18 art. 4 et 8 JORF 19 novembre 1985 en vigueur le 1er janvier 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
   - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002
   - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 1 (V)
   - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V)
+
+_Modifié par_:
+
+  - Loi n°97-1019 du 28 octobre 1997 - art. 6 () JORF 8 novembre 1997
 
 _Cite_:
 
