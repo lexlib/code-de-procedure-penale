@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-04-01
+Version Consolidée au 1980-04-04
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -33648,6 +33648,33 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D406
+
+En toute hypothèse, un surveillant est présent au parloir ou au lieu de l'entretien. Il doit avoir la possibilité d'entendre
+les conversations.
+
+L'accès au parloir implique, outre la fouille des détenus avant et après l'entretien, les mesures de contrôle jugées
+nécessaires à l'égard des visiteurs, pour des motifs de sécurité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D411 (V)
 
 **Liens**:
 
