@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-08-07
+Version Consolidée au 1975-08-09
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -156,9 +156,9 @@ Version Consolidée au 1975-08-07
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. R1 à R15-5)](#153)
         - [Chapitre Ier : De la police judiciaire (art. R1 à R15-5)](#154)
           - [Section 1 : Dispositions générales (art. R1 à R2)](#155)
-          - [Section 2 : Des officiers de police judiciaire (art. R4 à R15-5)](#156)
-            - [Paragraphe 1er : Désignation des officiers de police judiciaire (art. R4 à R7)](#157)
-              - [A - Désignation des gendarmes officiers de police judiciaire (art. R4 à R7)](#158)
+          - [Section 2 : Des officiers de police judiciaire (art. R3 à R15-5)](#156)
+            - [Paragraphe 1er : Désignation des officiers de police judiciaire (art. R3 à R7)](#157)
+              - [A - Désignation des gendarmes officiers de police judiciaire (art. R3 à R7)](#158)
             - [Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité (art. R13 à R15-5)](#159)
               - [A : Habilitation des officiers de police judiciaire de la gendarmerie (art. R13 à R15)](#160)
               - [B : Habilitation des officiers de police judiciaire de la police nationale (art. R15-3 à R15-5)](#161)
@@ -17130,6 +17130,42 @@ _Nouveaux textes_:
 ##### Paragraphe 1er : Désignation des officiers de police judiciaire<a id=157></a>
 
 ##### A - Désignation des gendarmes officiers de police judiciaire<a id=158></a>
+
+###### Article R3
+
+La commission prévue à l'article 16 (2°) du code de procédure pénale et dont l'avis conforme est requis pour la désignation
+des gendarmes ayant la qualité d'officier de police judiciaire est composée comme suit :
+
+1° Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général et les
+avocats généraux près la Cour de cassation, président ;
+
+2° Neuf magistrats du ministère public, dont deux au plus peuvent être des magistrats honoraires ou en retraite ;
+
+3° Le général inspecteur général de la gendarmerie ou son représentant ;
+
+Huit officiers supérieurs de gendarmerie.
+
+Le secrétariat de la commission est assuré par la direction de la gendarmerie et de la justice militaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-02
+
+_Cité par_:
+
+  - Arrêté du 15 novembre 1994 - art. 1 (V)
+  - CODE DE PROCEDURE PENALE - art. A1 (T)
+  - Code de procédure pénale - art. A1-1 (T)
+  - Code de procédure pénale - art. R6 (VD)
+  - Code de procédure pénale - art. R7 (VD)
+  - Code de procédure pénale - art. R8 (VD)
+
+_Cite_:
+
+  - Code de procédure pénale 16 (2°)
+
 
 ###### Article R4
 
