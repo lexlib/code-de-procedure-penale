@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1991-10-01
+Version Consolidée au 1991-12-19
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -826,6 +826,33 @@ _Créé par_:
 _Cite_:
 
   - Code de procédure pénale - art. 187-1 (V)
+
+
+###### Article 2-11
+
+Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits et inscrite auprès de l'Office
+national des anciens combattants et victimes de guerre dans des conditions fixées par décret en Conseil d'Etat, qui se
+propose par ses statuts de défendre les intérêts moraux et l'honneur des anciens combattants et victimes de guerre et des
+morts pour la France peut exercer les droits reconnus à la partie civile en ce qui concerne les dégradations ou destructions
+de monuments ou les violations de sépultures, qui ont causé un préjudice direct ou indirect à la mission qu'elle remplit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°91-1257 du 17 décembre 1991 - art. 1 () JORF 19 décembre 1991
+
+_Cité par_:
+
+  - Décret n°92-701 du 20 juillet 1992 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°92-701 du 20 juillet 1992 - art. 1 (V)
 
 
 ###### Article 3
