@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-12-23
+Version Consolidée au 1983-12-27
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -26808,6 +26808,98 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
 
 
+###### Article R92
+
+Les frais de justice criminelle, correctionnelle et de police sont :
+
+1° Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils
+sont appelés en témoignage, mais seulement quand cette translation ne peut être effectuée par les voitures cellulaires du
+service pénitentiaire, les frais de transport des procédures et des pièces à conviction ;
+
+2° Les frais d'extradiction des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de
+procédure pénale en matière internationale ;
+
+3° Les honoraires et indemnités qui peuvent être accordés aux experts, aux interprètes et les frais de traduction ;
+
+4° Les indemnités qui peuvent être accordées aux témoins et aux jurés ;
+
+5° Les frais de garde des scellés, ceux de mise en fourrière et ceux de l'immobilisation décidée en application de l'article
+43-3-3° bis du Code pénal.
+
+7° Les émoluments des huissiers ;
+
+8° Les frais de capture ;
+
+9° Les indemnités allouées aux magistrats et greffiers au cas de transport pour exercer un acte de leur fonction dans les cas
+prévus à la section VII du chapitre II du présent titre ;
+
+10° Les frais de communication postale, télégraphique, téléphonique, le port des paquets pour la procédure pénale ;
+
+11° Les frais d'impressions des arrêts, jugements et ordonnances de justice ;
+
+12° Les frais d'exécution des arrêts en matière criminelle et les gages des exécuteurs ;
+
+13° Les indemnités et secours accordés aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux
+individus relaxés ou acquittés ;
+
+14° Les indemnités accordées en application des articles 149 et 150 ;
+
+15° Les indemnités accordées en application de l'article 706-9 ainsi que les frais exposés devant les commissions prévues à
+l'article 706-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°71-5 1971-01-04 art. 20 JORF 7 janvier 1971
+  - Décret n°78-62 1978-01-20 art. 11 1° JORF 24 janvier 1978
+  - Décret n°83-1154 1983-12-23 art. 2 JORF 27 décembre 1983
+
+_Cité par_:
+
+  - Décret n°99-818 du 16 septembre 1999 - art. 8-1 (V)
+  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+  - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
+  - Décret n°2004-1211 du 9 novembre 2004 - art. 22 (VT)
+  - Décret n°2014-461 du 7 mai 2014 - art. 5 (V)
+  - Décret n°2014-461 du 7 mai 2014 - art. 6 (V)
+  - Décret n°2014-461 du 7 mai 2014 - art. 7 (V)
+  - Décret n°2016-479 du 18 avril 2016 - art. 14
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-4 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R946-6 (Ab)
+  - Code de l'organisation judiciaire - art. R123-23 (VD)
+  - Code de la sécurité intérieure - art. R413-50 (V)
+  - Code de la sécurité sociale. - art. D311-1 (V)
+  - Code de procédure pénale - art. R213-1 (V)
+  - Code de procédure pénale - art. R213-2 (V)
+  - Code de procédure pénale - art. R222 (VD)
+  - Code de procédure pénale - art. R223 (V)
+  - Code de procédure pénale - art. R224-1 (V)
+  - Code de procédure pénale - art. R91 (V)
+  - Code de procédure pénale - art. R93 (V)
+
+_Cite_:
+
+  - Code pénal 43-3-3° bis
+  - CODE DE PROCEDURE PENALE - art. 149 (M)
+  - CODE DE PROCEDURE PENALE - art. 150 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-9 (M)
+  - Code de procédure pénale 149, 150, 706-4, 706-9, R200 à R207
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
 ###### Article R93
 
 Sont, en outre, assimilés aux frais de justice criminelle, correctionnelle et de police, en ce qui concerne l'imputation, le
@@ -31728,67 +31820,6 @@ _Codifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D16 (M)
-
-
-###### Article D20
-
-(Article abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
-
-_Modifié par_:
-
-  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
-
-_Abrogé par_:
-
-  - Décret n°83-1164 1983-12-23 art. 3 JORF 27 décembre 1983
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
-
-
-###### Article D21
-
-(Article abrogé)
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
-
-_Abrogé par_:
-
-  - Décret n°83-1164 1983-12-23 art. 3 JORF 27 décembre 1983
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
-
-
-###### Article D22
-
-(Article abrogé)
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
-
-_Abrogé par_:
-
-  - Décret n°83-1164 1983-12-23 art. 3 JORF 27 décembre 1983
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
 
 
 ###### Article D23
