@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-07-23
+Version Consolidée au 1987-07-31
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -553,11 +553,12 @@ _Cite_:
 ###### Article 2-1
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de
-combattre le racisme, peut exercer les droits reconnus à la partie civile en ce qui concerne, d'une part, les infractions
-prévues par les articles 187-1, 187-2, 416 et 416-1 du code pénal, d'autre part les infractions prévues par les articles 295,
-296, 301, 303, 304, 305, 306, 309, 310, 311, 434, 435 et 437 du même code qui ont été commises au préjudice d'une personne à
-raison de son origine nationale, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une race ou
-une religion déterminée.
+combattre le racisme ou d'assister les victimes de discrimination fondée sur leur origine nationale, ethnique, raciale ou
+religieuse, peut exercer les droits reconnus à la partie civile en ce qui concerne, d'une part, les infractions prévues par
+les articles 187-1, 187-2, 416 et 416-1 du code pénal, d'autre part les infractions prévues par les articles 295, 296, 301,
+303, 304, 305, 306, 309, 310, 311, 434, 435 et 437 du même code qui ont été commises au préjudice d'une personne à raison de
+son origine nationale, de son appartenance ou de sa non-appartenance, vraie ou supposée, à une ethnie, une race ou une
+religion déterminée.
 
 **Liens relatifs à cet article**
 
@@ -565,13 +566,9 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
-
-  - Loi n°72-546 1972-07-01 art. 8 JORF 2 juillet 1972
-
 _Modifié par_:
 
-  - Loi n°85-10 du 3 janvier 1985 - art. 99 () JORF 4 janvier 1985
+  - Loi n°87-588 du 30 juillet 1987 - art. 87 () JORF 31 juillet 1987
 
 _Cité par_:
 
@@ -581,7 +578,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 295, 296, 301, 303, 304, 305, 306, 309, 310, 311, 434, 435, 437
+  - Code pénal 187-2, 416, 416-1
 
 
 ###### Article 2-2
