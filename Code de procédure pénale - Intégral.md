@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-06-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -296,7 +296,7 @@ Version Consolidée au 1986-03-16
             - [Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi (art. R245 à R247)](#293)
             - [Paragraphe 3 : Régularisation des dépenses - Recouvrement (art. R249)](#294)
     - [Dispositions générales (art. R250)](#295)
-  - [Partie réglementaire - Décrets simples (art. D1 à D573)](#296)
+  - [Partie réglementaire - Décrets simples (art. D1 à D600)](#296)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D1 à D47)](#297)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D1 à D15)](#298)
         - [Chapitre Ier : De la police judiciaire (art. D1 à D15)](#299)
@@ -317,7 +317,7 @@ Version Consolidée au 1986-03-16
           - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#314)
     - [Livre IV : De quelques procédures particulières (art. D47-1)](#315)
       - [Titre II : Du faux (art. D47-1)](#316)
-    - [Livre V : Des procédures d'exécution (art. D48 à D572)](#317)
+    - [Livre V : Des procédures d'exécution (art. D48 à D599)](#317)
       - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49-1)](#318)
       - [Titre II : De la détention (art. D50 à D519)](#319)
         - [Chapitre Ier : De l'exécution de la détention provisoire (art. D53 à D69)](#320)
@@ -443,38 +443,40 @@ Version Consolidée au 1986-03-16
           - [Section 2 : Des conditions particulières (art. D535 à D536)](#440)
         - [Chapitre V : Dispositions diverses (art. D542 à D544)](#441)
         - [Chapitre VI : Du recours pour violation de la loi contre les mesures d'administration judiciaire mentionnées à l'article 733-1 (art. D544-1 à D544-4)](#442)
-      - [Titre IV : Du sursis (art. D566)](#443)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D566)](#444)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D566)](#445)
-      - [Titre VI : De la contrainte par corps (art. D569 à D570)](#446)
-      - [Titre XI : Le comité de probation et d'assistance aux libérés (art. D572)](#447)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D573)](#448)
-  - [Partie Arrêtés (art. A1 à A57)](#449)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A27)](#450)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A27)](#451)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A27)](#452)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A27)](#453)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#454)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#455)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#456)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#457)
-      - [Titre II : De la détention (art. A39 à A43-1)](#458)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#459)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#460)
-          - [Section 5 (art. A39-1 à A39-2)](#461)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#462)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#463)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#464)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#465)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#466)
-      - [Titre IV : Du sursis (art. A45 à A52)](#467)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#468)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#469)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#470)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#471)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#472)
-        - [Disposition générale (art. A53)](#473)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#474)
+      - [Titre VI : De la contrainte par corps (art. D569 à D570)](#443)
+      - [Titre XI : Le comité de probation et d'assistance aux libérés (art. D572 à D598)](#444)
+        - [Chapitre Ier : Les missions du comité de probation et d'assistance aux libérés (art. D574 à D577)](#445)
+        - [Chapitre II : L'organisation du comité de probation et d'assistance aux libérés (art. D578 à D582)](#446)
+        - [Chapitre III : Le fonctionnement du comité de probation et d'assistance aux libérés (art. D583 à D592)](#447)
+        - [Chapitre IV : Dispositions diverses (art. D593 à D598)](#448)
+      - [Titre XII : Dispositions générales (art. D599)](#449)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#450)
+  - [Partie Arrêtés (art. A1 à A57)](#451)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A27)](#452)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A27)](#453)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A27)](#454)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A27)](#455)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#456)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#457)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#458)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#459)
+      - [Titre II : De la détention (art. A39 à A43-1)](#460)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#461)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#462)
+          - [Section 5 (art. A39-1 à A39-2)](#463)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#464)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#465)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#466)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#467)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#468)
+      - [Titre IV : Du sursis (art. A45 à A52)](#469)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#470)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#471)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#472)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#473)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#474)
+        - [Disposition générale (art. A53)](#475)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#476)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -53997,38 +53999,7 @@ _Créé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-### Titre IV : Du sursis<a id=443></a>
-
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=444></a>
-
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=445></a>
-
-###### Article D566
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 734 à 747
-
-_Abrogé par_:
-
-  - Décret n°86-462 1986-03-14 art. 14 JORF 16 mars 1986 en vigueur le 1er juin 1986
-
-_Nouveaux textes_:
-
-  - CODE DE PROCEDURE PENALE - art. D598 (Ab)
-  - CODE DE PROCEDURE PENALE - art. D598 (M)
-
-
-### Titre VI : De la contrainte par corps<a id=446></a>
+### Titre VI : De la contrainte par corps<a id=443></a>
 
 ###### Article D569
 
@@ -54087,12 +54058,12 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 749 à 762
 
 
-### Titre XI : Le comité de probation et d'assistance aux libérés<a id=447></a>
+### Titre XI : Le comité de probation et d'assistance aux libérés<a id=444></a>
 
 ###### Article D572
 
-Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la
-Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+Chaque tribunal de grande instance comprend un comité de probation et d'assistance aux libérés chargé d'exécuter les missions
+prévues par les articles D. 574 à D. 577.
 
 **Liens relatifs à cet article**
 
@@ -54100,10 +54071,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
-  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
 
 _Nouveaux textes_:
 
@@ -54114,10 +54084,698 @@ _Cité par_:
   - Code de procédure pénale - art. A44 (V)
   - Code de procédure pénale - art. D49-1-1 (VD)
 
+_Cite_:
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=448></a>
+  - Code de procédure pénale D574 à D577
+
 
 ###### Article D573
+
+Le comité de probation agit sous l'autorité du juge de l'application des peines qui :
+
+1° Lui donne, en liaison avec les autres magistrats intéressés, les directives générales relatives au fonctionnement du
+service et à l'exécution des missions que lui confient ces magistrats ;
+
+2° Contrôle son activité.
+
+Le juge de l'application des peines définit les critères d'utilisation des fonds affectés au comité de probation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D600 (V)
+  - Code de procédure pénale - art. D600 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D438 (V)
+  - Code de procédure pénale - art. D457 (T)
+  - Code de procédure pénale - art. D514-1 (V)
+  - Code de procédure pénale - art. D572 (V)
+
+
+#### Chapitre Ier : Les missions du comité de probation et d'assistance aux libérés<a id=445></a>
+
+###### Article D574
+
+Le comité de probation et d'assistance aux libérés met en oeuvre les mesures de contrôle et veille au respect des obligations
+ou conditions imposées aux condamnés à l'emprisonnement avec sursis et mise à l'épreuve ou au travail d'intérêt général, aux
+libérés conditionnels, aux interdits de séjour et aux personnes visées à l'article L. 51 du Code du service national.
+
+Il effectue les investigations qui lui sont demandées pour l'exécution des peines privatives de liberté.
+
+Il peut également être chargé de l'exécution de mesures préalables au jugement, notamment d'enquêtes de personnalité et de
+contrôles judiciaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - Arrêté du 28 décembre 2001 - art. 4 (V)
+  - Code de procédure pénale - art. D49-24 (V)
+  - Code de procédure pénale - art. D578 (V)
+  - Code de procédure pénale - art. D580 (V)
+  - Code de procédure pénale - art. D581 (V)
+  - Code de procédure pénale - art. D582 (V)
+
+_Cite_:
+
+  - Code du service national - art. L51 (M)
+
+
+###### Article D575
+
+Le comité de probation et d'assistance aux libérés met en oeuvre, avec la participation, le cas échéant, de tous organismes
+publics ou privés, des mesures d'aide propres à favoriser la réinsertion sociale des personnes prises en charge.
+
+Ces mesures s'exercent notamment sous forme d'une aide à caractère sociale et, s'il y a lieu, d'une aide matérielle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - Décret n°2014-442 du 29 avril 2014 (V)
+
+
+###### Article D576
+
+Le comité de probation et d'assistance aux libérés apporte aux sortants de prison, à leur demande, une aide dans les
+conditions prévues par l'article D. 544.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D544 (M)
+
+
+###### Article D577
+
+Le comité de probation et d'assistance aux libérés assure une permanence pour répondre aux demandes de la juridiction et à
+toutes mesures d'urgence nécessitées par la situation des personnes visées aux articles D. 574 à D. 576.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cite_:
+
+  - Code de procédure pénale D574 à D576
+
+
+#### Chapitre II : L'organisation du comité de probation et d'assistance aux libérés<a id=446></a>
+
+###### Article D578
+
+Le comité de probation et d'assistance aux libérés comprend un ou plusieurs agents de probation désignés par le ministre de
+la justice parmi les assistants sociaux appartenant aux services extérieurs communs du ministère de la justice et les
+éducateurs des services extérieurs de l'administration pénitentiaire.
+
+En outre, des délégués vacataires peuvent, en tant que de besoin, être nommés par arrêté ministériel, sur proposition du juge
+de l'application des peines, après avis du directeur de probation ou, à défaut, du délégué régional à l'action socio-
+éducative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+
+###### Article D579
+
+Pour compléter l'action du comité de probation, il peut être fait appel à des personnes bénévoles qui, après avis du
+directeur de probation, sont agréées par le juge de l'application des peines, dans des conditions fixées par arrêté du
+ministre de la justice. Ce magistrat peut retirer ou suspendre son agrément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. D412-79 (V)
+
+
+###### Article D580
+
+Un ou plusieurs fonctionnaires peuvent être affectés au comité de probation en qualité de chef de service de probation. Ils
+sont désignés par le ministre de la justice parmi les assistants sociaux chefs appartenant aux services extérieurs communs du
+ministère de la justice ou les chefs de service éducatif et de probation des services extérieurs de l'administration
+pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D581 (M)
+
+
+###### Article D581
+
+Un directeur de probation est désigné par le ministre de la justice parmi les personnels mentionnés à l'article D. 580 ou,
+lorsque l'importance du service le justifie, parmi les membres du personnel de direction des services extérieurs de
+l'administration pénitentiaire ayant une expérience professionnelle dans le domaine socio-éducatif.
+
+Il exerce l'autorité hiérarchique sur les personnels du comité de probation et d'assistance aux libérés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D580 (M)
+
+
+###### Article D582
+
+Le secrétariat du juge de l'application des peines et du comité de probation est tenu par un ou plusieurs agents désignés
+parmi les personnels affectés au secrétariat-greffe du tribunal ou, dans les juridictions qui en sont dotées, au secrétariat
+autonome du parquet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+
+#### Chapitre III : Le fonctionnement du comité de probation et d'assistance aux libérés<a id=447></a>
+
+###### Article D583
+
+Dans le cadre des directives prévues par l'article D. 573, le directeur de probation est chargé :
+
+1° D'organiser et de gérer le comité de probation ;
+
+2° D'animer son action dans les conditions prévues par l'article D. 584 ;
+
+3° D'assurer toutes liaisons utiles avec les organismes publics ou privés qui participent à l'action du comité de probation ;
+
+4° De passer les actes nécessaires au fonctionnement du service.
+
+Pour l'exécution de chaque mesure confiée au comité de probation, il désigne, en fonction de l'organisation du service, un
+agent de probation.
+
+Dans le cas où un ou plusieurs chefs de service de probation sont affectés au comité, le directeur de probation détermine les
+attributions qu'il leur délègue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D586 (M)
+  - Code de procédure pénale - art. A45 (V)
+  - Code de procédure pénale - art. A46 (V)
+
+_Cite_:
+
+  - Code de procédure pénale D573 et D584
+
+
+###### Article D584
+
+Le directeur de probation s'assure que, pour chaque mesure l'agent de probation désigné respecte les instructions données par
+le magistrat qui a saisi le comité et poursuit des objectifs adaptés à l'exécution des missions du service. Il lui apporte
+aide et conseil technique. Il vérifie que les rapports sont régulièrement adressés au juge de l'application des peines et aux
+autres magistrats mandants.
+
+Le directeur de probation veille à l'harmonisation des méthodes de travail et à la coordination de l'action des agents de
+probation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+
+###### Article D585
+
+Le directeur de probation rend compte régulièrement au juge de l'application des peines du fonctionnement du comité de
+probation et de l'exécution de ses missions.
+
+Il établit chaque année un rapport d'activité, qu'il transmet au juge de l'application des peines et au délégué régional à
+l'action socio-éducative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D586 (M)
+  - CODE DE PROCEDURE PENALE - art. D596 (Ab)
+
+
+###### Article D586
+
+Dans le cas où il n'est pas affecté de directeur au comité de probation, le juge de l'application des peines exerce la
+direction du service. Toutefois, le ministre de la justice peut charger un agent de probation des attributions prévues par
+les articles D. 583 (alinéa 1er, 1° et 4°) et D. 585. Cet agent est désigné sur proposition du juge de l'application des
+peines, après avis du délégué régional à l'action socio-éducative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - Arrêté du 13 décembre 1993 - art. 2 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D583 (M)
+  - CODE DE PROCEDURE PENALE - art. D585 (M)
+
+
+###### Article D587
+
+L'agent de probation exécute pour chacune des mesures qui lui sont confiées les instructions données par le magistrat qui a
+saisi le comité de probation.
+
+Il vérifie que le condamné se soumet aux mesures de contrôle et respecte les obligations ou conditions qui lui sont imposées.
+Il met en oeuvre toutes mesures d'aide propres à favoriser sa réinsertion sociale.
+
+Il fournit au juge de l'application des peines, à la demande de celui-ci ou de sa propre initiative, tous éléments
+d'information lui permettant de prendre les mesures adaptées à la situation du condamné, notamment en lui adressant, un
+rapport semestriel. Il lui propose les aménagements ou modifications des mesures de contrôle, des obligations ou conditions
+particulières, et il lui rend compte de leurs violations.
+
+L'agent de probation chargé d'une enquête ou d'un contrôle judiciaire rend compte au magistrat mandant de toutes difficultés
+rencontrées dans le cadre de leur exécution.
+
+Le juge de l'application des peines ou tout magistrat mandant, s'il constate qu'un agent de probation n'accomplit pas les
+diligences prévues par le présent article, peut le faire décharger de la mesure par le directeur de probation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D590 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D593 (Ab)
+
+
+###### Article D588
+
+Chaque agent de probation assure les liaisons avec les divers services sociaux, éducatifs, médico-sociaux locaux et prend
+tous contacts nécessaires à l'accomplissement de sa mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D147-18 (V)
+
+
+###### Article D589
+
+Dans le cadre du contrôle de l'activité du service, le juge de l'application des peines adresse au ministre de la justice le
+rapport annuel d'activité du service, assorti de ses observations, et, le cas échéant, de l'avis des autres magistrats
+intéressés.
+
+Le juge de l'application des peines fait chaque année à l'assemblée générale des magistrats du siège et du parquet le bilan
+de l'activité du comité de probation. Le directeur de probation peut être entendu par cette assemblée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cité par_:
+
+  - Arrêté du 6 septembre 2019 (V)
+  - Arrêté du 24 octobre 2019 (V)
+  - Code de procédure pénale - art. A53-7 (V)
+  - Code de procédure pénale - art. A53-9 (V)
+
+
+###### Article D590
+
+Il est tenu au comité de probation un dossier pour chaque personne prise en charge. Ce dossier comprend notamment les pièces
+d'ordre judiciaire, les éléments relatifs au contrôle des obligations ou conditions imposées ainsi que les rapports
+semestriels prévus par l'article D. 587.
+
+Le dossier est communiqué, à sa demande, au magistrat qui a saisi le comité de probation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D587 (M)
+
+
+###### Article D591
+
+Le secrétariat du comité de probation assure notamment la conservation des dossiers et la tenue du fichier des personnes
+visées aux articles D. 574 à D. 576.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D31-1 (V)
+  - Code de procédure pénale - art. A53-9 (V)
+  - Code de procédure pénale - art. D40 (V)
+  - Code de procédure pénale - art. D40-2 (V)
+  - Code de procédure pénale - art. D592 (V)
+  - Code de procédure pénale - art. D593 (V)
+
+_Cite_:
+
+  - Code de procédure pénale D574 à D576
+
+
+###### Article D592
+
+Les dépenses de matériel, d'entretien et de documentation font partie des dépenses du tribunal de grande instance.
+
+Les règles régissant les personnels des services extérieurs du ministère de la justice sont applicables aux dépenses
+entraînées par les missions, tournées et transports des agents de probation pour les besoins de leur service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+
+#### Chapitre IV : Dispositions diverses<a id=448></a>
+
+###### Article D593
+
+Dans le cas où il existe plusieurs juges de l'application des peines dans un tribunal de grande instance, le président
+désigne, après avis de l'assemblée générale des magistrats du siège, celui de ces magistrats qui exerce, en liaison avec les
+autres juges de l'application des peines, les attributions mentionnées au présent titre, à l'exception de celles prévues par
+l'article D. 587.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D587 (M)
+
+
+###### Article D594
+
+Les agents de probation sont tenus au secret professionnel dans les conditions prévues par l'article 378 du Code pénal.
+
+L'obligation de secret s'étend aux autres membres du comité de probation pour tous les faits qu'ils ont pu connaître à
+l'occasion ou dans l'exercice de leurs fonctions.
+
+Toutefois, les membres du comité de probation ne peuvent opposer le secret à l'autorité judiciaire, sauf pour les
+renseignements recueillis par voie de confidences auprès des personnes prises en charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Cite_:
+
+  - Code pénal 378
+
+
+###### Article D595
+
+Pour prolonger son action, le comité de probation fait appel à des associations intervenant notamment dans les domaines de
+l'accueil, de l'hébergement et de l'insertion socio-professionnelle des personnes en difficulté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+
+###### Article D596
+
+Le juge de l'application des peines et le directeur de probation visitent chaque année les divers foyers ou organismes
+d'hébergement accueillant les personnes visées aux articles D. 574 à D. 576. Ils consignent leurs observations dans le
+rapport d'activité prévu par l'article D. 585.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 11 JORF 16 mars 1986 en vigueur le 1er juin 1986
+
+_Abrogé par_:
+
+  - Décret n°99-276 du 13 avril 1999 - art. 36 (V) JORF 14 avril 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D585 (M)
+  - Code de procédure pénale D574 à D576, D585
+
+
+###### Article D597
+
+Le juge de l'application des peines est consulté sur les demandes d'agrément formulées conformément à la législation relative
+à l'aide sociale par les oeuvres hébergeant des libérés.
+
+Ses avis sont transmis par le ministre de la justice au ministre de la santé publique et de la population.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 14 JORF 16 mars 1986 en vigueur le 1er juin 1986 en vigueur le 1er juin 1986
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D541 (M)
+
+
+###### Article D598
+
+Les modalités du fonctionnement financier et comptable du comité sont fixées par arrêté conjoint du ministre de la justice et
+du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 14 JORF 16 mars 1986 en vigueur le 1er juin 1986 en vigueur le 1er juin 1986
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D566 (Ab)
+
+
+### Titre XII : Dispositions générales<a id=449></a>
+
+###### Article D599
+
+Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la
+Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°86-462 1986-03-14 art. 14 JORF 16 mars 1986 en vigueur le 1er juin 1986 en vigueur le 1er juin 1986
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D572 (M)
+  - Code de procédure pénale D572 (1ère version)
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=450></a>
+
+###### Article D600
 
 Des arrêtés du ministre de la justice déterminent, en tant que de besoin, les adaptations jugées nécessaires à l'application
 des titres II, III, IV et VI du livre V du code de procédure pénale (3° partie : Décrets) dans les départements de la
@@ -54129,34 +54787,30 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
-  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
-
-_Nouveaux textes_:
-
-  - Code de procédure pénale - art. D600 (M)
+  - Décret n°86-462 1986-03-14 art. 14 JORF 16 mars 1986 en vigueur le 1er juin 1986 en vigueur le 1er juin 1986
 
 _Cité par_:
 
-  - Code de procédure pénale - art. D438 (V)
-  - Code de procédure pénale - art. D457 (T)
-  - Code de procédure pénale - art. D514-1 (V)
-  - Code de procédure pénale - art. D572 (V)
+  - Décret n°2018-858 du 8 octobre 2018 (V)
+
+_Anciens textes_:
+
+  - Code de procédure pénale - art. D573 (M)
 
 
-# Partie Arrêtés<a id=449></a>
+# Partie Arrêtés<a id=451></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=450></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=452></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=451></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=453></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=452></a>
+#### Chapitre Ier : De la police judiciaire<a id=454></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=453></a>
+##### Section 2 : Des officiers de police judiciaire<a id=455></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=454></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=456></a>
 
 ###### Article A1
 
@@ -54394,7 +55048,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=455></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=457></a>
 
 ###### Article A2
 
@@ -54519,7 +55173,7 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=456></a>
+##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=458></a>
 
 ###### Article A13
 
@@ -55256,13 +55910,13 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. A18 (V)
 
 
-## Livre V : Des procédures d'exécution<a id=457></a>
+## Livre V : Des procédures d'exécution<a id=459></a>
 
-### Titre II : De la détention<a id=458></a>
+### Titre II : De la détention<a id=460></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=459></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=461></a>
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=460></a>
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=462></a>
 
 ###### Article A39
 
@@ -55349,7 +56003,7 @@ _Cite_:
   - Code de procédure pénale D70, D70-2, D490 à D496
 
 
-##### Section 5<a id=461></a>
+##### Section 5<a id=463></a>
 
 ###### Article A39-1
 
@@ -55397,11 +56051,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=462></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=464></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=463></a>
+##### Section 1 : De la gestion des biens des détenus<a id=465></a>
 
-##### Paragraphe 1er : Pécule.<a id=464></a>
+##### Paragraphe 1er : Pécule.<a id=466></a>
 
 ###### Article A41
 
@@ -55570,9 +56224,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=465></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=467></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=466></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=468></a>
 
 ###### Article A43
 
@@ -55631,13 +56285,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=467></a>
+### Titre IV : Du sursis<a id=469></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=468></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=470></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=469></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=471></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=470></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=472></a>
 
 ###### Article A45
 
@@ -55698,7 +56352,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=471></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=473></a>
 
 ###### Article A48
 
@@ -55799,9 +56453,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=472></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=474></a>
 
-#### Disposition générale<a id=473></a>
+#### Disposition générale<a id=475></a>
 
 ###### Article A53
 
@@ -55819,7 +56473,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=474></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=476></a>
 
 ###### Article A54
 
