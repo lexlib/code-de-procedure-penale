@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-26
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -583,6 +583,36 @@ _Cite_:
   - Code pénal 332, 333, 333-1
 
 
+###### Article 2-3
+
+Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de
+défendre ou d'assister l'enfance martyrisée, peut exercer les droits reconnus à la partie civile en ce qui concerne les
+infractions définies aux articles 312, 331, 332, 333 et 334-2 du code pénal, lorsque l'action publique a été mise en
+mouvement par le ministère public ou la partie lésée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°81-82 1981-02-02 art. 19-II JORF 3 février 1981
+
+_Modifié par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 7 () JORF 26 juillet 1985
+
+_Cite_:
+
+  - Code pénal 312, 331, 332, 334, 334-2
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R1 (V)
+
+
 ###### Article 2-4
 
 Toute association régulièrement déclarée depuis au moins cinq ans qui se propose, par ses statuts, de combattre les crimes
@@ -630,6 +660,34 @@ _Créé par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+
+###### Article 2-6
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de
+combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en
+ce qui concerne les infractions prévues par les articles 187-1, 187-2, les 1° et 2° de l'article 416 de l'article 416-1 du
+code pénal et celles relatives au refus d'embauche, au licenciement ou à l'offre d'emploi définis par le 3° de l'article 416
+du code pénal et l'article L. 123-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 1 () JORF 26 juillet 1985
+
+_Cite_:
+
+  - Code pénal 187-1, 187-2, 416, 416-1
+  - Code du travail - art. L123-1 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 807 (V)
 
 
 ###### Article 3
