@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1982-01-23
+Version Consolidée au 1982-02-25
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -408,23 +408,24 @@ Version Consolidée au 1982-01-23
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#405)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#406)
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#407)
-    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#408)
-      - [Titre II : De la détention (art. A39-1 à A43-1)](#409)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#410)
-          - [Section 5 (art. A39-1 à A39-2)](#411)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#412)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#413)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#414)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#415)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#416)
-      - [Titre IV : Du sursis (art. A45 à A52)](#417)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#418)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#419)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#420)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#421)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#422)
-        - [Disposition générale (art. A53)](#423)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#424)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#408)
+      - [Titre II : De la détention (art. A39 à A43-1)](#409)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#410)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#411)
+          - [Section 5 (art. A39-1 à A39-2)](#412)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#413)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#414)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#415)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#416)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#417)
+      - [Titre IV : Du sursis (art. A45 à A52)](#418)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#419)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#420)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#421)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#422)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#423)
+        - [Disposition générale (art. A53)](#424)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#425)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -39207,7 +39208,94 @@ _Cite_:
 
 #### Chapitre II : De l'exécution des peines privatives de liberté.<a id=410></a>
 
-##### Section 5<a id=411></a>
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=411></a>
+
+###### Article A39
+
+La liste des établissements pénitentiaires classés dans la catégorie des centres de détention prévus aux articles D. 70 et D.
+70-2 est fixée conformément au tableau ci-dessous. Ce tableau contient la distinction entre les centres de détention fermés,
+les centres de détention à régime ouvert et les centres de détention pour jeunes condamnés.
+
+1° Centres de détention fermés :
+
+Centre de détention de Caen ;
+
+Centre de détention d'Eysses ;
+
+Centre de détention de Mauzac ;
+
+Centre de détention de Melun (à l'exception du quartier affecté à des condamnés bénéficiaires du régime spécial prévu aux
+articles D. 490 à D. 496) ;
+
+Centre de détention de Mulhouse ;
+
+Centre de détention de Muret ;
+
+Centre de détention de Riom ;
+
+Centre de détention de Toul ;
+
+Centre de formation professionnelle d'Ecrouves ;
+
+Centre sanitaire de Liancourt ;
+
+Centre pénitentiaire de Rennes (à l'exception du quartier affecté aux condamnés relevant du régime des maisons centrales) ;
+
+Centre pénitentiaire de Clairvaux (intitulé modifié par l'arrêté du 14 janvier 1980 publié au Journal officiel du 26 janvier
+1980) (à l'exception des quartiers affectés aux condamnés relevant du régime des maisons centrales) ;
+
+Il est aménagé un quartier Centre de détention aux prisons de Fresnes.
+
+2° Centres de détention à régime ouvert :
+
+Centre agricole de Casabianda ;
+
+Centre du fort de La Prée.
+
+3° Centres de détention pour jeunes condamnés :
+
+Centre de détention de Loos ;
+
+Centre ouvert d'Oermingen.
+
+**Nota:**
+
+(Nota : l'article 1er de l'arrêté du 17 avril 1986 publié au Journal officiel du 26 avril 1986 dispose :
+
+"La liste des établissements pénitentiaires classés dans la catégorie des centres de détention et centres de détention
+régionaux prévus aux articles D. 70, D. 70-2 et D. 73 et figurant à l'article A39 du code de procédure pénale est modifiée
+comme suit :
+
+"Il est ouvert un centre de détention régional sur le domaine pénitentiaire de Bedenac.
+
+Il est aménagé un centre de détention dans les locaux des établissements pénitentiaires de Metz-Barrès et de Château-Thierry.
+
+Après fermeture de l'établissement pénitentiaire, le centre de détention de Fontevraud est radié de la liste des centres de
+détention").
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+_Cité par_:
+
+  - Arrêté du 6 octobre 2009 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D70 (M)
+  - CODE DE PROCEDURE PENALE - art. D70-2 (Ab)
+  - Code de procédure pénale D70, D70-2, D490 à D496
+
+
+##### Section 5<a id=412></a>
 
 ###### Article A39-1
 
@@ -39255,11 +39343,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=412></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=413></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=413></a>
+##### Section 1 : De la gestion des biens des détenus<a id=414></a>
 
-##### Paragraphe 1er : Pécule.<a id=414></a>
+##### Paragraphe 1er : Pécule.<a id=415></a>
 
 ###### Article A41
 
@@ -39372,9 +39460,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=415></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=416></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=416></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=417></a>
 
 ###### Article A43
 
@@ -39433,13 +39521,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=417></a>
+### Titre IV : Du sursis<a id=418></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=418></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=419></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=419></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=420></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=420></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=421></a>
 
 ###### Article A45
 
@@ -39500,7 +39588,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=421></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=422></a>
 
 ###### Article A48
 
@@ -39601,9 +39689,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=422></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=423></a>
 
-#### Disposition générale<a id=423></a>
+#### Disposition générale<a id=424></a>
 
 ###### Article A53
 
@@ -39621,7 +39709,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=424></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=425></a>
 
 ###### Article A54
 
