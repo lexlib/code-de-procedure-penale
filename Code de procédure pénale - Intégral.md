@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-06-13
+Version Consolidée au 2004-06-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -4591,13 +4591,14 @@ _Cité par_:
 
 ###### Article 56
 
-Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents ou autres objets en
-la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces ou objets relatifs aux faits
-incriminés, l'officier de police judiciaire se transporte sans désemparer au domicile de ces derniers pour y procéder à une
-perquisition dont il dresse procès-verbal.
+Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents, données
+informatiques ou autres objets en la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces,
+informations ou objets relatifs aux faits incriminés, l'officier de police judiciaire se transporte sans désemparer au
+domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal.
 
 Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a éventuellement recours en application de
-l'article 60, le droit de prendre connaissance des papiers ou documents avant de procéder à leur saisie.
+l'article 60, le droit de prendre connaissance des papiers, documents ou données informatiques avant de procéder à leur
+saisie.
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret
 professionnel et des droits de la défense.
@@ -4607,8 +4608,16 @@ place présente des difficultés, ils font l'objet de scellés fermés provisoir
 mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues
 à l'article 57.
 
-Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets et
-documents utiles à la manifestation de la vérité.
+Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de
+justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la
+perquisition.
+
+Si une copie est réalisée, il peut être procédé, sur instruction du procureur de la République, à l'effacement définitif, sur
+le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la détention ou l'usage est
+illégal ou dangereux pour la sécurité des personnes ou des biens.
+
+Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets, documents
+et données informatiques utiles à la manifestation de la vérité.
 
 Le procureur de la République peut également, lorsque la saisie porte sur des espèces, lingots, effets ou valeurs dont la
 conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes
@@ -4682,11 +4691,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 79 () JORF 10 mars 2004
+  - Loi n°2004-575 du 21 juin 2004 - art. 41 () JORF 22 juin 2004
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 60 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 56-1
@@ -8097,22 +8110,22 @@ _Cité par_:
 
 ###### Article 94
 
-Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la
-manifestation de la vérité.
+Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets ou des données informatiques dont la
+découverte serait utile à la manifestation de la vérité.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
 _Modifié par_:
 
-  - Loi n°91-646 du 10 juillet 1991 - art. 2 () JORF 13 juillet 1991 en vigueur le 1er octobre 1991
+  - Loi n°2004-575 du 21 juin 2004 - art. 42 () JORF 22 juin 2004
 
 
 ###### Article 95
@@ -8176,23 +8189,32 @@ _Cité par_:
 
 ###### Article 97
 
-Lorsqu'il y a lieu, en cours d'information, de rechercher des documents et sous réserve des nécessités de l'information et du
-respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le juge d'instruction ou l'officier
-de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de procéder à la saisie.
+Lorsqu'il y a lieu, en cours d'information, de rechercher des documents ou des données informatiques et sous réserve des
+nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le
+juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de
+procéder à la saisie.
 
-Tous les objets et documents placés sous main de justice sont immédiatement inventoriés et placés sous scellés. Cependant, si
-leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il est dit au quatrième
-alinéa de l'article 56.
+Tous les objets, documents ou données informatiques placés sous main de justice sont immédiatement inventoriés et placés sous
+scellés. Cependant, si leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il
+est dit au quatrième alinéa de l'article 56.
 
-Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets et documents
-utiles à la manifestation de la vérité.
+Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de
+justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la
+perquisition.
+
+Si une copie est réalisée dans le cadre de cette procédure, il peut être procédé, sur ordre du juge d'instruction, à
+l'effacement définitif, sur le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la
+détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
+
+Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets, documents et
+données informatiques utiles à la manifestation de la vérité.
 
 Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents dépouillés qu'en présence de la personne mise
 en examen, assistée de son avocat, ou eux dûment appelés. Le tiers chez lequel la saisie a été faite est également invité à
 assister à cette opération.
 
-Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents placés sous main de justice peuvent
-être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
+Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents ou des données informatiques placés
+sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
 
 Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la
 manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la
@@ -8227,12 +8249,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 18
+  - Loi n°2004-575 du 21 juin 2004 - art. 43 () JORF 22 juin 2004
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 56 (M)
   - CODE DE PROCEDURE PENALE - art. 96 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 97-1
@@ -13241,9 +13267,9 @@ _Cite_:
 ###### Article 177-1
 
 Le juge d'instruction peut ordonner, sur la demande de la personne concernée ou, avec l'accord de cette personne, d'office ou
-à la demande du ministère public soit la publication intégrale ou partielle de sa décision de non-lieu, soit l'insertion d'un
-communiqué informant le public des motifs et du dispositif de celle-ci, dans un ou plusieurs journaux, écrits périodiques ou
-services de communication audiovisuelle qu'il désigne.
+à la demande du ministère public, soit la publication intégrale ou partielle de sa décision de non-lieu, soit l'insertion
+d'un communiqué informant le public des motifs et du dispositif de celle-ci, dans un ou plusieurs journaux, écrits
+périodiques ou services de communication au public par voie électronique qu'il désigne.
 
 Il détermine, le cas échéant, les extraits de la décision qui doivent être publiés ou fixe les termes du communiqué à
 insérer.
@@ -13259,7 +13285,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 96 () JORF 16 juin 2000
+  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
 
 _Cité par_:
 
@@ -14802,7 +14828,7 @@ _Modifié par_:
 La chambre de l'instruction peut ordonner, sur la demande de la personne concernée, ou, avec l'accord de cette personne,
 d'office ou à la demande du ministère public soit la publication intégrale ou partielle de l'arrêt de non-lieu, soit
 l'insertion d'un communiqué informant le public des motifs et du dispositif de celui-ci, dans un ou plusieurs journaux,
-écrits périodiques ou services de communication audiovisuelle désignés par cette chambre.
+écrits périodiques ou services de communication au public par voie électronique désignés par cette chambre.
 
 Elle détermine, le cas échéant, les extraits de l'arrêt qui doivent être publiés ou fixe les termes du communiqué à insérer.
 
@@ -14811,13 +14837,17 @@ motivée.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
+
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+  - Loi n°2004-575 du 21 juin 2004 - art. 2 () JORF 22 juin 2004
 
 _Cité par_:
 
@@ -15491,12 +15521,18 @@ _Modifié par_:
 
 ###### Article 230-1
 
-Sans préjudice des dispositions des articles 60, 77-1 et 156, lorsqu'il apparaît que des données saisies ou obtenues au cours
+Sans préjudice des dispositions des articles 60,77-1 et 156, lorsqu'il apparaît que des données saisies ou obtenues au cours
 de l'enquête ou de l'instruction ont fait l'objet d'opérations de transformation empêchant d'accéder aux informations en
 clair qu'elles contiennent ou de les comprendre, le procureur de la République, la juridiction d'instruction ou la
 juridiction de jugement saisie de l'affaire peut désigner toute personne physique ou morale qualifiée, en vue d'effectuer les
 opérations techniques permettant d'obtenir la version en clair de ces informations ainsi que, dans le cas où un moyen de
-cryptologie a été utilisé, la convention secrète de déchiffrement, si cela apparaît nécessaire.
+cryptologie a été utilisé, la convention secrète de déchiffrement, si cela apparaît nécessaire. 
+
+Si la personne ainsi désignée est une personne morale, son représentant légal soumet à l'agrément du procureur de la
+République ou de la juridiction saisie de l'affaire le nom de la ou des personnes physiques qui, au sein de celle-ci et en
+son nom, effectueront les opérations techniques mentionnées au premier alinéa. Sauf si elles sont inscrites sur une liste
+prévue à l'article 157, les personnes ainsi désignées prêtent, par écrit, le serment prévu au premier alinéa de l'article
+160. 
 
 Si la peine encourue est égale ou supérieure à deux ans d'emprisonnement et que les nécessités de l'enquête ou de
 l'instruction l'exigent, le procureur de la République, la juridiction d'instruction ou la juridiction de jugement saisie de
@@ -15509,13 +15545,9 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 30 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2004-575 du 21 juin 2004 - art. 38 () JORF 22 juin 2004
 
 _Cité par_:
 
@@ -15525,9 +15557,13 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 156 (M)
-  - CODE DE PROCEDURE PENALE - art. 60 (M)
-  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
+  - Code de procédure pénale - art. 156 (V)
+  - Code de procédure pénale - art. 60 (V)
+  - Code de procédure pénale - art. 77-1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2004-575 du 21 juin 2004 art. 57 I : Champ d'application
 
 
 ###### Article 230-2
