@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-07-01
+Version Consolidée au 2000-07-11
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1209,6 +1209,30 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°95-1 du 2 janvier 1995 - art. 6 (V)
+
+
+###### Article 4-1
+
+L'absence de faute pénale non intentionnelle au sens de l'article 121-3 du code pénal ne fait pas obstacle à l'exercice d'une
+action devant les juridictions civiles afin d'obtenir la réparation d'un dommage sur le fondement de l'article 1383 du code
+civil si l'existence de la faute civile prévue par cet article est établie ou en application de l'article L. 452-1 du code de
+la sécurité sociale si l'existence de la faute inexcusable prévue par cet article est établie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31 art. 18
+
+_Créé par_:
+
+  - Loi n°2000-647 du 10 juillet 2000 - art. 2 () JORF 11 juillet 2000
+
+_Cite_:
+
+  - Code pénal - art. 121-3 (V)
+  - Code civil - art. 1383 (V)
+  - Code de la sécurité sociale. - art. L452-1 (V)
 
 
 ###### Article 5
@@ -19813,10 +19837,10 @@ _Cité par_:
 ###### Article 470-1
 
 Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées
-pour une infraction non intentionnelle au sens des deuxième et troisième alinéas de l'article 121-3 du code pénal, et qui
-prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des
-débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont
-fondé la poursuite.
+pour une infraction non intentionnelle au sens des deuxième, troisième et quatrième alinéas de l'article 121-3 du code pénal,
+et qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture
+des débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui
+ont fondé la poursuite. 
 
 Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une
 décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure
@@ -19834,11 +19858,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-393 du 13 mai 1996 - art. 4 () JORF 14 mai 1996
+  - Loi n°2000-647 du 10 juillet 2000 - art. 3 () JORF 11 juillet 2000
 
 _Cite_:
 
-  - Code pénal - art. 121-3 (M)
+  - Code pénal - art. 121-3 (V)
 
 _Cité par_:
 
@@ -29589,8 +29613,9 @@ _Cite_:
 
 L'action publique est exercée à l'encontre de la personne morale prise en la personne de son représentant légal à l'époque
 des poursuites. Ce dernier représente la personne morale à tous les actes de la procédure. Toutefois, lorsque des poursuites
-pour les mêmes faits ou pour des faits connexes sont engagées à l'encontre du représentant légal, le président du tribunal de
-grande instance désigne un mandataire de justice pour représenter la personne morale.
+pour des mêmes faits ou des faits connexes sont engagées à l'encontre du représentant légal, celui-ci peut saisir par requête
+le président du tribunal de grande instance aux fins de désignation d'un mandataire de justice pour représenter la personne
+morale.
 
 La personne morale peut également être représentée par toute personne bénéficiant, conformément à la loi ou à ses statuts,
 d'une délégation de pouvoir à cet effet.
@@ -29610,9 +29635,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 78 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2000-647 du 10 juillet 2000 - art. 9 () JORF 11 juillet 2000
 
 
 ###### Article 706-44
