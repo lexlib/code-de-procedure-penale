@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-02-16
+Version Consolidée au 2002-02-21
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -55870,9 +55870,9 @@ L'agrément est accordé par arrêté du ministre de la justice.
 La condition visée au 2° est notamment satisfaite par l'adhésion de l'association au sein d'une fédération lui permettant
 d'assurer une activité effective en vue de la défense des victimes et agréée par arrêté du ministre de la justice.
 
-II. - La demande d'agrément est adressée à la direction des affaires criminelles et des grâces du ministère de la justice. Le
-dossier accompagnant la demande d'agrément doit comprendre un exemplaire des statuts et du récépissé de déclaration, ainsi
-que la justification des conditions prévues aux 1° à 3° ci-dessus.
+II. - La demande d'agrément est adressée au ministère de la justice. Le dossier accompagnant la demande d'agrément doit
+comprendre un exemplaire des statuts et du récépissé de déclaration, ainsi que la justification des conditions prévues aux 1°
+à 3° ci-dessus.
 
 Lorsque le dossier remis est complet, il en est délivré récépissé. La décision d'agrément ou de refus est notifiée dans un
 délai de deux mois à compter de la date de délivrance du récépissé. Les décisions de refus doivent être motivées.
@@ -55893,13 +55893,13 @@ _Codifié par_:
 
   - Décret n°58-1304 1958-12-23
 
-_Modifié par_:
-
-  - Décret n°95-932 du 17 août 1995 - art. 2 () JORF 24 août 1995
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-223 du 20 février 2002 - art. 1 () JORF 21 février 2002
 
 _Cité par_:
 
