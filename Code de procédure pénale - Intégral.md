@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-02-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1283,6 +1283,44 @@ _Cite_:
 
   - Code pénal - art. 222-1 (V)
   - Code pénal - art. 322-1 (V)
+
+
+###### Article 2-21
+
+Toute association agréée déclarée depuis au moins trois ans, ayant pour but l'étude et la protection archéologique, peut
+exercer les droits reconnus à la partie civile en ce qui concerne les faits réprimés par les 3° et 4° de l'article 322-2 du
+code pénal et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations mentionnées à l'alinéa précédent peuvent
+être agréées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Anciens textes_:
+
+  - Loi n°80-532 1980-07-15 art. 4 bis
+  - Loi n°80-532 du 15 juillet 1980 - art. 4 bis (Ab)
+
+_Cité par_:
+
+  - Décret n°91-787 du 19 août 1991 - art. 4 (Ab)
+  - Décret n°91-787 du 19 août 1991 - art. 6 (Ab)
+  - Code de procédure pénale - art. R1-2 (VD)
+  - Code du patrimoine - art. L114-6 (V)
+  - Code du patrimoine. - art. R114-6 (V)
+  - Code du patrimoine. - art. R114-8 (V)
+
+_Créé par_:
+
+  - Ordonnance 2004-178 2004-02-20 art. 5 JORF 24 février 2004
+
+_Cite_:
+
+  - Code pénal - art. 322-2 (M)
 
 
 ###### Article 3
