@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-08-06
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -50089,6 +50089,9 @@ i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'applicati
 code rural, et relatifs à l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la déclaration en mairie,
 la vaccination, la stérilisation, l'assurance et les conditions de circulation de certains chiens.
 
+5° Contraventions réprimées par le code des postes et télécommunications prévues par les articles R. 10-1, R. 10-2, R. 10-4
+et R. 10-9.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -50116,7 +50119,7 @@ _Cite_:
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - Code de procédure pénale R49-8-5, L133-1
+  - CODE DE PROCEDURE PENALE R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9
   - Code forestier - art. R133-1-1 (Ab)
   - Code forestier - art. R322-5 (M)
   - Code forestier - art. R331-3 (M)
@@ -50148,7 +50151,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-293 du 31 mars 2003 - art. 1 () JORF 1er avril 2003
+  - Décret n°2003-752 du 1 août 2003 - art. 2 () JORF 6 août 2003
 
 **Liens**:
 
