@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -66557,24 +66557,28 @@ Le juge d'instruction qui saisit le juge des libertés et de la détention en ap
 de l'article 137-1 aux fins de placement en détention provisoire de la personne mise en examen remplit une notice
 individuelle comportant des renseignements relatifs aux faits ayant motivé la poursuite de la personne, à ses antécédents
 judiciaires et à sa personnalité, qui est destinée, en cas de placement en détention, au chef de l'établissement
-pénitentiaire.
+pénitentiaire. 
 
 S'il ordonne le placement de la personne en détention provisoire, le juge des libertés et de la détention transmet au chef
 d'établissement, outre le titre de détention qu'il délivre, cette notice individuelle revêtue de son visa, après l'avoir
-complétée s'il l'estime nécessaire.
+complétée s'il l'estime nécessaire. 
 
 Les documents mentionnés à l'alinéa précédent peuvent être, le cas échéant, transmis au chef d'établissement par le juge
-d'instruction si le dossier de la procédure est retourné à ce magistrat avant la mise à exécution du titre de détention.
+d'instruction si le dossier de la procédure est retourné à ce magistrat avant la mise à exécution du titre de détention. 
+
+Lorsque le juge des libertés et de la détention ordonne le placement en détention après avoir été directement saisi par le
+procureur de la République en application des dispositions du deuxième alinéa de l'article 137-4, il remplit lui-même la
+notice individuelle prévue au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°58-1304 1958-12-23
+  - Décret n°58-1304 du 23 décembre 1958
 
 _Modifié par_:
 
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 17 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2004-837 du 20 août 2004 - art. 21 () JORF 22 août 2004
 
 _Cité par_:
 
@@ -66584,17 +66588,19 @@ _Cité par_:
   - Code de procédure pénale - art. D56-1 (Ab)
   - Code de procédure pénale - art. D56-2 (V)
 
+**Liens**:
+
+  - TRANSFERE: Décret n°2016-1455 du 28 octobre 2016 - art. 6
+  - TXT_SOURCE: Code de procédure pénale 83 et 84
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 137-1 (Ab)
+  - Code de procédure pénale - art. 137-1
+  - Code de procédure pénale - art. 137-4
 
 _Nouveaux textes_:
 
   - Code de procédure pénale - art. D32-1-1 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 83 et 84
 
 
 ##### Section 8 : Des commissions rogatoires<a id=460></a>
@@ -69519,6 +69525,11 @@ conséquences des mesures d'individualisation de la peine au regard de la situat
 Les dispositions du présent article sont également applicables à l'égard des personnes condamnées à des peines restrictives
 de liberté.
 
+Pour les condamnés relevant des dispositions du cinquième alinéa de l'article 722, le juge de l'application des peines peut,
+avec l'accord du procureur de la République, dire, par ordonnance motivée, qu'il n'y a pas lieu d'ordonner une nouvelle
+expertise psychiatrique préalablement à une décision d'aménagement de la peine, dès lors que figure au dossier du condamné
+une expertise datant de moins de deux ans, y compris si celle-ci a été réalisée avant la condamnation.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -69527,7 +69538,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2004-837 du 20 août 2004 - art. 20 () JORF 22 août 2004
 
 _Cité par_:
 
@@ -69535,9 +69546,9 @@ _Cité par_:
   - Décret n°2004-837 du 20 août 2004 - art. 8 (V)
   - Code de procédure pénale - art. D570 (V)
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - CODE DE PROCEDURE PENALE - art. 722 (M)
 
 
 ###### Article D117
