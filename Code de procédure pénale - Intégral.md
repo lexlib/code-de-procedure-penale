@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-07-14
+Version Consolidée au 1990-12-26
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -23259,6 +23259,53 @@ _Créé par_:
 _Cité par_:
 
   - Loi n°89-434 du 30 juin 1989 - art. 3 (V)
+
+
+###### Article 689-5
+
+Pour l'application de la convention pour la répression d'actes illicites contre la sécurité de la navigation maritime et pour
+l'application du protocole pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le
+plateau continental, faits à Rome le 10 mars 1988, peut être poursuivi et jugé par les juridictions françaises quiconque,
+s'il se trouve en France, s'est rendu coupable, hors du territoire de la République :
+
+1° Du crime défini par l'article 462 du code pénal ;
+
+2° De l'une des infractions définies par les articles 295 à 298, 301, 303, 304, 305, 309, 310, 311, 312, 434, 435, 436, 437,
+462-1 du code pénal et L. 331-2 du code des ports maritimes, si celle-ci compromet ou est de nature à compromettre la
+sécurité soit de la navigation maritime, soit d'une plate-forme fixe située sur le plateau continental ;
+
+3° De l'une des infractions définies par les articles 295 à 298, 301, 303, 304, 309 à 312 du code pénal, si celle-ci est
+connexe soit à l'infraction définie au 1°, soit à une ou plusieurs infractions de nature à compromettre la sécurité de la
+navigation maritime ou d'une plate-forme visées au 2° du présent article.
+
+Les dispositions du présent article sont applicables à la tentative des infractions ci-dessus énumérés, si celle-ci est
+punissable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Convention 1988-03-10, faite à Rome
+  - Code pénal 462, 295 à 298, 301, 303, 304, 305, 309, 310, 311, 312, 434, 435, 436, 437, 462-1, 309 à 312
+  - Code des ports maritimes - art. L331-2 (M)
+  - Protocole 1988-03-10, fait à Rome
+
+_Créé par_:
+
+  - Décret n°90-1143 1990-12-21 art. 4 JORF 26 décembre 1990
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°90-1143 1990-12-21 art. 5 et 6
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Cité par_:
+
+  - Loi n°90-1143 du 21 décembre 1990 - art. 5 (V)
+  - Loi n°94-589 du 15 juillet 1994 - art. 1 (V)
 
 
 ###### Article 690
