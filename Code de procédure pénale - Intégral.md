@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1958-04-08
+Version Consolidée au 1958-12-24
 ## Contenu: 
   - [Partie législative (art. 1 à 223)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -48,6 +48,22 @@ Version Consolidée au 1958-04-08
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. R40-4)](#45)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. R40-4)](#46)
             - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R40-4)](#47)
+  - [Partie réglementaire - Décrets simples (art. D2 à D18)](#48)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D2 à D18)](#49)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D2)](#50)
+        - [Chapitre Ier : De la police judiciaire (art. D2)](#51)
+          - [Section 1 : Dispositions générales (art. D2)](#52)
+      - [Titre III : Des juridictions d'instruction (art. D18)](#53)
+        - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. D18)](#54)
+          - [Section 1 : Dispositions générales (art. D18)](#55)
+            - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D18)](#56)
+  - [Partie Arrêtés (art. A4 à A11)](#57)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A4 à A11)](#58)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A4 à A11)](#59)
+        - [Chapitre Ier : De la police judiciaire (art. A4 à A11)](#60)
+          - [Section 2 : Des officiers de police judiciaire (art. A4 à A11)](#61)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A4 à A10)](#62)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#63)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -2742,5 +2758,330 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°78-50 1958-01-09 art. 1 JORF 9 janvier 1978
+
+
+# Partie réglementaire - Décrets simples<a id=48></a>
+
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=49></a>
+
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=50></a>
+
+#### Chapitre Ier : De la police judiciaire<a id=51></a>
+
+##### Section 1 : Dispositions générales<a id=52></a>
+
+###### Article D2
+
+Les officiers de police judiciaire des différents corps ou services entretiennent, à tous les échelons, des relations de
+coopération et d'aide réciproque.
+
+En principe, les relations s'établissent entre les commissaires divisionnaires, chefs de service, et les chefs de corps de
+gendarmerie ; entre les commissaires ou officiers de police d'une part, et les commandants de compagnie ou commandants de
+brigade de gendarmerie d'autre part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
+  - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
+
+_Cité par_:
+
+  - Arrêté du 6 juin 2006 - art. 110-2 (V)
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D1 (M)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D2-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D2-1 (V)
+
+
+### Titre III : Des juridictions d'instruction<a id=53></a>
+
+#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=54></a>
+
+##### Section 1 : Dispositions générales<a id=55></a>
+
+##### Paragraphe 5 : Examens médical et médico-psychologique.<a id=56></a>
+
+###### Article D18
+
+Le juge d'instruction qui ordonne les enquêtes et examens visés à l'article D. 16, fixe le délai dans lequel les rapports
+doivent lui être adressés. 
+
+En cas de retards injustifiés, la personne désignée peut être remplacée et il en est donné avis aux fins de droit au
+procureur général et au président de la chambre d'accusation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°58-1304 1958-12-23
+  - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D16 (M)
+
+
+# Partie Arrêtés<a id=57></a>
+
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=58></a>
+
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=59></a>
+
+#### Chapitre Ier : De la police judiciaire<a id=60></a>
+
+##### Section 2 : Des officiers de police judiciaire<a id=61></a>
+
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=62></a>
+
+###### Article A4
+
+Le programme des épreuves de l'examen technique est ainsi fixé : 
+
+Procédure pénale 
+
+Action publique ; action civile ; 
+
+Le ministère public ; le procureur général ; le procureur de la République ; 
+
+Le juge d'instruction ; 
+
+La police judiciaire, officiers de police judiciaire, agents de police judiciaire ; 
+
+La procédure des crimes et délits flagrants ; 
+
+L'enquête préliminaire ; 
+
+Les pouvoirs des préfets en matière de police judiciaire ; 
+
+Les perquisitions et saisies ; 
+
+L'instruction du premier et du second degré ; 
+
+Les mandats de justice ; 
+
+Les commissions rogatoires ; 
+
+L'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale ; 
+
+Le contrôle de la chambre de l'instruction sur l'activité des officiers de police judiciaire ; 
+
+Les juridictions répressives ; cour d'assises, tribunal correctionnel, tribunal de police ; 
+
+Les voies de recours : appel, défaut et opposition ; 
+
+L'enfance délinquante ; protection des mineurs en danger physique ou moral ; l'enquête sur le mineur, sa famille et son
+milieu. 
+
+Droit pénal 
+
+L'infraction en général ; éléments constitutifs ; classification des infractions : crimes, délits, contraventions, intérêt de
+la distinction ; 
+
+La tentative punissable ; le commencement d'exécution ; le désistement volontaire ; 
+
+La responsabilité pénale ; non-culpabilité ; faits justificatifs ; excuses ; circonstances atténuantes ; circonstances
+aggravantes ; 
+
+La complicité ; le concours d'infractions ; 
+
+La récidive ; le casier judiciaire ; 
+
+Le sursis ; la libération conditionnelle ; 
+
+Définition et classification des peines ; exécution, extinction des peines ; la réhabilitation ; 
+
+Divers genres d'établissements pénitentiaires ; 
+
+Infractions prévues aux livres III et IV du Code pénal ; 
+
+Infractions à la police de la circulation routière ; 
+
+Infractions aux lois sur la presse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+
+###### Article A5
+
+Les règles de sélection et de préparation des candidats à l'examen technique sont fixées par instruction ministérielle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 6
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A6 (V)
+
+
+###### Article A8
+
+Les membres du juge d'examen, constitué comme il est dit à l'article R. 4, peuvent être répartis, pour la correction des
+épreuves, en plusieurs sous-commissions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Cite_:
+
+  - Code de procédure pénale - art. R4 (V)
+
+
+###### Article A10
+
+Le secrétaire de la commission : 
+
+1° Soumet au président les copies pour lesquelles est proposée une note égale ou inférieure à 5. 
+
+Ces copies font l'objet d'une seconde correction par un membre désigné par le président et appartenant à une autre formation
+(magistrature, gendarmerie) que celle dont fait partie le premier correcteur. 
+
+Le résultat de ces doubles corrections est soumis à la commission, qui en délibère spécialement lors de la réunion prévue à
+l'article A. 11 et fixe la note définitive ; 
+
+2° Opère un relevé des notes attribuées pour chaque épreuve par les correcteurs ; 
+
+3° Dresse la liste de tous les candidats, avec les notes et le total des points obtenus par chacun d'eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Cite_:
+
+  - Code de procédure pénale - art. A11 (V)
+
+
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=63></a>
+
+###### Article A2
+
+Les listes des candidats admis à se présenter à l'examen technique sont établies par les chefs de corps de gendarmerie et
+arrêtées par le ministre des armées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A7 (V)
+
+
+###### Article A6
+
+La date de l'examen technique et les sujets des épreuves sont fixés, d'un commun accord, par le directeur des affaires
+criminelles et des grâces et par le directeur de la gendarmerie et de la justice militaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+
+###### Article A7
+
+Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres désignés par le chef de corps de gendarmerie.
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par devers eux des documents imprimés ou manuscrits ;
+toutefois, ils peuvent consulter les codes ou recueils de textes législatifs ou réglementaires, ne comportant pas
+d'annotation, dont la liste est fixée par le garde des sceaux, ministre de la justice.
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
+sans délai et sans appel, par l'officier surveillant ; le candidat en dehors d'une sanction disciplinaire peut être exclu de
+l'examen les années suivantes.
+
+L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
+affectée à l'épreuve, par l'officier surveillant.
+
+Toutes les compositions sont faites sur des feuilles fournies par la direction de la gendarmerie et de la justice militaire.
+
+L'organisation matérielle des épreuves de l'examen technique est assurée par le chef de corps de gendarmerie conformément aux
+directives donnée par circulaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+
+###### Article A9
+
+Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la
+répartition des copies. Les en-têtes des copies sont préalablement détachées et celles-ci comportent, aux lieu et place du
+nom du candidat, un numéro d'ordre inscrit par le secrétariat de la commission.
+
+Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+
+###### Article A11
+
+Dans un délai maximum de trois mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
+
+1° La liste par ordre de mérite des gendarmes pour lesquels la commission émet un avis favorable à l'attribution de la
+qualité d'officier de police judiciaire.
+
+Seuls peuvent être retenus les candidats qui totalisent 24 points au moins pour l'ensemble des deux épreuves ;
+
+2° La liste des gendarmes éliminés ou n'ayant pas obtenu le nombre de points exigé.
+
+Ces listes font apparaître les numéros de désignation des candidats portés sur les copies et, en regard, la note définitive
+dans chaque épreuve et le total de points.
+
+Elles sont adressées à la direction de la gendarmerie et de la justice militaire, accompagnées des copies des candidats, et
+du procès-verbal de séance, où figurent l'avis de la commission sur le nombre des candidats déclarés aptes à recevoir la
+qualité d'officier de police judiciaire, et, éventuellement, toutes propositions et suggestions jugées utiles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A10 (M)
 
 
