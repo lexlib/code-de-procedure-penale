@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-08-22
+Version Consolidée au 1998-10-01
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -213,7 +213,7 @@ Version Consolidée au 1998-08-22
         - [Chapitre XII : Des procédures d'exécution (art. 867 à 873-1)](#210)
         - [Chapitre XIII : Du casier judiciaire (art. 874 à 876)](#211)
       - [Titre II : Dispositions applicables dans la collectivité territoriale de Mayotte (art. 877 à 902)](#212)
-        - [Chapitre Ier : Dispositions générales (art. 877 à 879)](#213)
+        - [Chapitre Ier : Dispositions générales (art. 877 à 879-1)](#213)
         - [Chapitre II : Des enquêtes (art. 880)](#214)
         - [Chapitre III : Des juridictions d'instruction (art. 881 à 884)](#215)
         - [Chapitre IV : De la cour criminelle (art. 885 à 888)](#216)
@@ -36898,6 +36898,33 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°98-729 du 20 août 1998 - art. 2 () JORF 22 août 1998
+
+
+###### Article 879-1
+
+Pour l'application des dispositions des articles 20 et 21, les agents de police de la collectivité territoriale de Mayotte
+mis à la disposition de l'Etat sont assimilés, selon les dispositions et dans les conditions prévues par ces articles, aux
+agents de la police nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 96-268 1996-03-28
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+_Cité par_:
+
+  - Code de la route. - art. L142-4-1 (V)
+  - Code de la route. - art. L142-5 (Ab)
+
+_Créé par_:
+
+  - Décret n°98-728 1998-08-20 art. 3 JORF 22 août 1998 en vigueur le 1er octobre 1998
 
 
 #### Chapitre II : Des enquêtes<a id=214></a>
