@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-07-01
+Version Consolidée au 1989-07-08
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -49,7 +49,7 @@ Version Consolidée au 1989-07-01
           - [Section 4 : Des auditions de témoins (art. 104)](#46)
           - [Section 5 : Des interrogatoires et confrontations (art. 114 à 120)](#47)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 137 à 149-1)](#48)
-            - [Sous-section 1 : Du contrôle judiciaire (art. 138 à 142-3)](#49)
+            - [Sous-section 1 : Du contrôle judiciaire (art. 138 à 142-2)](#49)
             - [Sous-section 2 : De la détention provisoire (art. 144 à 148-8)](#50)
             - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149 à 149-1)](#51)
           - [Section 8 : Des commissions rogatoires (art. 152 à 155)](#52)
@@ -170,10 +170,10 @@ Version Consolidée au 1989-07-01
           - [Section 3 : De la période de sûreté (art. 720-3)](#167)
         - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. 724 à 728)](#168)
       - [Titre III : De la libération conditionnelle (art. 729 à 733-1)](#169)
-      - [Titre IV : Du sursis (art. 734 à 747-7)](#170)
+      - [Titre IV : Du sursis (art. 734 à 747-8)](#170)
         - [Chapitre Ier : Du sursis simple (art. 735 à 737)](#171)
         - [Chapitre II : Du sursis avec mise à l'épreuve (art. 738 à 747)](#172)
-        - [Chapitre III : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 747-1 à 747-7)](#173)
+        - [Chapitre III : Du sursis assorti de l'obligation d'accomplir un travail d'intérêt général (art. 747-1 à 747-8)](#173)
       - [Titre V : De la reconnaissance de l'identité des individus condamnés (art. 748)](#174)
       - [Titre VI : De la contrainte judiciaire (art. 749 à 762)](#175)
       - [Titre VI : De la contrainte par corps (art. 755 à 757)](#176)
@@ -2671,7 +2671,8 @@ _Codifié par_:
 
 S'il n'y a pas de commissaire de police au lieu où siège le tribunal, le procureur général désigne, pour exercer les
 fonctions du ministère public, un commissaire ou un inspecteur divisionnaire ou principal de la police nationale en résidence
-dans le ressort du tribunal de grande instance.
+dans le ressort du tribunal de grande instance ou, à défaut, d'un tribunal de grande instance limitrophe situé dans le même
+département.
 
 **Liens relatifs à cet article**
 
@@ -2679,17 +2680,15 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 9 mars 1959
-  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-  - Loi n°72-1226 1972-12-29 art. 21 JORF 30 décembre 1972
-
 _Cité par_:
 
   - Loi n°83-520 du 27 juin 1983 - art. 11 (V)
   - Code de procédure pénale - art. 811 (V)
   - Code de procédure pénale - art. R200 (Ab)
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 22 () JORF 8 juillet 1989
 
 
 #### Chapitre III : Du juge d'instruction<a id=19></a>
@@ -4400,15 +4399,15 @@ Toute personne citée pour être entendue comme témoin est tenue de comparaîtr
 des dispositions de l'article 378 du code pénal.
 
 Si le témoin ne comparaît pas, le juge d'instruction peut, sur les réquisitions du procureur de la République, l'y
-contraindre par la force publique et le condamner à une amende de 40.000 à 100.000 francs (400 à 1.000 F). S'il comparaît
-ultérieurement, il peut toutefois, sur production de ses excuses et justifications, être déchargé de cette peine par le juge
-d'instruction après réquisition du procureur de la République.
+contraindre par la force publique et le condamner à une amende de 3 000 à 6 000 francs. S'il comparaît ultérieurement, il
+peut toutefois, sur production de ses excuses et justifications, être déchargé de cette peine par le juge d'instruction après
+réquisition du procureur de la République.
 
 La même peine peut, sur les réquisitions de ce magistrat, être prononcée contre le témoin qui, bien que comparaissant, refuse
 de prêter serment et de faire sa déposition.
 
-Le témoin condamné à l'amende en vertu des alinéas précédents peut interjeter appel de la condamnation dans les trois jours
-de ce prononcé ; s'il était défaillant, ce délai ne commence à courir que du jour de la signification de la condamnation.
+Le témoin condamné à l'amende en vertu des alinéas précédents peut interjeter appel de la condamnation dans les dix jours de
+ce prononcé ; s'il était défaillant, ce délai ne commence à courir que du jour de la signification de la condamnation.
 L'appel est porté devant la chambre d'accusation.
 
 **Liens relatifs à cet article**
@@ -4440,7 +4439,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+  - Loi n°89-461 du 6 juillet 1989 - art. 20 () JORF 8 juillet 1989
 
 _Cite_:
 
@@ -5033,6 +5032,49 @@ _Cite_:
 
   - Code de procédure pénale - art. 139 (VT)
   - Code de procédure pénale - art. 148-1 (V)
+
+
+###### Article 142-3
+
+Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier
+d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas
+d'absolution ou d'acquittement.
+
+En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué lorsque
+la condamnation est définitive.
+
+Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cité par_:
+
+  - Loi n°64-1331 du 26 décembre 1964 - art. 6 bis (Ab)
+  - Loi n°76-599 du 7 juillet 1976 - art. 10 (V)
+  - Loi n°76-600 du 7 juillet 1976 - art. 13 (V)
+  - Loi n°83-583 du 5 juillet 1983 - art. 13 (Ab)
+  - CODE DE PROCEDURE PENALE - art. R24-11 (V)
+  - Code de l'environnement - art. L218-30 (VT)
+  - Code de l'environnement - art. L218-55 (M)
+  - Code de procédure pénale - art. 471 (V)
+  - Code de procédure pénale - art. 569 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 14 () JORF 8 juillet 1989
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 142 (M)
+  - CODE DE PROCEDURE PENALE - art. 372 (M)
 
 
 ###### Article 143
@@ -5767,9 +5809,11 @@ _Cite_:
 ###### Article 175
 
 Aussitôt que l'information lui paraît terminée, le juge d'instruction communique le dossier au procureur de la République.
+Les conseils de l'inculpé et de la partie civile en sont avisés, dans les délais les plus brefs, soit verbalement avec
+émargement au dossier de la procédure, soit par lettre recommandée.
 
-Ce dernier lui adresse ses réquisitions dans un délai d'un mois si un inculpé est détenu et de trois mois dans les autres
-cas.
+Le procureur de la République lui adresse ses réquisitions dans un délai d'un mois si un inculpé est détenu et de trois mois
+dans les autres cas.
 
 Le juge d'instruction qui ne reçoit pas de réquisitions dans le délai prescrit peut rendre l'ordonnance de règlement.
 
@@ -5779,14 +5823,13 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958
-  - Loi n°85-1407 1985-12-30 art. 29 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 9 () JORF 8 juillet 1989
 
 _Cité par_:
 
@@ -6953,14 +6996,18 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
-  - Loi n°84-576 du 9 juillet 1984 - art. 8 () JORF 10 juillet 1984 en vigueur le 1er janvier 1985
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°84-576 du 9 juillet 1984 - art. 19 ()
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+  - Loi n°89-461 du 6 juillet 1989 - art. 21 () JORF 8 juillet 1989
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 138 (M)
 
 
 ##### Sous-section 1 : Du contrôle judiciaire<a id=49></a>
@@ -7102,14 +7149,14 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
-  - Loi n°85-1407 1985-12-30 art. 17 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 3 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+  - Loi n°89-461 du 6 juillet 1989 - art. 21 () JORF 8 juillet 1989
 
 _Cité par_:
 
@@ -7121,6 +7168,10 @@ _Cité par_:
   - Code de procédure pénale - art. 186 (VD)
   - Code de procédure pénale - art. 706-45 (MMN)
   - Code de procédure pénale - art. D32-16 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 137 (M)
 
 
 ###### Article 140
@@ -7165,9 +7216,9 @@ _Cité par_:
 
 ###### Article 141-2
 
-Si l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction, quelle que soit la
-durée de la peine d'emprisonnement encourue, pourra décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention
-provisoire. 
+Si l'inculpé se soustrait volontairement aux obligations du contrôle judiciaire, le juge d'instruction peut, quelle que soit
+la durée de la peine d'emprisonnement encourue, décerner à son encontre mandat d'arrêt ou de dépôt en vue de sa détention
+provisoire.
 
 Les mêmes droits appartiennent en tout état de cause à la juridiction qui est compétente selon les distinctions de l'article
 148-1. Toutefois, à l'encontre de l'accusé, il n'y a pas lieu à délivrance d'un mandat et l'ordonnance de prise de corps est
@@ -7194,13 +7245,15 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+  - Loi n°85-1303 1985-12-10 art. 15 et art. 42 JORF 11 décembre 1985 en vigueur le 1er mars 1988
+  - Loi n°87-1062 du 30 décembre 1987 - art. 3 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+  - Loi n°89-461 du 6 juillet 1989 - art. 21 () JORF 8 juillet 1989
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+  - SPEC_APPLI: Loi n°85-1303 1985-12-10 art. 42
 
 _Cite_:
 
@@ -7326,48 +7379,6 @@ _Créé par_:
   - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
 
 
-###### Article 142-3
-
-Le montant affecté à la deuxième partie du cautionnement qui n'a pas été versé à la victime de l'infraction ou au créancier
-d'une dette alimentaire est restitué en cas de non-lieu et, sauf s'il est fait application de l'article 372, en cas
-d'absolution ou d'acquittement.
-
-En cas de condamnation, il est employé conformément aux dispositions du 2° de l'article 142. Le surplus est restitué.
-
-Les conditions d'application du présent article sont fixées par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
-_Cité par_:
-
-  - Loi n°64-1331 du 26 décembre 1964 - art. 6 bis (Ab)
-  - Loi n°76-599 du 7 juillet 1976 - art. 10 (V)
-  - Loi n°76-600 du 7 juillet 1976 - art. 13 (V)
-  - Loi n°83-583 du 5 juillet 1983 - art. 13 (Ab)
-  - CODE DE PROCEDURE PENALE - art. R24-11 (V)
-  - Code de l'environnement - art. L218-30 (VT)
-  - Code de l'environnement - art. L218-55 (M)
-  - Code de procédure pénale - art. 471 (V)
-  - Code de procédure pénale - art. 569 (V)
-
-_Créé par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 142 (M)
-  - CODE DE PROCEDURE PENALE - art. 372 (M)
-
-
 ##### Sous-section 2 : De la détention provisoire<a id=50></a>
 
 ###### Article 144
@@ -7421,15 +7432,14 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Loi n°81-82 du 2 février 1981 - art. 40 () JORF 3 février 1981
-  - Loi n°83-466 1983-06-10 art. 19-I et 19-II JORF 11 juin 1983 en vigueur le 27 juin 1983
-  - Loi n°70-463 1970-07-17 art. 1 JORF 19 juillet 1970
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Modifié par_:
+
+  - Loi n°87-1062 du 30 décembre 1987 - art. 4 () JORF 31 décembre 1987 en vigueur le 1er septembre 1989
+  - Loi n°89-146 1989-07-06 art. 21 JORF 8 juillet 1989
 
 _Cite_:
 
@@ -7687,19 +7697,24 @@ Lorsque l'inculpé entend saisir la chambre d'accusation en application des disp
 148, sixième alinéa, ou 148-4, sa demande est faite, dans les formes prévues par les articles 148-6 et 148-7, au greffier de
 la chambre d'accusation compétente ou au chef de l'établissement pénitentiaire qui en assure la transmission.
 
+Lorsque le président de la chambre d'accusation constate que cette juridiction a été directement saisie, sur le fondement des
+articles 140, 148, sixième alinéa, ou 148-4, d'une demande de mainlevée du contrôle judiciaire ou de mise en liberté
+manifestement irrecevable, il peut décider, par une ordonnance motivée non susceptible de voie de recours, qu'il n'y a pas
+lieu de statuer sur cette demande ; dans ce cas, la demande et l'ordonnance sont versées au dossier de la procédure.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
-
-  - Loi n°85-1407 1985-12-30 art. 21 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 7 () JORF 8 juillet 1989
 
 _Cite_:
 
@@ -8436,7 +8451,8 @@ des parties civiles.
 Les arrêts contre lesquels les inculpés ou les parties civiles peuvent former un pourvoi en cassation leur sont signifiés à
 la requête du procureur général dans les trois jours. Toutefois, ces arrêts sont notifiés par lettre recommandée à l'inculpé,
 à la partie civile ou au requérant mentionné au cinquième alinéa de l'article 99 tant que le juge d'instruction n'a pas
-clôturé son information.
+clôturé son information. Ils peuvent être notifiés à l'inculpé détenu par les soins du chef de l'établissement pénitentiaire
+qui adresse, sans délai, au procureur général l'original ou la copie du récépissé signé par l'inculpé.
 
 Toute notification d'acte à la dernière adresse déclarée par une partie est réputée faite à sa personne.
 
@@ -8446,14 +8462,13 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-  - Loi n°85-1407 1985-12-30 art. 35 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 11 () JORF 8 juillet 1989
 
 _Cite_:
 
@@ -15836,6 +15851,55 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L151-2 (V)
 
 
+###### Article 469-4
+
+Lorsqu'il ajourne le prononcé de la peine dans les conditions et suivant les modalités prévues par l'article précédent, le
+tribunal peut placer le prévenu sous le régime de la mise à l'épreuve. L'intéressé doit satisfaire à l'ensemble des mesures
+de surveillance et d'assistance mentionnées au deuxième alinéa de l'article 739 et à celles des obligations particulières,
+mentionnées au même alinéa, qui lui sont spécialement imposées par le tribunal. La décision d'ajournement est exécutoire par
+provision.
+
+Le prévenu est placé sous le contrôle du juge de l'application des peines dans le ressort duquel il a sa résidence. Le juge
+de l'application des peines s'assure, soit par lui-même, soit par toute personne qualifiée, de l'exécution de la mesure. Les
+dispositions du deuxième alinéa de l'article 740 et de l'article 741 sont applicables au contrôle exercé sur le prévenu.
+
+Le tribunal peut, à la demande du juge de l'application des peines, aménager ou supprimer les obligations particulières
+imposées au prévenu ou en prévoir de nouvelles.
+
+Si le prévenu ne se soumet pas aux mesures de surveillance et d'assistance ou aux obligations particulières, le juge de
+l'application des peines peut saisir le tribunal avant l'expiration du délai d'épreuve afin qu'il soit statué sur la peine.
+
+Les dispositions des articles 741-1 et 741-2, du deuxième alinéa de l'article 741-3 et du troisième alinéa de l'article 744
+sont applicables. La comparution du prévenu devant le tribunal dans le cas prévu par le quatrième alinéa du présent article
+rend non avenue la fixation de la date d'audience de renvoi par la décision d'ajournement.
+
+Lorsque la décision d'ajournement a été rendue par une juridiction compétente à l'égard des mineurs, les attributions du juge
+de l'application des peines sont dévolues au juge des enfants dans le ressort duquel le mineur a sa résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 12 () JORF 8 juillet 1989
+
+_Abrogé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 36 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 469-2 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 740 (M)
+  - CODE DE PROCEDURE PENALE - art. 741 (M)
+  - CODE DE PROCEDURE PENALE - art. 741-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 741-2 (M)
+  - Code de procédure pénale 469-2, 739 al. 2, 740, 741, 741-1, 741-2, 741-3 al. 2 et 744 al. 3
+
+
 ###### Article 470
 
 Si le tribunal estime que le fait poursuivi ne constitue aucune infraction à la loi pénale ou que le fait n'est pas établi,
@@ -15901,7 +15965,8 @@ maintenue en application de l'article 464-1 ou de l'article 465, premier alinéa
 atteint celle de la peine prononcée.
 
 Le contrôle judiciaire prend fin sauf si le tribunal en décide autrement lorsqu'il prononce une condamnation à
-l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve. Si un cautionnement a été fourni, les dispositions
+des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de l'article 142-3 sont applicables.
 
 Les sanctions pénales prononcées en application des articles 43-1 à 43-4 du Code pénal peuvent être déclarées exécutoires par
 provision.
@@ -15912,21 +15977,18 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 12 () JORF 19 juillet 1970
-  - Loi n°75-624 du 11 juillet 1975 - art. 26 () JORF 13 juillet 1975 en vigueur le 1er janvier 1976
-  - Loi n°83-466 1983-06-10 art. 35-I JORF 11 juin 1983 en vigueur le 27 juin 1983
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
 
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 14 () JORF 8 juillet 1989
+
 _Cite_:
 
   - Code pénal 43-1 à 43-4
-  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
-  - Code de procédure pénale 464-1, 465 al. 1
+  - Code de procédure pénale 142-2 al. 1 et 2, 142-3 al. 2, 464-1 et 465 al. 1
 
 _Cité par_:
 
@@ -16321,6 +16383,9 @@ l'audience doit y être constatée.
 Après avoir été signée par le président et le greffier, la minute est déposée au greffe du tribunal dans les trois jours au
 plus tard du prononcé du jugement. Ce dépôt est mentionné sur le registre spécialement tenu au greffe à cet effet.
 
+En cas d'empêchement du président, mention en est faite sur la minute qui est signée par celui des juges qui donne lecture du
+jugement.
+
 **Liens relatifs à cet article**
 
 **Liens**:
@@ -16331,6 +16396,10 @@ plus tard du prononcé du jugement. Ce dépôt est mentionné sur le registre sp
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 24 () JORF 8 juillet 1989
 
 _Cité par_:
 
@@ -19194,8 +19263,8 @@ _Cité par_:
 ###### Article 567-1
 
 Si le président de la chambre criminelle constate qu'il a été formé un pourvoi contre une décision qui n'est pas susceptible
-de voie de recours en application des articles 186, alinéa 8, 706 et 706-2, il rend une ordonnance de non-admission du
-pourvoi. Sa décision n'est pas susceptible de recours.
+de voie de recours en application des articles 148-8, deuxième alinéa, 186, dernier alinéa, 186-1, troisième alinéa, 636, 706
+et 706-2, il rend une ordonnance de non-admission du pourvoi. Sa décision n'est pas susceptible de recours.
 
 **Liens relatifs à cet article**
 
@@ -19207,15 +19276,14 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°75-701 1975-08-06 Décret fixant la date d'entrée en vigueur - absence
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°75-701 1975-08-06 art. 18 JORF 7 août 1975 en vigueur le 1er janvier 1976
+  - Loi n°89-461 du 6 juillet 1989 - art. 7 () JORF 8 juillet 1989
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - Code de procédure pénale 186 al. 8, 706, 706-2
+  - CODE DE PROCEDURE PENALE - art. 636 (M)
+  - Code de procédure pénale 148-8 al. 2, 186 al. 8, 186-1 al. 3, 636, 706 et 706-2
 
 
 ###### Article 567-2
@@ -19308,7 +19376,8 @@ cour d'appel ne confirme le mandat décerné par le tribunal en application de l
 alinéa, ou ne décerne elle-même mandat sous les mêmes conditions et selon les mêmes règles.
 
 Le contrôle judiciaire prend fin, sauf si la cour d'appel en décide autrement, lorsqu'elle prononce une condamnation à
-l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve.
+l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve. Lorsqu'un cautionnement a été fourni, les
+dispositions des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de l'article 142-3 sont applicables.
 
 En cas d'acquittement, d'absolution ou de condamnation soit à l'emprisonnement assorti du sursis simple ou du sursis avec
 mise à l'épreuve, soit à l'amende, le prévenu détenu est, nonobstant pourvoi, mis en liberté immédiatement après l'arrêt.
@@ -19325,16 +19394,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°70-643 du 17 juillet 1970 - art. 15 () JORF 19 juillet 1970
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
-  - Code de procédure pénale 464-1, 465 al. 1
+  - Loi n°89-461 du 6 juillet 1989 - art. 14 () JORF 8 juillet 1989
 
 _Cité par_:
 
   - Code de procédure pénale - art. D150 (V)
+
+_Cite_:
+
+  - Code de procédure pénale 142-2 al. 1 et 2, 142-3 al. 2, 464-1 et 465 al. 1
 
 
 ###### Article 570
@@ -21676,18 +21744,11 @@ La présentation de la requête n'a point d'effet suspensif à moins qu'il n'en 
 Le procureur général près la Cour de cassation peut aussi et dans les mêmes formes demander à la chambre criminelle le renvoi
 d'une affaire d'une juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
 
-En cas de rejet d'une demande de renvoi pour cause de suspicion légitime, la chambre crinimelle peut ordonner le renvoi dans
-le même intérêt d'une bonne administration de la justice.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
 
 _Cité par_:
 
@@ -21702,6 +21763,10 @@ _Cité par_:
   - Code de justice militaire - art. 5 (Ab)
   - Code de justice militaire - art. 51 (Ab)
   - Code de justice militaire - art. 76 (M)
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 15 () JORF 8 juillet 1989
 
 
 ###### Article 664
@@ -25900,7 +25965,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°70-643 du 17 juillet 1970 - art. 28 () JORF 19 juillet 1970
+  - Loi n°89-461 du 6 juillet 1989 - art. 21 () JORF 8 juillet 1989
 
 _Cite_:
 
@@ -27427,6 +27492,55 @@ _Cite_:
   - Code de procédure pénale 747-1 al. 1
 
 
+###### Article 747-8
+
+Toute juridiction ayant prononcé hors la présence du prévenu, pour un délit de droit commun, une condamnation comportant un
+emprisonnement ferme de six mois au plus, peut, lorsque cette condamnation n'est plus susceptible de faire l'objet d'une voie
+de recours par le condamné, ordonner qu'il sera sursis à l'exécution de cette peine et que le condamné accomplira, au profit
+d'une collectivité publique, d'un établissement public ou d'une association, un travail d'intérêt général non rémunéré d'une
+durée qui ne pourra être inférieure à quarante heures ni supérieure à deux cent quarante heures. L'exécution de l'obligation
+d'accomplir un travail d'intérêt général est soumise aux prescriptions des troisième et quatrième alinéas de l'article 747-1
+et des articles 747-2 à 747-5.
+
+La juridiction est saisie par le juge de l'application des peines au moyen d'un rapport mentionnant qu'après avoir été
+informé du droit de refuser l'accomplissement d'un travail d'intérêt général, le condamné a expressément déclaré renoncer à
+se prévaloir de ce droit. Le rapport ne peut être présenté que si la peine d'emprisonnement n'est pas en cours d'exécution.
+Son dépôt a pour effet de suspendre, jusqu'à la décision de la juridiction saisie, l'exécution de la peine.
+
+La juridiction statue en chambre du conseil sur les conclusions du ministère public, le condamné ou son avocat entendus ou
+convoqués. Si la personne pour laquelle le sursis est demandé se trouve détenue, il est procédé conformément aux dispositions
+de l'article 712.
+
+La décision est portée sans délai à la connaissance du juge de l'application des peines ; elle est notifiée par ce magistrat
+au condamné lorsqu'elle a été rendue hors la présence de celui-ci. Elle est seulement susceptible d'un pourvoi en cassation
+qui n'est pas suspensif.
+
+Sous réserve des prescriptions de l'article 747-6, le présent article est applicable aux mineurs de seize à dix-huit ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 16 () JORF 8 juillet 1989
+
+_Abrogé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 111 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Loi n°95-884 du 3 août 1995 - art. 7 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 712 (M)
+  - Code de procédure pénale 712, 747-1 al. 3 et 4 et 747-2 à 747-6
+
+
 ### Titre V : De la reconnaissance de l'identité des individus condamnés<a id=174></a>
 
 ###### Article 748
@@ -28234,10 +28348,10 @@ _Cité par_:
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles
 concernant les décisions suivantes :
 
-1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945
+1° Les décisions prononcées en vertu des articles 2, 8, 15, 16, 18 et 28 de l'ordonnance n. 45-174 du 2 février 1945
 modifiée, relative à l'enfance délinquante ;
 
-2° Les condamnations dont la mention au bulletin n. 2 a été expressément exclue en application de l'article 775-1 ;
+2° Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ;
 
 3° Les condamnations prononcées pour contraventions de police ;
 
@@ -28246,7 +28360,7 @@ comme non avenues ;
 
 5° Les condamnations effacées par la réhabilitation de plein droit ou judiciaire ;
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du Code de justice militaire ;
+6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ;
 
 7° En matière de redressement judiciaire, les jugements prononçant la faillite personnelle ou l'interdiction prévue par
 l'article 192 de la loi n. 85-98 du 25 janvier 1985 précitée lorsque ces mesures sont effacées par un jugement de clôture
@@ -28268,13 +28382,13 @@ ces mesures demeure mentionnée au bulletin n. 2 pendant la même durée ;
 d'un délai de cinq ans à compter du jour où elles sont devenues définitives.
 
 Toutefois, si la durée de l'interdiction, déchéance ou incapacité, prononcée en application de l'article 43-1, est supérieure
-à cinq ans, la condamnation demeure mentionnée au bulletin n. 2 pendant la même durée ;
+à cinq ans, la condamnation demeure mentionnée au bulletin n° 2 pendant la même durée ;
 
-12° Les déclarations de culpabilité assorties d'une dispense de peine ;
+12° Les déclarations de culpabilité assorties d'une dispense de peine ou d'un ajournement du prononcé de celle-ci ;
 
 13° Les condamnations prononcées par des juridictions étrangères.
 
-Les bulletins n. 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
+Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
 décisions entraînant des incapacités en matière d'exercice du droit de vote.
 
 Lorsqu'il n'existe pas au casier judiciaire de fiches concernant des décisions à relever sur le bulletin n° 2, celui-ci porte
@@ -28309,16 +28423,13 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 31 () JORF 19 juillet 1970
-  - Loi n°82-621 du 21 juillet 1982 (V)
-  - Loi n°85-98 1985-01-25 art. 219-II et 243 JORF 26 janvier 1985
-  - Loi n°85-1407 1985-12-30 art. 80 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+
+_Modifié par_:
+
+  - Loi n°89-461 du 6 juillet 1989 - art. 13 () JORF 8 juillet 1989
 
 
 ###### Article 775-1
@@ -29325,9 +29436,9 @@ _Cité par_:
 
 ###### Article 801
 
-Tout délai prévu par le présent code pour l'accomplissement d'un acte ou d'une formalité expire le dernier jour à vingt-
-quatre heures. Le délai qui expirerait normalement un samedi ou un dimanche ou un jour férié ou chômé est prorogé jusqu'au
-premier jour ouvrable suivant.
+Tout délai prévu par une disposition de procédure pénale pour l'accomplissement d'un acte ou d'une formalité expire le
+dernier jour à vingt-quatre heures. Le délai qui expirerait normalement un samedi ou un dimanche ou un jour férié ou chômé
+est prorogé jusqu'au premier jour ouvrable suivant.
 
 **Liens relatifs à cet article**
 
@@ -29337,11 +29448,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°75-701 1975-08-06 art. 19 JORF 7 août 1975 en vigueur le 1er janvier 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
+  - Loi n°89-461 du 6 juillet 1989 - art. 23 () JORF 8 juillet 1989
 
 _Cité par_:
 
