@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-06-23
+Version Consolidée au 1987-07-18
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -22378,6 +22378,45 @@ _Cité par_:
 
   - Décret n°2013-987 du 5 novembre 2013 - art. 2 (V)
   - Code de procédure pénale - art. 628-10 (VD)
+
+
+###### Article 689-3
+
+Pour l'application de la Convention européenne pour la répression du terrorisme signée à Strasbourg le 27 janvier 1977 et de
+l'accord entre les Etats membres des Communautés européennes concernant l'application de la Convention européenne pour la
+répression du terrorisme, fait à Dublin le 4 décembre 1979, peut être poursuivi et jugé par les juridictions françaises, s'il
+se trouve en France, quiconque s'est rendu coupable, hors du territoire de la République :
+
+1° De l'un des crimes ou délits définis par les articles 295 à 298, 301, 303, 304, les premier et troisième alinéas de
+l'article 305, les articles 310 et 311, les troisième (2°) et quatrième (3°) alinéas de l'article 312, les articles 341 à
+344, 354 et 355 du code pénal, lorsqu'il est commis ou, dans les cas prévus par la loi, tenté contre une personne ayant droit
+à une protection internationale, y compris les agents diplomatiques ;
+
+2° De l'un des crimes ou délits définis par les articles 341 à 344, 354 et 355 du code pénal ou de tout autre crime ou délit
+comportant l'utilisation de bombes, de grenades, de fusées, d'armes à feu automatiques, de lettres ou de colis piégés, dans
+la mesure où cette utilisation présente un danger pour des personnes, lorsque ce crime ou délit est en relation avec une
+entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Les dispositions de l'article 689-3 du code de procédure pénale ne seront applicables qu'aux infractions commises postérieurement à l'entrée en vigueur, à l'égard de la France, de la Convention européenne pour la répression du terrorisme signée à S
+  - SPEC_APPLI: Loi n°87-541 1987-07-16 art. 2 :
+
+_Cite_:
+
+  - Accord Etats membres CEE 1979-12-04 (application de la convention européenne pour la répression du terrorisme)
+  - Code pénal 295 à 298, 301, 303, 304, 305 al. 1 et al. 3, 310 et 311, 312 al. 3 (2°) et al. 4 (3°), 341 à 344, 354 et 355
+  - Convention européenne 1977-01-27 Strasbourg pour la répression du terrorisme
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°87-541 du 16 juillet 1987 - art. 1 () JORF 18 juillet 1987
 
 
 ###### Article 690
