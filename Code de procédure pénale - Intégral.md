@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1988-10-01
+Version Consolidée au 1988-10-06
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -35327,9 +35327,15 @@ d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 198
 21° A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des
 personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8
 juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou
-41 de cette loi. 22° A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est
-susceptible de délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de
-ses personnels.
+41 de cette loi;
+
+22° A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est susceptible de
+délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de ses personnels;
+
+23° Aux juges des enfants à l'occasion de l'instruction des procédures d'habilitation des personnes physiques,
+établissements, services ou organismes publics ou privés auxquels l'autorité judiciaire confie habituellement des mineurs
+ainsi que dans le cadre du contrôle que les juges des enfants exercent sur les mêmes personnes, établissements, services ou
+organismes lorsqu'ils sont habilités.
 
 **Liens relatifs à cet article**
 
@@ -35360,6 +35366,10 @@ _Cite_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
   - PILOTE_SUIVEUR: Code de la propriété intellectuelle - art. R421-3 (V)
   - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+_Modifié par_:
+
+  - Décret n°88-949 du 6 octobre 1988 - art. 13 () JORF 8 octobre 1988
 
 _Cité par_:
 
