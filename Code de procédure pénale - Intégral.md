@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-01-10
+Version Consolidée au 2004-01-17
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -80672,6 +80672,10 @@ _Cite_:
 Dans le cas prévu par l'article R. 49-14, la consignation s'effectue par l'apposition, sur le formulaire de requête en
 exonération, du timbre prévu au premier alinéa de l'article R. 49-3.
 
+Lorsqu'il est fait application des dispositions de l'article 529-10, le contrevenant peut s'acquitter du paiement de la
+consignation soit par timbre-amende dans les conditions définies à l'alinéa précédent, soit par chèque libellé à l'ordre du
+Trésor public, soit par télépaiement.
+
 Dans le cas prévu par l'article R. 49-15, la consignation est acquittée soit par espèces, soit par chèque libellé à l'ordre
 du Trésor public, soit par carte bancaire auprès du comptable du Trésor mentionné sur l'avis d'amende forfaitaire majorée. Ce
 dernier délivre alors au redevable une attestation du paiement de la consignation qui doit être jointe à la réclamation
@@ -80685,10 +80689,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-10-29 art. 6 JORF 29 octobre 2003
+  - Arrêté 2004-01-13 art. 1 JORF 17 janvier 2004
 
 _Cite_:
 
+  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
   - CODE DE PROCEDURE PENALE - art. R49-14 (V)
   - CODE DE PROCEDURE PENALE - art. R49-15 (V)
   - CODE DE PROCEDURE PENALE - art. R49-3 (M)
