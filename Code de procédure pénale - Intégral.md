@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-03-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -41735,6 +41735,27 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 706-4 (M)
+
+
+###### Article 862-1
+
+Pour l'application de l'article 706-2 en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, il est ajouté
+après les mots : "par l'article L. 5311-1 du code de la santé publique", les mots : "ou par la réglementation applicable
+localement".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 96-268 1996-03-28
+
+_Créé par_:
+
+  - Ordonnance n°2003-166 du 27 février 2003 - art. 12 () JORF 1er mars 2003
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
 
 
 ###### Article 863
