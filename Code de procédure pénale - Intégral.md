@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-07-17
+Version Consolidée au 1992-10-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -480,26 +480,25 @@ Version Consolidée au 1992-07-17
         - [Chapitre Ier : De la police judiciaire (art. A1 à A27)](#477)
           - [Section 2 : Des officiers de police judiciaire (art. A1 à A27)](#478)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#479)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A7)](#480)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#481)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#482)
-      - [Titre II : De la détention (art. A39 à A43-1)](#483)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#484)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#485)
-          - [Section 5 (art. A39-1 à A39-2)](#486)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#487)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#488)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#489)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#490)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#491)
-      - [Titre IV : Du sursis (art. A45 à A52)](#492)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#493)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#494)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#495)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#496)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#497)
-        - [Disposition générale (art. A53)](#498)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#499)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A27)](#480)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#481)
+      - [Titre II : De la détention (art. A39 à A43-1)](#482)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#483)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#484)
+          - [Section 5 (art. A39-1 à A39-2)](#485)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#486)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#487)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#488)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#489)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#490)
+      - [Titre IV : Du sursis (art. A45 à A52)](#491)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#492)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#493)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#494)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#495)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#496)
+        - [Disposition générale (art. A53)](#497)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#498)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -58266,6 +58265,26 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R3 (M)
 
 
+###### Article A2
+
+Les listes des candidats admis à se présenter à l'examen technique sont établies par les commandants de légion de gendarmerie
+départementale (ou autorités assimilées) et arrêtées par le ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A7 (V)
+
+
 ###### Article A3
 
 L'examen technique d'officier de police judiciaire a lieu chaque année, au cours du dernier trimestre, et comporte deux
@@ -58380,6 +58399,63 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. A6 (V)
 
 
+###### Article A6
+
+La date de l'examen technique et les sujets des épreuves sont fixés, d'un commun accord, par le directeur des affaires
+criminelles et des grâces et par le directeur général de la gendarmerie nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 7
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A7 (V)
+
+
+###### Article A7
+
+Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres organisés par les commandants de légion de
+gendarmerie départementale (ou autorités assimilées) concernés.
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des
+codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou
+recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi
+qu'à des articles de doctrine ou des décisions de jurisprudence.
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
+sans délai et sans appel, par l'officier surveillant ; le candidat, en dehors d'une sanction disciplinaire, peut ne pas être
+autorisé à se présenter à l'examen les années suivantes.
+
+L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
+affectée à l'épreuve, par l'officier surveillant.
+
+Toutes les compositions sont faites sur des feuilles fournies par la direction générale de la gendarmerie nationale.
+
+L'organisation matérielle des épreuves de l'examen technique est assurée par le commandant de légion de gendarmerie
+départementale (ou autorité assimilée) conformément aux directives données par circulaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1992-06-12 art. 1 JORF 9 juillet 1992 en vigueur le 1er octobre 1992
+
+
 ###### Article A8
 
 Les membres du juge d'examen, constitué comme il est dit à l'article R. 4, peuvent être répartis, pour la correction des
@@ -58489,64 +58565,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=480></a>
-
-###### Article A2
-
-Les listes des candidats admis à se présenter à l'examen technique sont établies par les chefs de corps de gendarmerie et
-arrêtées par le ministre des armées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Cité par_:
-
-  - Code de procédure pénale - art. A7 (V)
-
-
-###### Article A6
-
-La date de l'examen technique et les sujets des épreuves sont fixés, d'un commun accord, par le directeur des affaires
-criminelles et des grâces et par le directeur de la gendarmerie et de la justice militaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-
-###### Article A7
-
-Les épreuves de l'examen technique se déroulent dans un ou plusieurs centres désignés par le chef de corps de gendarmerie.
-
-Il est interdit aux candidats, sous peine d'exclusion, d'avoir par devers eux des documents imprimés ou manuscrits ;
-toutefois, ils peuvent consulter les codes ou recueils de textes législatifs ou réglementaires, ne comportant pas
-d'annotation, dont la liste est fixée par le garde des sceaux, ministre de la justice.
-
-Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
-sans délai et sans appel, par l'officier surveillant ; le candidat en dehors d'une sanction disciplinaire peut être exclu de
-l'examen les années suivantes.
-
-L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
-affectée à l'épreuve, par l'officier surveillant.
-
-Toutes les compositions sont faites sur des feuilles fournies par la direction de la gendarmerie et de la justice militaire.
-
-L'organisation matérielle des épreuves de l'examen technique est assurée par le chef de corps de gendarmerie conformément aux
-directives donnée par circulaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-
-##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=481></a>
+##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=480></a>
 
 ###### Article A13
 
@@ -59339,13 +59358,13 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. A22 (Ab)
 
 
-## Livre V : Des procédures d'exécution<a id=482></a>
+## Livre V : Des procédures d'exécution<a id=481></a>
 
-### Titre II : De la détention<a id=483></a>
+### Titre II : De la détention<a id=482></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=484></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=483></a>
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=485></a>
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=484></a>
 
 ###### Article A39
 
@@ -59432,7 +59451,7 @@ _Cite_:
   - Code de procédure pénale D70, D70-2, D490 à D496
 
 
-##### Section 5<a id=486></a>
+##### Section 5<a id=485></a>
 
 ###### Article A39-1
 
@@ -59480,11 +59499,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=487></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=486></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=488></a>
+##### Section 1 : De la gestion des biens des détenus<a id=487></a>
 
-##### Paragraphe 1er : Pécule.<a id=489></a>
+##### Paragraphe 1er : Pécule.<a id=488></a>
 
 ###### Article A41
 
@@ -59633,9 +59652,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=490></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=489></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=491></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=490></a>
 
 ###### Article A43
 
@@ -59694,13 +59713,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=492></a>
+### Titre IV : Du sursis<a id=491></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=493></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=492></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=494></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=493></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=495></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=494></a>
 
 ###### Article A45
 
@@ -59761,7 +59780,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=496></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=495></a>
 
 ###### Article A48
 
@@ -59862,9 +59881,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=497></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=496></a>
 
-#### Disposition générale<a id=498></a>
+#### Disposition générale<a id=497></a>
 
 ###### Article A53
 
@@ -59882,7 +59901,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=499></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=498></a>
 
 ###### Article A54
 
