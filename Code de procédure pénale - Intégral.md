@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-07-28
+Version Consolidée au 2001-08-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 880)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -52514,29 +52514,23 @@ _Cite_:
 
 ###### Article R155
 
-En matière criminelle, correctionnelle ou de police, et sans préjudice, le cas échéant, de l'application des dispositions des
-articles 91 et D. 32, il peut être délivré aux parties et à leurs frais :
+En matière criminelle, correctionnelle et de police, hors les cas prévus par l'article 114, il peut être délivré aux
+parties :
 
 1° Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements,
 des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
 
 2° Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres
 pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans
-suite.
+suite. Toutefois, cette autorisation n'est pas requise lorsque des poursuites ont été engagées ou qu'il est fait application
+des articles 41-1 à 41-3 et que la copie est demandée pour l'exercice des droits de la défense ou des droits de la partie
+civile.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Modifié par_:
-
-  - Décret n°72-630 1972-07-04 art. 1 JORF 9 juillet 1972
 
 _Cité par_:
 
@@ -52548,15 +52542,19 @@ _Cité par_:
   - Code de procédure pénale - art. D591 (V)
   - Code de procédure pénale - art. R57-6-1 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+  - Décret n°2001-689 du 31 juillet 2001 - art. 1 () JORF 1er août 2001
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 91 (M)
-  - CODE DE PROCEDURE PENALE - art. D32 (M)
-  - Code de la route L27-I al. 2
+  - CODE DE PROCEDURE PENALE - art. 114 (M)
+  - Code de procédure pénale 114, 41-1 à 41-3
+  - Code de la route L27
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ###### Article R156
@@ -52704,8 +52702,8 @@ _Créé par_:
 En matière pénale, la délivrance, lorsqu'elle est autorisée, de reproductions de pièces de procédures autres que les
 décisions est rémunérée à raison de 3 F. par page.
 
-Cette délivrance est gratuite pour la première reproduction de chaque acte lorsqu'elle est demandée par un avocat commis
-d'office ou désigné au titre de l'aide judiciaire ou lorsque la gratuité est prévue par une disposition particulière.
+Toutefois, la délivrance de la première reproduction de chaque acte est gratuite lorsqu'elle est demandée soit par l'avocat
+de la partie, soit par la partie elle-même si celle-ci n'est pas représentée par un avocat.
 
 **Liens relatifs à cet article**
 
@@ -52713,14 +52711,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°67-903 1967-10-12 art. 1 JORF 17 octobre 1967
-  - Décret n°78-62 1978-01-20 art. 10 JORF 24 janvier 1978
+  - Décret n°2001-689 du 31 juillet 2001 - art. 2 () JORF 1er août 2001
 
 _Cité par_:
 
