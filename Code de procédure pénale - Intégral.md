@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-07-09
+Version Consolidée au 1999-08-27
 ## Contenu: 
   - [Partie législative (art. 1 à 805)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -40930,16 +40930,20 @@ La liste des jurés suppléants prévue par l'article 264 comprend :
 
 1° Cinq cent cinquante jurés pour la cour d'assises de Paris ;
 
-2° Deux cents jurés pour les cours d'assises des Alpes-Maritimes, des Bouches-du-Rhône, de l'Essonne, de la Gironde, des
-Hauts-de-Seine, du Nord, du Rhône, de Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des
-Yvelines ;
+2° Quatre cents jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde et des Yvelines ;
 
-3° Cent jurés pour les cours d'assises du Calvados, de la Corse-du-Sud, de la Haute-Corse, du Finistère, du Gard, de la
-Guadeloupe, de la Haute-Garonne, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de la Marne, de
-Meurthe-et-Moselle, de la Meuse, du Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, du Bas-Rhin, du Haut-Rhin, de la
-Seine-Maritime, de la Somme, du Var, de Vaucluse et des Vosges ;
+3° Trois cents jurés pour les cours d'assises du Nord, de la Seine-Saint-Denis et du Val-de-Marne ;
 
-4° Cinquante jurés pour les autres cours d'assises.
+4° Deux cents jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de l'Essonne, des
+Hauts-de-Seine, de la Loire-Atlantique, de la Réunion, du Rhône, de la Seine-Maritime, de Seine-et-Marne, du Val-d'Oise et du
+Var ;
+
+5° Cent jurés pour les cours d'assises de l'Aisne, du Calvados, de la Côte-d'Or, de l'Eure, du Finistère, du Gard, de la
+Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de Maine-et-Loire, de la
+Marne, de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, du Pas-de-Calais, des Pyrénées-Atlantiques, des
+Pyrénées-Orientales, du Bas-Rhin, du Haut-Rhin, de la Sarthe, de la Somme, de Vaucluse et des Vosges ;
+
+6° Cinquante jurés pour les autres cours d'assises.
 
 **Liens relatifs à cet article**
 
@@ -40949,7 +40953,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-969 du 8 novembre 1994 - art. 1 () JORF 10 novembre 1994
+  - Décret n°99-728 du 26 août 1999 - art. 1 () JORF 27 août 1999
 
 _Cite_:
 
