@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-09-01
+Version Consolidée au 1984-12-22
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -167,7 +167,7 @@ Version Consolidée au 1984-09-01
       - [Titre VI : De la contrainte judiciaire (art. 753 à 762)](#164)
       - [Titre VI : De la contrainte par corps (art. 755 à 757)](#165)
       - [Titre VII : De la prescription de la peine (art. 763 à 767)](#166)
-      - [Titre VIII : Du casier judiciaire (art. 770 à 780)](#167)
+      - [Titre VIII : Du casier judiciaire (art. 769 à 780)](#167)
       - [Titre IX : De la réhabilitation des condamnés (art. 782 à 799)](#168)
       - [Titre X : Des frais de justice (art. 800 à 802)](#169)
         - [Dispositions générales (art. 801 à 802)](#170)
@@ -20033,6 +20033,225 @@ _Cité par_:
   - Code de procédure pénale - art. R24-8 (V)
 
 
+###### Article 713-1
+
+Lorsque, en application d'une convention ou d'un accord internationaux, une personne détenue en exécution d'une condamnation
+prononcée par une juridiction étrangère est transférée sur le territoire français pour y accomplir la partie de la peine
+restant à subir, l'exécution de la peine est poursuivie conformément aux dispositions du présent code, et notamment des
+articles 713-2 à 713-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-2 (V)
+
+_Cite_:
+
+  - Code de procédure pénale 713-2 à 713-6
+
+
+###### Article 713-2
+
+Dès son arrivée sur le sol français, le condamné détenu est présenté au procureur de la République du lieu d'arrivée, qui
+procède à son interrogatoire d'identité et en dresse procès-verbal. Toutefois, si l'interrogatoire ne peut être immédiat, le
+condamné est conduit à la maison d'arrêt où il ne peut être détenu plus de vingt-quatre heures. A l'expiration de ce délai,
+il est conduit d'office devant le procureur de la République, par les soins du surveillant-chef.
+
+Au vu des pièces constatant l'accord des Etats sur le transfèrement et le consentement de l'intéressé ainsi que de l'original
+ou d'une expédition du jugement étranger de condamnation, accompagnés, le cas échéant, d'une traduction officielle, le
+procureur de la République requiert l'incarcération immédiate du condamné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-3 (V)
+
+
+###### Article 713-3
+
+La peine prononcée à l'étranger est, par l'effet de la convention ou de l'accord internationaux, directement et immédiatement
+exécutoire sur le territoire national pour la partie qui restait à subir dans l'Etat étranger.
+
+Toutefois, lorsque la peine prononcée est, par sa nature ou sa durée, plus rigoureuse que la peine prévue par la loi
+française pour les mêmes faits, le tribunal correctionnel du lieu de détention, saisi par le procureur de la République ou le
+condamné, lui substitue la peine qui correspond le plus en droit français ou réduit cette peine au maximum légalement
+applicable. Il détermine en conséquence, suivant les cas, la nature et, dans la limite de la partie qui restait à subir dans
+l'Etat étranger, la durée de la peine à exécuter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-4 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 769 (M)
+
+
+###### Article 713-4
+
+Le tribunal statue en audience publique, après avoir entendu le ministère public, le condamné et, le cas échéant, le conseil
+choisi par lui ou commis d'office sur sa demande. Le jugement est immédiatement exécutoire nonobstant appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-5 (V)
+
+
+###### Article 713-5
+
+Les délais de transfèrement s'imputent intégralement sur la durée de la peine qui est mise à exécution en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-6 (V)
+
+
+###### Article 713-6
+
+Tous incidents contentieux relatifs à l'exécution de la peine privative de liberté restant à subir en France sont portés
+devant le tribunal correctionnel du lieu de détention.
+
+Les dispositions de l'article 711 du présent code sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 711 (M)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-7 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 769 (M)
+
+
+###### Article 713-7
+
+L'application de la peine est régie par les dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-8 (V)
+
+
+###### Article 713-8
+
+Aucune poursuite pénale ne peut être exercée ou continuée et aucune condamnation ne peut être exécutée à raison des mêmes
+faits contre le condamné qui exécute en France, en application d'une convention ou d'un accord internationaux, une peine
+privative de liberté prononcée par une juridiction étrangère.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 728-9 (V)
+
+
 #### Chapitre Ier : Dispositions générales<a id=152></a>
 
 ###### Article 709
@@ -22506,6 +22725,55 @@ _Cite_:
 
 
 ### Titre VIII : Du casier judiciaire<a id=167></a>
+
+###### Article 769
+
+Il est fait mention sur les fiches du casier judiciaire des peines ou dispenses de peines prononcées après ajournement du
+prononcé de la peine, des grâces, commutations ou réductions de peines, des décisions qui suspendent ou qui ordonnent
+l'exécution d'une première condamnation, des décisions prises en application du deuxième alinéa de l'article 713-3 ou du
+premier alinéa de l'article 713-6, des décisions de libération conditionnelle et de révocation, des décisions de suspension
+de peine, des réhabilitations, des décisions qui rapportent ou suspendent les arrêtés d'expulsion, ainsi que la date de
+l'expiration de la peine et du paiement de l'amende.
+
+Sont retirées du casier judiciaire les fiches relatives à des condamnations effacées par une amnistie ou réformées en
+conformité d'une décision de rectification du casier judiciaire. Il en est de même, sauf en ce qui concerne les condamnations
+prononcées pour des faits imprescriptibles, des fiches relatives à des condamnations prononcées depuis plus de quarante ans
+et qui n'ont pas été suivies d'une nouvelle condamnation à une peine criminelle ou correctionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°75-624 du 11 juillet 1975 - art. 48 () JORF 13 juillet 1975
+  - Loi n°84-1150 1984-12-21 art. 3 JORF 22 décembre 1984
+
+_Cité par_:
+
+  - Loi n°88-828 du 20 juillet 1988 - art. 32 (V)
+  - Loi n°88-1028 du 9 novembre 1988 - art. 80 (V)
+  - Loi n°91-1264 du 19 décembre 1991 - art. 3 (V)
+  - Arrêté du 23 février 1994 - art. 2 (V)
+  - Loi n°95-884 du 3 août 1995 - art. 27 (V)
+  - CODE DE PROCEDURE PENALE - art. R70 (M)
+  - CODE DE PROCEDURE PENALE - art. R81 (M)
+  - CODE DE PROCEDURE PENALE - art. R84 (M)
+  - Code de justice militaire. - art. L268-3 (Ab)
+  - Code de procédure pénale - art. 769-1 (V)
+  - Code de procédure pénale - art. 772 (V)
+  - Code de procédure pénale - art. 778 (M)
+  - Code de procédure pénale - art. R294 (V)
+  - Code de procédure pénale - art. R380 (Ab)
+  - Code de procédure pénale - art. R69 (V)
+  - Code de procédure pénale - art. R78 (V)
+
+_Cite_:
+
+  - Code de procédure pénale 713-3 al. 2, 713-6 al. 1
+
 
 ###### Article 770
 
