@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-04
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -26000,9 +26000,8 @@ Les activités de travail et de formation professionnelle sont prises en compte 
 et de bonne conduite des condamnés.
 
 Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux
-personnes incarcérées qui le souhaitent.
-
-Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. 
+personnes incarcérées qui le souhaitent. Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat
+de travail. Il peut être dérogé à cette règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
@@ -26026,7 +26025,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-432 du 22 juin 1987 - art. 5
+  - Loi n°90-9 du 2 janvier 1990 - art. 9 () JORF 4 janvier 1990
 
 _Nouveaux textes_:
 
