@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1962-10-07
+Version Consolidée au 1963-01-16
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -1781,6 +1781,57 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+
+###### Article 63
+
+Si, pour les nécessités de l'enquête, l'officier de police judiciaire est amené à garder à sa disposition une ou plusieurs
+des personnes visées aux articles 61 et 62, il ne peut les retenir plus de vingt-quatre heures.
+
+S'il existe contre une personne des indices graves et concordants de nature à motiver son inculpation, l'officier de police
+judiciaire doit la conduire devant le procureur de la République sans pouvoir la garder à sa disposition plus de vingt-quatre
+heures.
+
+Le délai prévu à l'alinéa précédent peut être prolongé d'un nouveau délai de vingt-quatre heures par autorisation écrite du
+procureur de la République ou du juge d'instruction.
+
+Les dispositions du dernier alinéa de l'article 64 sont applicables.
+
+L'officier de police judiciaire avise de ce droit la personne gardée à vue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - Ordonnance 60-121 1960-02-13 art. 1 JORF 14 février 1960
+  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
+
+_Cité par_:
+
+  - Loi n°83-520 du 27 juin 1983 - art. 12 (V)
+  - Décret n°2019-1421 du 20 décembre 2019 - art. 1 (V)
+  - CODE DE PROCEDURE PENALE - art. 154 (M)
+  - CODE DE PROCEDURE PENALE - art. 171 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-23 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 706-29 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 812 (V)
+  - CODE DE PROCEDURE PENALE - art. R200 (M)
+  - Code de la santé publique - art. L627-1 (Ab)
+  - Code de procédure pénale - art. 62 (VD)
+  - Code de procédure pénale - art. 63-1 (VT)
+  - Code de procédure pénale - art. 706-88 (VD)
+  - Code de procédure pénale - art. 78 (VD)
+  - Code des douanes - art. 323-2 (V)
+  - Code des douanes de Mayotte - art. 193-2 (VD)
+  - Décret du 20 mai 1903 - art. 124 (Ab)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 64 (M)
 
 
 ###### Article 65
