@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-03-28
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -45586,7 +45586,7 @@ Les offices centraux de police judiciaire relevant de l'article R. 15-18 sont le
 
 4° Office central pour la répression du banditisme ;
 
-5° Office central pour la répression du vol d'oeuvres et objets d'art ;
+5° Office central de lutte contre le trafic des biens culturels ;
 
 6° Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires,
 biologiques et chimiques ;
@@ -45614,7 +45614,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°96-694 du 6 août 1996 - art. 4 () JORF 9 août 1996
+  - Décret n°97-285 du 25 mars 1997 - art. 7 () JORF 28 mars 1997
 
 **Liens**:
 
