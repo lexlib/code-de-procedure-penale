@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-02-27
+Version Consolidée au 1990-03-15
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -36632,8 +36632,16 @@ bulletins de casier judiciaire.
 16° Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor
 public.
 
+17° Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
+ne relevant pas de l'administration pénitentiaire.
+
 18° Des frais de l'appel aux créanciers prévu à l'article 11 de la loi n° 89-1010 du 31 décembre 1989 relative à la
 prévention et au règlement des difficultés liées au surendettement des particuliers et des familles.
+
+**Nota:**
+
+[* Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
+juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.*]
 
 **Liens relatifs à cet article**
 
@@ -36679,7 +36687,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°90-175 du 21 février 1990 - art. 21 () JORF 27 février 1990
+  - Décret n°90-226 1990-03-13 art. 1 JORF 15 mars 1990
 
 **Liens**:
 
