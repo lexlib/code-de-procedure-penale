@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1981-11-11
+Version Consolidée au 1982-01-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -240,7 +240,7 @@ Version Consolidée au 1981-11-11
             - [Paragraphe 4 : Exécution des arrêts de contumace (art. R192 à R193)](#237)
             - [Paragraphe 5 : Frais de voyage et de séjour (art. R194 à R195)](#238)
             - [Paragraphe 6 : Dispositions générales (art. R196 à R199)](#239)
-          - [Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers (art. R202 à R207)](#240)
+          - [Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers (art. R200 à R202)](#240)
           - [Section 8 : Du port des lettres et paquets (art. R208)](#241)
           - [Section 9 : Des frais d'impression (art. R210 à R212)](#242)
           - [Section 10 : Des frais d'exécution des arrêts (art. R213)](#243)
@@ -27056,6 +27056,133 @@ _Cité par_:
 
 ##### Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers<a id=240></a>
 
+###### Article R200
+
+Il est alloué aux magistrats et aux personnels exerçant les fonctions de greffier des indemnités pour frais de voyage et de
+séjour nécessités : 
+
+1° Par les transports effectués en matière criminelle, correctionnelle ou de police, dans les cas prévus par le Code de
+procédure pénale, notamment aux articles 54, 56, 62, 63, 68, 69, 72, 74, 92, 93, 112, 151, 205, 654, 680 et 713 ou par des
+lois spéciales ; 
+
+2° Par les transports du président de la chambre d'accusation à l'effet de s'assurer du bon fonctionnement des cabinets
+d'instruction du ressort de la cour d'appel, conformément aux dispositions de l'article 220 ; 
+
+3° Par les transports des juges des tribunaux d'instance pour l'établissement de la liste annuelle du jury ; 
+
+4° Par les transports des magistrats de la cour d'appel qui siègent comme présidents ou assesseurs dans une cour d'assises
+tenue hors du chef-lieu du ressort, et du procureur général ou de ses substituts qui vont y porter la parole, sans qu'il y
+ait lieu de distinguer entre les sessions ordinaires et extraordinaires, ainsi que du procureur de la République lorsqu'il
+occupe le siège du ministère public devant les tribunaux d'instance de son ressort, en application de l'article 45 du présent
+code ou de l'article 4 de l'ordonnance n° 58-1273 du 22 décembre 1958 ; 
+
+5° Par les transports des commissaires de police, ou des officiers de police désignés par le procureur général, conformément
+aux articles 46 et 48, pour occuper le siège du ministère public près le tribunal de police d'une autre ville que celle où
+ils exercent leurs fonctions ; 
+
+6° Par le transport des magistrats, entre autres, du président de la chambre d'accusation, du juge d'instruction, du juge des
+enfants ou du juge de l'application des peines, du procureur général ou du procureur de la République, à l'effet de se rendre
+dans un établissement pénitentiaire dans les cas prévus notamment aux articles 222, 722, 723, 727 et 730 du Code de procédure
+pénale ainsi qu'à l'article R2 du Code pénal ; 
+
+7° Par le transport d'un magistrat pour recevoir la déclaration de nationalité souscrite par un détenu ou pour lui en
+notifier le refus pour cause d'indignité ; 
+
+8° Par le transport du procureur de la République sur l'ordre du procureur général pour procéder à la vérification des
+greffes ou à celles des registres de l'état civil ; 
+
+9° Par le transport des magistrats pour visiter les hôpitaux psychiatriques, les établissements d'éducation surveillée et les
+services de la liberté surveillée ainsi que les établissements privés habilités par le ministère de la Justice ; 
+
+10° Par le transport des magistrats, en vertu de l'article 490-3 du Code civil, pour visiter les majeurs protégés par la loi.
+
+**Nota:**
+
+*Décret 90-166 1990-02-21 art. 4 : " Dans tous les textes réglementaires, les mots : " l'éducation surveillée " sont
+remplacés par les mots : " la protection judiciaire de la jeunesse ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance 58-1273 1958-12-22 art. 4
+  - Code pénal R2
+  - Code civil - art. 490-3 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 112 (M)
+  - CODE DE PROCEDURE PENALE - art. 151 (V)
+  - CODE DE PROCEDURE PENALE - art. 205 (M)
+  - CODE DE PROCEDURE PENALE - art. 220 (M)
+  - CODE DE PROCEDURE PENALE - art. 222 (M)
+  - CODE DE PROCEDURE PENALE - art. 45 (M)
+  - CODE DE PROCEDURE PENALE - art. 46 (M)
+  - CODE DE PROCEDURE PENALE - art. 48 (M)
+  - CODE DE PROCEDURE PENALE - art. 54 (V)
+  - CODE DE PROCEDURE PENALE - art. 56 (M)
+  - CODE DE PROCEDURE PENALE - art. 62 (M)
+  - CODE DE PROCEDURE PENALE - art. 63 (M)
+  - CODE DE PROCEDURE PENALE - art. 654 (V)
+  - CODE DE PROCEDURE PENALE - art. 68 (V)
+  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 69 (M)
+  - CODE DE PROCEDURE PENALE - art. 713 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 72 (M)
+  - CODE DE PROCEDURE PENALE - art. 722 (M)
+  - CODE DE PROCEDURE PENALE - art. 723 (M)
+  - CODE DE PROCEDURE PENALE - art. 727 (M)
+  - CODE DE PROCEDURE PENALE - art. 730 (M)
+  - CODE DE PROCEDURE PENALE - art. 74 (M)
+  - CODE DE PROCEDURE PENALE - art. 92 (M)
+  - CODE DE PROCEDURE PENALE - art. 93 (M)
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
+  - Décret n°82-70 1982-01-21 art. 1 JORF 23 janvier 1982
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D117 (M)
+  - Code de procédure pénale - art. D49-31 (V)
+  - Code de procédure pénale - art. D49-32 (V)
+  - Code de procédure pénale - art. R201 (Ab)
+
+
+###### Article R201
+
+Les indemnités prévues par l'article R200 sont calculées sur la base des règles relatives aux conditions et modalités de
+règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France
+lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de
+certains organismes subventionnés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°82-70 1982-01-21 art. 2 JORF 23 janvier 1982
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+_Cité par_:
+
+  - Code de justice militaire. - art. D269-12 (V)
+  - Code de justice militaire. - art. D269-2 (V)
+
+
 ###### Article R202
 
 Dans les cas prévus à l'article R. 200 (1°) les indemnités allouées par les articles R. 203, R. 204 et R. 205 sont dues, soit
@@ -27086,113 +27213,6 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R204 (Ab)
   - CODE DE PROCEDURE PENALE - art. R205 (Ab)
   - Code de procédure pénale R200 (1°), R203, R204, R205
-
-
-###### Article R203
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Abrogé par_:
-
-  - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R202 (Ab)
-
-
-###### Article R204
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Abrogé par_:
-
-  - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R202 (Ab)
-
-
-###### Article R205
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Abrogé par_:
-
-  - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R202 (Ab)
-
-
-###### Article R206
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Abrogé par_:
-
-  - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
-
-
-###### Article R207
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Abrogé par_:
-
-  - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
 
 
 ##### Section 8 : Du port des lettres et paquets<a id=241></a>
