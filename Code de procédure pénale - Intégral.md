@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-01-04
+Version Consolidée au 1990-01-06
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -37933,11 +37933,12 @@ _Modifié par_:
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
 fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
-Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête, prévue par
-l'article 41 (alinéa 5) : 220 F.
+Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue par
+les articles 41 (alinéa 5) et 81 (alinéa 7) ainsi que pour l'information sur les mesures propres à favoriser l'insertion
+sociale des intéressés : 255 F.
 
 Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
-l'article 81 (alinéa 6) : 330 F.
+l'article 81 (alinéa 6) : 383 F..
 
 **Liens relatifs à cet article**
 
@@ -37956,16 +37957,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-600 du 6 mai 1988 - art. 2 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 41 (M)
-  - CODE DE PROCEDURE PENALE - art. 81 (M)
+  - Décret n°90-21 du 4 janvier 1990 - art. 1 () JORF 6 janvier 1990
 
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Cite_:
+
+  - Code de procédure pénale 41 al. 5 et 81 al. 6 et 7
 
 
 ###### Article R121-1
@@ -37975,11 +37975,11 @@ fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et 
 personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque
 inculpé, en application du 6° de l'article 138 (alinéa 2) :
 
-300 F  lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+340 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
-600 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+725 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
-900 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 **Liens relatifs à cet article**
 
@@ -37989,7 +37989,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-600 du 6 mai 1988 - art. 3 () JORF 8 mai 1988 en vigueur le 1er octobre 1988
+  - Décret n°90-21 du 4 janvier 1990 - art. 2 () JORF 6 janvier 1990
 
 _Cité par_:
 
@@ -38000,14 +38000,13 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
   - Code de procédure pénale - art. R121 (V)
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 138 (M)
-  - CODE DE PROCEDURE PENALE - art. R16-2 (V)
-
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Cite_:
+
+  - Code de procédure pénale 138 (alinéa 2) et R16-2 (alinéa 1)
 
 
 ##### Paragraphe 3 : Des interprètes traducteurs<a id=264></a>
