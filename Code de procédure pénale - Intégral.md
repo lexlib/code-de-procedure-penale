@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-08-25
+Version Consolidée au 1987-09-26
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -34095,8 +34095,10 @@ _Cite_:
 
 Pour l'habilitation des associations désirant mettre en oeuvre des travaux d'intérêt général spécifiquement adaptés aux
 mineurs, le juge des enfants, avant de communiquer la demande au président du tribunal, saisit le directeur départemental de
-la protection judiciaire de la jeunesse. Celui-ci fait connaître par écrit son avis sur les garanties offertes par
-l'association.
+l'éducation surveillée. Celui-ci fait connaître par écrit son avis sur les garanties offertes par l'association.
+
+Le directeur départemental de l'éducation surveillée peut également recueillir toute demande d'habilitation, qu'il transmet
+au juge des enfants, assortie de l'avis prévu à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -34104,13 +34106,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
 _Modifié par_:
 
-  - Décret n°90-166 du 21 février 1990 - art. 4 (V)
+  - Décret n°87-777 1987-09-22 art. 1 JORF 26 septembre 1987
+
+_Abrogé par_:
+
+  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
 ###### Article R61-29
@@ -34162,10 +34164,9 @@ _Abrogé par_:
 
 ###### Article R61-31
 
-Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes.
+Le jeune condamné au travail d'intérêt général doit se soumettre aux mesures de contrôles suivantes [*obligations*].
 
-1° Répondre aux convocations du juge des enfants ;
-
+1° Répondre aux convocations du juge des enfants et de l'éducateur ou du service désigné conformément à l'article R. 61-32.
 2° Se soumettre à l'examen médical prévu par l'article R. 61-18 ;
 
 3° Informer le juge des enfants de tout changement d'emploi ou de résidence ou de tout déplacement qui ferait obstacle à
@@ -34177,25 +34178,26 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+  - Décret n°87-777 1987-09-22 art. 2 JORF 26 septembre 1987
+
+_Abrogé par_:
+
+  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R61-18 (Ab)
+  - CODE DE PROCEDURE PENALE - art. R61-32 (M)
 
 
 ###### Article R61-32
 
-Le juge des enfants s'assure de l'exécution du travail d'intérêt général.
-
-Il peut demander à un éducateur ou à une structure éducative de l'éducation surveillée d'apprécier si le travail effectué
-conserve son caractère formateur ou de nature à permettre l'insertion sociale du jeune condamné et s'il demeure adapté à la
-personnalité de celui-ci.
-
-Lorsque le mineur est condamné à une peine d'emprisonnement avec sursis assortie de l'obligation d'accomplir un travail
-d'intérêt général, le juge des enfants peut faire application des dispositions de l'article R. 60.
+Le juge des enfants s'assure de l'exécution du travail d'intérêt général soit par lui-même, soit par l'intermédiaire d'un
+éducateur ou d'un service de l'éducation surveillée qu'il désigne, qui rend compte au juge des enfants du déroulement de la
+mesure en vérifiant, notamment, si le travail effectué conserve un caractère formateur ou de nature à permettre l'insertion
+sociale du jeune condamné et s'il demeure adapté à la personnalité de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -34203,9 +34205,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°83-1163 1983-12-23 art. 1 et art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+  - Décret n°87-777 1987-09-22 art. 3 JORF 26 septembre 1987
+
+_Abrogé par_:
+
+  - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 _Cite_:
 
