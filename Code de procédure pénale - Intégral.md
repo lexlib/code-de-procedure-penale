@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2001-12-12
 ## Contenu: 
   - [Partie législative (art. préliminaire à 880)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -4025,6 +4025,16 @@ Le procureur de la République peut également, lorsque la saisie porte sur des 
 conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes
 intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
 
+Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaits, l'officier de police
+judiciaire doit transmettre, pour analyse et identification, au moins un exemplaire de chaque type de billets ou pièces
+suspectés faux au centre d'analyse national habilité à cette fin. Le centre d'analyse national peut procéder à l'ouverture
+des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture ou réouverture des scellés. Lorsque
+les opérations sont terminées, le rapport et les scellés sont déposés entre les mains du greffier de la juridiction
+compétente. Ce dépôt est constaté par procès-verbal.
+
+Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe qu'un seul exemplaire d'un type de billets ou
+de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -4079,7 +4089,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-515 du 23 juin 1999 - art. 22 () JORF 24 juin 1999
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 18
 
 _Cite_:
 
@@ -7014,6 +7024,16 @@ Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conserva
 manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la
 Caisse des dépôts et consignations ou à la Banque de France.
 
+Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaits, le juge d'instruction
+ou l'officier de police judiciaire par lui commis doit transmettre, pour analyse et identification, au moins un exemplaire de
+chaque type de billets ou pièces suspectés faux au centre d'analyse national habilité à cette fin. Le centre d'analyse
+national peut procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture
+ou réouverture des scellés. Lorsque les opérations sont terminées, le rapport et les scellés sont déposés entre les mains du
+greffier de la juridiction compétente. Ce dépôt est constaté par procès-verbal.
+
+Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe qu'un seul exemplaire d'un type de billets ou
+de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -7033,7 +7053,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 164 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 18
 
 _Cite_:
 
