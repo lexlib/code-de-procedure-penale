@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-12-07
+Version Consolidée au 2003-01-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -35002,7 +35002,8 @@ personnes incarcérées qui le souhaitent.
 Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. Il peut être dérogé à cette
 règle pour les activités exercées à l'extérieur des établissements pénitentiaires.
 
-Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
+Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret. Le produit du travail des
+détenus ne peut faire l'objet d'aucun prélèvement pour frais d'entretien en établissement pénitentiaire.
 
 **Liens relatifs à cet article**
 
@@ -35024,10 +35025,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°97-1159 du 19 décembre 1997 - art. 1 () JORF 20 décembre 1997
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 51 (V) JORF 10 septembre 2002 en vigueur le 1er janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 168 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 _Nouveaux textes_:
 
+  - CODE DE PROCEDURE PENALE - art. 717-3 (M)
   - CODE DE PROCEDURE PENALE - art. 717-3 (V)
 
 
@@ -64061,8 +64067,8 @@ _Nouveaux textes_:
 
 ###### Article D111
 
-La rémunération du travail est répartie conformément aux dispositions des articles D112 et suivants, après qu'aient été
-précomptées les cotisations à caractère social mises à la charge des détenus.
+La rémunération du travail est répartie conformément aux dispositions de la présente section, après qu'aient été précomptées
+les cotisations à caractère social mises à la charge des détenus.
 
 **Liens relatifs à cet article**
 
@@ -64072,12 +64078,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
-  - Décret n°71-274 1971-04-15 art. 1 JORF 16 avril 1971
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
 
 _Cité par_:
 
@@ -64085,44 +64086,6 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D114 (Ab)
   - CODE DE PROCEDURE PENALE - art. D327. (M)
   - Code de procédure pénale - art. D106 (T)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-
-###### Article D112
-
-Les détenus participent à leurs frais d'entretien sur le produit de leur travail.
-
-Le montant de cette participation est fixé chaque année par arrêté du garde des sceaux, ministre de la justice.
-
-Il ne saurait en toute hypothèse dépasser 30 % de la rémunération après déduction des cotisations à caractère social.
-
-Les rémunérations versées sur crédits budgétaires sont nettes de tout prélèvement au profit du Trésor.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
-_Modifié par_:
-
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
-  - Décret n°71-274 1971-04-15 art. 1 JORF 16 avril 1971
-
-_Abrogé par_:
-
-  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. A39-2 (M)
-  - CODE DE PROCEDURE PENALE - art. A41 (M)
-  - CODE DE PROCEDURE PENALE - art. D111 (M)
-  - CODE DE PROCEDURE PENALE - art. D114 (M)
-  - CODE DE PROCEDURE PENALE - art. D327. (M)
 
 **Liens**:
 
@@ -64171,8 +64134,8 @@ _Cité par_:
 
 ###### Article D114
 
-Après déduction des versements prévus aux articles D. 111, D. 112 et D. 113, le solde de la rémunération est acquis au détenu
-qui peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
+Après déduction des versements prévus aux articles D. 111 et D. 113, le solde de la rémunération est acquis au détenu qui
+peut en disposer dans les conditions prévues aux articles D. 323, D. 330 et D. 331.
 
 La portion attribuée aux détenus sur les produits de leur travail peut toutefois être accrue de gratifications, à titre
 exceptionnel et sous réserve que celles-ci n'excèdent pas le quart de la rémunération principale.
@@ -64185,15 +64148,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+  - Décret n°2003-259 2003-03-20 art. 15 III, IV JORF 22 mars 2003 en vigueur le 1er janvier 2003
+  - Décret n°2003-259 du 20 mars 2003 - art. 15 () JORF 22 mars 2003 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D111 (M)
-  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
   - CODE DE PROCEDURE PENALE - art. D113 (M)
   - CODE DE PROCEDURE PENALE - art. D323 (M)
-  - Code de procédure pénale D111, D112, D113, D323, D330 et D331
+  - Code de procédure pénale D111, D113, D323, D330 et D331
 
 _Cité par_:
 
