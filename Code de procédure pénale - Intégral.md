@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-02-01
+Version Consolidée au 1986-02-02
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -2415,6 +2415,59 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 68 (V)
   - Code de procédure pénale 81 al. 6, 68
+
+
+###### Article 41-1
+
+Lorsqu'aucune juridiction n'a été saisie ou lorsque la juridiction saisie a épuisé sa compétence sans avoir statué sur la
+restitution des objets, le procureur de la République est compétent pour décider, d'office ou sur requête, de la restitution
+de ces objets lorsque la propriété n'en est pas sérieusement contestée.
+
+Il n'y a pas lieu à restitution lorsque celle-ci est de nature à créer un danger pour les personnes ou les biens ; la
+décision du procureur de la République refusant pour ce motif la restitution peut être contestée dans le mois de sa
+notification par requête de l'intéressé devant le tribunal correctionnel, qui statue en chambre du conseil. Il n'y a pas lieu
+non plus à restitution lorsqu'une disposition particulière prévoit la destruction des objets placés sous main de justice.
+
+Si la restitution n'a pas été demandée ou décidée dans un délai de trois ans à compter de la décision de classement ou de la
+décision par laquelle la dernière juridiction saisie a épuisé sa compétence, les objets non restitués deviennent propriété de
+l'Etat, sous réserve des droits des tiers.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 7-1 (V)
+  - Loi n°91-647 du 10 juillet 1991 - art. 64-2 (VD)
+  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 23-3 (V)
+  - Ordonnance n°92-1143 du 12 octobre 1992 - art. 40-1 (Ab)
+  - Décret n°2001-71 du 29 janvier 2001 - art. 8 (V)
+  - Arrêté du 25 février 2004 - art. 1 (V)
+  - CODE DE PROCEDURE PENALE - art. 143-1 (M)
+  - Code de justice militaire. - art. D269-4 (V)
+  - Code de la sécurité intérieure - art. L132-10-1 (V)
+  - Code de procédure pénale - art. 40-1 (V)
+  - Code de procédure pénale - art. 41-1-1 (Ab)
+  - Code de procédure pénale - art. 44-1 (VD)
+  - Code de procédure pénale - art. 80 (VD)
+  - Code de procédure pénale - art. R121-2 (V)
+  - Code de procédure pénale - art. R121-4 (V)
+  - Code de procédure pénale - art. R15-33-30 (V)
+  - Code de procédure pénale - art. R15-33-55-9 (V)
+  - Code de procédure pénale - art. R15-33-66-8 (V)
+  - Code de procédure pénale - art. R155 (V)
+  - Code de procédure pénale - art. R92 (VD)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°85-1407 1985-12-30 art. 2 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
 
 
 ###### Article 42
