@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-05-04
+Version Consolidée au 2002-05-05
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -303,9 +303,9 @@ Version Consolidée au 2002-05-04
         - [Chapitre Ier : Du tribunal correctionnel (art. R41-2)](#300)
       - [Titre III : Du jugement des contraventions (art. R42 à R50)](#301)
         - [Chapitre II : Procédure simplifiée (art. R42 à R48)](#302)
-        - [Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée (art. R49 à R49-8)](#303)
+        - [Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée (art. R48-1 à R49-8)](#303)
         - [Chapitre II ter : Dispositions applicables à certaines infractions à la police des services publics de transports terrestres (art. R49-8-1 à R49-8-4)](#304)
-        - [Chapitre II quater : Dispositions applicables à certaines infractions au code de la route (art. R49-9 à R49-13)](#305)
+        - [Chapitre II quater : Dispositions applicables à certaines infractions au code de la route (art. R49-8-5 à R49-13)](#305)
         - [Chapitre III : De l'instruction définitive devant le tribunal de police (art. R50)](#306)
     - [Livre IV : De quelques procédures particulières (art. R50 bis à R53-21)](#307)
       - [Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière (art. R50 bis à R50 ter)](#308)
@@ -361,7 +361,7 @@ Version Consolidée au 2002-05-04
               - [B : Indemnités de comparution (art. R129 à R132)](#358)
               - [C : Frais de voyage et de séjour (art. R133 à R138)](#359)
             - [Paragraphe 2 : Des membres du jury criminel (art. R139 à R146)](#360)
-          - [Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal (art. R147 à R149)](#361)
+          - [Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application des articles 131-6 (5°) et 131-14 (2°) du code pénal (art. R147 à R149)](#361)
           - [Section 5 : Des frais de copie (art. R154 à R165)](#362)
             - [B : Expéditions (art. R154 à R165)](#363)
               - [a) Délivrance des expéditions (art. R154 à R160)](#364)
@@ -43102,9 +43102,8 @@ _Cite_:
 
 ###### Article R1
 
-Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent, sous
-réserve des dispositions de l'article 30, solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont
-ils dépendent.
+Les officiers de police judiciaire, à l'occasion d'une enquête ou de l'exécution d'une commission rogatoire, ne peuvent
+solliciter ou recevoir des ordres ou instructions que de l'autorité judiciaire dont ils dépendent.
 
 **Liens relatifs à cet article**
 
@@ -43114,19 +43113,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+_Transféré par_:
+
+  - Décret n°2005-84 du 3 février 2005 - art. 1 () JORF 5 février 2005
 
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 16 (M)
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 30 (M)
-
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. R1-1 (V)
+  - CODE DE PROCEDURE PENALE - art. R2 (T)
   - CODE DE PROCEDURE PENALE - art. R2 (V)
   - CODE DE PROCEDURE PENALE - art. R2-1 (V)
 
@@ -44059,8 +44059,8 @@ départements du ressort de leur groupement d'affectation ;
 5° L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-
 de-Marne et de la Seine-Saint-Denis ;
 
-6° La direction des services techniques de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du
-Val-de-Marne et de la Seine-Saint-Denis.
+6° La direction de la logistique de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-
+Marne et de la Seine-Saint-Denis.
 
 **Liens relatifs à cet article**
 
@@ -44070,7 +44070,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -45118,25 +45118,20 @@ procureur de la République dans les conditions prévues par la présente sectio
 effectuer une mission de médiation conformément aux dispositions du 5° de l'article 41-1. Elles peuvent également se voir
 confier les missions mentionnées à l'alinéa précédent.
 
-Lorsqu'une association habilitée est désignée par le procureur de la République pour exercer une mission de délégué ou de
-médiateur, seules les personnes physiques qui, au sein de cette association, ont été personnellement habilitées peuvent se
-voir confier cette mission.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
+  - Code de procédure pénale - art. 41-1 (V)
+  - Code de procédure pénale - art. 41-2 (V)
 
 _Cité par_:
 
@@ -45178,7 +45173,10 @@ de fonctionnement des comités locaux ainsi que leurs rapports avec l'associatio
 d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou état de l'actif mobilier et immobilier et du passif.
+ou état de l'actif mobilier et immobilier et du passif ;
+
+7° La liste des personnes physiques qui, au sein de l'association, doivent accomplir les missions qui lui sont confiées, avec
+la mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de chacune d'entre elles.
 
 **Liens relatifs à cet article**
 
@@ -45186,9 +45184,9 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -45211,20 +45209,29 @@ judiciaire ;
 Le Médiateur ou le délégué du procureur de la République appelé à se voir confier des missions concernant des mineurs doit en
 outre s'être signalé par l'intérêt qu'il porte aux questions de l'enfance.
 
+Lorsqu'une association envisage une modification de la liste mentionnée au 7° de l'article R. 15-33-32 ou de désigner, pour
+accomplir les missions confiées à l'association, une personne physique n'ayant pas été personnellement habilitée, elle doit
+en aviser le procureur de la République. Ce dernier lui indique, le cas échéant, les personnes qui, ne remplissant pas les
+conditions mentionnées aux alinéas précédents, ne peuvent être autorisées à accomplir les missions confiées à l'association.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
 
 _Cité par_:
 
   - Décret n°2004-1021 du 27 septembre 2004 - art. 21 (V)
   - Code de procédure pénale - art. R15-33-37 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R15-33-32 (M)
 
 
 ###### Article R15-33-34
@@ -45459,10 +45466,10 @@ _Cite_:
 
 ###### Article R15-33-43
 
-Lorsque la composition pénale intervient à la suite d'un délit prévu par l'article L. 1er du code de la route, le procès-
-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui résultera de
-l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la possibilité pour elle
-d'exercer son droit d'accès.
+Lorsque la composition pénale intervient à la suite d'un délit prévu aux articles L. 234-1 et L. 234-8 du code de la route,
+le procès-verbal mentionné à l'article R. 15-33-40 comporte une mention informant la personne de la perte de points qui
+résultera de l'exécution de la composition pénale, de l'existence d'un traitement automatisé de ces points et de la
+possibilité pour elle d'exercer son droit d'accès.
 
 **Liens relatifs à cet article**
 
@@ -45470,19 +45477,20 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
-
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
-
 _Cité par_:
 
   - Décret n°2001-71 du 29 janvier 2001 - art. 7 (V)
   - Code de procédure pénale - art. R251 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R15-33-40 (M)
-  - Code de la route L1
+  - Code de la route. - art. L234-1 (M)
+  - Code de la route. - art. L234-8 (M)
 
 
 ###### Article R15-33-44
@@ -45776,10 +45784,10 @@ _Cite_:
 
 ###### Article R15-33-55
 
-Les dispositions des articles 131-23 et 131-24, 132-55 (1° à 6°), R. 131-23 à R. 131-34 du code pénal sont applicables à
-l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les attributions confiées par ces articles au
-tribunal ou au juge de l'application des peines étant dévolues au procureur de la République ou à la personne par lui
-désignée.
+Les dispositions des articles 131-23 et 131-24, 132-55, R. 131-23 à R. 131-34 du code pénal et L. 412-8 (5°) du code de la
+sécurité sociale sont applicables à l'exécution du travail prévu par le 4° de l'article 41-2 du présent code, les
+attributions confiées par ces articles au tribunal ou au juge de l'application des peines étant dévolues au procureur de la
+République ou à la personne par lui désignée.
 
 Le service pénitentiaire d'insertion et de probation peut être désigné par le procureur de la République pour exercer les
 attributions prévues pour l'agent de probation par les articles mentionnés à l'alinéa précédent.
@@ -45790,9 +45798,9 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -45805,6 +45813,7 @@ _Cite_:
   - Code pénal - art. 132-55 (M)
   - Code pénal 131-23, 131-24, 132-55, R131-23 à R131-34
   - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+  - Code de la sécurité sociale. - art. L412-8 (M)
 
 
 ###### Article R15-33-56
@@ -45831,9 +45840,9 @@ _Cite_:
 ###### Article R15-33-57
 
 Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les
-mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° de
-l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans pouvoir toutefois
-dépasser lesdits délais.
+mesures décidées dans les délais prescrits, et que ces délais sont inférieurs aux délais maxima prévus aux 1° et 4° et au
+sixième alinéa de l'article 41-2, le procureur de la République peut prolonger les délais d'exécution de ces mesures, sans
+pouvoir toutefois dépasser lesdits délais.
 
 **Liens relatifs à cet article**
 
@@ -45841,9 +45850,9 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 2 () JORF 30 janvier 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cite_:
 
@@ -45993,8 +46002,8 @@ _Cite_:
 
 Lorsqu'il ne procède pas lui-même ou ne fait pas procéder par un officier de police judiciaire à l'enquête de personnalité
 prévue par l'alinéa 6 de l'article 81, le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort
-duquel réside l'inculpé peut désigner à cette fin toute personne physique ou morale habilitée comme il est dit ci-après ou, à
-titre exceptionnel, un contrôleur judiciaire.
+duquel réside la personne mise en examen peut désigner à cette fin toute personne physique ou morale habilitée comme il est
+dit ci-après ou, à titre exceptionnel, un contrôleur judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -46006,9 +46015,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cite_:
 
@@ -46018,7 +46027,7 @@ _Cite_:
 ###### Article R15-35
 
 La personne physique ou morale, selon qu'elle désire être habilitée à procéder à des enquêtes de personnalité dans le ressort
-du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au moyen des juges d'instruction ou au
+du tribunal de grande instance ou dans celui de la cour d'appel, en fait la demande au doyen des juges d'instruction ou au
 président de la chambre de l'instruction.
 
 La demande présentée par une association comporte notamment :
@@ -46038,7 +46047,10 @@ de fonctionnement des comités locaux, ainsi que leurs rapports avec l'associati
 d'administration et du bureau de l'association ainsi que, le cas échéant, ceux de ses représentants locaux ;
 
 6° Les pièces financières qui doivent comprendre les comptes du dernier exercice, le budget de l'exercice courant et un bilan
-ou un état de l'actif mobilier et immobilier et du passif.
+ou un état de l'actif mobilier et immobilier et du passif ;
+
+7° La liste des personnes physiques qui, au sein de l'association, doivent accomplir les missions qui lui sont confiées, avec
+la mention des nom, prénoms, date et lieu de naissance, nationalité, profession et domicile de chacune d'entre elles.
 
 **Liens relatifs à cet article**
 
@@ -46052,7 +46064,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+  - Décret n°2002-801 du 3 mai 2002 - art. 2 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -46139,6 +46151,11 @@ _Modifié par_:
 Ne peut être habilitée une personne qui a fait l'objet d'une condamnation, incapacité ou déchéance mentionnée au bulletin n°
 2 du casier judiciaire.
 
+Lorsqu'une association envisage une modification de la liste mentionnée au 7° de l'article R. 15-35 ou de désigner, pour
+accomplir les missions confiées à l'association, une personne physique n'ayant pas été personnellement habilitée, elle doit
+en aviser le procureur de la République. Ce dernier lui indique, le cas échéant, les personnes qui, suivant les dispositions
+de l'alinéa précédent, ne peuvent être autorisées à accomplir les missions confiées à l'association.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -46149,9 +46166,13 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2002-801 du 3 mai 2002 - art. 2 () JORF 5 mai 2002
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R15-35 (M)
 
 
 ###### Article R15-40
@@ -46327,10 +46348,10 @@ _Cite_:
 
 ###### Article R16
 
-Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside l'inculpé, désigne, pour
-contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à cette fin, soit un
-service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre exceptionnel, un
-enquêteur de personnalité.
+Le juge d'instruction saisi de la procédure ou, sur délégation, celui dans le ressort duquel réside la personne mise en
+examen, désigne, pour contribuer à l'application du contrôle judiciaire, soit une personne physique ou morale habilitée à
+cette fin, soit un service de police ou de gendarmerie ou tout service judiciaire ou administratif compétent, soit, à titre
+exceptionnel, un enquêteur de personnalité.
 
 Les contrôleurs judiciaires sont habilités sous les conditions et selon les règles de compétence et de procédure définies par
 les articles R. 15-35 à R. 15-40.
@@ -46351,21 +46372,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
-
-_Cite_:
-
-  - Code de procédure pénale R15-35 à R15-40
+  - Décret n°2002-801 du 3 mai 2002 - art. 3 () JORF 5 mai 2002
 
 
 ###### Article R16-1
 
-Les autorités ou personnes chargées de contribuer à l'application du contrôle judiciaire s'assurent que l'inculpé se soumet
-aux obligations qui lui sont imposées ; à cet effet, elles peuvent le convoquer et lui rendre visite ; elles effectuent
-toutes démarches et recherches utiles à l'exécution de leur mission.
+Les autorités ou personnes chargées de contribuer à l'application du contrôle judiciaire s'assurent que la personne mise en
+examen se soumet aux obligations qui lui sont imposées ; à cet effet, elles peuvent la convoquer et lui rendre visite ; elles
+effectuent toutes démarches et recherches utiles à l'exécution de leur mission.
 
-Elles rendent compte au juge d'instruction, dans les conditions qu'il détermine, du comportement de l'inculpé ; si celui-ci
-se soustrait aux obligations qui lui sont imposées, elles en avisent le juge sans délai.
+Elles rendent compte au juge d'instruction, dans les conditions qu'il détermine, du comportement de la personne mise en
+examen ; si celle-ci se soustrait aux obligations qui lui sont imposées, elles en avisent le juge sans délai.
 
 **Liens relatifs à cet article**
 
@@ -46373,9 +46390,9 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 
 ###### Article R16-2
@@ -46427,126 +46444,50 @@ _Modifié par_:
 
 ###### Article R17-1
 
-Avis est donné aux chefs des services de police ou de gendarmerie du lieu de résidence de l'inculpé de toutes ordonnances
-soumettant ce dernier à l'une des obligations prévues aux 1°, 2°, 3°, 4°, 8°, 9°, 12° de l'article 138 (alinéa 2), ainsi que
-de toutes ordonnances portant suppression, modification ou dispense de ces obligations.
+Avis est donné aux chefs des services de police ou de gendarmerie du lieu de résidence de la personne mise en examen de
+toutes ordonnances soumettant cette derniere à l'une des obligations prévues aux 1°, 2°, 3°, 4°, 8°, 9°, 12° de l'article 138
+(alinéa 2), ainsi que de toutes ordonnances portant suppression, modification ou dispense de ces obligations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cite_:
 
   - Code de procédure pénale 138 al. 2 (1°, 2°, 3°, 4°, 8°, 9° et 12°)
 
-_Créé par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-
 
 ###### Article R17-2
 
-Le service ou autorité auquel l'inculpé doit se présenter périodiquement par application du 5° de l'article 138 (alinéa 2)
-relève les dates auxquelles l'intéressé s'est présenté dans les conditions fixées par le juge d'instruction.
+Le service ou autorité auquel la personne mise en examen doit se présenter périodiquement par application du 5° de l'article
+138 (alinéa 2) relève les dates auxquelles l'intéressée s'est présentée dans les conditions fixées par le juge d'instruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cite_:
 
   - Code de procédure pénale 138 al. 2 5°
 
-_Créé par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-
 
 ###### Article R17-3
 
-L'autorité ou la personne qualifiée désignée par le juge d'instruction pour contrôler les activités professionnelles de
-l'inculpé ou son assiduité à un enseignement, par application du 6° de l'article 138 (alinéa 2) peut se faire présenter par
-l'inculpé tous documents ou renseignements concernant son travail ou sa scolarité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°58-358 1958-04-02 art. 3
-
-_Cite_:
-
-  - Code de procédure pénale 138 al. 2 6°
-
-_Créé par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-
-
-###### Article R17-4
-
-Le récépissé remis à l'inculpé en échange des documents visés aux 7° et 8° de l'article 138 (alinéa 2) doit mentionner la
-nature et les références du document retiré, les nom, prénoms, date de naissance et domicile de l'intéressé ; il doit
-comporter en outre, lorsqu'il s'agit d'un des documents visés au 7° de l'article 138 (alinéa 2), une photographie récente de
-l'inculpé et indiquer qu'il vaut justification de l'identité.
-
-Le récépissé doit être remis par l'inculpé lorsque le document retiré lui est restitué.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
-
-_Cite_:
-
-  - Code de procédure pénale 138 al. 2 7° et 8°
-
-_Créé par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-
-
-###### Article R17-5
-
-Lorsqu'il est soumis à l'obligation prévue au 10° de l'article 138 (alinéa 2) l'inculpé choisit le praticien ou
-l'établissement qui assurera l'examen, le traitement ou les soins. Il présente ou fait parvenir au juge toutes les
-justifications requises.
-
-Dans le cas où les dispositions des articles L. 355-1 et suivants du Code de la santé publique [*alcooliques dangereux pour
-autrui*] sont applicables, le juge d'instruction peut ordonner à l'inculpé, au titre du contrôle judiciaire, de se soumettre
-aux mesures de surveillance sanitaire prévues à l'article L. 355-3 dudit code. Avis de l'ordonnance portant placement sous
-contrôle judiciaire est donné à l'autorité sanitaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
-
-_Cite_:
-
-  - Code de procédure pénale 138 al. 2 10°
-  - Code de la santé publique L355-1 et L355-3
-
-_Créé par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
-
-
-###### Article R18
-
-Lorsque le juge d'instruction fait application des mesures prévues au 12° de l'article 138 (alinéa 2), avis en est donné s'il
-y a lieu, soit à l'employeur ou à l'autorité hiérarchique dont relève l'inculpé, soit à l'ordre professionnel auquel il
-appartient, soit à l'autorité à l'agrément de laquelle est soumis l'exercice de sa profession.
+L'autorité ou la personne qualifiée désignée par le juge d'instruction pour contrôler les activités professionnelles de la
+personne mise en examen ou son assiduité à un enseignement, par application du 6° de l'article 138 (alinéa 2) peut se faire
+présenter par la personne mise en examen tous documents ou renseignements concernant son travail ou sa scolarité.
 
 **Liens relatifs à cet article**
 
@@ -46560,13 +46501,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de procédure pénale 138 al. 2 6°
 
 
-###### Article R18-1
+###### Article R17-4
 
-Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné
-à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de l'inculpé.
+Le récépissé remis à la personne mise en examen en échange des documents visés aux 7° et 8° de l'article 138 (alinéa 2) doit
+mentionner la nature et les références du document retiré, les nom, prénoms, date de naissance et domicile de l'intéressée ;
+il doit comporter en outre, lorsqu'il s'agit d'un des documents visés au 7° de l'article 138 (alinéa 2), une photographie
+récente de la personne mise en examen et indiquer qu'il vaut justification de l'identité.
+
+Le récépissé doit être remis par la personne mise en examen lorsque le document retiré lui est restitué.
 
 **Liens relatifs à cet article**
 
@@ -46574,9 +46523,73 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-193 1977-03-03 art. 2 JORF 5 mars 1977
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+_Cite_:
+
+  - Code de procédure pénale 138 al. 2 7° et 8°
+
+
+###### Article R17-5
+
+Lorsqu'elle est soumise à l'obligation prévue au 10° de l'article 138 (alinéa 2) la personne mise en examen choisit le
+praticien ou l'établissement qui assurera l'examen, le traitement ou les soins. Elle présente ou fait parvenir au juge toutes
+les justifications requises.
+
+Dans le cas où les dispositions des articles L. 355-1 et suivants du code de la santé publique sont applicables, le juge
+d'instruction peut ordonner à la personne mise en examen, au titre du contrôle judiciaire, de se soumettre aux mesures de
+surveillance sanitaire prévues à l'article L. 355-3 dudit code. Avis de l'ordonnance portant placement sous contrôle
+judiciaire est donné à l'autorité sanitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+
+###### Article R18
+
+Lorsque le juge d'instruction fait application des mesures prévues au 12° de l'article 138 (alinéa 2), avis en est donné s'il
+y a lieu, soit à l'employeur ou à l'autorité hiérarchique dont relève la personne mise en examen, soit à l'ordre
+professionnel auquel elle appartient, soit à l'autorité à l'agrément de laquelle est soumis l'exercice de sa profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-02
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°58-358 1958-04-02 art. 3
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+
+###### Article R18-1
+
+Lorsque le juge d'instruction fait application des mesures prévues par le 13° de l'article 138 (alinéa 2), avis en est donné
+à la succursale ou agence bancaire, à la personne, à l'établissement ou au service qui gèrent le ou les comptes de la
+personne mise en examen.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 _Cite_:
 
@@ -46745,9 +46758,9 @@ _Cité par_:
 
 Le ministère public, d'office ou à la demande des parties civiles, produit aux services du Trésor qui assurent au titre des
 produits divers du budget le recouvrement de la fraction du cautionnement acquise à l'Etat dans le cas prévu par l'article
-142-2 (alinéa 2), un certificat du greffe établi en double exemplaire constatant la responsabilité encourue par l'inculpé
-dans ce cas et, éventuellement, un second certificat mentionnant les condamnations prononcées et le numéro de l'extrait du
-jugement ou d'arrêt dans les cas prévus par les articles 142-3 (alinéa 2) et 372.
+142-2 (alinéa 2), un certificat du greffe établi en double exemplaire constatant la responsabilité encourue par la personne
+mise en examen dans ce cas et, éventuellement, un second certificat mentionnant les condamnations prononcées et le numéro de
+l'extrait du jugement ou d'arrêt dans les cas prévus par les articles 142-3 (alinéa 2) et 372.
 
 La Caisse des dépôts et consignations distribue sans délai, aux ayants droit, les sommes déposées.
 
@@ -46759,6 +46772,14 @@ de l'exécution du jugement ou de l'arrêt.
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+
+_Transféré par_:
+
+  - Décret n°2004-1021 du 27 septembre 2004 - art. 8 () JORF 29 septembre 2004
 
 _Nouveaux textes_:
 
@@ -46773,10 +46794,6 @@ _Cité par_:
 _Cite_:
 
   - Code de procédure pénale 142-2 al. 2, 142-3 al. 2 et 372
-
-_Modifié par_:
-
-  - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
 ##### Sous-section 2 : De la détention provisoire et du placement sous surveillance électronique<a id=286></a>
@@ -48295,6 +48312,149 @@ _Cite_:
 
 #### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée<a id=303></a>
 
+###### Article R48-1
+
+Les contraventions des quatre premières classes pour lesquelles l'action publique est éteinte par le paiement d'une amende
+forfaitaire sont les suivantes :
+
+1° Contraventions réprimées par le code de la route punies uniquement d'une peine d'amende, à l'exclusion de toute peine
+complémentaire, qu'elles entraînent ou non un retrait des points affectés au permis de conduire sous réserve des dispositions
+de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
+
+2° Contraventions en matière de transport et de circulation réprimées par :
+
+a) Les articles R. 211-14 et R. 211-21-5 du code des assurances relatifs à l'assurance obligatoire des véhicules terrestres à
+moteur et de leurs remorques et semi-remorques ;
+
+b) L'article 80-1 du décret n° 42-730 du 22 mars 1942 sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt
+général et d'intérêt local, en tant qu'y sont instituées des contraventions aux dispositions des arrêtés préfectoraux
+concernant la circulation, l'arrêt et le stationnement des véhicules dans les cours de gares ;
+
+c) L'article 3, alinéa 1, du décret n° 86-1130 du 17 octobre 1986 modifié relatif à l'application des dispositions du
+règlement CEE n° 38-20/85 du Conseil du 20 décembre 1985 relatif à l'harmonisation de certaines dispositions en matière
+sociale dans le domaine du transport par route et du règlement CEE n° 38-21/85 du Conseil du 20 décembre 1985 concernant
+l'appareil de contrôle dans le domaine du transport par route ;
+
+d) L'article 22-2 du décret n° 90-200 du 5 mars 1990 modifié relatif à l'exercice de la profession de commissionnaire de
+transport ;
+
+e) L'article 12 et l'article 13, alinéas 1 et 2, du décret n° 97-608 du 31 mai 1997 modifié relatif à la formation
+professionnelle initiale et continue des conducteurs salariés du transport routier public de marchandises ;
+
+f) L'article 11 et l'article 12, alinéas 1 et 2, du décret n° 98-1039 du 18 novembre 1998 relatif à la formation
+professionnelle initiale et continue des conducteurs non salariés du transport routier public de marchandises ;
+
+g) L'article 19-II du décret n° 99-752 du 30 août 1999 modifié relatif aux transports routiers de marchandises ;
+
+3° Contraventions en matière de protection de l'environnement réprimées par :
+
+a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières, d'ordures ou de déchets dans les bois,
+forêts et terrains à boiser ;
+
+b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural relatifs aux parcs nationaux, ainsi que
+l'article R. 241-66 de ce même code en ce qu'il concerne les faits mentionnés par ces mêmes articles ;
+
+c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du
+même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de
+monture et l'article R. 133-1-1 du même code relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du
+domaine de l'Etat ;
+
+d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000 relatif aux mesures de protection de
+l'environnement contre les émissions polluantes des moteurs à allumage par compression destinés à équiper les engins mobiles
+non routiers ;
+
+4° Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou
+tenus en captivité réprimées par :
+
+a) L'article R. 622-2 du code pénal relatif à la divagation d'animal ;
+
+b) L'article 10 du décret n° 76-352 du 15 avril 1976 fixant les modalités d'application aux équidés de la loi du 28 décembre
+1966 sur l'élevage ;
+
+c) L'article 15 du décret n° 80-791 du 1er octobre 1980 pris pour l'application de l'article 276 du code rural ;
+
+d) L'article 6 du décret n° 87-223 du 26 mars 1987 relatif à l'utilisation des animaux dans les spectacles publics et les
+jeux ;
+
+e) L'article 26 du décret n° 87-848 du 19 octobre 1987 relatif aux expériences pratiquées sur les animaux vertébrés ;
+
+f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identification des chiens, des chats et autres carnivores
+domestiques et à la tenue des locaux où se pratiquent de façon habituelle l'élevage en vue de la vente, la commercialisation,
+le toilettage, le transit ou la garde de ces animaux pris pour l'application des articles 276, 276-2 et 276-3 du code rural ;
+
+g) Les articles 12 et 13 du décret n° 95-1285 du 13 décembre 1995 relatif à la protection des animaux en cours de transport ;
+
+h) L'article 21 (b et c) du décret n° 97-903 du 1er octobre 1997 relatif à la protection des animaux au moment de leur
+abattage ou de leur mise à mort ;
+
+i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III du titre II du livre II du
+code rural, et relatifs à l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la déclaration en mairie,
+la vaccination, la stérilisation, l'assurance et les conditions de circulation de certains chiens.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16
+  - Décret n°42-730 1942-03-22 art. 80-1
+  - Loi n°66-1005 1966-12-28
+  - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
+  - Décret n°80-791 du 1 octobre 1980 - art. 15 (M)
+  - Décret n°86-1130 du 17 octobre 1986 - art. 3 (M)
+  - Décret n°87-223 du 26 mars 1987 - art. 6 (Ab)
+  - Décret n°87-848 du 19 octobre 1987 - art. 26 (M)
+  - Décret n°90-200 1990-03-05 art. 22-2
+  - Décret n°91-823 1991-08-28 art. 16
+  - Décret n°95-1285 du 13 décembre 1995 - art. 12 (M)
+  - Décret n°95-1285 du 13 décembre 1995 - art. 13 (Ab)
+  - Décret n°97-608 du 31 mai 1997 - art. 12 (V)
+  - Décret n°97-608 du 31 mai 1997 - art. 13 (M)
+  - Décret n°97-903 du 1 octobre 1997 - art. 21 (Ab)
+  - Décret n°98-1039 du 18 novembre 1998 - art. 11 (V)
+  - Décret n°98-1039 du 18 novembre 1998 - art. 12 (M)
+  - Décret n°99-752 du 30 août 1999 - art. 19 (M)
+  - Décret n°99-1164 du 29 décembre 1999 - art. 8 (Ab)
+  - Décret n°2000-1302 du 26 décembre 2000 - art. 10 (Ab)
+  - Code pénal - art. R622-2 (V)
+  - Code pénal - art. R632-1 (M)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
+  - Code de procédure pénale R49-8-5, L133-1
+  - Code forestier - art. R133-1-1 (Ab)
+  - Code forestier - art. R322-5 (M)
+  - Code forestier - art. R331-3 (M)
+  - Code des assurances - art. R*211-14 (M)
+  - Code des assurances - art. R211-21-5 (V)
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Cité par_:
+
+  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+  - Décret n°2011-348 du 29 mars 2011 - art. 2 (VD)
+  - Décret n°2012-343 du 9 mars 2012 (V)
+  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
+  - Code de l'environnement - art. R*242-78 (Ab)
+  - Code de l'environnement - art. R322-42 (V)
+  - Code de l'environnement - art. R331-72 (M)
+  - Code de l'environnement - art. R331-74 (V)
+  - Code de l'environnement - art. R332-79 (V)
+  - Code de procédure pénale - art. R251 (V)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. R11 (T)
+
+_Créé par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 4 () JORF 5 mai 2002
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de l'environnement - art. R322-42 (V)
+
+
 ###### Article R49
 
 Le montant de l'amende forfaitaire prévue par l'article 529 est fixé ainsi qu'il suit :
@@ -48744,6 +48904,36 @@ _Cité par_:
 
 #### Chapitre II quater : Dispositions applicables à certaines infractions au code de la route<a id=305></a>
 
+###### Article R49-8-5
+
+Les dispositions de l'article 529-7 du présent code relatives à l'amende forfaitaire minorée sont applicables aux
+contraventions des deuxième, troisième et quatrième classes mentionnées à l'article R. 48-1 (1°) à l'exception des
+contraventions réprimées par les articles R. 417-1 à R. 417-13 et R. 421-7 du code de la route relatives à l'arrêt et au
+stationnement dangereux, gênant ou abusif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 5 () JORF 5 mai 2002 rectificatif JORF 15 juin 2002
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 529-7 (M)
+  - Code de la route R417-1 à R417-13, R421-7
+  - Code de la route. - art. R421-7 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R251 (V)
+  - Code de procédure pénale - art. R48-1 (V)
+  - Code de procédure pénale - art. R49-10 (V)
+
+
 ###### Article R49-9
 
 Le montant de l'amende forfaitaire minorée prévue par l'article 529-7 est fixé ainsi qu'il suit :
@@ -48772,7 +48962,7 @@ _Cite_:
 ###### Article R49-10
 
 Un avis de contravention et une carte de paiement, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la
-justice, sont remis au contrevenant au moment de la constatation de l'une des infractions prévues par l'article 529-6.
+justice, sont remis au contrevenant au moment de la constatation de l'une des infractions prévues par l'article R. 49-8-5.
 
 L'avis mentionne le montant de l'amende forfaitaire minorée, le délai accordé pour la régler, la personne ou le service
 auprès duquel le paiement doit être effectué.
@@ -48793,12 +48983,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
+  - Décret n°2002-801 du 3 mai 2002 - art. 6 () JORF 5 mai 2002
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 529-6 (Ab)
-  - Code de procédure pénale 529-2 al. 1, 529-6
+  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
 
 _Cité par_:
 
@@ -48862,7 +49052,7 @@ _Cite_:
 
 ###### Article R49-13
 
-Les contraventions au code de la route prévues par l'article 529-6 pour lesquelles l'amende forfaitaire minorée n'est pas
+Les contraventions au code de la route prévues par l'article R48-1 pour lesquelles l'amende forfaitaire minorée n'est pas
 applicable sont soumises aux dispositions des articles R. 49 à R. 49-8.
 
 **Liens relatifs à cet article**
@@ -48873,19 +49063,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1136 du 24 novembre 2000 - art. 1 () JORF 26 novembre 2000
+  - Décret n°2002-801 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 529-6 (Ab)
-  - Code de procédure pénale 529-6, R49 à R49-8
+  - CODE DE PROCEDURE PENALE - art. R48-1 (Ab)
+  - Code de procédure pénale R48-1, R49 à R49-8
 
 
 #### Chapitre III : De l'instruction définitive devant le tribunal de police<a id=306></a>
 
 ###### Article R50
 
-Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-1.
+Dans le cas prévu par l'alinéa 2 de l'article 470-1, il est procédé comme il est dit à l'article R. 41-2.
 
 **Liens relatifs à cet article**
 
@@ -48893,18 +49083,23 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°83-1155 1983-12-23 art. 2 et art. 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°83-1155 1983-12-23 art. 5
+  - TRANSFERE: Décret n°2010-148 du 16 février 2010 - art. 4
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R41-1 (M)
-  - Code de procédure pénale 470-1 al. 2, R41-1
+  - Code de procédure pénale - art. 470-1
+  - Code de procédure pénale - art. R41-2
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. R49-20 (VD)
 
 
 ## Livre IV : De quelques procédures particulières<a id=307></a>
@@ -49680,7 +49875,7 @@ _Cité par_:
 ###### Article R50-23
 
 Les décisions de la commission et du président de la commission ne peuvent être frappées d'opposition. Elles peuvent être
-l'objet d'un pourvoi en cassation.
+frappées d'appel quel que soit le montant de la demande.
 
 **Liens relatifs à cet article**
 
@@ -49688,13 +49883,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°77-194 1977-03-03 art. 2 JORF 5 mars 1977
-
 _Modifié par_:
 
-  - Décret n°83-1156 1983-12-23 art. 12 et art. 14 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+  - Décret n°2002-801 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
 ###### Article R50-24
@@ -53069,7 +53260,7 @@ _Cité par_:
 
 Lorsque dans le ressort d'une cour d'appel ou d'un tribunal de grande instance ou dans un département, il y a lieu de charger
 un entrepreneur général d'assurer le transport des prévenus ou accusés, le droit de passer le marché, conformément aux
-dispositions du décret du 6 avril 1942, n'appartient qu'au ministre de la justice qui peut déléguer ses pouvoirs aux
+dispositions du code des marchés publics, n'appartient qu'au ministre de la justice qui peut déléguer ses pouvoirs aux
 procureurs généraux ou aux procureurs de la République, à charge par eux de soumettre à son approbation préalable le marché
 s'il est passé de gré à gré, ou ses clauses et conditions s'il y a lieu avec concurrence et publicité.
 
@@ -53081,22 +53272,22 @@ il dispose.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°1942-04-06
-
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 rectificatif JORF 13 juin 1959 en vigueur le 2 mars 1959
 
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
+
+_Abrogé par_:
+
+  - Décret n°2013-770 du 26 août 2013 - art. 5
 
 _Cité par_:
 
@@ -53702,8 +53893,8 @@ _Modifié par_:
 ###### Article R116-1
 
 Les tarifs d'honoraires correspondant aux actes d'expertise prévus par les articles R. 117 à R. 120 sont déterminés par
-référence aux tarifs conventionnels d'honoraires fixés en application des articles L. 262 et L. 267 du Code de la sécurité
-sociale et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des
+référence aux tarifs conventionnels d'honoraires fixés en application de l'article L. 162-15-2 du Code de la sécurité sociale
+et sont calculés, pour chacun de ces actes, d'après leur nature et leur valeur relative telles qu'elles résultent des
 cotations par lettres clés et coefficients mentionnées dans les articles suivants.
 
 **Liens relatifs à cet article**
@@ -53712,9 +53903,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°79-235 1979-03-19 art. 2 JORF 25 mars 1979
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -53726,11 +53917,6 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-_Cite_:
-
-  - Code de procédure pénale R117 à R120
-  - Code de la sécurité sociale L262 et L267
 
 
 ###### Article R117
@@ -54016,14 +54202,14 @@ En sus du remboursement de leurs frais de déplacement, calculés dans les condi
 fonctionnaires du groupe II, il est alloué aux personnes habilitées :
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
-par les articles 41 (alinéa 5) et 81 (alinéa 7) : 255 F ;
+par les articles 41 (alinéa 6) et 81 (alinéa 7) : 38,87 euros ;
 
-2° Pour l'enquête sur la personnalité des inculpés ainsi que sur leur situation matérielle, familiale ou sociale, prévue par
-l'article 81 (alinéa 6) : 480 F.
+2° Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou
+sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
 
 Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
 général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à
-420 F et l'indemnité prévue au 2° à 1 000 F.
+64,03 euros et l'indemnité prévue au 2° à 152,45 euros.
 
 **Liens relatifs à cet article**
 
@@ -54042,7 +54228,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 4 () JORF 30 janvier 2001
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cite_:
 
@@ -54059,17 +54246,17 @@ _Cite_:
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
 fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des
 personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque
-inculpé, en application du 6° de l'article 138 (alinéa 2) :
+personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
 
-340 F lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
+51,83 euros lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
-725 F lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
+110,53 euros lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
-1.000 F lorsque la mission de contrôle judiciaire dure plus d'un an.
+152,45 euros lorsque la mission de contrôle judiciaire dure plus d'un an.
 
 Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur
 général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée
-respectivement à 1.000 F, 1.670 F et 2.670 F.
+respectivement à 152, 45 euros, 254,59 euros et 407,04 euros.
 
 **Liens relatifs à cet article**
 
@@ -54079,7 +54266,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2001-71 du 29 janvier 2001 - art. 4 () JORF 30 janvier 2001
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -54923,29 +55111,29 @@ _Cite_:
   - Code de procédure pénale - art. R134 (V)
 
 
-##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal<a id=361></a>
+##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application des articles 131-6 (5°) et 131-14 (2°) du code pénal<a id=361></a>
 
 ###### Article R147
 
 Dans les cas prévus aux articles 54, 56, 97 et 151, il n'est accordé d'indemnité pour la garde des scellés que lorsqu'il n'a
-pas été jugé à propos de confier cette garde à des habitants de l'immeuble où les scellés ont été apposés.
+pas été jugé à propos de confier cette garde à des habitants de l'immeuble où les scellés ont été apposés. 
 
-Dans ces cas, il est alloué pour chaque jour, pendant le premier mois, au gardien nommé d'office :
+Dans ces cas, il est alloué pour chaque jour, pendant le premier mois, au gardien nommé d'office : 
 
-A Paris : 3 F ;
+A Paris : 0,46 euro ; 
 
-Dans les autres localités : 2 F ;
+Dans les autres localités : 0,30 euro ; 
 
-Le premier mois écoulé, ces indemnités sont réduites de moitié.
+Le premier mois écoulé, ces indemnités sont réduites de moitié. 
 
 Lorsque les scellés sont apposés sur des véhicules automobiles, les tarifs des frais de garde journalière sont fixés ainsi
-qu'il suit :
+qu'il suit : 
 
-Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 40 F ;
+Pour les véhicules poids lourds d'un poids total autorisé en charge supérieur à 3,5 tonnes : 6,10 euros ; 
 
-Pour les voitures particulières et les autres véhicules poids lourds : 21 F ;
+Pour les voitures particulières et les autres véhicules poids lourds : 3,20 euros ; 
 
-Pour les autres véhicules immatriculés : 16 F.
+Pour les autres véhicules immatriculés : 2,44 euros.
 
 **Liens relatifs à cet article**
 
@@ -54955,14 +55143,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 10 () JORF 20 mars 1999
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 151 (V)
-  - CODE DE PROCEDURE PENALE - art. 54 (V)
-  - CODE DE PROCEDURE PENALE - art. 56 (M)
-  - CODE DE PROCEDURE PENALE - art. 97 (M)
+  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 **Liens**:
 
@@ -54973,11 +55155,18 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R147-1 (M)
   - Code de justice militaire. - art. D269-11 (V)
 
+_Cite_:
+
+  - Code de procédure pénale - art. 151 (V)
+  - Code de procédure pénale - art. 54 (V)
+  - Code de procédure pénale - art. 56 (V)
+  - Code de procédure pénale - art. 97 (V)
+
 
 ###### Article R147-1
 
 Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application des articles 131-6 (5°) et
-131-14 (2°) du Code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
+131-14 (2°) du code pénal est celui qui est fixé conformément au dernier alinéa de l'article précédent.
 
 **Liens relatifs à cet article**
 
@@ -54992,13 +55181,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-203 du 18 mars 1999 - art. 11 () JORF 20 mars 1999
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cite_:
 
-  - Code pénal - art. 131-14 (M)
-  - Code pénal - art. 131-6 (M)
-  - CODE DE PROCEDURE PENALE - art. R147 (M)
+  - Code pénal - art. 131-14 (V)
+  - Code pénal - art. 131-6 (V)
 
 
 ###### Article R148
@@ -55017,14 +55205,14 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 rectificatif JORF 13 juin 1959 en vigueur le 2 mars 1959
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Modifié par_:
+
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 
 ###### Article R149
@@ -55048,13 +55236,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°83-455 1983-06-02 art. 8 JORF 8 juin 1983 en vigueur le 1er octobre 1983
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 **Liens**:
 
@@ -55107,10 +55291,10 @@ _Cite_:
 ###### Article R155
 
 En matière criminelle, correctionnelle et de police, hors les cas prévus par l'article 114, il peut être délivré aux
-parties :
+parties : 
 
 1° Sur leur demande, expédition de la plainte ou de la dénonciation des ordonnances définitives, des arrêts, des jugements,
-des ordonnances pénales et des titres exécutoires prévus à l'article L. 27-I, alinéa 2, du Code de la route ;
+des ordonnances pénales et des titres exécutoires prévus à l'article 529-2, alinéa 2, du code de procédure pénale ; 
 
 2° Avec l'autorisation du procureur de la République ou du procureur général selon le cas, expédition de toutes les autres
 pièces de la procédure, notamment, en ce qui concerne les pièces d'une enquête terminée par une décision de classement sans
@@ -55136,17 +55320,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2001-689 du 31 juillet 2001 - art. 1 () JORF 1er août 2001
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 114 (M)
-  - Code de procédure pénale 114, 41-1 à 41-3
-  - Code de la route L27
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 114 (V)
+  - Code de procédure pénale - art. 41-1 (V)
+  - Code de procédure pénale - art. 529-2 (V)
 
 
 ###### Article R156
@@ -55813,9 +55997,9 @@ _Créé par_:
 Les huissiers de justice ne peuvent, pour quelque cause et sous quelque prétexte que ce soit, exiger d'autres ou de plus
 forts droits que ceux qui leur sont alloués par le présent titre.
 
-Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, sauf pour les
-parties civiles visées à l'article R247, les frais des actes délivrés à la requête des parties civiles après l'extinction de
-l'action publique et en vue de faire statuer uniquement sur les intérêts civils.
+Par dérogation à la règle établie à l'alinéa précédent, sont fixés conformément aux tarifs en matière civile, les frais des
+actes délivrés à la requête des parties civiles après l'extinction de l'action publique et en vue de faire statuer uniquement
+sur les intérêts civils.
 
 Ces frais sont à la charge des intéressés et ne sont pas imputables sur les crédits de la justice criminelle.
 
@@ -55825,17 +56009,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R247 (Ab)
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -56394,7 +56570,7 @@ _Cité par_:
 La procédure de certification est applicable aux frais de justice criminelle, correctionnelle et de police suivants :
 
 1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées
-aux articles R. 121 et R. 121-1 ;
+aux articles R. 121 à R. 121-2 ;
 
 2. Frais de vérifications médicales, cliniques et biologiques en matière d'alcoolémie ;
 
@@ -56421,7 +56597,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-867 du 28 juin 1993 - art. 12 () JORF 29 juin 1993
+  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
 
 _Cité par_:
 
@@ -56434,8 +56610,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R121 (M)
-  - CODE DE PROCEDURE PENALE - art. R121-1 (M)
+  - Code de procédure pénale R121 à R121-2
 
 
 ###### Article R224-2
