@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-04-14
+Version Consolidée au 1999-04-16
 ## Contenu: 
   - [Partie législative (art. 1 à 805)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -8,7 +8,7 @@ Version Consolidée au 1999-04-14
         - [Chapitre Ier : De la police judiciaire (art. 12 à 29)](#5)
           - [Section 1 : Dispositions générales (art. 12 à 15-1)](#6)
           - [Section 2 : Des officiers de police judiciaire (art. 16 à 19-1)](#7)
-          - [Section 3 : Des agents de police judiciaire (art. 20 à 21-1)](#8)
+          - [Section 3 : Des agents de police judiciaire (art. 20 à 21-2)](#8)
           - [Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire (art. 22 à 29)](#9)
             - [Paragraphe 1er : Des ingénieurs, chefs de district et agents techniques des eaux et forêts et des gardes champêtres (art. 22 à 27)](#10)
             - [Paragraphe 2 : Des fonctionnaires et agents des administrations et services publics (art. 28)](#11)
@@ -19,10 +19,10 @@ Version Consolidée au 1999-04-14
           - [Section 3 : Des attributions du procureur de la République (art. 39 à 44)](#16)
           - [Section 4 : Du ministère public près le tribunal de police (art. 45 à 48)](#17)
         - [Chapitre III : Du juge d'instruction (art. 49 à 52)](#18)
-      - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-5)](#19)
+      - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-6)](#19)
         - [Chapitre Ier : Des crimes et des délits flagrants (art. 53 à 74)](#20)
         - [Chapitre II : De l'enquête préliminaire (art. 75 à 78)](#21)
-        - [Chapitre III : Des contrôles et vérifications d'identité (art. 78-1 à 78-5)](#22)
+        - [Chapitre III : Des contrôles, des vérifications et des relevés d'identité (art. 78-1 à 78-6)](#22)
       - [Titre III : Des juridictions d'instruction (art. 79 à 230)](#23)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 79 à 190)](#24)
           - [Section 1 : Dispositions générales (art. 79 à 84)](#25)
@@ -2233,6 +2233,39 @@ _Cite_:
   - Code de procédure pénale - art. 18 (V)
 
 
+###### Article 21-2
+
+Sans préjudice de l'obligation de rendre compte au maire qu'ils tiennent de l'article 21, les agents de police municipale
+rendent compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
+territorialement compétent de tous crimes, délits ou contraventions dont ils ont connaissance. 
+
+Ils adressent sans délai leurs rapports et procès-verbaux simultanément au maire et, par l'intermédiaire des officiers de
+police judiciaire mentionnés à l'alinéa précédent, au procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°99-291 du 15 avril 1999 - art. 13 () JORF 16 avril 1999
+
+_Cité par_:
+
+  - Décret n°2000-275 du 24 mars 2000 - art. ANNEXE (Ab)
+  - Décret n°2011-444 du 21 avril 2011 - art. 2 (VD)
+  - Code de la sécurité intérieure - art. Annexe 1 (V)
+  - Code de la sécurité intérieure - art. Annexe 2 (V)
+  - Code général des collectivités territoriales - art. Annexe IV-I (VT)
+  - Code général des collectivités territoriales - art. Annexe IV-II (VT)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21 (V)
+
+
 ##### Section 4 : Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire<a id=9></a>
 
 ##### Paragraphe 1er : Des ingénieurs, chefs de district et agents techniques des eaux et forêts et des gardes champêtres<a id=10></a>
@@ -3750,8 +3783,8 @@ Les personnes à l'encontre desquelles il n'existe aucun indice faisant présume
 infraction et qui sont susceptibles d'apporter des éléments de preuves intéressant l'enquête peuvent, sur autorisation du
 procureur de la République, déclarer comme domicile l'adresse du commissariat ou de la brigade de gendarmerie.
 
-Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale concourant à la procédure sont
-autorisés à déclarer comme domicile l'adresse du siège du service dont ils dépendent.
+Les personnels visés aux articles 16 à 29 concourant à la procédure sont autorisés à déclarer comme domicile l'adresse du
+siège du service dont ils dépendent.
 
 L'adresse des personnes ayant bénéficié des dispositions du premier alinéa est inscrite sur un registre coté, paraphé, ouvert
 à cet effet. Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.
@@ -3762,6 +3795,10 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
+_Modifié par_:
+
+  - Loi n°99-291 du 15 avril 1999 - art. 14 () JORF 16 avril 1999
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 153 (M)
@@ -3771,9 +3808,9 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R15-33-76 (V)
   - Code de procédure pénale - art. 78 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
+  - Code de procédure pénale 16 à 29
 
 
 ###### Article 63
@@ -4618,12 +4655,12 @@ _Modifié par_:
   - Loi n°95-73 1995-01-27 art. 27 JORF 24 janvier 1995
 
 
-#### Chapitre III : Des contrôles et vérifications d'identité<a id=22></a>
+#### Chapitre III : Des contrôles, des vérifications et des relevés d'identité<a id=22></a>
 
 ###### Article 78-1
 
 L'application des règles prévues par le présent chapitre est soumise au contrôle des autorités judiciaires mentionnées aux
-articles 12 et 13.
+articles 12 et 13. 
 
 Toute personne se trouvant sur le territoire national doit accepter de se prêter à un contrôle d'identité effectué dans les
 conditions et par les autorités de police visées aux articles suivants.
@@ -4651,12 +4688,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 12 (V)
-  - CODE DE PROCEDURE PENALE - art. 13 (M)
+  - Code de procédure pénale - art. 12 (V)
 
 
 ###### Article 78-2
@@ -4744,7 +4780,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°97-396 du 24 avril 1997 - art. 18 () JORF 25 avril 1997
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
 
 _Cite_:
 
@@ -4768,12 +4804,12 @@ l'administration fiscale ;
 l'embauche ont été effectuées ;
 
 - de contrôler l'identité des personnes occupées, dans le seul but de vérifier qu'elles figurent sur le registre ou qu'elles
-ont fait l'objet des déclarations mentionnées à l'alinéa précédent.
+ont fait l'objet des déclarations mentionnées à l'alinéa précédent. 
 
 Les réquisitions du procureur de la République sont écrites et précisent les infractions, parmi celles visées aux articles L.
 324-9 et L. 341-6 du code du travail, qu'il entend faire rechercher et poursuivre, ainsi que les lieux dans lesquels
 l'opération de contrôle se déroulera. Ces réquisitions sont prises pour une durée maximum d'un mois et sont présentées à la
-personne disposant des lieux ou à celle qui la représente.
+personne disposant des lieux ou à celle qui la représente. 
 
 Les mesures prises en application des dispositions prévues au présent article font l'objet d'un procès-verbal remis à
 l'intéressé.
@@ -4793,16 +4829,14 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°97-396 du 24 avril 1997 - art. 19 () JORF 25 avril 1997
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
-  - Code du travail - art. L324-9 (M)
-  - Code du travail - art. L341-6 (M)
+  - Code du travail - art. L324-9 (Ab)
+  - Code du travail - art. L341-6 (Ab)
 
 
 ###### Article 78-3
@@ -4888,7 +4922,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-1013 1993-08-24 art. 20 JORF 25 août 1993 en vigueur le 2 septembre 1993
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
+
+_Cite_:
+
+  - Code de procédure pénale 62 et 78-2
 
 
 ###### Article 78-4
@@ -4907,7 +4945,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-992 du 10 août 1993 - art. 2 () JORF 11 août 1993
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
 
 _Cite_:
 
@@ -4936,10 +4974,52 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
 
 _Cite_:
 
+  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
+
+
+###### Article 78-6
+
+Les agents de police mentionnés au 2° de l'article 21 sont habilités à relever l'identité des contrevenants pour dresser les
+procès-verbaux concernant des contraventions aux arrêtés de police du maire, des contraventions au code de la route que la
+loi et les règlements les autorisent à verbaliser ou des contraventions qu'ils peuvent constater en vertu d'une disposition
+législative expresse.
+
+Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent de police municipale en
+rend compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
+territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ le contrevenant. A défaut de
+cet ordre, l'agent de police municipale ne peut retenir le contrevenant. Lorsque l'officier de police judiciaire décide de
+procéder à une vérification d'identité, dans les conditions prévues à l'article 78-3, le délai prévu au troisième alinéa de
+cet article court à compter du relevé d'identité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°99-291 du 15 avril 1999 - art. 16 () JORF 16 avril 1999
+
+_Cité par_:
+
+  - Décret n°2000-275 du 24 mars 2000 - art. ANNEXE (Ab)
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 14 (V)
+  - Code de la sécurité intérieure - art. Annexe 1 (V)
+  - Code de la sécurité intérieure - art. Annexe 2 (V)
+  - Code de la sécurité intérieure - art. L522-4 (VD)
+  - Code de la sécurité intérieure - art. L531-1 (V)
+  - Code général des collectivités territoriales - art. Annexe IV-I (V)
+  - Code général des collectivités territoriales - art. L2213-19-1 (Ab)
+  - Code général des collectivités territoriales - art. L2512-16 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
   - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 
@@ -20976,7 +21056,7 @@ _Cite_:
 La transaction est réalisée par le versement à l'exploitant d'une indemnité forfaitaire et, le cas échéant, de la somme due
 au titre du transport.
 
-Ce versement est effectué :
+I. - Ce versement est effectué :
 
 1. Soit, au moment de la constatation de l'infraction, entre les mains de l'agent de l'exploitant ;
 
@@ -20990,10 +21070,26 @@ contrevenant ; en cas de besoin, il peut requérir l'assistance d'un officier ou
 Le montant de l'indemnité forfaitaire et, le cas échéant, celui des frais de constitution du dossier sont acquis à
 l'exploitant.
 
-**Nota:**
+II. - A défaut de paiement immédiat entre leurs mains, les agents de l'exploitant, s'ils ont été agréés par le procureur de
+la République et assermentés, et uniquement lorsqu'ils procèdent au contrôle de l'existence et de la validité des titres de
+transport des voyageurs, sont habilités à relever l'identité et l'adresse du contrevenant.
 
-NOTA : Pour le calcul du montant de l'indemnité forfaitaire art. 80-4 du décret 730 du 22 mars 1942, dans la rédaction issue
-du décret 86-1405 du 18 septembre 1986 art. 3 JORF 19 septembre 1986.
+Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, l'agent de l'exploitant en rend
+compte immédiatement à tout officier de police judiciaire de la police nationale ou de la gendarmerie nationale
+territorialement compétent, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ le contrevenant. A défaut de
+cet ordre, l'agent de l'exploitant ne peut retenir le contrevenant. Lorsque l'officier de police judiciaire mentionné au
+présent alinéa décide de procéder à une vérification d'identité, dans les conditions prévues à l'article 78-3, le délai prévu
+au troisième alinéa de cet article court à compter du relevé d'identité.
+
+Il est mis fin immédiatement à la procédure prévue à l'alinéa précédent si le contrevenant procède au versement de
+l'indemnité forfaitaire.
+
+III. - Les conditions d'application du II du présent article sont fixées par décret en Conseil d'Etat. Ce décret précise
+notamment les conditions dans lesquelles les agents de l'exploitant doivent, aux frais de ce dernier, suivre une formation
+spécifique afin de pouvoir obtenir l'agrément délivré par le procureur de la République. Il définit en outre les conditions
+dans lesquelles le représentant de l'Etat approuve l'organisation que l'exploitant arrête aux fins d'assurer les contrôles
+précités et les modalités de coordination et de transmission d'informations entre l'exploitant et la police ou la gendarmerie
+nationales.
 
 **Liens relatifs à cet article**
 
@@ -21023,7 +21119,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 153 () JORF 5 janvier 1993
+  - Loi n°99-291 du 15 avril 1999 - art. 17 () JORF 16 avril 1999
 
 **Liens**:
 
