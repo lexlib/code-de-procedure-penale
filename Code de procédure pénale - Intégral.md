@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-10-01
+Version Consolidée au 1997-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -27159,16 +27159,16 @@ dans le champ d'application de l'article 706-16 l'exigent, le président du trib
 lui peut, à la requête du procureur de la République, décider que les perquisitions, visites domiciliaires et saisies de
 pièces à conviction pourront être faites sans l'assentiment de la personne chez laquelle elles ont lieu.
 
-[Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil
-constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire.]
+(Les trois premiers alinéas de l'article 10 sont déclarés non conformes à la Constitution par décision du Conseil
+constitutionnel n° 96-377 DC du 16 juillet 1996 dans la mesure où ils visent les cas d'enquête préliminaire).
 
-Si les nécessités de l'enquête [Dispositions déclarées non conformes à la Constitution par décision du Conseil
-constitutionnel n° 96-377 DC du 16 juillet 1996] l'exigent, les visites, perquisitions et saisies peuvent être opérées en
-dehors des heures prévues par l'article 59.
+Si les nécessités de l'enquête (Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 96-377 DC du 16 juillet 1996) de flagrance l'exigent, les visites, perquisitions et saisies peuvent être
+opérées en dehors des heures prévues par l'article 59.
 
 Les opérations prévues à l'alinéa précédent doivent, à peine de nullité, être autorisées sur requête du procureur de la
-République par le président du tribunal de grande instance ou le juge délégué par lui, [Dispositions déclarées non conformes
-à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996] les autorisations sont données
+République par le président du tribunal de grande instance ou le juge délégué par lui, (Dispositions déclarées non conformes
+à la Constitution par décision du Conseil constitutionnel n° 96-377 DC du 16 juillet 1996) les autorisations sont données
 pour des perquisitions déterminées. Chaque autorisation fait l'objet d'une décision écrite, précisant la qualification de
 l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquels les visites, perquisitions et saisies
 peuvent être effectuées, et motivée par référence aux éléments de fait justifiant que ces opérations sont nécessaires.
@@ -27188,13 +27188,13 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°96-647 du 22 juillet 1996 - art. 10 () JORF 23 juillet 1996
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
+
+_Modifié par_:
+
+  - Loi n°96-1235 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
 
 _Cite_:
 
@@ -27207,6 +27207,49 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)
   - Code de procédure pénale - art. R50-29 (VD)
+
+
+###### Article 706-24-1
+
+En cas d'urgence, si les nécessités de l'instruction l'exigent, les visites, perquisitions et saisies peuvent être effectuées
+en dehors des heures prévues par l'article 59, pour la recherche et la constatation des actes de terrorisme prévus par
+l'article 706-16 et punis d'au moins dix ans d'emprisonnement :
+
+1° Lorsqu'il s'agit d'un crime ou d'un délit flagrant ;
+
+2° Lorsqu'il existe un risque immédiat de disparition des preuves ou des indices matériels ;
+
+3° Lorsqu'il existe des présomptions qu'une ou plusieurs personnes se trouvant dans les locaux où la perquisition doit avoir
+lieu se préparent à commettre de nouveaux actes de terrorisme.
+
+A peine de nullité, ces opérations doivent être prescrites par une ordonnance motivée du juge d'instruction précisant la
+nature de l'infraction dont la preuve est recherchée ainsi que l'adresse des lieux dans lesquelles ces opérations doivent
+être accomplies, et comportant l'énoncé des considérations de droit et de fait qui constituent le fondement de cette décision
+par référence aux seules conditions prévues par les 1°, 2° et 3° du présent article.
+
+Cette ordonnance est notifiée par tout moyen au procureur de la République. Elle n'est pas susceptible d'appel.
+
+Les dispositions du quatrième alinéa de l'article 706-24 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°96-1235 du 30 décembre 1996 - art. 16 () JORF 1er janvier 1997
+
+_Abrogé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 59 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-24 (M)
 
 
 ###### Article 706-25
@@ -33148,7 +33191,7 @@ _Cite_:
 
 I. - Pour l'application dans les territoires de la Nouvelle-Calédonie et de la Polynésie française du deuxième alinéa de
 l'article 262 fixant la composition de la commission prévue à cet article, les conseillers généraux sont remplacés par cinq
-membres de l'assemblée territoriale désignés chaque année par celle-ci.
+membres désignés chaque année en son sein par le Congrès ou l'assemblée de la Polynésie française.
 
 II. - Dans le territoire des îles Wallis-et-Futuna, la commission prévue à l'article 262 comprend :
 
@@ -33166,9 +33209,9 @@ _Codifié par_:
 
   - Ordonnance 96-268 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 21 () JORF 1er janvier 1997
 
 _Cite_:
 
@@ -33409,7 +33452,7 @@ Pour l'application du premier alinéa de l'article 46 et de l'article 48, les fo
 être exercées par un officier de police judiciaire appartenant à la gendarmerie.
 
 Pour l'application du deuxième alinéa de l'article 46, les fonctions du ministère public peuvent être également exercées par
-le chef de la circonscription administrative où siège le tribunal de police.
+le chef de la circonscription ou de la subdivision administrative où siège le tribunal de police.
 
 **Liens relatifs à cet article**
 
@@ -33417,9 +33460,9 @@ _Codifié par_:
 
   - Ordonnance 96-268 1996-03-28
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°96-268 du 28 mars 1996 - art. 1 () JORF 31 mars 1996 en vigueur le 1er mai 1996
+  - Loi n°96-1240 du 30 décembre 1996 - art. 20 () JORF 1er janvier 1997
 
 _Cite_:
 
