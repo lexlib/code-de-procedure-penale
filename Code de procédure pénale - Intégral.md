@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-06-16
+Version Consolidée au 2002-08-09
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -55881,8 +55881,8 @@ _Cité par_:
 
 Il est alloué aux huissiers de justice pour toutes citations en matière criminelle, correctionnelle et de police, pour les
 significations des mandats de comparution, pour toutes significations d'ordonnances, jugements et arrêts et tous autres actes
-ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 18 F pour l'original, les copies et
-l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût
+ou pièces en matière criminelle, correctionnelle et de police, une somme forfaitaire de 4,50 euros pour l'original, les
+copies et l'envoi par lettre recommandée avec avis de réception prévue par les articles 557 et 558 et ce, en sus du coût
 d'affranchissement.
 
 **Liens relatifs à cet article**
@@ -55891,23 +55891,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 
 _Modifié par_:
 
-  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
-  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
-  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-  - Décret n°78-263 1978-03-09 art. 7 JORF 10 mars 1978
-  - Décret n°81-384 1981-04-22 art. 1 JORF 23 avril 1981
-  - Décret n°84-289 1984-04-19 art. 2 JORF 20 avril 1984
+  - Décret n°2002-1067 du 5 août 2002 - art. 1 () JORF 9 août 2002
 
 _Cité par_:
 
@@ -55923,8 +55913,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 557 (M)
-  - CODE DE PROCEDURE PENALE - art. 558 (M)
+  - Code de procédure pénale - art. 557 (V)
 
 
 ###### Article R182
