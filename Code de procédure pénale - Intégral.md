@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-07-08
+Version Consolidée au 1989-07-14
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -896,7 +896,10 @@ En matière de crime, l'action publique se prescrit par dix années révolues à
 dans cet intervalle, il n'a été fait aucun acte d'instruction ou de poursuite.
 
 S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en
-est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
+est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite. Lorsque la
+victime est mineure et que le crime a été commis par un ascendant légitime, naturel ou adoptif ou par une personne ayant
+autorité sur elle, le délai de prescription est réouvert ou court à nouveau à son profit, pour la même durée à partir de sa
+majorité.
 
 **Liens relatifs à cet article**
 
@@ -4160,6 +4163,35 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+
+
+###### Article 87-1
+
+Le juge d'instruction saisi de faits commis volontairement à l'encontre d'un enfant mineur par les titulaires de l'exercice
+de l'autorité parentale ou par l'un d'entre eux peut procéder à la désignation d'un administrateur ad hoc pour exercer, s'il
+y a lieu, au nom de l'enfant les droits reconnus à la partie civile. En cas de constitution de partie civile, le juge fait
+désigner un avocat d'office pour le mineur s'il n'en a pas déjà été choisi un.
+
+Les dispositions qui précèdent sont applicables à la juridiction de jugement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 13 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Loi n°98-468 du 17 juin 1998 - art. 49 (V) JORF 18 juin 1998
+
+_Cité par_:
+
+  - Loi n°98-468 du 17 juin 1998 - art. 49 (V)
+  - Décret n°99-818 du 16 septembre 1999 - art. 6 (V)
 
 
 ###### Article 89
