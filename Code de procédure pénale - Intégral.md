@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-12-16
+Version Consolidée au 2000-12-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -28180,8 +28180,9 @@ Toute personne ayant subi un préjudice résultant de faits volontaires ou non q
 infraction peut obtenir la réparation intégrale des dommages qui résultent des atteintes à la personne, lorsque sont réunies
 les conditions suivantes :
 
-1° Ces atteintes n'entrent pas dans le champ d'application de l'article L. 126-1 du code des assurances ni du chapitre Ier de
-la loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à
+1° Ces atteintes n'entrent pas dans le champ d'application de l'article 53 de la loi de financement de la sécurité sociale
+pour 2001 (n° 2000-1257 du 23 décembre 2000) ni de l'article L. 126-1 du code des assurances ni du chapitre Ier de la loi n°
+85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à
 l'accélération des procédures d'indemnisation et n'ont pas pour origine un acte de chasse ou de destruction des animaux
 nuisibles ;
 
@@ -28210,12 +28211,17 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°85-677 1985-07-05
+  - Loi n°2000-1257 du 23 décembre 2000 - art. 53 (M)
   - Code pénal 222-22 à 222-30, 227-25 à 227-27
   - Code des assurances - art. L126-1 (M)
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 73 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2000-1257 2000-12-23 art. 53 JORF 24 décembre 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2000-1257 du 23 décembre 2000 - art. 53 (M)
 
 _Cité par_:
 
