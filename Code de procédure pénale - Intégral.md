@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-05-19
+Version Consolidée au 2000-06-03
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -44937,9 +44937,10 @@ _Cite_:
 ###### Article R81
 
 S'il existe une ou plusieurs fiches du casier judiciaire autres que celles figurant aux articles 775 et 775-1 A, la teneur
-ainsi que celles des mentions prévues à l'article 769 en est reproduite sur le bulletin n° 2.
+ainsi que celles des mentions prévues à l'article 769 en est reproduite sur le bulletin n° 2. 
 
-Sinon, le bulletin n° 2 est revêtu de la mention "néant".
+Sinon, le bulletin n° 2 est revêtu de la mention " néant ". Dans ce cas, la transmission prévue au troisième alinéa de
+l'article 779 peut être effectuée par téléinformatique.
 
 **Liens relatifs à cet article**
 
@@ -44955,13 +44956,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-167 du 25 février 1994 - art. 12 () JORF 26 février 1994 en vigueur le 1er mars 1994
+  - Décret n°2000-479 du 31 mai 2000 - art. 1 () JORF 3 juin 2000
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 769 (M)
-  - CODE DE PROCEDURE PENALE - art. 775 (M)
-  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
+  - Code de procédure pénale - art. 775 (V)
+  - Code de procédure pénale - art. 775-1 A (V)
+  - Code de procédure pénale - art. 779 (V)
 
 
 #### Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire<a id=291></a>
