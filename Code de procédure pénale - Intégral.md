@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1986-10-09
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -168,7 +168,7 @@ Version Consolidée au 1986-10-01
         - [Chapitre II : De l'exécution des peines privatives de liberté (art. 717 à 720-3)](#165)
           - [Section 3 : De la période de sûreté (art. 720-3)](#166)
         - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. 724 à 728)](#167)
-      - [Titre III : De la libération conditionnelle (art. 729 à 733)](#168)
+      - [Titre III : De la libération conditionnelle (art. 729 à 733-1)](#168)
       - [Titre IV : Du sursis (art. 734 à 747-7)](#169)
         - [Chapitre Ier : Du sursis simple (art. 735 à 737)](#170)
         - [Chapitre II : Du sursis avec mise à l'épreuve (art. 738 à 747)](#171)
@@ -25241,6 +25241,52 @@ _Cité par_:
   - Code de procédure pénale - art. D522 (V)
 
 
+###### Article 721-1
+
+Après un an de détention, une réduction supplémentaire de la peine peut être accordée aux condamnés qui manifestent des
+efforts sérieux de réadaptation sociale, notamment en passant avec succès un examen scolaire, universitaire ou professionnel
+traduisant l'acquisition de connaissances nouvelles ou justifiant de progrès réels dans le cadre d'un enseignement ou d'une
+formation.
+
+Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne
+peut excéder, si le condamné est en état de récidive légale, un mois par année d'incarcération ou deux jours par mois lorsque
+la durée d'incarcération resant à subir est inférieure à une année. Si le condamné n'est pas en état de récidive légale, ces
+limites sont respectivement portées à deux mois et à quatre jours. Les dispositions du troisième alinéa de l'article 721 sont
+applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°86-1021 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 721-2 (V)
+  - CODE DE PROCEDURE PENALE - art. 729-2 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+  - Code de procédure pénale - art. 717-1 (V)
+  - Code de procédure pénale - art. 721-1-1 (V)
+  - Code de procédure pénale - art. 729-1 (V)
+  - Code de procédure pénale - art. D116-2 (V)
+
+_Cite_:
+
+  - Code de procédure pénale 721 al. 3
+
+_Créé par_:
+
+  - Loi n°75-6241 1975-07-11 art. 38 JORF 13 juillet 1975 en vigueur le 1er janvier 1976
+
+
 ###### Article 722
 
 Auprès de chaque établissement pénitentiaire, le juge de l'application des peines détermine pour chaque condamné les
@@ -25744,12 +25790,13 @@ _Cité par_:
   - Code de procédure pénale - art. D528 (V)
 
 
-###### Article 729-2
+###### Article 729-1
 
-Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par
-année d'incarcération, des réductions du temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être
-accordées aux condamnés à la réclusion criminelle à perpétuité. Elles ne sont, le cas échéant, imputables que sur la partie
-de la peine excédant la période de sûreté prévue à l'article 720-2.
+Des réductions de temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être accordées aux condamnés
+à la réclusion criminelle à perpétuité dans les formes et les conditions prévues par les articles 721 et 721-1; la durée
+totale de ces réductions ne peut toutefois excéder, par année d'incarcération, vingt jours ou un mois selon que le condamné
+se trouve ou non en état de récidive légale. Les réductions ne sont, le cas échéant, imputables que sur la partie de la peine
+excédant la période de sûreté prévue par l'article 720-2.
 
 **Liens relatifs à cet article**
 
@@ -25757,30 +25804,18 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°78-1097 1978-11-22 art. 7 JORF 23 novembre 1978
-
-_Abrogé par_:
-
-  - Loi n°86-1021 du 9 septembre 1986 - art. 3 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+  - Loi n°86-1021 du 9 septembre 1986 - art. 2 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
 
 **Liens**:
 
   - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
 
-_Cité par_:
-
-  - Loi n°2011-672 du 16 juin 2011 - art. 109 (V)
-  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
-  - Code de procédure pénale - art. D531 (V)
-  - Code de procédure pénale - art. D541 (V)
-
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 720-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 721 (M)
-  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+  - Code de procédure pénale 720-2, 721 et 721-1
 
 
 ###### Article 730
@@ -25988,6 +26023,69 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 730 (M)
   - CODE DE PROCEDURE PENALE - art. 732 (M)
+
+
+###### Article 733-1
+
+Les décisions prises par le juge de l'application des peines sont des mesures d'administration judiciaire.
+
+1° Les décisions qui concernent l'une des mesures prévues par les articles 720-1, 723, 723-3 et 730 peuvent, à la requête du
+procureur de la République, être déférées devant le tribunal correctionnel qui statue en chambre du conseil parès avoir fait
+procéder à toutes les auditions utiles et entendus en leurs observations, s'ils en ont fait la demande, les conseils du
+condamné et de la partie civile.
+
+Cette requête est formée dans les vingt-quatre heures qui suivent soit la date de la décision prise en présence du procureur
+de la République, soit, dans les autres cas, la date de notification au procureur de la République. Elle suspend l'exécution
+de la décision jusqu'à ce que le tribunal ait statué.
+
+Le juge de l'application des peines ne peut, à peine de nullité, siéger au sein du tribunal saisi de l'une de ses décisions.
+
+L'affaire doit venir devant le tribunal correctionnel à la première audience ou au plus tard dans la huitaine du jour de la
+requête du procureur de la République, faute de quoi celle-ci est non avenue.
+
+Si le condamné exécute une peine prononcée par une juridiction pour mineurs et s'il n'a pas encore atteint l'âge de la
+majorité, les attributions du tribunal correctionnel sont exercées par le tribunal pour enfants.
+
+La décision du tribunal correctionnel ou du tribunal pour enfants ne peut faire l'objet, dans les cinq jours, que d'un
+pourvoi en cassation qui n'est pas suspensif.
+
+2° Les décisions du juge de l'application des peines qui concernent l'une des mesures prévues par les articles 721, 721-1,
+723-6, 729-1 et 733 ne peuvent être annulées par le tribunal correctionnel ou le tribunal pour enfants, dans les mêmes formes
+et conditions, que pour violation de la loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°78-1097 1978-11-22 art. 8 JORF 23 novembre 1978
+
+_Modifié par_:
+
+  - Loi n°86-1021 du 9 septembre 1986 - art. 4 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 720-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 721 (M)
+  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 723 (M)
+  - CODE DE PROCEDURE PENALE - art. 723-3 (M)
+  - CODE DE PROCEDURE PENALE - art. 723-6 (M)
+  - CODE DE PROCEDURE PENALE - art. 733 (M)
+  - Code de procédure pénale 720-1, 721, 721-1, 723, 723-3 , 723-6, 729-1 730, 733
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D544-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. D544-2 (Ab)
 
 
 ### Titre IV : Du sursis<a id=169></a>
