@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-03-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -58539,9 +58539,10 @@ _Modifié par_:
 
 ###### Article A17
 
-Il est interdit aux candidats, sous peine d'exclusion, d'avoir par devers eux des documents imprimés ou manuscrits ;
-toutefois, ils peuvent consulter les codes ou recueils de textes législatifs ou réglementaires ne comportant pas
-d'annotation, dont la liste est fixée par le garde des sceaux, ministre de la justice.
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des
+codes annotés et commentés article par article par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou
+recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi
+qu'à des articles de doctrine ou des décisions de jurisprudence.
 
 Toute fraude ou tentative de fraude dans l'une quelconque des épreuves écrites entraîne l'exclusion immédiate de l'examen,
 prononcée sans délai et sans appel.
@@ -58557,11 +58558,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1979-04-02 art. 1 JORF 15 avril 1979
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+  - Arrêté 1991-03-14 art. 1 JORF 23 mars 1991
 
 _Cité par_:
 
