@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1959-02-25
+Version Consolidée au 1959-02-28
 ## Contenu: 
   - [Partie législative (art. 1 à 223)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -66,13 +66,19 @@ Version Consolidée au 1959-02-25
           - [Section 3 : Du régime auquel les condamnés sont soumis (art. D88)](#63)
             - [Paragraphe 1er : Maisons d'arrêt (art. D88)](#64)
               - [B : Etablissements en commun (art. D88)](#65)
-  - [Partie Arrêtés (art. A4 à A11)](#66)
+  - [Partie Arrêtés (art. A4 à A57)](#66)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A4 à A11)](#67)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A4 à A11)](#68)
         - [Chapitre Ier : De la police judiciaire (art. A4 à A11)](#69)
           - [Section 2 : Des officiers de police judiciaire (art. A4 à A11)](#70)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A4 à A10)](#71)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#72)
+    - [Livre V : Des procédures d'exécution (art. A50 à A51)](#73)
+      - [Titre IV : Du sursis (art. A50 à A51)](#74)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#75)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#76)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#77)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#78)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -3192,5 +3198,85 @@ _Codifié par_:
 _Cité par_:
 
   - Code de procédure pénale - art. A10 (M)
+
+
+## Livre V : Des procédures d'exécution<a id=73></a>
+
+### Titre IV : Du sursis<a id=74></a>
+
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=75></a>
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=76></a>
+
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=77></a>
+
+###### Article A50
+
+Les statuts de l'association sont conformes à un type commun établi par le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Abrogé par_:
+
+  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
+
+###### Article A51
+
+Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la
+justice, soit sur place par les autorités judiciaires ou les représentants dûment habilités à cet effet du ministre de la
+justice.
+
+Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses
+ressources.
+
+Les magistrats et fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et
+de comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent
+leur être communiqués.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Abrogé par_:
+
+  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=78></a>
+
+###### Article A56
+
+L'enquête prévue à l'article D. 81 sur la situation du condamné avant son incarcération est demandée au service social de
+l'administration pénitentiaire ou à défaut aux services sociaux locaux, par le fonctionnaire visé à l'article A. 54.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Cite_:
+
+  - Code de procédure pénale - art. A54 (V)
+  - Code de procédure pénale - art. D81 (V)
+
+
+###### Article A57
+
+Les attributions dévolues au directeur régional des services pénitentiaires par le présent code sont exercées, dans le
+département de la Réunion, par le fonctionnaire assurant les fonctions de directeur des prisons de ce département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
 
 
