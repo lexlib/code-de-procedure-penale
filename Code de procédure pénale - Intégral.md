@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-04-10
+Version Consolidée au 2002-04-17
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -77530,7 +77530,10 @@ après :
 - les services régionaux de la police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs
 détachements, antennes et services départementaux ;
 
-- la direction des renseignements généraux de la préfecture de police.
+- la direction des renseignements généraux de la préfecture de police ;
+
+- le département des missions de police administrative et judiciaire de la direction de la logistique de la préfecture de
+police.
 
 3° Services dont la compétence territoriale s'étend sur le ressort d'un ou plusieurs tribunaux de grande instance ou parties
 de ceux-ci :
@@ -77547,7 +77550,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+  - Arrêté 2002-04-10 art. 1 JORF 17 avril 2002
 
 _Cite_:
 
