@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-04-16
+Version Consolidée au 1999-06-15
 ## Contenu: 
   - [Partie législative (art. 1 à 805)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -517,32 +517,33 @@ Version Consolidée au 1999-04-16
       - [Titre XII : Dispositions générales (art. D599)](#514)
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#515)
   - [Partie Arrêtés (art. A1 à A57)](#516)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A21)](#517)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A21)](#518)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A21)](#519)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A21)](#520)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A35)](#517)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A35)](#518)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A35)](#519)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A35)](#520)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#521)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A21)](#522)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#523)
-      - [Titre II : De la détention (art. A39 à A43-1)](#524)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#525)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#526)
-          - [Section 5 (art. A39-1 à A39-2)](#527)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#528)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#529)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#530)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#531)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#532)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#533)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#534)
-      - [Titre IV : Du sursis (art. A45 à A52)](#535)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#536)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#537)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#538)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#539)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#540)
-        - [Disposition générale (art. A53)](#541)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#542)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#522)
+            - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#523)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#524)
+      - [Titre II : De la détention (art. A39 à A43-1)](#525)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#526)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#527)
+          - [Section 5 (art. A39-1 à A39-2)](#528)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#529)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#530)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#531)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#532)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#533)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#534)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#535)
+      - [Titre IV : Du sursis (art. A45 à A52)](#536)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#537)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#538)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#539)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#540)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#541)
+        - [Disposition générale (art. A53)](#542)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#543)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -66941,13 +66942,586 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. A27 (Ab)
 
 
-## Livre V : Des procédures d'exécution<a id=523></a>
+###### Article A22
 
-### Titre II : De la détention<a id=524></a>
+Pour l'application de l'article 16 (4°) du code de procédure pénale, et aux fins de constater l'aptitude à la fonction
+d'officier de police judiciaire de la police nationale, il est organisé un examen comportant :
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=525></a>
+1° Une épreuve écrite sur des notions de droit pénal, de procédure pénale ou de libertés publiques (durée : trois heures).
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=526></a>
+2° Une épreuve écrite pratique de procédure sur un cas de crime ou de délit (durée : quatre heures).
+
+3° Une épreuve orale en libertés publiques et en procédure pénale.
+
+La valeur de chaque épreuve est constatée par une note de 0 à 20.
+
+Toute note égale ou inférieure à 5 dans l'une des épreuves est éliminatoire.
+
+Nul ne pourra être considéré comme ayant satisfait à l'examen s'il ne totalise 30 points au moins pour l'ensemble des trois
+épreuves.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Cité par_:
+
+  - Arrêté du 16 octobre 1995 - art. 4 (V)
+  - Arrêté du 11 juin 1999 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. A23 (V)
+  - CODE DE PROCEDURE PENALE - art. A27 (Ab)
+
+
+###### Article A23
+
+Le programme des épreuves de l'examen prévu par l'article qui précède est le suivant :
+
+Procédure pénale
+
+L'action publique et l'action civile.
+
+Les autorités investies par la loi de fonctions de police judiciaire.
+
+Les cadres juridiques et les actes de la mission de police judiciaire.
+
+Le contrôle de la mission de police judiciaire.
+
+L'instruction préparatoire.
+
+Les mandats de justice.
+
+La détention provisoire et le contrôle judiciaire.
+
+La nullité des actes de procédure.
+
+La procédure applicable aux mineurs.
+
+Les juridictions judiciaires pénales.
+
+L'exécution des décisions de justice pénale.
+
+Droit pénal général
+
+A. - Généralités sur la législation pénale.
+
+B. - L'infraction pénale :
+
+- les principes généraux de la responsabilité pénale ;
+
+- la classification des infractions et l'organisation judiciaire en matière pénale ;
+
+- les éléments constitutifs de l'infraction ;
+
+- la tentative ;
+
+- la complicité ;
+
+- la responsabilité pénale des personnes morales ;
+
+- les faits justificatifs légaux.
+
+C. - La sanction.
+
+Notions générales (classification des sanctions et des mesures de sûreté, modalités de mise en oeuvre des sanctions, période
+de sûreté, cause d'atténuation, d'exemption, d'aggravation, de suspension, d'extinction de la peine).
+
+Droit pénal spécial
+
+A. - Infractions contre les personnes :
+
+- les atteintes volontaires à la vie/meurtres assassinat, empoisonnement ;
+
+- les atteintes involontaires à la vie/homicide involontaire ;
+
+- les atteintes volontaires à l'intégrité de la personne/torture et actes de barbarie, violences, menaces ;
+
+- les atteintes involontaires à l'intégrité de la personne ;
+
+- les agressions sexuelles/viol, autres agressions sexuelles, harcèlement sexuel ;
+
+- l'usage et le trafic de stupéfiants ;
+
+- la mise en danger de la personne/risques causés à autrui, délaissement de la personne hors d'état de se protéger, entraves
+aux mesures d'assistance, omission de porter secours, expérimentation sur la personne, interruption illégale de la grossesse,
+provocation au suicide ;
+
+- les atteintes à la liberté de la personne/enlèvement et séquestration ;
+
+- les atteintes à la dignité de la personne/proxénétisme, conditions de travail et d'hébergement contraires à la dignité de
+la personne, le respect dû aux morts ;
+
+- les atteintes aux mineurs et à la famille/délaissement du mineur, abandon de famille, atteintes à l'exercice de l'autorité
+parentale, atteintes à la filiation, les délits de mise en péril des mineurs.
+
+B. - Infractions contre les biens :
+
+- le vol ;
+
+- l'escroquerie ;
+
+- l'abus frauduleux de l'état d'ignorance ;
+
+- les détournements ;
+
+- les abus de biens sociaux ;
+
+- la filouterie ;
+
+- l'extorsion ;
+
+- le chantage ;
+
+- le recel ;
+
+- l'immunité familiale ;
+
+- les menaces ;
+
+- les destructions, dégradations, détériorations ;
+
+- les atteintes aux systèmes de traitement automatisé de données.
+
+C. - Infractions contre la nation, l'Etat et la paix publique :
+
+- l'association de malfaiteurs ;
+
+- les faux ;
+
+- les crimes et délits commis par ou contre un fonctionnaire.
+
+D. - Les infractions à la police de la circulation routière.
+
+E. - Les problèmes internationaux et européens de la législation pénale :
+
+- libertés publiques ;
+
+- introductions générales aux libertés publiques ;
+
+- les libertés individuelles et la vie privée ;
+
+- la sûreté ou liberté individuelle ;
+
+- la liberté d'aller et venir ;
+
+- le respect de la vie privée, du domicile et des correspondances ;
+
+- le respect de la personne et les lois antidiscriminatoires ;
+
+- les libertés d'expression collectives ;
+
+- la liberté d'association ;
+
+- la liberté de réunion ;
+
+- le régime des manifestations ;
+
+- le régime des attroupements ;
+
+- la liberté de la presse ;
+
+- les libertés à contenu économique et social ;
+
+- la liberté syndicale ;
+
+- le droit de grève ;
+
+- les libertés contemporaines ;
+
+- la motivation des décisions administratives ;
+
+- l'accès aux documents administratifs ;
+
+- l'informatique et les libertés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. A22 (Ab)
+
+
+###### Article A24
+
+Peuvent être admis à subir l'examen technique destiné à l'attribution de la qualité d'officier de police judiciaire les
+fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins deux ans de services dans le
+corps au 1er janvier de l'année de l'examen.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+
+###### Article A25
+
+La liste des candidats admis à se présenter à l'examen technique est établie par le directeur de la formation de la police
+nationale et arrêtée par le directeur général de la police nationale.
+
+Les candidats retenus devront avoir suivi une formation adaptée, organisée par leur administration d'origine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+
+###### Article A26
+
+Les règles de sélection et de préparation des candidats à l'examen technique sont fixées par circulaire du ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+  - TRANSFERE: Arrêté du 9 août 2016 - art. 6
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A17 (V)
+
+
+###### Article A27
+
+La date de l'examen technique est fixée par le directeur des affaires criminelles et des grâces et le directeur général de la
+police nationale, sur proposition du directeur de la formation de la police nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
+  - SPEC_APPLI: Arrêté 1995-10-16 art. 3
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+
+###### Article A28
+
+Les sujets des épreuves sont choisis par le président du jury, sur proposition du directeur de la formation de la police
+nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+
+###### Article A29
+
+L'organisation matérielle des épreuves de l'examen technique qui se déroulent dans un ou plusieurs centres est assurée par le
+directeur de la formation de la police nationale conformément aux directives données par circulaire.
+
+Il est interdit aux candidats, sous peine d'exclusion, d'avoir pardevers eux des documents imprimés ou manuscrits ou des
+codes annotés et commentés, article par article, par des praticiens du droit. Toutefois, ils peuvent consulter des codes ou
+recueils de lois et décrets ; ces derniers peuvent comporter des références à des textes législatifs ou réglementaires ainsi
+qu'à des articles de doctrine ou des décisions de jurisprudence.
+
+Toute fraude ou tentative de fraude dans l'une quelconque des épreuves entraîne l'exclusion immédiate de l'examen, prononcée
+sans délai et sans appel ; le candidat, en dehors d'une sanction disciplinaire, peut ne pas être autorisé à se présenter à
+l'examen les années suivantes.
+
+L'enveloppe renfermant chaque sujet de composition est décachetée, en présence des candidats, à l'ouverture de la séance
+affectée à l'épreuve.
+
+Toutes les compositions sont faites sur des feuilles fournies par la direction de la formation de la police nationale.
+
+Les membres du jury d'examen peuvent être répartis en plusieurs sous-commissions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+
+###### Article A30
+
+Dans le mois qui suit l'examen, le président réunit le jury pour l'établissement des normes de correction et pour la
+répartition des copies entre les correcteurs. L'anonymat des copies est assuré par un coin gommé.
+
+Le président fixe la date à laquelle les copies doivent parvenir corrigées au secrétariat de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 9 août 2016 - art. 10
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A20 (V)
+
+
+###### Article A31
+
+Le secrétaire de la commission : 
+
+1° Soumet au président de la commission les copies pour lesquelles est proposée une note égale ou inférieure à 5. Ces copies
+font l'objet d'une seconde correction par un membre désigné par le président et appartenant à une autre formation
+(magistrature, police) que celle dont fait partie le premier correcteur ; le résultat de ces doubles corrections est soumis à
+la commission, qui en délibère spécialement lors de la réunion prévue à l'article A. 32 et fixe la note définitive ; 
+
+2° Opère un relevé des notes attribuées pour chaque épreuve par les correcteurs ; 
+
+3° Dresse la liste de tous les candidats, avec les notes et le total des points obtenus pour chacun d'eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 9 août 2016 - art. 11
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A21 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. A32
+
+
+###### Article A32
+
+Dans un délai maximum de quatre mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
+
+1° La liste par ordre de mérite des fonctionnaires du corps de maîtrise et d'application de la police nationale pour lesquels
+la commission émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire.
+
+Seuls peuvent être retenus les candidats qui totalisent 30 points au moins pour l'ensemble des trois épreuves ;
+
+2° La liste des fonctionnaires du corps de maîtrise et d'application de la police nationale éliminés ou n'ayant pas obtenu le
+nombre de points exigés.
+
+Ces listes mentionnent les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
+
+Elles sont adressées à la direction générale de la police nationale, accompagnées des copies des candidats et du procès-
+verbal de séance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A31 (T)
+
+
+###### Article A33
+
+Les candidats ayant échoué à quatre sessions ne peuvent plus être autorisés à se présenter à l'examen technique d'officier de
+police judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 9 août 2016 - art. 13
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A23 (V)
+
+
+##### Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°).<a id=523></a>
+
+###### Article A34
+
+Les fonctionnaires du corps de maîtrise et d'application de la police nationale visés à l'article 16 (4°) et ayant la qualité
+d'officier de police judiciaire peuvent recevoir l'habilitation à exercer les attributions attachées à cette qualité s'ils
+sont affectés à un service ou à l'une des catégories de services définies aux articles R. 15-18 à R. 15-20 et énumérées ci-
+après :
+
+1° Services dont la compétence territoriale s'étend sur l'ensemble du territoire national :
+
+- la direction centrale de la police judiciaire ;
+
+- la direction de la surveillance du territoire ;
+
+- la sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
+
+- le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
+
+2° Services dont la compétence territoriale s'étend sur le ressort d'une ou plusieurs cours d'appel ou parties de celles-ci :
+
+- les services régionaux de la police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs
+détachements, antennes et services départementaux ;
+
+- la direction des renseignements généraux de la préfecture de police.
+
+3° Services dont la compétence territoriale s'étend sur le ressort d'un ou plusieurs tribunaux de grande instance ou parties
+de ceux-ci :
+
+- les sûretés départementales ;
+
+- les circonscriptions de sécurité publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 16 (M)
+  - Code de procédure pénale 16, R15-18 à R15-20
+
+
+###### Article A35
+
+Les fonctionnaires du corps de maîtrise et d'application de la police nationale visés à l'article 16 (4°) du code de
+procédure pénale et ayant la qualité d'officier de police judiciaire peuvent recevoir l'habilitation à exercer les
+attributions attachées à cette qualité prévue à l'article 16 précité s'ils sont affectés à titre exclusif dans l'une des
+formations de services suivantes :
+
+1° Pour la direction centrale de la police aux frontières :
+
+- l'Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
+
+- les groupes d'investigations et de procédures de la brigade des chemins de fer ;
+
+- l'unité de contrôle des trains internationaux de la brigade des chemins de fer ;
+
+- l'unité nationale d'escorte, de soutien et d'intervention.
+
+2° Pour les directions interrégionales et les directions interdépartementales de la police aux frontières :
+
+- les brigades mobiles de recherches ;
+
+- les brigades de police aéronautique.
+
+3° Pour les directions départementales, les services départementaux, les directions, les services et les directions
+territoriales de la police aux frontières :
+
+- les unités d'investigations ;
+
+- les services de quart et du contrôle de l'immigration ;
+
+- les brigades mobiles de recherches.
+
+4° Pour les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont
+affectées : les bureaux de circulation routière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 16 (M)
+
+
+## Livre V : Des procédures d'exécution<a id=524></a>
+
+### Titre II : De la détention<a id=525></a>
+
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=526></a>
+
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=527></a>
 
 ###### Article A39
 
@@ -67034,7 +67608,7 @@ _Cite_:
   - Code de procédure pénale D70, D70-2, D490 à D496
 
 
-##### Section 5<a id=527></a>
+##### Section 5<a id=528></a>
 
 ###### Article A39-1
 
@@ -67082,9 +67656,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=528></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=529></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=529></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=530></a>
 
 ###### Article A40
 
@@ -67235,11 +67809,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=530></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=531></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=531></a>
+##### Section 1 : De la gestion des biens des détenus<a id=532></a>
 
-##### Paragraphe 1er : Pécule.<a id=532></a>
+##### Paragraphe 1er : Pécule.<a id=533></a>
 
 ###### Article A41
 
@@ -67388,9 +67962,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=533></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=534></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=534></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=535></a>
 
 ###### Article A43
 
@@ -67449,13 +68023,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=535></a>
+### Titre IV : Du sursis<a id=536></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=536></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=537></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=537></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=538></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=538></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=539></a>
 
 ###### Article A45
 
@@ -67516,7 +68090,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=539></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=540></a>
 
 ###### Article A48
 
@@ -67617,9 +68191,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=540></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=541></a>
 
-#### Disposition générale<a id=541></a>
+#### Disposition générale<a id=542></a>
 
 ###### Article A53
 
@@ -67637,7 +68211,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=542></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=543></a>
 
 ###### Article A54
 
