@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-08-01
+Version Consolidée au 2004-08-07
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1227,14 +1227,16 @@ Toute association reconnue d'utilité publique régulièrement déclarée depuis
 proposant par ses statuts de défendre et d'assister l'individu ou de défendre les droits et libertés individuels et
 collectifs peut, à l'occasion d'actes commis par toute personne physique ou morale dans le cadre d'un mouvement ou
 organisation ayant pour but ou pour effet de créer, de maintenir ou d'exploiter une sujétion psychologique ou physique,
-exercer les droits reconnus à la partie civile en ce qui concerne les infractions d'atteintes volontaires ou involontaires à
-la vie ou à l'intégrité physique ou psychique de la personne, de mise en danger de la personne, d'atteinte aux libertés de la
-personne, d'atteinte à la dignité de la personne, d'atteinte à la personnalité, de mise en péril des mineurs ou d'atteintes
-aux biens prévues par les articles 221-1 à 221-6, 222-1 à 222-40, 223-1 à 223-15, 223-15-2, 224-1 à 224-4, 225-5 à 225-15,
-225-17 et 225-18, 226-1 à 226-23, 227-1 à 227-27, 311-1 à 311-13, 312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3 et 324-1 à
-324-6 du code pénal, les infractions d'exercice illégal de la médecine ou de la pharmacie prévues par les articles L. 4161-5
-et L. 4223-1 du code de la santé publique, et les infractions de publicité mensongère, de fraudes ou de falsifications
-prévues par les articles L. 121-6 et L. 213-1 à L. 213-4 du code de la consommation.
+exercer les droits reconnus à la partie civile en ce qui concerne les infractions contre l'espèce humaine, d'atteintes
+volontaires ou involontaires à la vie ou à l'intégrité physique ou psychique de la personne, de mise en danger de la
+personne, d'atteinte aux libertés de la personne, d'atteinte à la dignité de la personne, d'atteinte à la personnalité, de
+mise en péril des mineurs ou d'atteintes aux biens prévues par les articles 214-1 à 214-4, 221-1 à 221-6, 222-1 à 222-40,
+223-1 à 223-15, 223-15-2, 224-1 à 224-4, 
+225-5 à 225-15, 225-17 et 225-18, 226-1 à 226-23, 227-1 à 227-27, 311-1 à 311-13, 
+312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3, 324-1 à 324-6 et 511-1-2 du code pénal, les infractions d'exercice illégal de
+la médecine ou de la pharmacie prévues par les articles L. 4161-5 et L. 4223-1 du code de la santé publique, et les
+infractions de publicité mensongère, de fraudes ou de falsifications prévues par les articles L. 121-6 et L. 213-1 à L. 213-4
+du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -1244,18 +1246,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-504 du 12 juin 2001 - art. 22 () JORF 13 juin 2001
+  - Loi n°2004-800 du 6 août 2004 - art. 31 () JORF 7 août 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L121-6 (M)
-  - Code de la consommation L121-6, L213-1 à L213-4
-  - Code pénal - art. 223-15-2 (M)
-  - Code pénal - art. 225-17 (M)
-  - Code pénal - art. 225-18 (M)
-  - Code pénal 221-1 à 221-6, 222-1 à 222-40, 223-1 à 223-15, 223-15-2, 224-1 à 224-4, 225-5 à 225-15, 225-17, 225-18, 226-1 à 226-23, 227-1 à 227-27, 311-1 à 311-13, 312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3, 324-1 à 324-6
-  - Code de la santé publique - art. L4161-5 (M)
-  - Code de la santé publique - art. L4223-1 (M)
+  - Code de la consommation - art. L121-6 (V)
+  - Code de la consommation - art. L213-1 (V)
+  - Code pénal - art. 214-1 (V)
+  - Code pénal - art. 221-1 (V)
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 223-1 (V)
+  - Code pénal - art. 223-15-2 (V)
+  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 225-17 (V)
+  - Code pénal - art. 225-5 (V)
+  - Code pénal - art. 226-1 (V)
+  - Code pénal - art. 227-1 (V)
+  - Code pénal - art. 311-1 (V)
+  - Code pénal - art. 312-1 (V)
+  - Code pénal - art. 313-1 (V)
+  - Code pénal - art. 314-1 (V)
+  - Code pénal - art. 324-1 (V)
+  - Code pénal - art. 511-1-2 (V)
+  - Code de la santé publique - art. L4161-5 (V)
+  - Code de la santé publique - art. L4223-1 (V)
 
 
 ###### Article 2-18
@@ -5044,10 +5058,10 @@ _Nouveaux textes_:
 ###### Article 60-2
 
 Sur demande de l'officier de police judiciaire, intervenant par voie télématique ou informatique, les organismes publics ou
-les personnes morales de droit privé, à l'exception de ceux visés au deuxième alinéa de l'article 31 et à l'article 33 de la
-loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, mettent à sa disposition les
-informations utiles à la manifestation de la vérité, à l'exception de celles protégées par un secret prévu par la loi,
-contenues dans le ou les systèmes informatiques ou traitements de données nominatives qu'ils administrent.
+les personnes morales de droit privé, à l'exception de ceux visés au deuxième alinéa du 3° du II de l'article 8 et au 2° de
+l'article 67 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, mettent à sa
+disposition les informations utiles à la manifestation de la vérité, à l'exception de celles protégées par un secret prévu
+par la loi, contenues dans le ou les systèmes informatiques ou traitements de données nominatives qu'ils administrent.
 
 L'officier de police judiciaire, intervenant sur réquisition du procureur de la République préalablement autorisé par
 ordonnance du juge des libertés et de la détention, peut requérir des opérateurs de télécommunications, et notamment de ceux
@@ -5058,7 +5072,7 @@ des informations consultées par les personnes utilisatrices des services fourni
 Les organismes ou personnes visés au présent article mettent à disposition les informations requises par voie télématique ou
 informatique dans les meilleurs délais.
 
-Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni d'une amende de 3 750 Euros. Les personnes
+Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni d'une amende de 3 750 euros. Les personnes
 morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code pénal de
 l'infraction prévue au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités
 prévues par l'article 131-38 du code pénal.
@@ -5067,27 +5081,24 @@ Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'i
 catégories d'organismes visés au premier alinéa ainsi que les modalités d'interrogation, de transmission et de traitement des
 informations requises.
 
-**Nota:**
-
-NOTA : L'article 56 de la loi 2004-575 a été modifié par la loi 2004-669 du 9 juillet 2004 art. 110.
-
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de procédure pénale art. 8, art. 110
+  - Loi n°78-17 du 6 janvier 1978 - art. 67 (V)
+  - Loi n°2004-575 2004-06-21 art. 6, art. 56
+  - Loi n°2004-669 2004-07-09
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 - art. 33 (M)
-  - Loi n°2004-575 2004-06-21 art. 6, art. 56
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - CODE DE PROCEDURE PENALE - art. 31 (V)
-
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004 en vigueur le 1er août 2004
+  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 _Cité par_:
 
@@ -38708,7 +38719,7 @@ _Cité par_:
 
 ###### Article 706-53-11
 
-Aucun rapprochement ni aucune connexion au sens de l'article 19 de la loi n° 78-17 du 6 janvier 1978 relative à
+Aucun rapprochement ni aucune connexion au sens de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés ne peuvent être effectués entre le fichier prévu par le présent chapitre et tout
 autre fichier ou recueil de données nominatives détenus par une personne quelconque ou par un service de l'Etat ne dépendant
 pas du ministère de la justice.
@@ -38728,12 +38739,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 19 (M)
+  - Loi n°78-17 1978-01-06 art. 30
   - Code pénal - art. 226-21 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 48 () JORF 10 mars 2004
+  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
 
 _Cité par_:
 
@@ -45016,16 +45027,16 @@ _Modifié par_:
 
 ###### Article 777-3
 
-Aucun rapprochement ni aucune connexion, au sens de l'article 19 de la loi n. 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, ne peuvent être effectués entre le casier judiciaire national automatisé et
-tout autre fichier ou recueil de données nominatives détenus par une personne quelconque ou par un service de l'Etat ne
-dépendant pas du ministère de la justice.
+Aucune interconnexion au sens du 3° du I de l'article 30 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés ne peut être effectuée entre le casier judiciaire national automatisé et tout autre fichier ou
+traitement de données à caractère personnel détenus par une personne quelconque ou par un service de l'Etat ne dépendant pas
+du ministère de la justice. 
 
-Aucun fichier ou recueil de données nominatives détenu par une personne quelconque ou par un service de l'Etat ne dépendant
-pas du ministère de la justice ne pourra mentionner, hors les cas et dans les conditions prévus par la loi, des jugements ou
-arrêts de condamnation.
+Aucun fichier ou traitement de données à caractère personnel détenu par une personne quelconque ou par un service de l'Etat
+ne dépendant pas du ministère de la justice ne pourra mentionner, hors les cas et dans les conditions prévus par la loi, des
+jugements ou arrêts de condamnation. 
 
-Toutefois, une condamnation pénale pourra toujours être invoquée en justice par la victime de l'infraction.
+Toutefois, une condamnation pénale pourra toujours être invoquée en justice par la victime de l'infraction. 
 
 Toute infraction aux dispositions qui précèdent sera punie des peines encourues pour le délit prévu à l'article 226-21 du
 code pénal.
@@ -45043,12 +45054,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 19 (M)
-  - Code pénal - art. 226-21 (M)
+  - Loi n°78-17 du 6 janvier 1978 - art. 30 (V)
+  - Code pénal - art. 226-21 (V)
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 127 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2004-801 du 6 août 2004 - art. 17 () JORF 7 août 2004
 
 
 ###### Article 778
