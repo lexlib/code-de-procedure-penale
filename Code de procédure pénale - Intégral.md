@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1987-06-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -4548,9 +4548,9 @@ Il est procédé dans les mêmes conditions à l'interrogatoire de l'inculpé ar
 l'interrogatoire ne peut être immédiat, l'inculpé est conduit dans la maison d'arrêt où il ne peut être détenu plus de vingt-
 quatre heures.
 
-A l'expiration de ce délai, il est conduit d'office par les soins du surveillant-chef, devant le procureur de la République
-qui requiert le juge d'instruction, ou à son défaut le président du tribunal ou un juge désigné par celui-ci, de procéder
-immédiatement à l'interrogatoire, à défaut de quoi l'inculpé est mis en liberté.
+A l'expiration de ce délai, il est conduit d'office par les soins du chef d'établissement, devant le procureur de la
+République qui requiert le juge d'instruction, ou à son défaut le président du tribunal ou un juge désigné par celui-ci, de
+procéder immédiatement à l'interrogatoire, à défaut de quoi l'inculpé est mis en liberté.
 
 **Liens relatifs à cet article**
 
@@ -4558,9 +4558,10 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+  - Loi n°87-432 1987-06-22 art. 5-II JORF 23 juin 1987
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 _Cité par_:
 
@@ -4774,7 +4775,7 @@ _Codifié par_:
 L'inculpé saisi en vertu d'un mandat d'arrêt est conduit sans délai dans la maison d'arrêt indiquée sur le mandat, sous
 réserve des dispositions de l'article 133, alinéa 2.
 
-Le surveillant-chef délivre à l'agent chargé de l'exécution une reconnaissance de la remise de l'inculpé.
+Le chef d'établissement délivre à l'agent chargé de l'exécution un reconnaissance de la remise de l'inculpé.
 
 **Liens relatifs à cet article**
 
@@ -4782,15 +4783,15 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-
 _Cité par_:
 
   - Loi n°83-520 du 27 juin 1983 - art. 16 (V)
   - CODE DE PROCEDURE PENALE - art. 755 (Ab)
   - CODE DE PROCEDURE PENALE - art. 822 (M)
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 _Cite_:
 
@@ -24559,7 +24560,7 @@ _Cite_:
 Dès son arrivée sur le sol français, le condamné détenu est présenté au procureur de la République du lieu d'arrivée, qui
 procède à son interrogatoire d'identité et en dresse procès-verbal. Toutefois, si l'interrogatoire ne peut être immédiat, le
 condamné est conduit à la maison d'arrêt où il ne peut être détenu plus de vingt-quatre heures. A l'expiration de ce délai,
-il est conduit d'office devant le procureur de la République, par les soins du surveillant-chef.
+il est conduit d'office devant le procureur de la République, par les soins du chef d'établissement.
 
 Au vu des pièces constatant l'accord des Etats sur le transfèrement et le consentement de l'intéressé ainsi que de l'original
 ou d'une expédition du jugement étranger de condamnation, accompagnés, le cas échéant, d'une traduction officielle, le
@@ -24571,13 +24572,13 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
-
-  - loi 84-1150 1984-12-21 art. 1 JORF 22 décembre 1984
-
 _Modifié par_:
 
-  - Loi n°87-432 du 22 juin 1987 - art. 5
+  - Loi n°87-432 1987-06-22 art. 5-II JORF 23 juin 1987
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 162 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 _Nouveaux textes_:
 
@@ -24910,26 +24911,23 @@ _Cité par_:
 
 ###### Article 717
 
-Les condamnés à la réclusion criminelle à perpétuité ou à temps purgent leur peine dans une maison centrale. Il en est de
-même des condamnés à l'emprisonnement auxquels il reste à subir une peine d'une durée supérieure à un an, ou plusieurs peines
-dont le total est supérieur à un an, après le moment où leur condamnation, ou la dernière de leurs condamnations, est devenue
-définitive.
+Les condamnés purgent leur peine dans un établissement pour peines ; toutefois, les condamnés à l'emprisonnement d'une durée
+inférieure ou égale à trois ans l'exécutent dans un établissement qui leur est spécialement réservé.
 
-Les autres condamnés à l'emprisonnement correctionnel sont détenus dans une maison de correction.
+Les condamnés à des peines inférieures à cinq ans peuvent exécuter leur peine dans les établissements prévus à l'alinéa
+précédent si le reliquat de peine leur restant à purger après leur condamnation est inférieur à trois ans.
 
-Les condamnés à l'emprisonnement de police sont incarcérés dans un quartier distinct de la maison d'arrêt.
-
-Un même établissement peut servir à la fois de maison d'arrêt et de maison de correction.
+Les condamnés à l'emprisonnement d'une durée inférieure ou égale à un an peuvent, cependant, à titre exceptionnel, être
+maintenus en maison d'arrêt et incarcérés, dans ce cas, dans un quartier distinct, lorsque des conditions tenant à la
+préparation de leur libération, leur situation familiale ou leur personnalité le justifient. Peuvent également, dans les
+mêmes conditions, être affectés, à titre exceptionnel, en maison d'arrêt, les condamnés auxquels il reste à subir une peine
+d'une durée inférieure à un an.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 24 () JORF 19 juillet 1970
 
 _Cité par_:
 
@@ -24941,6 +24939,10 @@ _Cité par_:
   - Code de procédure pénale - art. 877 (MMN)
   - Code de procédure pénale - art. D70 (V)
   - Code de procédure pénale - art. D73 (Ab)
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 
 ###### Article 718
@@ -24984,22 +24986,22 @@ _Anciens textes_:
 
 ###### Article 719
 
-Les condamnés sont soumis dans les maisons de correction à l'emprisonnement individuel du jour et de nuit, et dans les
-maisons centrales, à l'isolement de nuit seulement, après avoir subi éventuellement une période d'observation en cellule.
+Les condamnés sont soumis dans les maisons d'arrêt à l'emprisonnement individuel du jour et de nuit, et dans les
+établissements pour peines , à l'isolement de nuit seulement, après avoir subi éventuellement une période d'observation en
+cellule.
 
 Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des locaux de détention ou de leur
 encombrement temporaire ou des nécessités d'organisation du travail.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 _Cité par_:
 
@@ -25022,8 +25024,13 @@ _Anciens textes_:
 
 ###### Article 720
 
-Les condamnés à des peines privatives de liberté pour des faits qualifiés crimes ou délits de droit commun sont astreints au
-travail.
+Les activités de travail et de formation professionnelle sont prises en compte pour l'appréciation des gages de réinsertion
+et de bonne conduite des condamnés.
+
+Au sein des établissements pénitentiaires, toutes dispositions sont prises pour assurer une activité professionnelle aux
+personnes incarcérées qui le souhaitent.
+
+Les relations de travail des personnes incarcérées ne font pas l'objet d'un contrat de travail. 
 
 Les règles relatives à la répartition des produits du travail des détenus sont fixées par décret.
 
@@ -25032,10 +25039,6 @@ Les règles relatives à la répartition des produits du travail des détenus so
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°75-624 du 11 juillet 1975 - art. 61 () JORF 13 juillet 1975
 
 _Cité par_:
 
@@ -25048,6 +25051,10 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D49-68 (V)
   - CODE DE PROCEDURE PENALE - art. D49-69 (V)
   - CODE DE PROCEDURE PENALE - art. D49-72 (V)
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 _Nouveaux textes_:
 
@@ -25741,15 +25748,14 @@ _Cite_:
 
 Un décret détermine l'organisation et le régime intérieur des établissements pénitentiaires.
 
-Dans les prisons établies pour peines, ce régime sera institué en vue de favoriser l'amendement des condamnés et de préparer
-leur reclassement social.
+**Nota:**
+
+Dans sa décision n° 2014-393 QPC du 25 avril 2014 (NOR : CSCX1409797S), le Conseil constitutionnel a déclaré l'article 728 du
+code de procédure pénale, dans sa rédaction postérieure à la loi n° 87-432 du 22 juin 1987, contraire à la Constitution. La
+déclaration d'inconstitutionnalité prévue par l'article 1er prend effet à compter de la publication de la présente décision
+dans les conditions fixées par son considérant 10.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
@@ -25763,6 +25769,10 @@ _Cité par_:
   - Décret n°2010-1635 du 23 décembre 2010 - art. 48 (V)
   - CODE DE PROCEDURE PENALE - art. R57-9-2 (V)
   - Code de procédure pénale - art. D189 (Ab)
+
+_Modifié par_:
+
+  - Loi n°87-432 du 22 juin 1987 - art. 5
 
 
 ### Titre III : De la libération conditionnelle<a id=168></a>
