@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1982-06-16
+Version Consolidée au 1982-11-13
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24594,6 +24594,43 @@ _Cité par_:
 
   - Code de procédure pénale - art. R314 (Ab)
   - Code de procédure pénale - art. R402 (Ab)
+
+
+###### Article R97
+
+Les prévenus ou accusés peuvent être, en cas de nécessité, transférés par des véhicules de la gendarmerie ou de la police.
+
+Dans ce cas, une indemnité kilométrique, fixée chaque année par arrêté du garde des sceaux, ministre de la Justice, et du
+ministre chargé du Budget, est attribuée pour le trajet aller et retour parcouru. Son taux est uniforme quels que soient le
+type de véhicule utilisé et le nombre de personnes transportées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°61-448 1961-05-08 art. 1 JORF 9 mai 1961
+  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
+  - Décret n°78-263 1978-03-09 art. 1 JORF 10 mars 1978
+
+_Cité par_:
+
+  - Arrêté du 4 décembre 1991 - art. 1 (V)
+  - Arrêté du 22 mars 1993 - art. 1 (VT)
+  - Arrêté du 6 décembre 2018 - art. 1
+  - Arrêté du 6 décembre 2018 - art. 3
+  - Code de procédure pénale - art. A43-18 (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ###### Article R98
