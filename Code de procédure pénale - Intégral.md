@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-06-02
+Version Consolidée au 2004-06-09
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -86174,6 +86174,10 @@ Guadeloupe
 
 450 
 
+Guyane
+
+400
+
 Haute-Marne
 
 300 
@@ -86189,6 +86193,10 @@ Ille-et-Vilaine
 Indre
 
 230 
+
+Martinique
+
+400
 
 Mayenne
 
@@ -86230,19 +86238,19 @@ l'article 260 dépasse celui fixé ci-dessus.
 
 _Cité par_:
 
+  - Arrêté du 21 octobre 2015 (V)
+  - Arrêté du 21 octobre 2015 - art. 1 (V)
   - Arrêté du 26 mai 2004 - art. 1 (V)
   - Arrêté du 13 septembre 2006 - art. 1 (V)
   - Arrêté du 28 juin 2010 - art. 1 (V)
-  - Arrêté du 21 octobre 2015 (V)
-  - Arrêté du 21 octobre 2015 - art. 1 (V)
 
 _Codifié par_:
 
   - Arrêté 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2004-03-12 art. 1 JORF 25 mars 2004
+  - Arrêté 2004-05-26 art. 2 JORF 9 juin 2004
 
 _Cite_:
 
@@ -86270,28 +86278,30 @@ Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, 
 de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin,
 du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
 
-7° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
+7° Cent vingt-cinq jurés pour les cours d'assises de la Guyane et de la Martinique ;
 
-8° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+8° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
 
-9° Cent jurés pour les autres cours d'assises.
+9° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+
+10° Cent jurés pour les autres cours d'assises.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 21 octobre 2015 (V)
+  - Arrêté du 21 octobre 2015 - art. 1 (V)
+  - Arrêté du 26 mai 2004 - art. 1 (V)
+  - Arrêté du 13 septembre 2006 - art. 1 (V)
 
 _Codifié par_:
 
   - Arrêté 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2004-03-12 art. 1 JORF 25 mars 2004
-
-_Cité par_:
-
-  - Arrêté du 26 mai 2004 - art. 1 (V)
-  - Arrêté du 13 septembre 2006 - art. 1 (V)
-  - Arrêté du 21 octobre 2015 (V)
-  - Arrêté du 21 octobre 2015 - art. 1 (V)
+  - Arrêté 2004-05-26 art. 3 JORF 9 juin 2004
 
 _Cite_:
 
