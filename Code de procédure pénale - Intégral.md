@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1988-10-19
+Version Consolidée au 1989-01-14
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -731,6 +731,32 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°87-565 du 22 juillet 1987 - art. 35 () JORF 23 juillet 1987
+
+
+###### Article 2-8
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits ayant, en vertu de ses statuts,
+vocation à défendre ou à assister les personnes handicapées peut exercer les droits reconnus à la partie civile en ce qui
+concerne les infractions prévues par les 1° et 2° de l'article 416 du code pénal qui ont été commises au préjudice d'une
+personne à raison de son handicap.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°89-18 du 13 janvier 1989 - art. 66 () JORF 14 janvier 1989
+
+_Cite_:
+
+  - Code pénal 416
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 808 (V)
 
 
 ###### Article 3
