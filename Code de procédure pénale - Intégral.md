@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-10-30
+Version Consolidée au 2003-11-27
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -3350,10 +3350,28 @@ l'informer sur les mesures propres à favoriser l'insertion sociale de l'intére
 de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
 d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
+A l'exception des infractions prévues aux articles 19 et 27 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux
+conditions d'entrée et de séjour des étrangers en France, en cas de poursuites pour une infraction susceptible d'entraîner à
+son encontre le prononcé d'une mesure d'interdiction du territoire français d'un étranger qui déclare, avant toute saisine de
+la juridiction compétente, se trouver dans l'une des situations prévues par les articles 131-30-1 ou 131-30-2 du code pénal,
+le procureur de la République ne peut prendre aucune réquisition d'interdiction du territoire français s'il n'a préalablement
+requis, suivant les cas, l'officier de police judiciaire compétent, le service pénitentiaire d'insertion et de probation, le
+service compétent de la protection judiciaire de la jeunesse, ou toute personne habilitée dans les conditions de l'article
+81, sixième alinéa, afin de vérifier le bien-fondé de cette déclaration.
+
 Le procureur de la République peut également recourir à une association d'aide aux victimes ayant fait l'objet d'un
 conventionnement de la part des chefs de la cour d'appel, afin qu'il soit porté aide à la victime de l'infraction.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
+  - Code pénal - art. 131-30-1 (M)
+  - Code pénal - art. 131-30-2 (M)
+  - CODE DE PROCEDURE PENALE - art. 68 (V)
+  - CODE DE PROCEDURE PENALE - art. 81 (M)
 
 _Codifié par_:
 
@@ -3380,12 +3398,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-307 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 68 (V)
-  - CODE DE PROCEDURE PENALE - art. 81 (M)
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 80 () JORF 27 novembre 2003
 
 
 ###### Article 41-1
@@ -5998,9 +6011,12 @@ Dans une zone comprise entre la frontière terrestre de la France avec les Etats
 et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées non
 conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne
 peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations
-de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle d'identité
-révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de nullité des
-procédures incidentes.
+de détention, de port et de présentation des titres et documents prévues par la loi. Lorsqu'il existe une section
+autoroutière démarrant dans la zone mentionnée ci-dessus et que le premier péage autoroutier se situe au-delà de la ligne des
+20 kilomètres, le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le
+lieu de ce péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par
+arrêté. Le fait que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne
+constitue pas une cause de nullité des procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt
 kilomètres en-deçà, et sur une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route nationale 2 sur le
@@ -6013,6 +6029,7 @@ par la loi.
 _Cite_:
 
   - Arrêté 93-323 1993-08-05
+  - Convention Schengen 1990-06-19
   - CODE DE PROCEDURE PENALE - art. 20 (M)
   - CODE DE PROCEDURE PENALE - art. 21 (M)
 
@@ -6059,7 +6076,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 143 () JORF 19 mars 2003
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 81 () JORF 27 novembre 2003
 
 
 ###### Article 78-2-1
@@ -31598,17 +31615,20 @@ qui a statué, de la relever, en tout ou partie, y compris en ce qui concerne la
 incapacité. Si la condamnation a été prononcée par une cour d'assises, la juridiction compétente pour statuer sur la demande
 est la chambre de l'instruction dans le ressort de laquelle la cour d'assises a son siège.
 
-Lorsque la demande est relative à une déchéance, interdiction ou incapacité prononcée en application de l'article 201 de la
-loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, la juridiction ne
-peut accorder le relèvement que si l'intéressé a apporté une contribution suffisante au paiement du passif du débiteur. La
-juridiction peut accorder, dans les mêmes conditions, le relèvement des interdictions, déchéances et incapacités résultant
-des condamnations pour banqueroute prononcées en application des articles 126 à 149 de la loi n° 67-563 du 13 juillet 1967
-sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
+Lorsque la demande est relative à une déchéance, interdiction ou incapacité prononcée en application de l'article L. 626-6 du
+code de commerce, la juridiction ne peut accorder le relèvement que si l'intéressé a apporté une contribution suffisante au
+paiement du passif du débiteur. La juridiction peut accorder, dans les mêmes conditions, le relèvement des interdictions,
+déchéances et incapacités résultant des condamnations pour banqueroute prononcées en application des articles 126 à 149 de la
+loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
+banqueroutes.
 
 Sauf lorsqu'il s'agit d'une mesure résultant de plein droit d'une condamnation pénale, la demande ne peut être portée devant
 la juridiction compétente qu'à l'issue d'un délai de six mois après la décision initiale de condamnation. En cas de refus
 opposé à cette première demande, une autre demande ne peut être présentée que six mois après cette décision de refus. Il en
-est de même, éventuellement, des demandes ultérieures.
+est de même, éventuellement, des demandes ultérieures. En cas d'interdiction du territoire prononcée à titre de peine
+complémentaire à une peine d'emprisonnement, la première demande peut toutefois être portée devant la juridiction compétente
+avant l'expiration du délai de six mois en cas de remise en liberté. La demande doit être déposée au cours de l'exécution de
+la peine. 
 
 Les dispositions du deuxième alinéa (1°) de l'article 131-6 du code pénal permettant de limiter la suspension du permis de
 conduire à la conduite en dehors de l'activité professionnelle sont applicables lorsque la demande de relèvement
@@ -31623,7 +31643,7 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°67-563 1967-07-13 art. 126 à 149
-  - Loi n°85-98 du 25 janvier 1985 - art. 201 (Ab)
+  - Code de commerce. - art. L626-6 (M)
   - Code pénal - art. 131-6 (M)
 
 _Cité par_:
@@ -31650,7 +31670,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 82 () JORF 27 novembre 2003
 
 
 ###### Article 703
@@ -37164,6 +37185,13 @@ Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'u
 de reconduite à la frontière, d'expulsion ou d'extradition, sa libération conditionnelle est subordonnée à la condition que
 cette mesure soit exécutée. Elle peut être décidée sans son consentement.
 
+Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou la juridiction régionale de la
+libération conditionnelle, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine
+complémentaire d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la
+durée des mesures d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en
+liberté conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire
+français. Dans le cas contraire, la mesure redevient exécutoire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -37172,7 +37200,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-125 du 8 février 1995 - art. 46 () JORF 9 février 1995
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 83 () JORF 27 novembre 2003
 
 _Cité par_:
 
@@ -37180,6 +37208,10 @@ _Cité par_:
   - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
   - Code de procédure pénale - art. D531 (V)
   - Code de procédure pénale - art. D541 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 732 (M)
 
 
 ###### Article 729-3
