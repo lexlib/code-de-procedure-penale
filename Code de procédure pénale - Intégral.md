@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-06-27
+Version Consolidée au 1983-09-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -41,7 +41,7 @@ Version Consolidée au 1983-06-27
         - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. 195 à 215-1)](#38)
           - [Section 1 : Dispositions générales (art. 195 à 215-1)](#39)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 141 à 187)](#40)
-          - [Section 2 : De la constitution de la partie civile et de ses effets (art. 91)](#41)
+          - [Section 2 : De la constitution de la partie civile et de ses effets (art. 88 à 91)](#41)
           - [Section 3 : Des transports, perquisitions et saisies (art. 92 à 98)](#42)
           - [Section 4 : Des auditions de témoins (art. 104)](#43)
           - [Section 5 : Des interrogatoires et confrontations (art. 115 à 120)](#44)
@@ -87,7 +87,7 @@ Version Consolidée au 1983-06-27
       - [Titre II : Du jugement des délits (art. 382 à 520)](#84)
         - [Chapitre Ier : Du tribunal correctionnel (art. 382 à 495)](#85)
           - [Section 1 : De la compétence et de la saisine du tribunal correctionnel (art. 382 à 397-1)](#86)
-            - [Paragraphe 1er : Dispositions générales (art. 382 à 388)](#87)
+            - [Paragraphe 1er : Dispositions générales (art. 382 à 388-3)](#87)
             - [Paragraphe 2 : De la comparution volontaire et de la citation (art. 389 à 392)](#88)
             - [Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate (art. 393 à 397-6)](#89)
             - [Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate (art. 394 à 397-1)](#90)
@@ -104,14 +104,14 @@ Version Consolidée au 1983-06-27
             - [Paragraphe 2 : De l'opposition (art. 489 à 493)](#101)
             - [Paragraphe 3 : De l'itératif défaut (art. 495)](#102)
         - [Chapitre II : De la cour d'appel en matière correctionnelle (art. 496 à 520)](#103)
-          - [Section 1 : De l'exercice du droit d'appel (art. 496 à 508)](#104)
+          - [Section 1 : De l'exercice du droit d'appel (art. 496 à 509)](#104)
           - [Section 2 : De la composition de la chambre des appels correctionnels (art. 510 à 511)](#105)
           - [Section 3 : De la procédure devant la chambre des appels correctionnels (art. 512 à 520)](#106)
       - [Titre III : Du jugement des contraventions (art. 522 à 549)](#107)
         - [Chapitre Ier : De la compétence du tribunal de police (art. 522 à 523)](#108)
         - [Chapitre II : De la procédure simplifiée (art. 525 à 528-2)](#109)
         - [Chapitre II bis : De l'amende forfaitaire (art. 529 à 530-2)](#110)
-        - [Chapitre III : De la saisine du tribunal de police (art. 531 à 532)](#111)
+        - [Chapitre III : De la saisine du tribunal de police (art. 531 à 533)](#111)
         - [Chapitre IV : De l'instruction définitive devant le tribunal de police (art. 534 à 543)](#112)
         - [Chapitre V : Du jugement par défaut et de l'opposition (art. 544 à 545)](#113)
         - [Chapitre VI : De l'appel des jugements de police (art. 547 à 549)](#114)
@@ -643,6 +643,31 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 706-1 (M)
   - CODE DE PROCEDURE PENALE - art. R48-1 (M)
+
+
+###### Article 5-1
+
+Même si le demandeur s'est constitué partie civile devant la juridiction répressive, la juridiction civile, saisie en référé,
+demeure compétente pour ordonner toutes mesures provisoires relatives aux faits qui sont l'objet des poursuites, lorsque
+l'existence de l'obligation n'est pas sérieusement contestable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°83-608 1983-07-08 art. 2 JORF 9 juillet 1983 en vigueur le 1er septembre 1983 rectificatif JORF du 14 juillet 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cité par_:
+
+  - Loi n°95-1 du 2 janvier 1995 - art. 6 (V)
 
 
 ###### Article 6
@@ -4359,6 +4384,45 @@ _Cité par_:
 
 ##### Section 2 : De la constitution de la partie civile et de ses effets<a id=41></a>
 
+###### Article 88
+
+La partie civile qui met en mouvement l'action publique doit, si elle n'a obtenu l'aide judiciaire, consigner au greffe la
+somme présumée nécessaire pour les frais de procédure.
+
+Le juge d'instruction constate, par ordonnance, le dépôt de la plainte. En fonction des ressources de la partie civile, il
+fixe le montant de la consignation et le délai dans lequel celle-ci devra être faite sous peine de non-recevabilité de la
+plainte. Il peut également dispenser de consignation la partie civile dépourvue de ressources suffisantes.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1908-08-05 du 5 août 1908 - art. 2 (V)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 34 (M)
+  - Décret n°93-1425 du 31 décembre 1993 - art. 10 (V)
+  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 815 (V)
+  - CODE DE PROCEDURE PENALE - art. 88-1 (M)
+  - CODE DE PROCEDURE PENALE - art. R15-25 (M)
+  - Code de l'organisation judiciaire - art. R123-24 (V)
+  - Code de la sécurité sociale. - art. L114-9 (V)
+  - Code de procédure pénale - art. 88-2 (V)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - loi 72-1226 1972-12-29 art. 23 JORF 30 décembre 1972
+  - loi 83-608 1983-07-08 art. 3 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+
 ###### Article 91
 
 Quand, après une information ouverte sur constitution de partie civile, une décision de non-lieu a été rendue, l'inculpé et
@@ -4838,6 +4902,33 @@ _Modifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°70-643 du 17 juillet 1970 - art. 55 (V)
+
+
+###### Article 142-1
+
+Le juge d'instruction peut, avec le consentement de l'inculpé, ordonner que la partie du cautionnement affectée à la garantie
+des droits de la victime ou du créancier d'une dette alimentaire soit versée à ceux-ci par provision, sur leur demande.
+
+Ce versement peut aussi être ordonné, même sans le consentement de l'inculpé, lorsqu'une décision de justice exécutoire a
+accordé à la victime ou au créancier une provision à l'occasion des faits qui sont l'objet des poursuites.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
+
+_Modifié par_:
+
+  - Loi n°83-608 1983-07-08 art. 5 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
 
 
 ###### Article 142-2
@@ -9934,6 +10025,61 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 565 (V)
 
 
+###### Article 385-1
+
+Dans les cas prévus par les articles 388-1 et 388-2, l'exception fondée sur une cause de nullité ou sur une clause du contrat
+d'assurance et tendant à mettre l'assureur hors de cause est, à peine de forclusion, présentée par celui-ci avant toute
+défense au fond. Elle n'est recevable que si elle est de nature à exonérer totalement l'assureur de son obligation de
+garantie à l'égard des tiers. 
+
+L'assureur mis en cause dans les conditions prévues par l'article 388-2 qui n'intervient pas au procès pénal est réputé
+renoncer à toute exception ; toutefois, s'il est établi que le dommage n'est pas garanti par l'assureur prétendu, celui-ci
+est mis hors de cause par le tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Créé par_:
+
+  - loi 83-608 1983-07-08 art. 6 JORF 9 juillet 1983 en vigueur le 1 septembre 1983
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 533 (M)
+  - Code de procédure pénale - art. 388-1 (V)
+
+
+###### Article 385-2
+
+En ce qui concerne les intérêts civils, le tribunal, après avoir mis les parties en demeure de conclure au fond, statue dans
+un seul et même jugement sur l'exception d'irrecevabilité et sur le fond du litige.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Créé par_:
+
+  - loi 83-608 1983-07-08 art. 6 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 533 (M)
+
+
 ###### Article 386
 
 L'exception préjudicielle est présentée avant toute défense au fond.
@@ -10012,6 +10158,103 @@ _Modifié par_:
   - Loi n°83-466 du 10 juin 1983 - art. 23 () JORF 11 juin 1983 en vigueur le 27 juin 1983
   - Loi n°75-701 1975-02-01 art. 8 JORF 7 août 1975 en vigueur le 1er janvier 1976
   - Loi n°81-82 1982-02-02 art. 48 JORF 3 février 1981
+
+
+###### Article 388-1
+
+La personne dont la responsabilité civile est susceptible d'être engagée à l'occasion d'une infraction d'homicide ou de
+blessures involontaires qui a entraîné pour autrui un dommage quelconque pouvant être garanti par un assureur doit préciser
+le nom et l'adresse de celui-ci, ainsi que le numéro de sa police d'assurance. Il en est de même pour la victime lorsque le
+dommage qu'elle a subi peut être garanti par un contrat d'assurance. Ces renseignements sont consignés dans les procès-
+verbaux d'audition.
+
+Lorsque des poursuites pénales sont exercées, les assureurs appelés à garantir le dommage sont admis à intervenir et peuvent
+être mis en cause devant la juridiction répressive, même pour la première fois en cause d'appel ; ils doivent se faire
+représenter par un avocat ou un avoué.
+
+En ce qui concerne les débats et les voies de recours, les règles concernant les personnes civilement responsables et les
+parties civiles sont applicables respectivement à l'assureur du prévenu et à celui de la partie civile sous réserve des
+dispositions de l'alinéa ci-dessus et des articles 385-1, troisième alinéa (1), 388-2 et 509, deuxième alinéa.
+
+**Nota:**
+
+(1) : il faut lire "article 385-1, deuxième alinéa".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°83-608 1983-07-08 art. 7 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 385-1 (V)
+  - CODE DE PROCEDURE PENALE - art. 388-2 (V)
+  - CODE DE PROCEDURE PENALE - art. 509 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 533 (VD)
+
+
+###### Article 388-2
+
+Dix jours au moins avant l'audience, la mise en cause de l'assureur est faite par toute partie qui y a intérêt au moyen d'un
+acte d'huissier ou d'une lettre recommandée, avec demande d'avis de réception, qui mentionne la nature des poursuites
+engagées, l'identité du prévenu, de la partie civile et, le cas échéant, de la personne civilement responsable, le numéro des
+polices d'assurance, le montant de la demande en réparation ou, à défaut, la nature et l'étendue du dommage, ainsi que le
+tribunal saisi, le lieu, la date et l'heure de l'audience.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Créé par_:
+
+  - loi 83-608 1983-07-08 art. 7 JORF 9 juillet 1983 en vigueur le 1er Septembre 1983
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 388-1 (V)
+  - Code de procédure pénale - art. 388-3 (V)
+
+
+###### Article 388-3
+
+La décision concernant les intérêts civils est opposable à l'assureur qui est intervenu au procès ou a été avisé dans les
+conditions prévues par l'article 388-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Créé par_:
+
+  - loi 83-608 1983-07-08 art. 7 JORF 9 juillet 1983 en vigueur le 1er Septembre 1983
+
+_Cite_:
+
+  - Code de procédure pénale - art. 388-2 (V)
 
 
 ##### Paragraphe 2 : De la comparution volontaire et de la citation<a id=88></a>
@@ -11074,6 +11317,53 @@ Elle est immédiatement transmise par le greffier au ministère public qui cite 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 420-1
+
+Par dérogation aux dispositions qui précèdent, toute personne qui se prétend lésée peut se constituer partie civile,
+directement ou par son conseil, par lettre recommandée avec avis de réception parvenue au tribunal vingt-quatre heures au
+moins avant la date de l'audience, lorsqu'elle demande soit la restitution d'objets saisis, soit des dommages-intérêts dont
+le montant n'excède pas le plafond de la compétence de droit commun des tribunaux d'instance en matière civile ; elle joint à
+sa lettre toutes les pièces justificatives de son préjudice. Cette lettre et ces pièces sont jointes immédiatement au
+dossier.
+
+La partie civile n'est pas alors tenue de comparaître.
+
+En cas de contestation sur la propriété des objets dont la restitution est demandée, ou si le tribunal ne trouve pas dans la
+lettre, dans les pièces jointes à celle-ci et dans le dossier, les motifs suffisants pour statuer, la décision sur les seuls
+intérêts civils est renvoyée à une audience ultérieure à laquelle toutes les parties sont citées à la diligence du ministère
+public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°81-82 du 2 février 1981 - art. 87 () JORF 3 février 1981
+
+_Modifié par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 34 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+  - Loi n°83-608 1983-07-08 art. 12 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 420-2 (V)
+  - CODE DE PROCEDURE PENALE - art. 460-1 (V)
+  - CODE DE PROCEDURE PENALE - art. 495-13 (V)
+  - Code de procédure pénale - art. 843 (V)
+
+_Cite_:
+
+  - Code de procédure pénale 418 à 420
 
 
 ###### Article 420-2
@@ -12347,6 +12637,40 @@ _Cité par_:
   - Code de procédure pénale - art. 472 (V)
 
 
+###### Article 470-1
+
+Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées
+pour homicide ou blessures involontaires qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de
+son assureur formulée avant la clôture des débats, pour accorder, en application des règles de droit civil, réparation de
+tous les dommages résultant des faits qui ont fondé la poursuite.
+
+Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une
+décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure
+simplifiée déterminée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°83-608 1983-07-08 art. 13-I JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 844 (M)
+  - Code de procédure civile - art. 852-1 (V)
+  - Code de procédure pénale - art. 541 (VD)
+  - Code de procédure pénale - art. R49-20 (VD)
+  - Code de procédure pénale - art. R50 (VT)
+
+
 ###### Article 471
 
 Nonobstant appel, le prévenu détenu qui n'a pas été condamné à une peine d'emprisonnement sans sursis est mis en liberté
@@ -12956,6 +13280,39 @@ _Nouveaux textes_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L224-1 (Ab)
 
 
+###### Article 497
+
+La faculté d'appeler appartient :
+
+1° Au prévenu ;
+
+2° A la personne civilement responsable quant aux intérêts civils seulement ;
+
+3° A la partie civile, quant à ses intérêts civils seulement ;
+
+4° Au procureur de la République ;
+
+5° Aux administrations publiques, dans les cas où celles-ci exercent l'action publique ;
+
+6° Au procureur général près la cour d'appel.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°83-608 1983-07-08 art. 8 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+
 ###### Article 499
 
 Si le jugement est rendu par défaut ou par itératif défaut, le délai d'appel ne court qu'à compter de la signification du
@@ -13155,6 +13512,37 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 506 (V)
 
 
+###### Article 509
+
+L'affaire est dévolue à la cour d'appel dans la limite fixée par l'acte d'appel et par la qualité de l'appelant ainsi qu'il
+est dit à l'article 515.
+
+L'appel de l'assureur produit effet à l'égard de l'assuré en ce qui concerne l'action civile. Il est, dans un délai de trois
+jours, notifié à l'assuré par lettre recommandée avec demande d'avis de réception adressée par l'assureur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°83-608 1983-07-08 art. 9 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 515 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 388-1 (V)
+
+
 ##### Section 2 : De la composition de la chambre des appels correctionnels<a id=105></a>
 
 ###### Article 510
@@ -13302,6 +13690,36 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R245 (Ab)
   - Code de procédure pénale - art. 549 (VD)
+
+
+###### Article 515
+
+La cour peut, sur l'appel du ministère public, soit confirmer le jugement, soit l'infirmer en tout ou en partie dans un sens
+favorable ou défavorable au prévenu.
+
+La cour ne peut, sur le seul appel du prévenu, du civilement responsable, de la partie civile ou de l'assureur de l'une de
+ces personnes, aggraver le sort de l'appelant.
+
+La partie civile ne peut, en cause d'appel, former aucune demande nouvelle ; toutefois elle peut demander une augmentation
+des dommages-intérêts pour le préjudice souffert depuis la décision de première instance.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 509 (V)
+
+_Modifié par_:
+
+  - Loi n°83-608 1983-06-08 art. 10 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 1983-06-08 art. 23
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
 
 
 ###### Article 515-1
@@ -13910,6 +14328,31 @@ _Codifié par_:
   - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 533
+
+Les articles 385-1, 385-2, 388-1, 388-2, 388-3 et 390 à 392 sont applicables devant le tribunal de police.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Modifié par_:
+
+  - loi 83-608 1983-07-08 art. 41 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 385-1 (V)
+  - CODE DE PROCEDURE PENALE - art. 385-2 (V)
+  - Code de procédure pénale 385-1, 385-2, 388-1 à 388-3, 390 à 392
+
+
 #### Chapitre IV : De l'instruction définitive devant le tribunal de police<a id=112></a>
 
 ###### Article 534
@@ -14115,6 +14558,32 @@ ministère public à se pourvoir ainsi qu'il avisera.
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 541
+
+Si le tribunal de police estime que le fait ne constitue aucune infraction à la loi pénale, ou que le fait n'est pas établi,
+ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.
+
+Les dispositions de l'article 470-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°83-608 1983-07-08 art. 14 JORF 9 juillet 1983 en vigueur le 1er septembre 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 470-1 (M)
 
 
 ###### Article 542
@@ -19054,6 +19523,36 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R92 (M)
   - Code de procédure pénale - art. 706-10 (V)
   - Livre des procédures fiscales - art. L146 B (Dis)
+
+
+###### Article 706-11
+
+L'Etat est subrogé dans les droits de la victime pour obtenir des personnes responsables du dommage causé par l'infraction ou
+tenues à un titre quelconque d'en assurer la réparation totale ou partielle le remboursement de l'indemnité ou de la
+provision versée par lui, dans la limite du montant des réparations à la charge desdites personnes.
+
+L'Etat peut exercer ses droits par toutes voies utiles, y compris par voie de constitution de partie civile devant la
+juridiction répressive et ce, même pour la première fois, en cause d'appel.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
+  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
+  - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L146 B (Dis)
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 728-1 (V)
+  - Code de procédure pénale - art. R50-27 (V)
+  - Code des assurances - art. L422-7 (V)
+  - Code des assurances - art. L422-8 (V)
 
 
 ###### Article 706-12
