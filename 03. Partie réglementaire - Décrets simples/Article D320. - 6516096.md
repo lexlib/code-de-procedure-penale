@@ -1,0 +1,35 @@
+# Article D320.
+
+Les dispositions de l'article 29 du Code pénal [* article abrogé *] ne font pas obstacle à ce que les condamnés en état
+d'interdiction légale puissent, dans les conditions et limites fixées au présent titre, disposer eux-mêmes des fonds figurant
+à leur compte nominatif et en recevoir directement le solde à leur sortie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-128 1975-03-07 art. 2 JORF 9 mars 1975
+
+_Abrogé par_:
+
+  - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
+
+_Cite_:
+
+  - Code pénal 29
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D122 (V)
+  - Code de procédure pénale - art. D320-3 (V)
+  - Code de procédure pénale - art. D327 (V)
+  - Code de procédure pénale - art. D422 (Ab)
+  - Code de procédure pénale - art. D434 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
