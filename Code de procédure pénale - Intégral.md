@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-05-12
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -29912,6 +29912,29 @@ _Modifié par_:
 _Cité par_:
 
   - Code de procédure pénale - art. 725 (V)
+
+
+###### Article 724-1
+
+Les services pénitentiaires constituent et tiennent à jour pour chaque personne incarcérée un dossier individuel comprenant
+des informations de nature pénale et pénitentiaire.
+
+Les services pénitentiaires communiquent aux autorités administratives compétentes pour en connaître des informations
+relatives à l'identité du détenu, à son lieu d'incarcération, à sa situation pénale et à sa date de libération, dès lors que
+ces informations sont nécessaires à l'exercice des attributions desdites autorités.
+
+Ils communiquent notamment aux services centraux ou déconcentrés du ministère de l'intérieur les informations de cette nature
+relatives aux étrangers détenus faisant ou devant faire l'objet d'une mesure d'éloignement du territoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°98-349 du 11 mai 1998 - art. 38 () JORF 12 mai 1998
 
 
 ###### Article 725
