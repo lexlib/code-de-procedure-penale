@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-04-30
+Version Consolidée au 2004-05-18
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -612,9 +612,9 @@ Version Consolidée au 2004-04-30
   - [Partie Arrêtés (art. A1 à A57)](#609)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-11)](#610)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-11)](#611)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A36-11)](#612)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A35)](#613)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#614)
+        - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-11)](#612)
+          - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#613)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1-1 à A12)](#614)
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#615)
             - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#616)
           - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-11)](#617)
@@ -84456,34 +84456,87 @@ _Anciens textes_:
 
 ### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=611></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=612></a>
-
-##### Section 2 : Des officiers de police judiciaire<a id=613></a>
-
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=614></a>
-
 ###### Article A1
 
-Peuvent être admis à subir l'examen technique destiné à l'attribution de la qualité d'officier de police judiciaire prévu à
-l'article R. 3  les gendarmes comptant au moins trois ans de service dans la gendarmerie au 1er janvier de l'année de
-l'examen.
+I. -  Les autorités ou organismes que le procureur de la République ou le juge d'instruction selon le cas peut, conformément
+aux dispositions de l'article 11-1, autoriser à se faire délivrer une copie des pièces d'une procédure judiciaire en cours
+sont :
 
-Cette période, qui part de l'admission de l'intéressé dans la gendarmerie, ne comprend que le temps passé en activité de
-service dans cette armée.
+1° Le directeur de l'organisme ou de l'établissement ou du service gérant un régime obligatoire de sécurité sociale, aux fins
+de mettre en oeuvre l'action récursoire des organismes de sécurité sociale contre les tiers responsables d'accidents
+corporels de la circulation routière ;
+
+2° Le directeur de l'association pour la gestion des informations sur le risque automobile (AGIRA), aux fins d'indemniser,
+par l'intermédiaire du service Trans PV, les victimes d'accidents corporels de la circulation routière ;
+
+3° Le président du Conseil national des transports, pour l'élaboration du rapport annuel sur la sécurité des transports
+d'enfants ;
+
+4° Le chef de la mission des transports des matières dangereuses, pour l'élaboration des rapports annuels relevant de sa
+compétence et le contrôle des obligations de déclaration d'accident ;
+
+5° Le directeur général de l'Institut national de recherche sur les transports et leur sécurité, pour la réalisation
+d'enquêtes concernant des accidents ou des types d'accidents déterminés ;
+
+6° Le directeur du service technique des remontées mécaniques et des transports guidés, pour l'élaboration des rapports
+concernant les accidents et incidents relevant de sa compétence permettant notamment d'établir des recommandations de
+sécurité ;
+
+7° Le délégué général du Centre européen d'études de sécurité et d'analyse des risques, pour la réalisation d'enquêtes
+concernant des accidents ou des types d'accidents déterminés ;
+
+8° Les préfets de département, pour la réalisation d'enquêtes techniques concernant des accidents graves ;
+
+9° Les directeurs départementaux de l'équipement, pour la réalisation de diagnostics de sécurité départementaux ou
+territoriaux et d'études de sécurité d'itinéraires ;
+
+10° Le délégué général de l'Association des sociétés françaises d'autoroutes et d'ouvrages à péage, pour la réalisation d'un
+rapport annuel sur les accidents mortels.
+
+II. - L'autorisation accordée par le procureur de la République peut être délivrée sans limitation de temps sous réserve de
+la possibilité d'y mettre fin à tout moment, ou pendant une période de temps déterminée, pour des catégories de procédures
+concernant des infractions dont elle précise la nature.
+
+III. - Le procureur de la République ou le juge d'instruction peut autoriser la transmission d'une copie des pièces de
+procédure sous réserve que les données nominatives qui y figurent aient été occultées.
+
+IV. - La copie des pièces de procédure est délivrée selon les cas par les services ou unités de police judiciaire, par les
+services de la juridiction ou, sauf opposition figurant dans l'autorisation, par un des organismes ou autorités visés au I
+ayant déjà obtenu copie de ces pièces.
+
+V. - Les dispositions ci-dessus sont applicables sans préjudice de la possibilité pour le procureur de la République ou le
+juge d'instruction d'autoriser des organismes ou autorités à se faire délivrer les pièces d'une procédure judiciaire en cours
+sur le fondement de dispositions particulières ; ces autorités et organismes sont :
+
+1° En application des articles L. 721-3, L. 721-5 et L. 721-6 du code de l'aviation civile :
+
+Le directeur du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile.
+
+2° En application de l'article 19 de la loi n° 2002-3 du 3 janvier 2002 relative à la sécurité des infrastructures et
+systèmes de transport, aux enquêtes techniques après événement de mer, accident ou incident de transport terrestre ou aérien
+et au stockage souterrain de gaz naturel, d'hydrocarbures et de produits chimiques :
+
+Le directeur du bureau d'enquêtes techniques et administratives après accidents (BEA mer).
+
+Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA TT).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Arrêté du 23 décembre 1958, v. init.
+  - Arrêté 1958-12-23
 
 _Modifié par_:
 
-  - Arrêté du 24 août 1960, v. init.
+  - Arrêté 2004-05-03 art. 1 JORF 18 mai 2004
 
-_Transféré par_:
+_Cite_:
 
-  - Arrêté du 3 mai 2004 - art. 1, v. init.
+  - Loi n°2002-3 2002-01-03 art. 19
+  - CODE DE PROCEDURE PENALE - art. 11-1 (V)
+  - Code de l'aviation civile - art. L721-3 (M)
+  - Code de l'aviation civile - art. L721-5 (M)
+  - Code de l'aviation civile - art. L721-6 (M)
 
 _Cité par_:
 
@@ -84496,9 +84549,47 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. A1-1 (T)
   - CODE DE PROCEDURE PENALE - art. A1-1 (V)
 
+
+#### Chapitre Ier : De la police judiciaire<a id=612></a>
+
+##### Section 2 : Des officiers de police judiciaire<a id=613></a>
+
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=614></a>
+
+###### Article A1-1
+
+Peuvent être admis à subir l'examen technique destiné à l'attribution de la qualité d'officier de police judiciaire prévu à
+l'article R. 3 les gendarmes comptant au moins trois ans de service dans la gendarmerie au 1er janvier de l'année de
+l'examen. 
+
+Cette période, qui part de l'admission de l'intéressé dans la gendarmerie, ne comprend que le temps passé en activité de
+service dans cette armée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 2004-05-03 art. 1 JORF 18 mai 2004
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 13 décembre 2016 - art. 2
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. A1 (T)
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A2 (V)
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R3 (M)
+  - Code de procédure pénale - art. R3
 
 
 ###### Article A2
