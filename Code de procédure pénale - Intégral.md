@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-01-16
+Version Consolidée au 1985-01-26
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -23298,6 +23298,64 @@ _Cite_:
 
   - Code pénal 55-1 al. 2
   - CODE DE PROCEDURE PENALE - art. 703 (M)
+
+
+###### Article 776
+
+Le bulletin n. 2 du casier judiciaire est délivré :
+
+1° Aux préfets et aux administrations publiques de l'Etat saisis de demandes d'emplois publics, de propositions relatives à
+des distinctions honorifiques ou de soumissions pour des adjudications de travaux ou de marchés publics ou en vue de
+poursuites disciplinaires ou de l'ouverture d'une école privée ;
+
+2° Aux autorités militaires pour les appelés des classes et de l'inscription maritime et pour les jeunes qui demandent à
+contracter un engagement ainsi qu'aux autorités publiques compétentes en cas de contestation sur l'exercice des droits
+électoraux ou sur l'existence de l'incapacité d'exercer une fonction publique élective prévue par l'article 194 de la loi n.
+85-98 du 25 janvier 1985 précitée.
+
+3° Aux administrations et personnes morales dont la liste sera déterminée par le décret en Conseil d'Etat prévu à l'article
+779 ;
+
+4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi
+qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°45-2370 du 15 octobre 1945 - art. 9 (Ab)
+  - Décret n°2005-316 du 29 mars 2005 - art. 3 (V)
+  - Décret n°2005-453 du 10 mai 2005 - art. 4 (Ab)
+  - Loi n°2010-853 du 23 juillet 2010 - art. 32 (V)
+  - Décret n°2012-432 du 30 mars 2012 - art. 116 (V)
+  - Décret n°2012-432 du 30 mars 2012 - art. 176 (V)
+  - Décret n°2015-795 du 30 juin 2015 - art. 3 (V)
+  - Décret n°2016-1785 du 19 décembre 2016 - art. 1
+  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+  - Code de commerce. - art. R123-208-6 (V)
+  - Code de l'action sociale et des familles - art. D421-4 (V)
+  - Code de l'action sociale et des familles - art. R441-3-1 (VD)
+  - Code de la santé publique - art. R2324-33 (V)
+  - Code de procédure pénale - art. A53-1 (V)
+  - Code de procédure pénale - art. R79 (V)
+  - Code du sport. - art. Annexe II-12 (art. A212-176) (V)
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Cite_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 194 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 779 (M)
+
+_Modifié par_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 219 () JORF 26 janvier 1985
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R88 (V)
 
 
 ###### Article 777
