@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-09-10
+Version Consolidée au 1986-09-11
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24920,30 +24920,16 @@ tiers de la peine prononcée ou dix-huit ans en cas de condamnation à la réclu
 Les réductions de peine accordées pendant la période de sûreté ne seront imputées que sur la partie de la peine excédant
 cette durée.
 
-Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la remise d'une peine au moins égale à dix ans
-d'incarcération sanctionnant une infraction mentionnée au premier alinéa entraîne de plein droit l'application de la période
-de sûreté pour la durée maximale applicable à la détention restant à subir.
+Sauf s'il en est décidé autrement par le décret de grâce, la commutation ou la remise d'une peine privative de liberté, non
+assortie du sursis, au moins égale à dix ans et sanctionnant une infraction mentionnée au premier alinéa entraîne de plein
+droit le maintien de la période de sûreté pour une durée globale qui correspond à la moitié de la peine résultant de cette
+commutation ou remise, sans pouvoir toutefois excéder la durée de la période de sûreté attachée à la peine prononcée.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Créé par_:
-
-  - loi 78-1097 1978-11-22 art. 1 JORF 23 novembre 1978
-
 _Modifié par_:
 
-  - Loi n°81-82 du 2 février 1981 - art. 35 () JORF 3 février 1981
-  - loi 83-466 1983-06-10 art. 6-I JORF 11 juin 1983 en vigueur le 27 juin 1983
+  - Loi n°86-1019 du 9 septembre 1986 - art. 11
 
 _Cite_:
 
