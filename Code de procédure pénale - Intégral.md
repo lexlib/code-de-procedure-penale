@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1968-07-14
+Version Consolidée au 1970-06-20
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -155,10 +155,10 @@ Version Consolidée au 1968-07-14
           - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R55)](#152)
           - [Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement (art. R59)](#153)
           - [Section 5 : Dispositions diverses (art. R61)](#154)
-      - [Titre VIII : Du casier judiciaire (art. R72 à R85)](#155)
+      - [Titre VIII : Du casier judiciaire (art. R72 à R86)](#155)
         - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R72)](#156)
         - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74)](#157)
-        - [Chapitre VII : Dispositions diverses (art. R85)](#158)
+        - [Chapitre VII : Dispositions diverses (art. R85 à R86)](#158)
       - [Titre X : Des frais de justice (art. R94 à R248)](#159)
         - [Chapitre II : Tarif des frais (art. R94 à R213-2)](#160)
           - [Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction (art. R94 à R104)](#161)
@@ -14587,6 +14587,26 @@ _Créé par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+
+###### Article R86
+
+Les bulletins n° 2 du casier judiciaire sont délivrés gratuitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+**Liens**:
+
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
   - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
