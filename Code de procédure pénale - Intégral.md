@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-01-14
+Version Consolidée au 1989-03-18
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -31578,8 +31578,9 @@ _Modifié par_:
 2° Deux cents jurés pour la cour d'assises des Bouches-du-Rhône, de l'Essonne, des Hauts-de-Seine, du Nord, du Rhône, de la
 Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines ;
 
-3° Cent jurés pour les cours d'assises des Alpes-Maritimes, du Finistère, du Gard, de la Gironde, D'Ille-et-Vilaine, de
-l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, du Pas-de-Calais, de la Réunion, de Seine-et-Marne et de Vaucluse ;
+3° Cent jurés pour les cours d'assises des Alpes-Maritimes, du Finistère, du Gard, de la Gironde, de la Haute-Garonne,
+D'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, du Pas-de-Calais, de la Réunion, de Seine-et-
+Marne et de Vaucluse ;
 
 4° Cinquante jurés pour les autres cours d'assises.
 
@@ -31589,9 +31590,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-773 1986-06-17 art. 2 JORF 19 JUIN 1986
+  - Décret n°89-173 1989-03-14 art. 1 JORF 18 mars 1989
 
 _Cité par_:
 
