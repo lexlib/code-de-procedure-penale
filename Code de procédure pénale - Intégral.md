@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-10-09
+Version Consolidée au 1986-12-31
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24375,15 +24375,15 @@ _Cité par_:
 
 Pour le jugement des accusés majeurs, la cour d'assises est composée conformément aux dispositions de l'article 698-6.
 
+Pour l'application de l'alinéa précédent, la chambre de l'instruction, losrqu'elle prononce la mise en accusation
+conformément au premier alinéa de l'article 214, constate que les faits entrent dans le champ d'application de l'article
+706-16.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
-
-_Créé par_:
-
-  - Loi n°86-1020 du 9 septembre 1986 - art. 1 () JORF 10 septembre 1986
 
 **Liens**:
 
@@ -24393,9 +24393,15 @@ _Cité par_:
 
   - Loi n°86-1020 du 9 septembre 1986 - art. 10 (V)
 
+_Modifié par_:
+
+  - Loi n°86-1322 1986-12-30 art. 1 JORF 31 décembre 1986
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 698-6 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+  - Code de procédure pénale 214 al. 1, 706-16, 698-6
 
 
 ## Livre V : Des procédures d'exécution<a id=160></a>
