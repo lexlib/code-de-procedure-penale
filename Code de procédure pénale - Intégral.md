@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-07-05
+Version Consolidée au 1979-09-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -404,9 +404,9 @@ Version Consolidée au 1979-07-05
       - [Titre II : De la détention (art. A39-1 à A43-1)](#401)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#402)
           - [Section 5 (art. A39-1 à A39-2)](#403)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#404)
-          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#405)
-            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#406)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41-1 à A42-3)](#404)
+          - [Section 1 : De la gestion des biens des détenus (art. A41-1 à A42-3)](#405)
+            - [Paragraphe 1er : Pécule. (art. A41-1 à A42-3)](#406)
         - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#407)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#408)
       - [Titre IV : Du sursis (art. A45 à A52)](#409)
@@ -37032,6 +37032,34 @@ _Cite_:
 ##### Section 1 : De la gestion des biens des détenus<a id=405></a>
 
 ##### Paragraphe 1er : Pécule.<a id=406></a>
+
+###### Article A41-1
+
+La somme prévue à l'article D. 324 du code de procédure pénale à partir de laquelle les dépôts sur livrets de caisse
+d'épargne doivent être effectués est fixée à 1.000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1975-03-21 art. 1 et art. 2 JORF 26 mars 1975 en vigueur le 1er avril 1975
+
+_Modifié par_:
+
+  - Arrêté 1979-07-09 art. 1 et art. 3 JORF 21 juillet 1979 en vigueur le 1er septembre 1979
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1979-07-09 art. 3
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D324. (M)
+
 
 ###### Article A42-1
 
