@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1972-09-20
+Version Consolidée au 1972-10-14
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -255,7 +255,7 @@ Version Consolidée au 1972-09-20
       - [Titre II : Du faux (art. D47-1)](#252)
     - [Livre V : Des procédures d'exécution (art. D48 à D569)](#253)
       - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49)](#254)
-      - [Titre II : De la détention (art. D52 à D515)](#255)
+      - [Titre II : De la détention (art. D52 à D519)](#255)
         - [Chapitre Ier : De l'exécution de la détention provisoire (art. D56 à D69)](#256)
           - [Section 2 : Des ordres donnés par l'autorité judiciaire (art. D56)](#257)
           - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#258)
@@ -343,12 +343,12 @@ Version Consolidée au 1972-09-20
             - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#340)
           - [Section 5 : De l'aide à la libération (art. D484)](#341)
             - [Paragraphe 2 : Aide aux indigents (art. D484)](#342)
-        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D515)](#343)
+        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#343)
           - [Section 1 : Des condamnés de police (art. D488)](#344)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D496 à D504)](#345)
           - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#346)
           - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#347)
-          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D515)](#348)
+          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#348)
       - [Titre III : De la libération conditionnelle (art. D525 à D543)](#349)
         - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#350)
         - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531)](#351)
@@ -26508,6 +26508,58 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D74 (V)
   - Code de procédure pénale - art. D601 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D518
+
+Les agents des services extérieurs de l'éducation surveillée et les assistants sociaux ou assistantes sociales relevant des
+juridictions pour enfants sont habilités à visiter les mineurs détenus dans les mêmes conditions que les visiteurs de prison.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+_Cité par_:
+
+  - Décret n°2006-338 du 21 mars 2006 - art. 5 (V)
+  - Décret n°2014-1277 du 23 octobre 2014 - art. (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D519
+
+Un quartier particulier est aménagé pour les détenus âgés de moins de vingt et un ans dans les maisons d'arrêt desservant les
+juridictions les plus importantes.
+
+Le juge de l'application des peines recueille l'avis du juge des enfants chaque fois qu'il exerce, à l'égard d'un mineur
+pénal, l'une des attributions qui lui sont conférées par l'article 722 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 722 (M)
 
 **Liens**:
 
