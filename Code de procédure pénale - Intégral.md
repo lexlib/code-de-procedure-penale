@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-09-08
+Version Consolidée au 1985-10-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -83,10 +83,10 @@ Version Consolidée au 1985-09-08
           - [Section 2 : De la décision sur l'action civile (art. 372 à 375)](#80)
           - [Section 3 : De la décision sur l'action civile (art. 371 à 375-1)](#81)
           - [Section 4 : De l'arrêt et du procès-verbal (art. 376 à 380)](#82)
-      - [Titre II : Du jugement des délits (art. 382 à 520)](#83)
-        - [Chapitre Ier : Du tribunal correctionnel (art. 382 à 495)](#84)
-          - [Section 1 : De la compétence et de la saisine du tribunal correctionnel (art. 382 à 397-1)](#85)
-            - [Paragraphe 1er : Dispositions générales (art. 382 à 388-3)](#86)
+      - [Titre II : Du jugement des délits (art. 381 à 520)](#83)
+        - [Chapitre Ier : Du tribunal correctionnel (art. 381 à 495)](#84)
+          - [Section 1 : De la compétence et de la saisine du tribunal correctionnel (art. 381 à 397-1)](#85)
+            - [Paragraphe 1er : Dispositions générales (art. 381 à 388-3)](#86)
             - [Paragraphe 2 : De la comparution volontaire et de la citation (art. 389 à 392)](#87)
             - [Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate (art. 393 à 397-6)](#88)
             - [Paragraphe 3 : De la convocation par procès-verbal et de la compuration immédiate (art. 394 à 397-1)](#89)
@@ -113,7 +113,7 @@ Version Consolidée au 1985-09-08
         - [Chapitre III : De la saisine du tribunal de police (art. 531 à 533)](#110)
         - [Chapitre IV : De l'instruction définitive devant le tribunal de police (art. 534 à 543)](#111)
         - [Chapitre V : Du jugement par défaut et de l'opposition (art. 544 à 545)](#112)
-        - [Chapitre VI : De l'appel des jugements de police (art. 547 à 549)](#113)
+        - [Chapitre VI : De l'appel des jugements de police (art. 546 à 549)](#113)
       - [Titre IV : Des citations et significations (art. 550 à 566)](#114)
     - [Livre III : Des voies de recours extraordinaires (art. 567 à 626)](#115)
       - [Titre Ier : Du pourvoi en cassation (art. 567 à 621)](#116)
@@ -10369,6 +10369,34 @@ _Codifié par_:
 
 ##### Paragraphe 1er : Dispositions générales<a id=86></a>
 
+###### Article 381
+
+Le tribunal correctionnel connaît des délits.  Sont des délits les infractions que la loi punit d'une peine de plus de deux
+mois d'emprisonnement ou 10.000 F d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
+_Modifié par_:
+
+  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+_Cité par_:
+
+  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L622-1 (Ab)
+
+
 ###### Article 382
 
 Est compétent le tribunal correctionnel du lieu de l'infraction, celui de la résidence du prévenu ou celui du lieu
@@ -15299,6 +15327,47 @@ _Cite_:
 
 
 #### Chapitre VI : De l'appel des jugements de police<a id=113></a>
+
+###### Article 546
+
+La faculté d'appeler appartient au prévenu, à la personne civilement responsable, au procureur de la République et à
+l'officier du ministère public près le tribunal de police, lorsque le jugement prononce une peine d'emprisonnement ou lorsque
+la peine encourue excède cinq jours d'emprisonnement ou 1.300 F d'amende.
+
+Lorsque des dommages et intérêts ont été alloués, la faculté d'appeler appartient également au prévenu et à la personne
+civilement responsable.
+
+Cette faculté appartient dans tous les cas à la partie civile quant à ses intérêts civils seulement.
+
+Dans les affaires poursuivies à la requête de l'administration des eaux et forêts, l'appel est toujours possible de la part
+de toutes les parties, quelles que soient la nature et l'importance des condamnations.
+
+Le procureur général peut faire appel de tous les jugements rendus en matière de police.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - loi 72-1226 1972-12-29 art. 63 JORF 30 décembre 1972
+  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+  - loi 79-1131 1979-12-20 art. 6 JORF 29 décembre 1979 en vigueur le 1er octobre 1980
+
+_Cité par_:
+
+  - Loi n°83-520 du 27 juin 1983 - art. 44 (V)
+  - Ordonnance n°91-245 du 25 février 1991 - art. 20 (V)
+  - Code de procédure pénale - art. 505-1 (V)
+  - Code de procédure pénale - art. 852 (V)
+  - Code rural ancien - art. 464 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-835 du 7 août 1985 - art. 10 (V)
+
 
 ###### Article 547
 
