@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-03-25
+Version Consolidée au 2004-04-28
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -289,7 +289,7 @@ Version Consolidée au 2004-03-25
               - [A : Habilitation des officiers de police judiciaire de la gendarmerie (art. R13 à R15-2)](#286)
               - [B : Habilitation des officiers de police judiciaire de la police nationale (art. R15-3 à R15-6)](#287)
             - [Paragraphe 3 : Fonctionnement de la commission prévue à l'article 16-2 (art. R15-7 à R15-16)](#288)
-          - [Section 3 : Des agents de police judiciaire (art. R15-17)](#289)
+          - [Section 3 : Des agents de police judiciaire (art. R15-17 à R15-17-1)](#289)
           - [Section 4 : Des services et unités visés à l'article 15-1 (art. R15-18 à R15-27)](#290)
             - [Paragraphe 1er : Des services de la police nationale (art. R15-18 à R15-21)](#291)
             - [Paragraphe 2 : Des unités de la gendarmerie nationale (art. R15-22 à R15-26)](#292)
@@ -50384,6 +50384,44 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+
+###### Article R15-17-1
+
+La qualité d'agent de police judiciaire est attribuée, en application de l'article 20-1, à ceux des personnels appelés à
+servir dans la réserve civile de la police nationale ou dans la réserve opérationnelle de la gendarmerie nationale qui,
+durant leur activité, ont exercé en tant qu'officier ou agent de police judiciaire pendant une durée au moins égale à cinq
+ans. 
+
+Pour bénéficier de cette qualité, les fonctionnaires et les militaires, qui auront rompu le lien avec le service depuis plus
+d'un an, seront soumis à une remise à niveau professionnelle adaptée et périodique. 
+
+Ne peuvent prétendre à l'attribution de la qualité d'agent de police judiciaire les personnels qui, postérieurement à la
+rupture de leur lien avec le service, exercent une fonction publique élective, un emploi d'auxiliaire de justice, d'officier
+public ou ministériel ou l'une des activités régies par la loi n° 83-629 du 12 juillet 1983 réglementant les activités
+privées de sécurité. 
+
+Il en va de même pour les personnes qui ont été condamnées pour des faits qualifiés par la loi de crimes ou délits ou qui
+font l'objet de poursuite pour des faits contraires à l'honneur, à la probité ou aux bonnes moeurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-02
+
+_Cite_:
+
+  - Loi n°83-629 du 12 juillet 1983 (V)
+  - Code de procédure pénale - art. 20-1 (V)
+
+_Créé par_:
+
+  - Décret n°2004-366 du 26 avril 2004 - art. 1 () JORF 28 avril 2004
+
+_Cité par_:
+
+  - Arrêté du 27 octobre 2011 - art. 5 (V)
 
 
 ##### Section 4 : Des services et unités visés à l'article 15-1<a id=290></a>
