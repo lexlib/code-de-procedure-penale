@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1960-10-07
+Version Consolidée au 1960-11-27
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -1671,6 +1671,66 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 66 (V)
+
+
+###### Article 59
+
+Sauf réclamations faites de l'intérieur de la maison ou exceptions prévues par la loi, les perquisitions et les visites
+domiciliaires ne peuvent être commencées avant 6 heures et après 21 heures.
+
+Toutefois des visites, perquisitions et saisies pourront être opérées à toute heure du jour et de la nuit en vue d'y
+constater toutes infractions aux articles 334, 334-1, 335 du code pénal à l'intérieur de tout hôtel, maison meublée, pension,
+débit de boissons, club, cercle, dancing, lieu de spectacle et leurs annexes et en tout autre lieu ouvert au public ou
+utilisé par le public, lorsqu'il sera constaté que des personnes se livrant à la prostitution y sont reçues habituellement.
+
+Les formalités mentionnées aux articles 56, 57 et au présent article sont prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi du 17 décembre 1926 - art. 20 (VD)
+  - Loi n°94-589 du 15 juillet 1994 - art. 23 (V)
+  - Loi n°94-589 du 15 juillet 1994 - art. 16 (V)
+  - CODE DE PROCEDURE PENALE - art. 171 (M)
+  - CODE DE PROCEDURE PENALE - art. 59 (MMN)
+  - CODE DE PROCEDURE PENALE - art. 627-9 (V)
+  - CODE DE PROCEDURE PENALE - art. 706-24 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 706-35 (M)
+  - CODE DE PROCEDURE PENALE - art. 76-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 95 (M)
+  - Code de la santé publique - art. L627 (M)
+  - Code de procédure pénale - art. 136 (V)
+  - Code de procédure pénale - art. 141-5 (VD)
+  - Code de procédure pénale - art. 230-35 (V)
+  - Code de procédure pénale - art. 695-41 (VD)
+  - Code de procédure pénale - art. 706-102-5 (VD)
+  - Code de procédure pénale - art. 706-28 (V)
+  - Code de procédure pénale - art. 706-89 (V)
+  - Code de procédure pénale - art. 706-90 (V)
+  - Code de procédure pénale - art. 706-91 (V)
+  - Code de procédure pénale - art. 706-92 (V)
+  - Code de procédure pénale - art. 706-96 (VD)
+  - Code de procédure pénale - art. 706-96-1 (V)
+  - Code de procédure pénale - art. 709-1-2 (VD)
+  - Code de procédure pénale - art. 76 (V)
+  - Code de procédure pénale - art. 96 (VD)
+  - Code disciplinaire et pénal de la marine marcha... - art. 30 (VT)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - Ordonnance 60-1245 1960-11-25 art. 12 JORF 27 novembre 1960
+
+_Cite_:
+
+  - Code pénal 334, 334-1, 335
+  - CODE DE PROCEDURE PENALE - art. 56 (M)
+  - CODE DE PROCEDURE PENALE - art. 57 (V)
 
 
 ###### Article 62
