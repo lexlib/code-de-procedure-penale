@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-09-15
+Version Consolidée au 2003-09-23
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -585,25 +585,26 @@ Version Consolidée au 2003-09-15
     - [Livre II : Des juridictions de jugement (art. A37 à A37-8)](#582)
       - [Titre III : Du jugement des contraventions (art. A37 à A37-8)](#583)
         - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-8)](#584)
-    - [Livre IV (art. A38)](#585)
+    - [Livre IV (art. A38 à A38-1)](#585)
       - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#586)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#587)
-      - [Titre II : De la détention (art. A39 à A43-1)](#588)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#589)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#590)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#591)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#592)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#593)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#594)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#595)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#596)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#597)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#598)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#599)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#600)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#601)
-        - [Disposition générale (art. A53)](#602)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#603)
+      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#587)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#588)
+      - [Titre II : De la détention (art. A39 à A43-1)](#589)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#590)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#591)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#592)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#593)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#594)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#595)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#596)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#597)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#598)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#599)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#600)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#601)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#602)
+        - [Disposition générale (art. A53)](#603)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#604)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -80849,13 +80850,44 @@ _Créé par_:
   - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
 
 
-## Livre V : Des procédures d'exécution<a id=587></a>
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=587></a>
 
-### Titre II : De la détention<a id=588></a>
+###### Article A38-1
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=589></a>
+Les caractéristiques propres aux moyens de télécommunication audiovisuelle ou concernant des moyens de télécommunication
+sonore autre que le téléphone utilisés pour l'application des dispositions de l'article 706-71 sont précisées par le présent
+article.
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=590></a>
+La retransmission doit s'effectuer au moyen d'un système bidirectionnel intégral.
+
+La retransmission doit s'effectuer conformément aux normes H320 ou H323 et aux normes UIT (Union internationale des
+télécommunications) associées.
+
+Lorsqu'il est procédé au chiffrement de la liaison, celui-ci doit être effectué avec des moyens matériels autorisés par la
+direction centrale de la sécurité des systèmes d'information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 2003-09-08 art. 1 JORF 23 septembre 2003
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-71 (M)
+
+
+## Livre V : Des procédures d'exécution<a id=588></a>
+
+### Titre II : De la détention<a id=589></a>
+
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=590></a>
+
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=591></a>
 
 ###### Article A39
 
@@ -81051,9 +81083,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D72-1 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=591></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=592></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=592></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=593></a>
 
 ###### Article A40
 
@@ -81214,11 +81246,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=593></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=594></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=594></a>
+##### Section 1 : De la gestion des biens des détenus<a id=595></a>
 
-##### Paragraphe 1er : Pécule.<a id=595></a>
+##### Paragraphe 1er : Pécule.<a id=596></a>
 
 ###### Article A41
 
@@ -81357,9 +81389,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=596></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=597></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=597></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=598></a>
 
 ###### Article A43
 
@@ -81418,9 +81450,9 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=598></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=599></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=599></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=600></a>
 
 ###### Article A44
 
@@ -81886,9 +81918,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=600></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=601></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=601></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=602></a>
 
 ###### Article A45
 
@@ -81963,7 +81995,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=602></a>
+#### Disposition générale<a id=603></a>
 
 ###### Article A53
 
@@ -81981,7 +82013,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=603></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=604></a>
 
 ###### Article A54
 
