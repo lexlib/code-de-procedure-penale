@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-01-30
+Version Consolidée au 2001-04-08
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -41483,6 +41483,9 @@ Les militaires de la gendarmerie visés à l'article 16 (2°) ne peuvent être h
 attachées à leur qualité d'officier de police judiciaire que lorsqu'ils doivent assurer, à un poste actif de commandement ou
 d'exécution, le service spécial à leur arme, dans le cadre d'une circonscription territoriale.
 
+Toutefois cette habilitation peut leur être accordée pour l'ensemble du territoire national lorsqu'ils exercent leurs
+fonctions au sein des offices centraux institués dans les services mentionnés à l'article R. 15-18.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -41491,24 +41494,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°2001-303 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 16 (M)
+  - CODE DE PROCEDURE PENALE - art. R15-18 (M)
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R14 (M)
   - CODE DE PROCEDURE PENALE - art. R15 (V)
 
-_Cite_:
-
-  - Code de procédure pénale 16 (2°)
-
 
 ###### Article R14
 
-Pour chaque militaire de la gendarmerie remplissant la condition prévue à l'article qui précède et affecté à un emploi
-comportant effectivement l'exercice des attributions attachées à sa qualité d'officier de police judiciaire, une demande
-d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège des
-fonctions de l'officier de police judiciaire intéressé, par le commandant de groupement lorsque ce militaire lui est
+Pour chaque militaire de la gendarmerie remplissant la condition prévue au premier alinéa de l'article qui précède et affecté
+à un emploi comportant effectivement l'exercice des attributions attachées à sa qualité d'officier de police judiciaire, une
+demande d'habilitation est adressée au procureur général près la cour d'appel dans le ressort de laquelle se trouve le siège
+des fonctions de l'officier de police judiciaire intéressé, par le commandant de groupement lorsque ce militaire lui est
 subordonné, et par le commandant régional de la gendarmerie dans les autres cas.
 
 La demande doit préciser la nature des fonctions confiées à cet officier de police judiciaire et les limites territoriales
@@ -41522,7 +41526,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°2001-303 du 4 avril 2001 - art. 2 () JORF 8 avril 2001
 
 _Cite_:
 
@@ -41543,7 +41547,8 @@ habituelles.
 
 Lorsque l'officier de police judiciaire est appelé à exercer lesdites fonctions sur tout le territoire de la République, la
 demande d'habilitation est adressée au procureur général près la cour d'appel de Paris, qui statue sans être tenu de procéder
-à la consultation prévue à l'alinéa qui précède.
+à la consultation prévue à l'alinéa qui précède. Dans le cas prévu au deuxième alinéa de l'article R. 13, la demande
+d'habilitation est transmise par le responsable de l'office au sein duquel ce militaire exerce ses fonctions.
 
 **Liens relatifs à cet article**
 
@@ -41553,7 +41558,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°66-716 1966-09-28 art. 1 JORF 29 septembre 1966
+  - Décret n°2001-303 du 4 avril 2001 - art. 3 () JORF 8 avril 2001
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R13 (M)
 
 
 ###### Article R15-1
@@ -41995,7 +42004,7 @@ fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoi
 
 1° La direction centrale de la police judiciaire ;
 
-2° La direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ;
+2° La direction centrale de la police aux frontières ;
 
 3° La direction de la surveillance du territoire ;
 
@@ -42013,7 +42022,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+  - Décret n°2001-303 du 4 avril 2001 - art. 4 () JORF 8 avril 2001
 
 _Cité par_:
 
