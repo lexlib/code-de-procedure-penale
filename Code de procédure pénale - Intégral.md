@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1965-02-09
+Version Consolidée au 1965-02-24
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -310,29 +310,30 @@ Version Consolidée au 1965-02-09
           - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#307)
           - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#308)
           - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514)](#309)
-      - [Titre III : De la libération conditionnelle (art. D531 à D543)](#310)
-        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531)](#311)
-        - [Chapitre V : Dispositions diverses (art. D543)](#312)
-      - [Titre IV : Du sursis (art. D545 à D568)](#313)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#314)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#315)
-      - [Titre VI : De la contrainte par corps (art. D569)](#316)
-  - [Partie Arrêtés (art. A1 à A57)](#317)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A38)](#318)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A38)](#319)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A38)](#320)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A38)](#321)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#322)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#323)
-            - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A26 à A38)](#324)
-    - [Livre V : Des procédures d'exécution (art. A50 à A53)](#325)
-      - [Titre IV : Du sursis (art. A50 à A51)](#326)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#327)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#328)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#329)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#330)
-        - [Disposition générale (art. A53)](#331)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#332)
+      - [Titre III : De la libération conditionnelle (art. D525 à D543)](#310)
+        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#311)
+        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531)](#312)
+        - [Chapitre V : Dispositions diverses (art. D543)](#313)
+      - [Titre IV : Du sursis (art. D545 à D568)](#314)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#315)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#316)
+      - [Titre VI : De la contrainte par corps (art. D569)](#317)
+  - [Partie Arrêtés (art. A1 à A57)](#318)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A38)](#319)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A38)](#320)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A38)](#321)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A38)](#322)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#323)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#324)
+            - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A26 à A38)](#325)
+    - [Livre V : Des procédures d'exécution (art. A50 à A53)](#326)
+      - [Titre IV : Du sursis (art. A50 à A51)](#327)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#328)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#329)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#330)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#331)
+        - [Disposition générale (art. A53)](#332)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#333)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -22611,7 +22612,34 @@ _Cité par_:
 
 ### Titre III : De la libération conditionnelle<a id=310></a>
 
-#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=311></a>
+#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=311></a>
+
+###### Article D525
+
+Les délibérations du comité sont secrètes. Ses membres ainsi que les personnes qui, à un titre quelconque, participent ou
+assistent à des travaux sont tenus au secret professionnel.
+
+Toutes communications du comité avec les bureaux ou avec les services extérieurs de l'administration pénitentiaire, comme
+avec tous services ou toutes personnes étrangers à cette administration, ont exclusivement lieu par l'intermédiaire du
+directeur des affaires criminelles et des grâces, éventuellement avec le concours du directeur de l'administration
+pénitentiaire, sous l'autorité et d'après les instructions du ministre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+_Modifié par_:
+
+  - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
+
+
+#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=312></a>
 
 ###### Article D531
 
@@ -22632,7 +22660,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre V : Dispositions diverses<a id=312></a>
+#### Chapitre V : Dispositions diverses<a id=313></a>
 
 ###### Article D543
 
@@ -22654,11 +22682,11 @@ _Abrogé par_:
   - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 
-### Titre IV : Du sursis<a id=313></a>
+### Titre IV : Du sursis<a id=314></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=314></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=315></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=315></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=316></a>
 
 ###### Article D545
 
@@ -23182,7 +23210,7 @@ _Abrogé par_:
   - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
-### Titre VI : De la contrainte par corps<a id=316></a>
+### Titre VI : De la contrainte par corps<a id=317></a>
 
 ###### Article D569
 
@@ -23212,17 +23240,17 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-# Partie Arrêtés<a id=317></a>
+# Partie Arrêtés<a id=318></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=318></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=319></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=319></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=320></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=320></a>
+#### Chapitre Ier : De la police judiciaire<a id=321></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=321></a>
+##### Section 2 : Des officiers de police judiciaire<a id=322></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=322></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=323></a>
 
 ###### Article A1
 
@@ -23429,7 +23457,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=323></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=324></a>
 
 ###### Article A2
 
@@ -23554,7 +23582,7 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-##### Paragraphe 3 : Désignation des officiers de police de la préfecture de police<a id=324></a>
+##### Paragraphe 3 : Désignation des officiers de police de la préfecture de police<a id=325></a>
 
 ###### Article A26
 
@@ -23805,15 +23833,15 @@ _Abrogé par_:
   - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
 
 
-## Livre V : Des procédures d'exécution<a id=325></a>
+## Livre V : Des procédures d'exécution<a id=326></a>
 
-### Titre IV : Du sursis<a id=326></a>
+### Titre IV : Du sursis<a id=327></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=327></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=328></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=328></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=329></a>
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=329></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=330></a>
 
 ###### Article A50
 
@@ -23854,9 +23882,9 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=330></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=331></a>
 
-#### Disposition générale<a id=331></a>
+#### Disposition générale<a id=332></a>
 
 ###### Article A53
 
@@ -23874,7 +23902,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=332></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=333></a>
 
 ###### Article A56
 
