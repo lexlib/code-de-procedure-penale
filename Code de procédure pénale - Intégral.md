@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-12-29
+Version Consolidée au 1999-01-07
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -28,7 +28,7 @@ Version Consolidée au 1998-12-29
           - [Section 1 : Dispositions générales (art. 79 à 84)](#25)
           - [Section 2 : De la constitution de la partie civile et de ses effets (art. 85 à 91)](#26)
           - [Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications (art. 92 à 100-7)](#27)
-            - [Sous-section 1 : Des transports, des perquisitions et des saisies (art. 92 à 99)](#28)
+            - [Sous-section 1 : Des transports, des perquisitions et des saisies (art. 92 à 99-1)](#28)
             - [Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications (art. 100 à 100-7)](#29)
           - [Section 4 : Des auditions de témoins (art. 101 à 113)](#30)
           - [Section 5 : Des interrogatoires et confrontations (art. 114 à 121)](#31)
@@ -5988,6 +5988,61 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°93-2 du 4 janvier 1993 - art. 163 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+
+
+###### Article 99-1
+
+Lorsque, au cours d'une procédure judiciaire ou des contrôles mentionnés à l'article 283-5 du code rural, il a été procédé à
+la saisie ou au retrait, à quelque titre que ce soit, d'un ou plusieurs animaux vivants, le procureur de la République près
+le tribunal de grande instance du lieu de l'infraction ou, lorsqu'il est saisi, le juge d'instruction peut placer l'animal
+dans un lieu de dépôt prévu à cet effet et qu'il désigne, jusqu'à ce qu'il ait été statué sur l'infraction.
+
+Lorsque les conditions du placement sont susceptibles de rendre l'animal dangereux ou de mettre sa santé en péril, le juge
+d'instruction, lorsqu'il est saisi, ou le président du tribunal de grande instance ou un magistrat du siège délégué par lui
+peut, par ordonnance motivée prise sur les réquisitions du procureur de la République et après avis d'un vétérinaire,
+ordonner qu'il sera cédé à titre onéreux ou confié à un tiers ou qu'il sera procédé à son euthanasie.
+
+Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la déférer soit au premier président de la cour
+d'appel du ressort ou à un magistrat de cette cour désigné par lui, soit, lorsqu'il s'agit d'une ordonnance du juge
+d'instruction, à la chambre de l'instruction dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+
+Le produit de la vente de l'animal est consigné pendant une durée de cinq ans. Lorsque l'instance judiciaire qui a motivé la
+saisie se conclut par un non-lieu ou par une décision de relaxe, le produit de la vente est restitué à la personne qui était
+propriétaire de l'animal au moment de la saisie si celle-ci en fait la demande. Dans le cas où l'animal a été confié à un
+tiers, son propriétaire peut saisir le magistrat désigné au deuxième alinéa d'une requête tendant à la restitution de
+l'animal.
+
+Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la charge du propriétaire, sauf décision contraire
+du magistrat désigné au deuxième alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond. Cette
+exonération peut également être accordée en cas de non-lieu ou de relaxe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°99-5 du 6 janvier 1999 - art. 9 () JORF 7 janvier 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 99 (M)
+  - Code rural 283-5
+
+_Cité par_:
+
+  - Code pénal - art. R131-51 (V)
+  - Code rural - art. L911-29 (T)
+  - Code rural ancien - art. 213-7 (Ab)
+  - Code rural et  de la pêche maritime - art. L211-29 (V)
+  - Code rural et de la pêche maritime - art. L211-15 (VD)
+  - Code rural et de la pêche maritime - art. L214-23 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code rural - art. L211-29 (V)
 
 
 ##### Sous-section 2 : Des interceptions de correspondances émises par la voie des télécommunications<a id=29></a>
