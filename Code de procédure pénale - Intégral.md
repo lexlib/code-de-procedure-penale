@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-01-01
+Version Consolidée au 1979-01-18
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -242,7 +242,7 @@ Version Consolidée au 1979-01-01
             - [Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi (art. R245 à R247)](#239)
             - [Paragraphe 3 : Régularisation des dépenses - Recouvrement (art. R248)](#240)
     - [Dispositions générales (art. R250)](#241)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#242)
+  - [Partie réglementaire - Décrets simples (art. D1 à D573)](#242)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D1 à D47)](#243)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D1 à D15)](#244)
         - [Chapitre Ier : De la police judiciaire (art. D1 à D15)](#245)
@@ -262,7 +262,7 @@ Version Consolidée au 1979-01-01
           - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#259)
     - [Livre IV : De quelques procédures particulières (art. D47-1)](#260)
       - [Titre II : Du faux (art. D47-1)](#261)
-    - [Livre V : Des procédures d'exécution (art. D48 à D569)](#262)
+    - [Livre V : Des procédures d'exécution (art. D48 à D572)](#262)
       - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49)](#263)
       - [Titre II : De la détention (art. D52 à D519)](#264)
         - [Chapitre Ier : De l'exécution de la détention provisoire (art. D56 à D69)](#265)
@@ -381,30 +381,32 @@ Version Consolidée au 1979-01-01
         - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#378)
           - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#379)
       - [Titre VI : De la contrainte par corps (art. D569)](#380)
-  - [Partie Arrêtés (art. A1 à A57)](#381)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#382)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#383)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#384)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#385)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#386)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#387)
-    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#388)
-      - [Titre II : De la détention (art. A39-1 à A43-1)](#389)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#390)
-          - [Section 5 (art. A39-1 à A39-2)](#391)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#392)
-          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#393)
-            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#394)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#395)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#396)
-      - [Titre IV : Du sursis (art. A45 à A52)](#397)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#398)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#399)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#400)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#401)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#402)
-        - [Disposition générale (art. A53)](#403)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#404)
+      - [Titre XI : Le comité de probation et d'assistance aux libérés (art. D572)](#381)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D573)](#382)
+  - [Partie Arrêtés (art. A1 à A57)](#383)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#384)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#385)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#386)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#387)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#388)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#389)
+    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#390)
+      - [Titre II : De la détention (art. A39-1 à A43-1)](#391)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#392)
+          - [Section 5 (art. A39-1 à A39-2)](#393)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#394)
+          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#395)
+            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#396)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#397)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#398)
+      - [Titre IV : Du sursis (art. A45 à A52)](#399)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#400)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#401)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#402)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#403)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#404)
+        - [Disposition générale (art. A53)](#405)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#406)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -35271,17 +35273,76 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-# Partie Arrêtés<a id=381></a>
+### Titre XI : Le comité de probation et d'assistance aux libérés<a id=381></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=382></a>
+###### Article D572
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=383></a>
+Le présent code, ainsi que les décrets qui le modifient est applicable aux départements de la Guadeloupe, de la Guyane, de la
+Martinique, de la Réunion et de Saint-Pierre-et-Miquelon.
 
-#### Chapitre Ier : De la police judiciaire<a id=384></a>
+**Liens relatifs à cet article**
 
-##### Section 2 : Des officiers de police judiciaire<a id=385></a>
+_Codifié par_:
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=386></a>
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
+  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. D599 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A44 (V)
+  - Code de procédure pénale - art. D49-1-1 (VD)
+
+
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=382></a>
+
+###### Article D573
+
+Des arrêtés du ministre de la justice déterminent, en tant que de besoin, les adaptations jugées nécessaires à l'application
+des titres II, III, IV et VI du livre V du code de procédure pénale (3° partie : Décrets) dans les départements de la
+Guadeloupe, de la Guyane, de la Martinique de la Réunion et de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°79-37 1979-01-10 art. 5 JORF 18 janvier 1979
+  - Décret n°64-119 1964-02-04 art. 4 JORF 9 février 1964
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. D600 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D438 (V)
+  - Code de procédure pénale - art. D457 (T)
+  - Code de procédure pénale - art. D514-1 (V)
+  - Code de procédure pénale - art. D572 (V)
+
+
+# Partie Arrêtés<a id=383></a>
+
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=384></a>
+
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=385></a>
+
+#### Chapitre Ier : De la police judiciaire<a id=386></a>
+
+##### Section 2 : Des officiers de police judiciaire<a id=387></a>
+
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=388></a>
 
 ###### Article A1
 
@@ -35519,7 +35580,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=387></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=389></a>
 
 ###### Article A2
 
@@ -35644,13 +35705,13 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=388></a>
+## Livre V : Des procédures d'exécution<a id=390></a>
 
-### Titre II : De la détention<a id=389></a>
+### Titre II : De la détention<a id=391></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=390></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=392></a>
 
-##### Section 5<a id=391></a>
+##### Section 5<a id=393></a>
 
 ###### Article A39-1
 
@@ -35698,11 +35759,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=392></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=394></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=393></a>
+##### Section 1 : De la gestion des biens des détenus<a id=395></a>
 
-##### Paragraphe 1er : Pécule.<a id=394></a>
+##### Paragraphe 1er : Pécule.<a id=396></a>
 
 ###### Article A42-1
 
@@ -35765,9 +35826,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=395></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=397></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=396></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=398></a>
 
 ###### Article A43
 
@@ -35826,13 +35887,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=397></a>
+### Titre IV : Du sursis<a id=399></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=398></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=400></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=399></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=401></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=400></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=402></a>
 
 ###### Article A45
 
@@ -35893,7 +35954,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=401></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=403></a>
 
 ###### Article A48
 
@@ -35994,9 +36055,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=402></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=404></a>
 
-#### Disposition générale<a id=403></a>
+#### Disposition générale<a id=405></a>
 
 ###### Article A53
 
@@ -36014,7 +36075,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=404></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=406></a>
 
 ###### Article A54
 
