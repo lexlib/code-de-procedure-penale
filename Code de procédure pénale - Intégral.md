@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-06-03
+Version Consolidée au 2001-06-09
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -570,14 +570,12 @@ Version Consolidée au 2001-06-03
             - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#567)
         - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#568)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#569)
-      - [Titre IV : Du sursis (art. A45 à A52)](#570)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#571)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#572)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#573)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#574)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#575)
-        - [Disposition générale (art. A53)](#576)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#577)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#570)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#571)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#572)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#573)
+        - [Disposition générale (art. A53)](#574)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#575)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -75666,25 +75664,1598 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=570></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=570></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=571></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=571></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=572></a>
+###### Article A44
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=573></a>
+Le siège des services pénitentiaires d'insertion et de probation et la liste des antennes locales d'insertion et de probation
+prévus à l'article D. 572 sont fixés conformément au tableau ci-dessous : 
+
+SERVICE PÉNITENTIAIRE
+
+d'insertion et de probation
+
+SIÈGE
+
+ANTENNES
+
+RESSORT DE COMPÉTENCE
+
+Service pénitentiaire d'insertion et de probation de l'Ain. 
+
+Bourg-en-Bresse. 
+
+Antenne de Bourg-en-Bresse. 
+
+Circonscription judiciaire de Bourg-en-Bresse. 
+
+Maison d'arrêt de Bourg-en-Bresse. 
+
+Antenne de Belley. 
+
+Circonscription judiciaire de Belley. 
+
+Service pénitentiaire d'insertion et de probation de l'Aisne. 
+
+Laon. 
+
+Antenne de Laon. 
+
+Circonscription judiciaire de Laon. 
+
+Centre pénitentiaire de Laon. 
+
+Antenne de Saint-Quentin. 
+
+Circonscription judiciaire de Saint-Quentin. 
+
+Antenne de Soissons. 
+
+Circonscription judiciaire de Soissons. 
+
+Antenne de Château-Thierry. 
+
+Centre pénitentiaire de Château-Thierry. 
+
+Service pénitentiaire d'insertion et de probation de l'Allier. 
+
+Moulins. 
+
+Antenne de Moulins-Yzeure. 
+
+Circonscription judiciaire de Moulins. 
+
+Centre pénitentiaire de Moulins-Yzeure. 
+
+Antenne de Montluçon. 
+
+Circonscription judiciaire de Montluçon. 
+
+Maison d'arrêt de Montluçon. 
+
+Antenne de Cusset. 
+
+Circonscription judiciaire de Cusset. 
+
+Service pénitentiaire d'insertion et de probation des Alpes-de-Haute-Provence. 
+
+Digne. 
+
+Néant. 
+
+Circonscription judiciaire de Digne. 
+
+Maison d'arrêt de Digne. 
+
+Service pénitentiaire d'insertion et de probation des Hautes-Alpes. 
+
+Gap. 
+
+Néant. 
+
+Circonscription judiciaire de Gap. 
+
+Maison d'arrêt de Gap. 
+
+Service pénitentiaire d'insertion et de probation des Alpes-Maritimes. 
+
+Nice. 
+
+Antenne de Nice. 
+
+Circonscription judiciaire de Nice. 
+
+Maison d'arrêt de Nice. 
+
+Antenne de Grasse. 
+
+Circonscription judiciaire de Grasse. 
+
+Maison d'arrêt de Grasse. 
+
+Service pénitentiaire d'insertion et de probation de l'Ardèche. 
+
+Privas. 
+
+Néant. 
+
+Circonscription judiciaire de Privas. 
+
+Maison d'arrêt de Privas. 
+
+Service pénitentiaire d'insertion et de probation des Ardennes. 
+
+Charleville-Mézières. 
+
+Néant. 
+
+Circonscription judiciaire de Charleville-Mézières. 
+
+Maison d'arrêt de Charleville-Mézières. 
+
+Service pénitentiaire d'insertion et de probation de l'Ariège. 
+
+Foix. 
+
+Néant. 
+
+Circonscription judiciaire de Foix. 
+
+Maison d'arrêt de Foix. 
+
+Service pénitentiaire d'insertion et de probation de l'Aube. 
+
+Troyes. 
+
+Antenne de Troyes. 
+
+Circonscription judiciaire de Troyes. 
+
+Maison d'arrêt de Troyes. 
+
+Antenne de Villenauxe-la-Grande. 
+
+Centre de détention régional de Villenauxe-la-Grande. 
+
+Antenne de Clairvaux. 
+
+Centre pénitentiaire de Clairvaux. 
+
+Service pénitentiaire d'insertion et de probation de l'Aude. 
+
+Carcassonne. 
+
+Antenne de Carcassonne. 
+
+Circonscription judiciaire de Carcassonne. 
+
+Maison d'arrêt de Carcassonne. 
+
+Antenne de Narbonne. 
+
+Circonscription judiciaire de Narbonne. 
+
+Service pénitentiaire d'insertion et de probation de l'Aveyron. 
+
+Rodez. 
+
+Antenne de Rodez. 
+
+Circonscription judiciaire de Rodez. 
+
+Maison d'arrêt de Rodez. 
+
+Antenne de Millau. 
+
+Circonscription judiciaire de Millau. 
+
+Service pénitentiaire d'insertion et de probation des Bouches-du-Rhône. 
+
+Marseille. 
+
+Antenne de Marseille. 
+
+Circonscription judiciaire de Marseille. 
+
+Centre pénitentiaire de Marseille. 
+
+Antenne d'Aix-Salon-de-Provence. 
+
+Circonscription judiciaire d'Aix-en-Provence. 
+
+Maison d'arrêt d'Aix-Luynes. 
+
+Centre de détention régional de Salon-de-Provence. 
+
+Antenne d'Arles-Tarascon. 
+
+Maison centrale d'Arles. 
+
+Circonscription judiciaire de Tarascon. 
+
+Centre de détention régional de Tarascon. 
+
+Service pénitentiaire d'insertion et de probation du Calvados. 
+
+Caen. 
+
+Antenne de Caen. 
+
+Circonscription judiciaire de Caen. 
+
+Maison d'arrêt de Caen. 
+
+Centre pénitentiaire de Caen. 
+
+Antenne de Lisieux. 
+
+Circonscription judiciaire de Lisieux. 
+
+Service pénitentiaire d'insertion et de probation du Cantal. 
+
+Aurillac. 
+
+Néant. 
+
+Circonscription judiciaire d'Aurillac. 
+
+Maison d'arrêt d'Aurillac. 
+
+Service pénitentiaire d'insertion et de probation de la Charente. 
+
+Angoulême. 
+
+Néant. 
+
+Circonscription judiciaire d'Angoulême. 
+
+Maison d'arrêt d'Angoulême. 
+
+Service pénitentiaire d'insertion et de probation de la Charente-Maritime. 
+
+La Rochelle. 
+
+Antenne de La Rochelle-Saint-Martin-de-Ré. 
+
+Circonscription judiciaire de La Rochelle. 
+
+Maison centrale de Saint-Martin-de-Ré. 
+
+Antenne de Saintes-Bédenac. 
+
+Circonscription judiciaire de Saintes. 
+
+Maison d'arrêt de Saintes. 
+
+Centre de détention régional de Bédenac. 
+
+Antenne de Rochefort. 
+
+Circonscription judiciaire de Rochefort. 
+
+Maison d'arrêt de Rochefort. 
+
+Service pénitentiaire d'insertion et de probation du Cher. 
+
+Bourges. 
+
+Néant. 
+
+Circonscription judiciaire de Bourges. 
+
+Maison d'arrêt de Bourges. 
+
+Service pénitentiaire d'insertion et de probation de la Corrèze. 
+
+Tulle. 
+
+Antenne de Tulle. 
+
+Circonscription judiciaire de Tulle. 
+
+Maison d'arrêt de Tulle. 
+
+Antenne de Brive. 
+
+Circonscription judiciaire de Brive. 
+
+Antenne d'Uzerche. 
+
+Centre de détention régional d'Uzerche. 
+
+Service pénitentiaire d'insertion et de probation de la Corse-du-Sud. 
+
+Ajaccio. 
+
+Néant. 
+
+Circonscription judiciaire d'Ajaccio. 
+
+Maison d'arrêt d'Ajaccio. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Corse. 
+
+Bastia. 
+
+Antenne de Bastia. 
+
+Circonscription judiciaire de Bastia. 
+
+Maison d'arrêt de Borgo. 
+
+Antenne de Casabianda. 
+
+Centre de détention national de Casabianda. 
+
+Service pénitentiaire d'insertion et de probation de la Côte-d'Or. 
+
+Dijon. 
+
+Néant. 
+
+Circonscription judiciaire de Dijon. 
+
+Maison d'arrêt de Dijon. 
+
+Service pénitentiaire d'insertion et de probation des Côtes-d'Armor. 
+
+Saint-Brieuc. 
+
+Antenne de Saint-Brieuc. 
+
+Circonscription judiciaire de Saint-Brieuc. 
+
+Maison d'arrêt de Saint-Brieuc. 
+
+Antenne de Dinan. 
+
+Circonscription judiciaire de Dinan. 
+
+Antenne de Guingamp. 
+
+Circonscription judiciaire de Guingamp. 
+
+Service pénitentiaire d'insertion et de probation de la Creuse. 
+
+Guéret. 
+
+Néant. 
+
+Circonscription judiciaire de Guéret. 
+
+Maison d'arrêt de Guéret. 
+
+Service pénitentiaire d'insertion et de probation de la Dordogne. 
+
+Périgueux. 
+
+Antenne de Périgueux-Neuvic. 
+
+Maison d'arrêt de Périgueux. 
+
+Centre de détention régional de Neuvic-sur-l'Isle. 
+
+Antenne de Bergerac-Mauzac. 
+
+Circonscription judiciaire de Bergerac. 
+
+Centre de détention national de Mauzac. 
+
+Service pénitentiaire d'insertion et de probation du Doubs. 
+
+Besançon. 
+
+Antenne de Besançon. 
+
+Circonscription judiciaire de Besançon. 
+
+Maison d'arrêt de Besançon. 
+
+Centre de semi-liberté de Besançon. 
+
+Antenne de Montbéliard. 
+
+Circonscription judiciaire de Montbéliard. 
+
+Maison d'arrêt de Montbéliard. 
+
+Service pénitentiaire d'insertion et de probation de la Drôme. 
+
+Valence. 
+
+Néant. 
+
+Circonscription judiciaire de Valence. 
+
+Maison d'arrêt de Valence. 
+
+Service pénitentiaire d'insertion et de probation de l'Eure. 
+
+Evreux. 
+
+Antenne d'Evreux. 
+
+Circonscription judiciaire d'Evreux. 
+
+Maison d'arrêt d'Evreux. 
+
+Antenne de Bernay. 
+
+Circonscription judiciaire de Bernay. 
+
+Antenne de Val-de-Reuil. 
+
+Centre de détention national de Val-de-Reuil. 
+
+Service pénitentiaire d'insertion et de probation d'Eure-et-Loir. 
+
+Chartres. 
+
+Néant. 
+
+Circonscription judiciaire de Chartres. 
+
+Maison d'arrêt de Chartres. 
+
+Centre de détention régional de Châteaudun. 
+
+Service pénitentiaire d'insertion et de probation du Finistère. 
+
+Brest. 
+
+Antenne de Brest. 
+
+Circonscription judiciaire de Brest. 
+
+Maison d'arrêt de Brest. 
+
+Antenne de Quimper. 
+
+Circonscription judiciaire de Quimper. 
+
+Antenne de Morlaix. 
+
+Circonscription judiciaire de Morlaix. 
+
+Service pénitentiaire d'insertion et de probation du Gard. 
+
+Nîmes. 
+
+Antenne de Nîmes. 
+
+Circonscription judiciaire de Nîmes. 
+
+Maison d'arrêt de Nîmes. 
+
+Antenne d'Alès. 
+
+Circonscription judiciaire d'Alès. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Garonne. 
+
+Toulouse. 
+
+Antenne de Toulouse. 
+
+Circonscription judiciaire de Toulouse. 
+
+Maison d'arrêt de Toulouse. 
+
+Centre de semi-liberté de Toulouse. 
+
+Antenne de Muret. 
+
+Centre de détention national de Muret. 
+
+Antenne de Saint-Gaudens. 
+
+Circonscription judiciaire de Saint-Gaudens. 
+
+Service pénitentiaire d'insertion et de probation du Gers. 
+
+Auch. 
+
+Néant. 
+
+Circonscription judiciaire d'Auch. 
+
+Service pénitentiaire d'insertion et de probation de la Gironde. 
+
+Bordeaux. 
+
+Antenne de Bordeaux-Gradignan. 
+
+Circonscription judiciaire de Bordeaux. 
+
+Maison d'arrêt de Bordeaux-Gradignan. 
+
+Antenne de Libourne. 
+
+Circonscription judiciaire de Libourne. 
+
+Service pénitentiaire d'insertion et de probation de l'Hérault. 
+
+Montpellier. 
+
+Antenne de Montpellier-Villeneuve-lès-Maguelone. 
+
+Circonscription judiciaire de Montpellier. 
+
+Maison d'arrêt de Villeneuve-lès-Maguelone. 
+
+Centre de semi-liberté de Montpellier. 
+
+Antenne de Béziers. 
+
+Circonscription judiciaire de Béziers. 
+
+Maison d'arrêt de Béziers. 
+
+Service pénitentiaire d'insertion et de probation d'Ille-et-Vilaine. 
+
+Rennes. 
+
+Antenne de Rennes. 
+
+Circonscription judiciaire de Rennes. 
+
+Maison d'arrêt de Rennes. 
+
+Centre pénitentiaire de Rennes. 
+
+Antenne de Saint-Malo. 
+
+Circonscription judiciaire de Saint-Malo. 
+
+Maison d'arrêt de Saint-Malo. 
+
+Service pénitentiaire d'insertion et de probation de l'Indre. 
+
+Châteauroux. 
+
+Antenne de Châteauroux. 
+
+Circonscription judiciaire de Châteauroux. 
+
+Centre pénitentiaire de Châteauroux. 
+
+Antenne de Saint-Maur. 
+
+Maison centrale de Saint-Maur. 
+
+Service pénitentiaire d'insertion et de probation d'Indre-et-Loire. 
+
+Tours. 
+
+Néant. 
+
+Circonscription judiciaire de Tours. 
+
+Maison d'arrêt de Tours. 
+
+Service pénitentiaire d'insertion et de probation de l'Isère. 
+
+Grenoble. 
+
+Antenne de Grenoble. 
+
+Circonscription judiciaire de Grenoble. 
+
+Maison d'arrêt de Grenoble. 
+
+Centre de semi-liberté de Grenoble. 
+
+Antenne de Vienne-Saint-Quentin-Fallavier. 
+
+Circonscription judiciaire de Vienne. 
+
+Centre pénitentiaire de Saint-Quentin-Fallavier. 
+
+Antenne de Bourgoin-Jallieu. 
+
+Circonscription judiciaire de Bourgoin-Jallieu. 
+
+Service pénitentiaire d'insertion et de probation du Jura. 
+
+Lons-le-Saunier. 
+
+Antenne de Lons-le-Saunier. 
+
+Circonscription judiciaire de Lons-le-Saunier. 
+
+Maison d'arrêt de Lons-le-Saunier. 
+
+Antenne de Dole. 
+
+Circonscription judiciaire de Dole. 
+
+Service pénitentiaire d'insertion et de probation des Landes. 
+
+Mont-de-Marsan. 
+
+Antenne de Mont-de-Marsan. 
+
+Circonscription judiciaire de Mont-de-Marsan. 
+
+Maison d'arrêt de Mont-de-Marsan. 
+
+Antenne de Dax. 
+
+Circonscription judiciaire de Dax. 
+
+Service pénitentiaire d'insertion et de probation de Loir-et-Cher. 
+
+Blois. 
+
+Néant. 
+
+Circonscription judiciaire de Blois. 
+
+Maison d'arrêt de Blois. 
+
+Service pénitentiaire d'insertion et de probation de la Loire. 
+
+Saint-Etienne. 
+
+Antenne de Saint-Etienne. 
+
+Circonscription judiciaire de Saint-Etienne. 
+
+Maison d'arrêt de Saint-Etienne. 
+
+Antenne de Montbrison. 
+
+Circonscription judiciaire de Montbrison. 
+
+Antenne de Roanne. 
+
+Circonscription judiciaire de Roanne. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Loire. 
+
+Le Puy-en-Velay. 
+
+Néant. 
+
+Circonscription judiciaire du Puy-en-Velay. 
+
+Maison d'arrêt du Puy-en-Velay. 
+
+Service pénitentiaire d'insertion et de probation de la Loire-Atlantique. 
+
+Nantes. 
+
+Antenne de Nantes. 
+
+Circonscription judiciaire de Nantes. 
+
+Centre pénitentiaire de Nantes (quartier de semi-liberté et maison d'arrêt de Nantes inclus). 
+
+Antenne de Saint-Nazaire. 
+
+Circonscription judiciaire de Saint-Nazaire. 
+
+Service pénitentiaire d'insertion et de probation du Loiret. 
+
+Orléans. 
+
+Antenne d'Orléans. 
+
+Circonscription judiciaire d'Orléans. 
+
+Maison d'arrêt d'Orléans. 
+
+Antenne de Montargis. 
+
+Circonscription judiciaire de Montargis. 
+
+Centre de semi-liberté de Montargis. 
+
+Service pénitentiaire d'insertion et de probation du Lot. 
+
+Cahors. 
+
+Néant. 
+
+Circonscription judiciaire de Cahors. 
+
+Maison d'arrêt de Cahors. 
+
+Service pénitentiaire d'insertion et de probation de Lot-et-Garonne. 
+
+Agen. 
+
+Antenne d'Agen. 
+
+Circonscription judiciaire d'Agen. 
+
+Maison d'arrêt d'Agen. 
+
+Antenne de Marmande. 
+
+Circonscription judiciaire de Marmande. 
+
+Antenne d'Eysses. 
+
+Centre de détention national d'Eysses. 
+
+Service pénitentiaire d'insertion et de probation de la Lozère. 
+
+Mende. 
+
+Néant. 
+
+Circonscription judiciaire de Mende. 
+
+Maison d'arrêt de Mende. 
+
+Service pénitentiaire d'insertion et de probation de Maine-et-Loire. 
+
+Angers. 
+
+Antenne d'Angers. 
+
+Circonscription judiciaire d'Angers. 
+
+Maison d'arrêt d'Angers. 
+
+Antenne de Saumur. 
+
+Circonscription judiciaire de Saumur. 
+
+Service pénitentiaire d'insertion et de probation de la Manche. 
+
+Coutances. 
+
+Antenne de Coutances. 
+
+Circonscription judiciaire de Coutances. 
+
+Maison d'arrêt de Coutances. 
+
+Antenne de Cherbourg. 
+
+Circonscription judiciaire de Cherbourg. 
+
+Maison d'arrêt de Cherbourg. 
+
+Antenne d'Avranches. 
+
+Circonscription judiciaire d'Avranches. 
+
+Service pénitentiaire d'insertion et de probation de la Marne. 
+
+Châlons-en-Champagne. 
+
+Antenne de Châlons-en-Champagne. 
+
+Circonscription judiciaire de Châlons-en-Champagne. 
+
+Maison d'arrêt de Châlons-en-Champagne. 
+
+Antenne de Reims. 
+
+Circonscription judiciaire de Reims. 
+
+Maison d'arrêt de Reims. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Marne. 
+
+Chaumont. 
+
+Néant. 
+
+Circonscription judiciaire de Chaumont. 
+
+Maison d'arrêt de Chaumont. 
+
+Service pénitentiaire d'insertion et de probation de la Mayenne. 
+
+Laval. 
+
+Néant. 
+
+Circonscription judiciaire de Laval. 
+
+Maison d'arrêt de Laval. 
+
+Service pénitentiaire d'insertion et de probation de Meurthe-et-Moselle. 
+
+Nancy. 
+
+Antenne de Nancy. 
+
+Circonscription judiciaire de Nancy. 
+
+Maison d'arrêt de Nancy. 
+
+Centre de semi-liberté de Maxéville. 
+
+Antenne de Briey. 
+
+Circonscription judiciaire de Briey. 
+
+Centre de semi-liberté de Briey. 
+
+Antenne de Toul-Ecrouves.
+
+Centre de détention de Toul.  
+
+Centre de détention national d'Ecrouves. 
+
+Service pénitentiaire d'insertion et de probation de la Meuse. 
+
+Verdun. 
+
+Antenne de Verdun. 
+
+Circonscription judiciaire de Verdun. 
+
+Antenne de Bar-le-Duc. 
+
+Circonscription judiciaire de Bar-le-Duc. 
+
+Maison d'arrêt de Bar-le-Duc. 
+
+Antenne de Montmédy. 
+
+Centre de détention national de Montmédy. 
+
+Antenne de Saint-Mihiel. 
+
+Centre de détention régional de Saint-Mihiel. 
+
+Service pénitentiaire d'insertion et de probation du Morbihan. 
+
+Lorient. 
+
+Antenne de Lorient. 
+
+Circonscription judiciaire de Lorient. 
+
+Centre pénitentiaire de Lorient-Ploëmeur. 
+
+Antenne de Vannes. 
+
+Circonscription judiciaire de Vannes. 
+
+Maison d'arrêt de Vannes. 
+
+Service pénitentiaire d'insertion et de probation de la Moselle. 
+
+Metz. 
+
+Antenne de Metz. 
+
+Circonscription judiciaire de Metz. 
+
+Maison d'arrêt de Metz. 
+
+Centre de semi-liberté de Metz. 
+
+Antenne de Sarreguemines. 
+
+Circonscription judiciaire de Sarreguemines. 
+
+Maison d'arrêt de Sarreguemines. 
+
+Antenne de Thionville. 
+
+Circonscription judiciaire de Thionville. 
+
+Service pénitentiaire d'insertion et de probation de la Nièvre. 
+
+Nevers. 
+
+Néant. 
+
+Circonscription judiciaire de Nevers. 
+
+Maison d'arrêt de Nevers. 
+
+Service pénitentiaire d'insertion et de probation du Nord. 
+
+Lille. 
+
+Antenne de Lille-Loos. 
+
+Circonscription judiciaire de Lille. 
+
+Maison d'arrêt de Loos. 
+
+Centre de détention régional de Loos. 
+
+Centre de semi-liberté d'Haubourdin. 
+
+Antenne d'Avesnes-sur-Helpe-Maubeuge. 
+
+Circonscription judiciaire d'Avesnes-sur-Helpe. 
+
+Centre pénitentiaire de Maubeuge. 
+
+Antenne de Cambrai. 
+
+Circonscription judiciaire de Cambrai. 
+
+Antenne de Douai. 
+
+Circonscription judiciaire de Douai. 
+
+Maison d'arrêt de Douai. 
+
+Antenne de Dunkerque. 
+
+Circonscription judiciaire de Dunkerque. 
+
+Maison d'arrêt de Dunkerque. 
+
+Antenne d'Hazebrouck. 
+
+Circonscription judiciaire d'Hazebrouck. 
+
+Antenne de Valenciennes. 
+
+Circonscription judiciaire de Valenciennes. 
+
+Maison d'arrêt de Valenciennes. 
+
+Service pénitentiaire d'insertion et de probation de l'Oise. 
+
+Beauvais. 
+
+Antenne de Beauvais. 
+
+Circonscription judiciaire de Beauvais. 
+
+Maison d'arrêt de Beauvais. 
+
+Antenne de Compiègne. 
+
+Circonscription judiciaire de Compiègne. 
+
+Maison d'arrêt de Compiègne. 
+
+Antenne de Liancourt. 
+
+Centre de détention national de Liancourt. 
+
+Antenne de Senlis. 
+
+Circonscription judiciaire de Senlis. 
+
+Service pénitentiaire d'insertion et de probation de l'Orne. 
+
+Argentan. 
+
+Antenne d'Argentan. 
+
+Circonscription judiciaire d'Argentan. 
+
+Centre de détention régional d'Argentan. 
+
+Antenne d'Alençon. 
+
+Circonscription judiciaire d'Alençon. 
+
+Maison d'arrêt d'Alençon. 
+
+Service pénitentiaire d'insertion et de probation du Pas-de-Calais. 
+
+Arras. 
+
+Antenne d'Arras. 
+
+Circonscription judiciaire d'Arras. 
+
+Maison d'arrêt d'Arras. 
+
+Antenne de Bapaume. 
+
+Centre de détention national de Bapaume. 
+
+Antenne de Béthune. 
+
+Circonscription judiciaire de Béthune. 
+
+Maison d'arrêt de Béthune. 
+
+Antenne de Boulogne-sur-Mer. 
+
+Circonscription judiciaire de Boulogne-sur-Mer. 
+
+Antenne de Saint-Omer-Longuenesse. 
+
+Circonscription judiciaire de Saint-Omer. 
+
+Centre pénitentiaire de Longuenesse. 
+
+Service pénitentiaire d'insertion et de probation du Puy-de-Dôme. 
+
+Clermont-Ferrand. 
+
+Antenne de Clermont-Ferrand. 
+
+Circonscription judiciaire de Clermont-Ferrand. 
+
+Maison d'arrêt de Clermont-Ferrand. 
+
+Antenne de Riom. 
+
+Circonscription judiciaire de Riom. 
+
+Maison d'arrêt de Riom. 
+
+Maison centrale de Riom. 
+
+Service pénitentiaire d'insertion et de probation des Pyrénées-Atlantiques. 
+
+Pau. 
+
+Antenne de Pau. 
+
+Circonscription judiciaire de Pau. 
+
+Maison d'arrêt de Pau. 
+
+Antenne de Bayonne. 
+
+Circonscription judiciaire de Bayonne. 
+
+Maison d'arrêt de Bayonne. 
+
+Service pénitentiaire d'insertion et de probation des Hautes-Pyrénées. 
+
+Tarbes. 
+
+Antenne de Tarbes. 
+
+Circonscription judiciaire de Tarbes. 
+
+Maison d'arrêt de Tarbes. 
+
+Antenne de Lannemezan. 
+
+Circonscription pénitentiaire de Lannemezan. 
+
+Service pénitentiaire d'insertion et de probation des Pyrénées-Orientales. 
+
+Perpignan. 
+
+Néant. 
+
+Circonscription judiciaire de Perpignan. 
+
+Centre pénitentiaire de Perpignan (quartier de semi-liberté inclus). 
+
+Service pénitentiaire d'insertion et de probation du Bas-Rhin. 
+
+Schiltigheim. 
+
+Antenne de Strasbourg. 
+
+Circonscription judiciaire de Strasbourg. 
+
+Maison d'arrêt de Strasbourg. 
+
+Centre de semi-liberté de Souffelweyersheim. 
+
+Antenne de Saverne-Oermingen. 
+
+Circonscription judiciaire de Saverne. 
+
+Centre de détention régional d'Oermingen. 
+
+Service pénitentiaire d'insertion et de probation du Haut-Rhin. 
+
+Colmar. 
+
+Antenne de Colmar. 
+
+Circonscription judiciaire de Colmar. 
+
+Maison d'arrêt de Colmar. 
+
+Antenne de Mulhouse. 
+
+Circonscription judiciaire de Mulhouse. 
+
+Maison d'arrêt de Mulhouse (quartier de semi-liberté inclus). 
+
+Antenne d'Ensisheim. 
+
+Maison centrale d'Ensisheim. 
+
+Service pénitentiaire d'insertion et de probation du Rhône. 
+
+Lyon. 
+
+Antenne de Lyon. 
+
+Circonscription judiciaire de Lyon. 
+
+Maison d'arrêt de Lyon-Saint-Paul (quartier maison d'arrêt Saint-Joseph inclus). 
+
+Maison d'arrêt de Lyon-Montluc. 
+
+Centre de semi-liberté de Lyon. 
+
+Antenne de Villefranche-sur-Saône. 
+
+Circonscription judiciaire de Villefranche-sur-Saône. 
+
+Maison d'arrêt de Villefranche-sur-Saône. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Saône. 
+
+Vesoul. 
+
+Antenne de Vesoul. 
+
+Circonscription judiciaire de Vesoul. 
+
+Maison d'arrêt de Vesoul. 
+
+Antenne de Lure. 
+
+Circonscription judiciaire de Lure. 
+
+Maison d'arrêt de Lure. 
+
+Service pénitentiaire d'insertion et de probation de Saône-et-Loire. 
+
+Mâcon. 
+
+Antenne de Mâcon. 
+
+Circonscription judiciaire de Mâcon. 
+
+Antenne de Chalon-sur-Saône-Varennes-le-Grand. 
+
+Circonscription judiciaire de Chalon-sur-Saône. 
+
+Centre pénitentiaire de Varennes-le-Grand. 
+
+Service pénitentiaire d'insertion et de probation de la Sarthe. 
+
+Le Mans. 
+
+Néant. 
+
+Circonscription judiciaire du Mans. 
+
+Maison d'arrêt du Mans. 
+
+Service pénitentiaire d'insertion et de probation de la Savoie. 
+
+Chambéry. 
+
+Antenne de Chambéry. 
+
+Circonscription judiciaire de Chambéry. 
+
+Maison d'arrêt de Chambéry. 
+
+Antenne d'Albertville-Aiton. 
+
+Circonscription judiciaire d'Albertville. 
+
+Centre pénitentiaire d'Aiton. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Savoie. 
+
+Annecy. 
+
+Antenne d'Annecy. 
+
+Circonscription judiciaire d'Annecy. 
+
+Antenne de Bonneville. 
+
+Circonscription judiciaire de Bonneville. 
+
+Maison d'arrêt de Bonneville. 
+
+Antenne de Thonon-les-Bains. 
+
+Circonscription judiciaire de Thonon-les-Bains. 
+
+Service pénitentiaire d'insertion et de probation de Paris. 
+
+Paris. 
+
+Néant. 
+
+Circonscription judiciaire de Paris. 
+
+Maison d'arrêt de Paris-La Santé. 
+
+Service pénitentiaire d'insertion et de probation de la Seine-Maritime. 
+
+Rouen. 
+
+Antenne de Rouen. 
+
+Circonscription judiciaire de Rouen. 
+
+Maison d'arrêt de Rouen. 
+
+Antenne de Dieppe. 
+
+Circonscription judiciaire de Dieppe. 
+
+Antenne du Havre. 
+
+Circonscription judiciaire du Havre. 
+
+Maison d'arrêt du Havre. 
+
+Service pénitentiaire d'insertion et de probation de Seine-et-Marne. 
+
+Melun. 
+
+Antenne de Melun. 
+
+Circonscription judiciaire de Melun. 
+
+Maison d'arrêt de Melun. 
+
+Centre de détention national de Melun. 
+
+Antenne de Fontainebleau. 
+
+Circonscription judiciaire de Fontainebleau. 
+
+Antenne de Meaux. 
+
+Circonscription judiciaire de Meaux. 
+
+Maison d'arrêt de Meaux. 
+
+Service pénitentiaire d'insertion et de probation des Yvelines. 
+
+Versailles. 
+
+Antenne de Versailles-Bois-d'Arcy. 
+
+Circonscription judiciaire de Versailles. 
+
+Maison d'arrêt de Versailles (quartier des semi-liberté inclus). 
+
+Maison d'arrêt de Bois-d'Arcy. 
+
+Antenne de Poissy. 
+
+Maison centrale de Poissy. 
+
+Service pénitentiaire d'insertion et de probation des Deux-Sèvres. 
+
+Niort. 
+
+Antenne de Niort. 
+
+Circonscription judiciaire de Niort. 
+
+Maison d'arrêt de Niort. 
+
+Antenne de Bressuire. 
+
+Circonscription judiciaire de Bressuire. 
+
+Service pénitentiaire d'insertion et de probation de la Somme. 
+
+Amiens. 
+
+Antenne d'Amiens. 
+
+Circonscription judiciaire d'Amiens. 
+
+Maison d'arrêt d'Amiens. 
+
+Antenne d'Abbeville. 
+
+Circonscription judiciaire d'Abbeville. 
+
+Antenne de Péronne. 
+
+Circonscription judiciaire de Péronne. 
+
+Service pénitentiaire d'insertion et de probation du Tarn. 
+
+Albi. 
+
+Antenne d'Albi. 
+
+Circonscription judiciaire d'Albi. 
+
+Maison d'arrêt d'Albi. 
+
+Antenne de Castres. 
+
+Circonscription judiciaire de Castres. 
+
+Antenne de Saint-Sulpice-la-Pointe. 
+
+Centre de détention régional de Saint-Sulpice-la-Pointe. 
+
+Service pénitentiaire d'insertion et de probation de Tarn-et-Garonne. 
+
+Montauban. 
+
+Néant. 
+
+Circonscription judiciaire de Montauban. 
+
+Maison d'arrêt de Montauban. 
+
+Service pénitentiaire d'insertion et de probation du Var. 
+
+Toulon. 
+
+Antenne de Toulon. 
+
+Circonscription judiciaire de Toulon. 
+
+Maison d'arrêt de Toulon. 
+
+Antenne de Draguignan. 
+
+Circonscription judiciaire de Draguignan. 
+
+Centre pénitentiaire de Draguignan. 
+
+Service pénitentiaire d'insertion et de probation de Vaucluse. 
+
+Avignon. 
+
+Antenne d'Avignon. 
+
+Circonscription judiciaire d'Avignon. 
+
+Maison d'arrêt d'Avignon. 
+
+Antenne de Carpentras. 
+
+Circonscription judiciaire de Carpentras. 
+
+Service pénitentiaire d'insertion et de probation de la Vendée. 
+
+La Roche-sur-Yon. 
+
+Antenne de La Roche-sur-Yon-Fontenay-le-Comte. 
+
+Circonscription judiciaire de La Roche-sur-Yon. 
+
+Maison d'arrêt de La Roche-sur-Yon. 
+
+Maison d'arrêt de Fontenay-le-Comte. 
+
+Antenne des Sables-d'Olonne. 
+
+Circonscription judiciaire des Sables-d'Olonne. 
+
+Service pénitentiaire d'insertion et de probation de la Vienne. 
+
+Poitiers. 
+
+Néant. 
+
+Circonscription judiciaire de Poitiers. 
+
+Maison d'arrêt de Poitiers. 
+
+Service pénitentiaire d'insertion et de probation de la Haute-Vienne. 
+
+Limoges. 
+
+Néant. 
+
+Circonscription judiciaire de Limoges. 
+
+Maison d'arrêt de Limoges. 
+
+Service pénitentiaire d'insertion et de probation des Vosges. 
+
+Epinal. 
+
+Antenne d'Epinal. 
+
+Circonscription judiciaire d'Epinal. 
+
+Maison d'arrêt d'Epinal. 
+
+Antenne de Saint-Dié. 
+
+Circonscription judiciaire de Saint-Dié. 
+
+Service pénitentiaire d'insertion et de probation de l'Yonne. 
+
+Auxerre. 
+
+Antenne d'Auxerre. 
+
+Circonscription judiciaire d'Auxerre. 
+
+Maison d'arrêt d'Auxerre. 
+
+Antenne de Sens. 
+
+Circonscription judiciaire de Sens. 
+
+Antenne de Joux-la-Ville. 
+
+Centre pénitentiaire de Joux-la-Ville. 
+
+Service pénitentiaire d'insertion et de probation du territoire de Belfort. 
+
+Belfort. 
+
+Néant. 
+
+Circonscription judiciaire de Belfort. 
+
+Maison d'arrêt de Belfort. 
+
+Service pénitentiaire d'insertion et de probation de l'Essonne. 
+
+Corbeil-Essonnes. 
+
+Antenne de Corbeil-Essonnes. 
+
+Circonscription judiciaire d'Evry. 
+
+Centre de semi-liberté de Corbeil. 
+
+Antenne de Fleury-Mérogis. 
+
+Maison d'arrêt de Fleury-Mérogis. 
+
+Service pénitentiaire d'insertion et de probation des Hauts-de-Seine. 
+
+Nanterre. 
+
+Néant. 
+
+Circonscription judiciaire de Nanterre. 
+
+Maison d'arrêt de Nanterre. 
+
+Service pénitentiaire d'insertion et de probation de la Seine-Saint-Denis. 
+
+Drancy. 
+
+Néant. 
+
+Circonscription judiciaire de Bobigny. 
+
+Maison d'arrêt de Villepinte. 
+
+Centre de semi-liberté de Gagny. 
+
+Service pénitentiaire d'insertion et de probation du Val-de-Marne. 
+
+Créteil. 
+
+Néant. 
+
+Circonscription judiciaire de Créteil. 
+
+Maison d'arrêt de Fresnes. 
+
+Etablissement public de santé national de Fresnes. 
+
+Centre national d'observation. 
+
+Centre de semi-liberté de Villejuif. 
+
+Service pénitentiaire d'insertion et de probation du Val-d'Oise. 
+
+Pontoise. 
+
+Néant. 
+
+Circonscription judiciaire de Pontoise. 
+
+Maison d'arrêt d'Osny-Pontoise. 
+
+Service pénitentiaire d'insertion et de probation de la Guadeloupe. 
+
+Pointe-à-Pitre. 
+
+Antenne de Pointe-à-Pitre-Baie-Mahault. 
+
+Circonscription judiciaire de Pointe-à-Pitre. 
+
+Centre pénitentiaire de Baie-Mahault. 
+
+Antenne de Basse-Terre. 
+
+Circonscription judiciaire de Basse-Terre. 
+
+Maison d'arrêt de Basse-Terre. 
+
+Service pénitentiaire d'insertion et de probation de la Martinique. 
+
+Fort-de-France. 
+
+Néant. 
+
+Circonscription judiciaire de Fort-de-France. 
+
+Centre pénitentiaire de Ducos. 
+
+Service pénitentiaire d'insertion et de probation de la Guyane. 
+
+Cayenne. 
+
+Néant. 
+
+Circonscription judiciaire de Cayenne. 
+
+Centre pénitentiaire de Remire-Montjoly. 
+
+Service pénitentiaire d'insertion et de probation de la Réunion. 
+
+Saint-Denis. 
+
+Antenne de Saint-Denis. 
+
+Circonscription judiciaire de Saint-Denis. 
+
+Maison d'arrêt de Saint-Denis. 
+
+Antenne de Saint-Pierre. 
+
+Circonscription judiciaire de Saint-Pierre. 
+
+Maison d'arrêt de Saint-Pierre. 
+
+Antenne du Port. 
+
+Centre pénitentiaire du Port.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
+
+_Cité par_:
+
+  - Arrêté du 29 mars 2011 - art. 3 (VD)
+  - Arrêté du 17 juin 2015 (V)
+  - Arrêté du 22 janvier 2016 (V)
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 2
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D572 (M)
+
+
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=572></a>
+
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=573></a>
 
 ###### Article A45
 
-Les délégués bénévoles visés à l'article D. 551 sont agréés par le juge de l'application des peines pour une période de deux
-ans renouvelable.
+Les personnes bénévoles visées à l'article D. 583 sont agréées pour une période de deux ans renouvelable. 
 
-Pour obtenir cet agrément, les requérants doivent être âgés de plus de vingt-et-un ans et satisfaire notamment aux conditions
-suivantes :
+Pour obtenir cet agrément, les requérants doivent être âgés de plus de vingt et un ans et satisfaire notamment aux conditions
+suivantes : 
 
-1° Ne pas avoir été condamnés pour faits contraires à la probité, aux bonnes moeurs ou à l'honneur ;
+1° Ne pas avoir fait l'objet d'une condamnation, d'une incapacité ou d'une déchéance mentionnées sur le bulletin n° 2 du
+casier judiciaire ; 
 
-2° S'engager à respecter l'obligation au secret visée à l'article D. 562.
+2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité et aux bonnes moeurs ayant donné lieu à une
+sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation. 
+
+L'agrément des personnes bénévoles est subordonné à un stage probatoire de six mois.
 
 **Liens relatifs à cet article**
 
@@ -75694,18 +77265,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
-  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+  - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D551 (Ab)
-  - CODE DE PROCEDURE PENALE - art. D562 (Ab)
+  - Code de procédure pénale - art. D583 (V)
 
 
 ###### Article A46
 
-L'agrément des délégués bénévoles est subordonné à un stage probatoire de six mois.
+En dehors des cas prévus par la loi, les personnes bénévoles visées à l'article D. 583 ne doivent divulguer aucune
+information recueillie dans l'exercice de leur mission. 
+
+Tout manquement à cette obligation peut entraîner la suspension ou le retrait de l'agrément.
 
 **Liens relatifs à cet article**
 
@@ -75715,12 +77287,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+  - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
+
+_Cite_:
+
+  - Code de procédure pénale - art. D583 (V)
 
 
 ###### Article A47
 
-Le juge de l'application des peines délivre aux délégués bénévoles un document justifiant de leurs fonctions.
+Le directeur du service pénitentiaire d'insertion et de probation avise le directeur régional de l'agrément d'une personne
+bénévole.
+
+En cas de retrait ou de suspension de l'agrément d'une personne bénévole, le directeur régional est tenu informé.
+
+Le directeur du service pénitentiaire d'insertion et de probation délivre aux personnes bénévoles un document justifiant de
+leurs fonctions.
 
 **Liens relatifs à cet article**
 
@@ -75730,121 +77312,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+  - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=574></a>
-
-###### Article A48
-
-L'association régulièrement constituée et instituée auprès du service pénitentiaire d'insertion et de probation aux fins
-visées à l'article D. 567 peut être agréée, par le ministère de la justice si son statut satisfait en outre aux conditions
-fixées ci-après.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Abrogé par_:
-
-  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
-
-_Modifié par_:
-
-  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D567 (Ab)
-
-
-###### Article A49
-
-Le secrétaire général de l'association est un agent de probation ou un membre du comité désigné à cet effet par le juge de
-l'application des peines, président du comité.
-
-Ce magistrat est membre de droit du bureau de l'association.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Modifié par_:
-
-  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
-
-_Abrogé par_:
-
-  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
-
-
-###### Article A50
-
-Les statuts de l'association sont conformes à un type commun établi par le ministre de la justice.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Abrogé par_:
-
-  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
-
-
-###### Article A51
-
-Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la
-justice, soit sur place par les autorités judiciaires ou les représentants dûment habilités à cet effet du ministre de la
-justice.
-
-Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses
-ressources.
-
-Les magistrats et fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et
-de comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent
-leur être communiqués.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Abrogé par_:
-
-  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
-
-
-###### Article A52
-
-Chaque année, le président de l'association adresse au ministère de la justice sous couvert du président du service
-pénitentiaire d'insertion et de probation, un compte rendu administratif, technique et financier, comprenant notamment un
-état de la situation financière et des comptes de l'exercice budgétaire écoulé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Abrogé par_:
-
-  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
-
-_Modifié par_:
-
-  - Décret n°2001-71 du 29 janvier 2001 - art. 9 () JORF 30 janvier 2001
-
-
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=575></a>
-
-#### Disposition générale<a id=576></a>
+#### Disposition générale<a id=574></a>
 
 ###### Article A53
 
@@ -75862,7 +77333,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=577></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=575></a>
 
 ###### Article A54
 
