@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-03-06
+Version Consolidée au 1995-04-28
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -35482,8 +35482,8 @@ _Cité par_:
 ###### Article R49-2
 
 Le montant de l'amende peut être acquitté immédiatement entre les mains de l'agent verbalisateur lorsqu'il est porteur d'un
-carnet de quittances à souches dont le modèle est fixé par arrêté du ministre chargé de l'économie et des finances après avis
-des autres ministres intéressés.
+carnet de quittances à souches dont le modèle est fixé par arrêté du ministre du budget après avis des autres ministres
+intéressés.
 
 Ce paiement est effectué en espèce ou au moyen d'un chèque et donne lieu à la délivrance immédiate d'une quittance extraite
 du carnet à souches.
@@ -35494,13 +35494,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°95-457 du 26 avril 1995 - art. 2 () JORF 28 avril 1995
 
 _Cité par_:
 
@@ -35513,11 +35513,11 @@ _Cité par_:
 
 Si le montant de l'amende forfaitaire n'est pas acquitté dans les conditions prévues par l'article R. 49-2, le paiement est
 effectué soit par l'apposition sur la carte de paiement, dûment remplie, d'un timbre [*fiscal*] émis à cet effet par le
-ministre chargé de l'économie et des finances, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au
-comptable direct du Trésor d'un chèque joint à la carte de paiement.
+ministre du budget, qui en établit le modèle et les modalités de délivrance, soit par l'envoi au comptable direct du Trésor
+d'un chèque joint à la carte de paiement.
 
-Un arrêté du ministre chargé de l'économie et des finances fixe la liste des départements dans lesquels les amendes
-forfaitaires peuvent être acquittées au moyen d'un chèque.
+Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires peuvent être acquittées au moyen
+d'un chèque libellé à l'ordre du Trésor public.
 
 **Liens relatifs à cet article**
 
@@ -35525,13 +35525,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°95-457 du 26 avril 1995 - art. 3 () JORF 28 avril 1995
 
 _Cité par_:
 
@@ -35572,14 +35572,14 @@ _Cite_:
 
 ###### Article R49-5
 
-La majoration de plein droit des amendes forfaitaires prévue par le deuxième alinéa de l'article 529-2 est constatée par
-l'officier du ministère public, qui la mentionne sur un état récapitulatif établi en deux exemplaires.
+La majoration de plein droit des amendes forfaitaires prévue par le deuxième alinéa de l'article 529-2 et le deuxième alinéa
+de l'article 529-5 est constatée par l'officier du ministère public qui la mentionne sur le titre exécutoire prévu par
+l'alinéa premier de l'article 530.
 
-L'état récapitulatif mentionne l'identité et le domicile du contrevenant, le lieu et la date de la contravention et le
-montant de l'amende forfaitaire majorée.
+Le titre exécutoire mentionne en annexe, pour chaque amende, l'identité et le domicile du contrevenant, le lieu et la date de
+la contravention et le montant de l'amende forfaitaire majorée.
 
-Le bordereau d'envoi de l'état récapitulatif signé par l'officier du ministère public vaut titre exécutoire. Il est transmis
-au comptable direct du Trésor public.
+Le titre exécutoire, signé par l'officier du ministère public, est transmis au comptable principal du Trésor.
 
 **Liens relatifs à cet article**
 
@@ -35595,24 +35595,27 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
 
+_Modifié par_:
+
+  - Décret n°95-457 du 26 avril 1995 - art. 4 () JORF 28 avril 1995
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 529-2 (M)
+  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
+  - CODE DE PROCEDURE PENALE - art. 530 (M)
 
 
 ###### Article R49-6
 
-Le comptable direct du Trésor adresse au contrevenant un avertissement l'invitant à s'acquitter du montant de l'amende
-forfaitaire majorée. Cet avertissement contient les mentions prévues par le deuxième alinéa de l'article R. 49-5 et indique
-le délai et les modalités de la réclamation prévue par le deuxième alinéa de l'article 530.
+Le comptable direct du Trésor adresse au contrevenant un extrait du titre exécutoire le concernant sous forme d'avis
+l'invitant à s'acquitter du montant de l'amende forfaitaire majorée. Cet avis contient, pour chaque amende, les mentions
+prévues par le deuxième alinéa de l'article R. 49-5 et indique le délai et les modalités de la réclamation prévue par les
+deuxième et troisième alinéas de l'article 530.
 
 **Liens relatifs à cet article**
 
@@ -35627,18 +35630,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE PROCEDURE PENALE - art. 530 (M)
-  - CODE DE PROCEDURE PENALE - art. R49-5 (M)
+  - Décret n°95-457 du 26 avril 1995 - art. 5 () JORF 28 avril 1995
 
 
 ###### Article R49-7
@@ -35677,10 +35675,8 @@ _Modifié par_:
 
 ###### Article R49-8
 
-La réclamation faite en application du deuxième alinéa de l'article 530 est motivée et accompagnée de l'avertissement.
-
-L'officier du ministère public saisi d'une réclamation informe sans délai le comptable direct du Trésor de l'annulation du
-titre exécutoire.
+L'officier du ministère public saisi d'une réclamation recevable informe sans délai le comptable direct du Trésor de
+l'annulation du titre exécutoire en ce qui concerne l'amende contestée.
 
 **Liens relatifs à cet article**
 
@@ -35692,17 +35688,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°86-1044 du 18 septembre 1986 - art. 2 () JORF 19 septembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-1044 du 18 septembre 1986 - art. 6 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE PROCEDURE PENALE - art. 530 (M)
+  - Décret n°95-457 du 26 avril 1995 - art. 6 () JORF 28 avril 1995
 
 
 #### Chapitre II ter : Dispositions applicables à certaines infractions au code de la route<a id=217></a>
@@ -35780,8 +35772,8 @@ par l'apposition d'un timbre-amende sur la carte de paiement dûment remplie et 
 délais prévus par l'article 529-8, soit par l'envoi dans ces mêmes délais au comptable du Trésor d'un chèque joint à la carte
 de paiement.
 
-Un arrêté du ministre chargé du budget fixe la liste des départements dans lesquels les amendes forfaitaires minorées peuvent
-être acquittées au moyen d'un chèque libellé à l'ordre du Trésor public.
+Un arrêté du ministre du budget fixe les conditions dans lesquelles les amendes forfaitaires minorées peuvent être acquittées
+au moyen d'un chèque libellé à l'ordre du Trésor public.
 
 **Liens relatifs à cet article**
 
@@ -35789,9 +35781,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-388 du 10 mai 1990 - art. 1 () JORF 12 mai 1990
+  - Décret n°95-457 du 26 avril 1995 - art. 7 () JORF 28 avril 1995
 
 _Cité par_:
 
