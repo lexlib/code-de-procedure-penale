@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-12-20
+Version Consolidée au 1997-12-31
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -27202,6 +27202,33 @@ _Cité par_:
   - Code de procédure pénale - art. 706-22-1 (V)
   - Code de procédure pénale - art. 706-42 (VD)
   - Code de procédure pénale - art. R15-33-66-8 (V)
+
+
+###### Article 706-17-1
+
+Pour le jugement des délits et des crimes entrant dans le champ d'application de l'article 706-16, le premier président de la
+cour d'appel de Paris peut, sur les réquisitions du procureur général, après avis des chefs des tribunaux de grande instance
+intéressés, du bâtonnier de Paris et, le cas échéant, du président de la cour d'assises de Paris, décider que l'audience du
+tribunal correctionnel, de la chambre des appels correctionnels de Paris ou de la cour d'assises de Paris se tiendra, à titre
+exceptionnel et pour des motifs de sécurité, dans tout autre lieu du ressort de la cour d'appel que celui où ces juridictions
+tiennent habituellement leurs audiences. 
+
+L'ordonnance prise en application du précédent alinéa est portée à la connaissance des tribunaux intéressés par les soins du
+procureur général. Elle constitue une mesure d'administration judiciaire qui n'est pas susceptible de recours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°97-1273 1997-12-29 art. 1 JORF 31 décembre 1997
+
+_Cite_:
+
+  - Code de procédure pénale - art. 706-16 (V)
 
 
 ###### Article 706-18
