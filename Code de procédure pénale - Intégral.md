@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-08-02
+Version Consolidée au 1987-08-06
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -39731,28 +39731,18 @@ morales désignés par le juge d'instruction pour l'application du contrôle jud
 
 6° Toutes les dépenses pour l'exécution des arrêts criminels ;
 
-7° Les frais exposés devant la commission prévue à l'article 16-2.
+7° Les frais exposés devant la commission prévue à l'article 16-2.    8° Les honoraires et indemnités des interprètes
+désignés pour assister les inculpés, prévenus et accusés dans les conditions prévues par le présent code.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - HISTO: )
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°67-903 1967-10-12 art. 4 JORF 17 octobre 1967
-  - Décret n°70-1223 1970-12-23 art. 3 JORF 25 octobre 1970
-  - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
-  - Décret n°75-1338 1975-12-31 art. 5 JORF 3 janvier 1976
+  - Décret n°87-634 1987-08-04 art. 1 JORF 6 août 1987
 
 _Cite_:
 
