@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1998-07-25
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -42222,25 +42222,22 @@ _Cite_:
 
 ###### Article R82
 
-Le bulletin n° 3 ne peut être demandé au service du casier judiciaire national automatisé que par lettre signée de la
-personne qu'il concerne et précisant l'état civil de celle-ci. Si le demandeur est né à l'étranger, si son lieu de naissance
-est inconnu ou s'il est âgé de moins de douze ans, il doit, en outre, justifier de son identité.
+Le bulletin n° 3 ne peut être demandé au service du casier judiciaire national automatisé que par la personne qu'il concerne,
+ou son représentant légal s'il s'agit d'un mineur ou d'un majeur sous tutelle.
 
-Le bulletin n° 3 peut également être obtenu si la personne qu'il concerne se présente au casier judiciaire national et
-justifie de son identité.
+La demande, qui doit préciser l'état civil de l'intéressé, peut être faite par lettre ou par téléinformatique.
 
-Si le demandeur ne sait ou ne peut signer, cette impossibilité est constatée par le maire ou le commissaire de police qui
-atteste en même temps que la demande est faite au nom et sur l'initiative de la personne que le bulletin n° 3 concerne.
+Toutefois, si le demandeur est né à l'étranger, si son lieu de naissance est inconnu ou s'il est âgé de moins de douze ans,
+la demande ne peut être faite que par lettre accompagnée d'un justificatif d'identité.
+
+Le bulletin n° 3 peut également être obtenu si la personne qu'il concerne se présente au service du casier judiciaire
+national automatisé et justifie de son identité.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 **Liens**:
 
@@ -42251,8 +42248,7 @@ _Créé par_:
 
 _Modifié par_:
 
-  - Décret n°85-913 1985-08-23 art. 6 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
-  - Décret n°81-1005 1981-11-06 art. 18 JORF 11 novembre 1981
+  - Décret n°98-632 du 23 juillet 1998 - art. 1 () JORF 25 juillet 1998
 
 _Cité par_:
 
@@ -42296,11 +42292,15 @@ _Cite_:
 ###### Article R84
 
 Lorsqu'il n'existe pas au casier judiciaire de fiche ou lorsque les mentions que portent les fiches ne doivent pas être
-inscrites sur le bulletin n° 3, celui-ci est oblitéré par une barre transversale.
+inscrites sur le bulletin n° 3, celui-ci est oblitéré par une barre transversale. 
 
 Lorsque l'examen des fiches révèle l'existence d'une des condamnations prévues à l'article 777, la teneur, avec indication de
 toutes les peines prononcées en est reproduite sur le bulletin n° 3, ainsi que les mentions prévues à l'article 769 qui s'y
-rapportent.
+rapportent. 
+
+Dans le cas prévu à l'alinéa précédent, la délivrance du bulletin est faite soit par remise en mains propres si le demandeur
+s'est présenté au service dans les conditions fixées au dernier alinéa de l'article R. 82, soit par lettre recommandée avec
+demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
@@ -42308,24 +42308,20 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Modifié par_:
-
-  - Décret n°81-1003 1981-11-06 art. 20 JORF 11 novembre 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°81-1003 1981-11-06 art. 25
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
   - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
+_Modifié par_:
+
+  - Décret n°98-632 du 23 juillet 1998 - art. 2 () JORF 25 juillet 1998
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 769 (M)
-  - CODE DE PROCEDURE PENALE - art. 777 (M)
+  - Code de procédure pénale - art. 777 (V)
+  - Code de procédure pénale - art. R82 (V)
 
 
 #### Chapitre VII : Dispositions diverses<a id=273></a>
