@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-08-31
+Version Consolidée au 1984-09-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -229,7 +229,7 @@ Version Consolidée au 1984-08-31
         - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R65 à R72)](#226)
         - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74 à R75-1)](#227)
         - [Chapitre IV : De la délivrance des bulletins n° 1 du casier judiciaire (art. R76 à R78-1)](#228)
-        - [Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire (art. R81)](#229)
+        - [Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire (art. R80 à R81)](#229)
         - [Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire (art. R84)](#230)
         - [Chapitre VII : Dispositions diverses (art. R85 à R90)](#231)
       - [Titre X : Des frais de justice (art. R91 à R249)](#232)
@@ -28359,6 +28359,40 @@ _Créé par_:
 
 
 #### Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire<a id=229></a>
+
+###### Article R80
+
+Le bulletin n° 2 est réclamé au service du casier judiciaire national automatisé par lettre, télégramme, télétransmission ou
+support magnétique avec l'indication de l'état civil de la personne dont le bulletin est demandé, de la qualité de l'autorité
+requérante ainsi que du motif de la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°85-913 1985-08-29 art. 10
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+  - SPEC_APPLI: Décret n°81-1003 1981-01-06 art. 25
+
+_Modifié par_:
+
+  - Décret n°85-913 1985-08-29 art. 4 et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
+  - Décret n°81-1003 1981-01-06 art. 16 JORF 11 novembre 1981
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R305 (V)
+  - Code de procédure pénale - art. R391 (Ab)
+
 
 ###### Article R81
 
