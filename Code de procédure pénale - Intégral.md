@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-03-01
+Version Consolidée au 2003-03-15
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -81516,13 +81516,18 @@ _Cite_:
 
 ###### Article A57
 
-Les attributions dévolues au directeur régional des services pénitentiaires par le présent code sont exercées, dans le
-département de la Réunion, par le fonctionnaire assurant les fonctions de directeur des prisons de ce département.
+Dans les départements de la Guadeloupe et de La Réunion, les directeurs des centres pénitentiaires de Baie-Mahault et du Port
+assurent, dans les limites des délégations de compétences qui leur sont consenties, la gestion de l'ensemble des personnels
+affectés dans les établissements de leur département respectif.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
 
 
