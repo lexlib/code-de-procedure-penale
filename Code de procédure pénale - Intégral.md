@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1971-01-01
+Version Consolidée au 1971-04-16
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -350,17 +350,19 @@ Version Consolidée au 1971-01-01
           - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#347)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#348)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#349)
-    - [Livre V : Des procédures d'exécution (art. A40 à A53)](#350)
-      - [Titre II : De la détention (art. A40)](#351)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#352)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#353)
-      - [Titre IV : Du sursis (art. A50 à A51)](#354)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#355)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#356)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#357)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#358)
-        - [Disposition générale (art. A53)](#359)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#360)
+    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#350)
+      - [Titre II : De la détention (art. A39-1 à A40)](#351)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#352)
+          - [Section 5 (art. A39-1 à A39-2)](#353)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#354)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#355)
+      - [Titre IV : Du sursis (art. A50 à A51)](#356)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#357)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#358)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#359)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#360)
+        - [Disposition générale (art. A53)](#361)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#362)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -25904,9 +25906,59 @@ _Cité par_:
 
 ### Titre II : De la détention<a id=351></a>
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=352></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=352></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=353></a>
+##### Section 5<a id=353></a>
+
+###### Article A39-1
+
+La somme journalière prévue au second alinéa de l'article D. 111, au-dessous de laquelle les détenus perçoivent la totalité
+du produit de leur travail, est fixé à 4 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+
+_Cite_:
+
+  - Code de procédure pénale D111 al. 2
+
+
+###### Article A39-2
+
+Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes supplémentaires prévus au premier alinéa de
+l'article D. 112 ne peut excéder 60 % de l'effectif des détenus incarcérés dans la même prison pour le premier dixième, 30 %
+pour le deuxième et 10 % pour le troisième.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+
+_Cité par_:
+
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 2
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
+
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=354></a>
+
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=355></a>
 
 ###### Article A40
 
@@ -25931,13 +25983,13 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-### Titre IV : Du sursis<a id=354></a>
+### Titre IV : Du sursis<a id=356></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=355></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=357></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=356></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=358></a>
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=357></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=359></a>
 
 ###### Article A50
 
@@ -25978,9 +26030,9 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=358></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=360></a>
 
-#### Disposition générale<a id=359></a>
+#### Disposition générale<a id=361></a>
 
 ###### Article A53
 
@@ -25998,7 +26050,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=360></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=362></a>
 
 ###### Article A56
 
