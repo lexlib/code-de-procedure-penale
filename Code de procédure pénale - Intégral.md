@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-11-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -43,7 +43,7 @@ Version Consolidée au 2002-09-10
           - [Section 9 : De l'expertise (art. 156 à 169-1)](#40)
           - [Section 10 : Des nullités de l'information (art. 170 à 174-1)](#41)
           - [Section 11 : Des ordonnances de règlement (art. 175 à 184)](#42)
-          - [Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention (art. 185 à 187-2)](#43)
+          - [Section 12 : De l'appel des ordonnances du juge d'instruction ou du juge des libertés et de la détention (art. 185 à 187-3)](#43)
           - [Section 13 : De la reprise de l'information sur charges nouvelles (art. 188 à 190)](#44)
         - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. 191 à 230)](#45)
           - [Section 1 : Dispositions générales (art. 191 à 218)](#46)
@@ -10329,6 +10329,48 @@ _Modifié par_:
   - Loi n°2000-516 du 15 juin 2000 - art. 83
 
 
+###### Article 148-1-1
+
+Lorsqu'une ordonnance de mise en liberté d'une personne placée en détention provisoire est rendue par le juge des libertés et
+de la détention ou le juge d'instruction contrairement aux réquisitions du procureur de la République, cette ordonnance est
+immédiatement notifiée à ce magistrat. Pendant un délai de quatre heures à compter de la notification de l'ordonnance du
+procureur de la République, et sous réserve de l'application des dispositions du dernier alinéa du présent article, la
+personne mise en examen ne peut être remise en liberté et cette décision ne peut être adressée pour exécution au chef de
+l'établissement pénitentiaire.
+
+Le procureur de la République peut interjeter appel de l'ordonnance devant le greffier du juge des libertés et de la
+détention ou du juge d'instruction, en saisissant dans le même temps le premier président de la cour d'appel d'un référé-
+détention, conformément aux dispositions de l'article 187-3 ; l'appel et le référé-détention sont mentionnés sur
+l'ordonnance. La personne mise en examen et son avocat en sont avisés en même temps que leur est notifiée l'ordonnance, qui
+ne peut être mise à exécution, la personne restant détenue tant que n'est pas intervenue la décision du premier président de
+la cour d'appel et, le cas échéant, celle de la chambre de l'instruction. La personne mise en examen et son avocat sont
+également avisés de leur droit de faire des observations écrites devant le premier président de la cour d'appel. Faute pour
+le procureur de la République d'avoir formé un référé-détention, dans un délai de quatre heures à compter de la notification
+de l'ordonnance de mise en liberté, celle-ci, revêtue d'une mention du greffier indiquant l'absence de référé-détention, est
+adressée au chef d'établissement pénitentiaire et la personne est mise en liberté sauf si elle est détenue pour une autre
+cause.
+
+Si le procureur de la République, ayant pris des réquisitions de maintien en détention, estime néanmoins ne pas avoir à
+s'opposer à la mise en liberté immédiate de la personne, et sans préjudice de son droit de former ultérieurement appel dans
+le délai prévu par l'article 185, il retourne l'ordonnance au magistrat qui l'a rendue en mentionnant sur celle-ci qu'il ne
+s'oppose pas à sa mise à exécution. La personne est alors mise en liberté, si elle n'est pas détenue pour une autre cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002 en vigueur le 1er novembre 2002
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 185 (M)
+  - CODE DE PROCEDURE PENALE - art. 187-3 (V)
+
+
 ###### Article 148-2
 
 Toute juridiction appelée à statuer, en application des articles 141-1 et 148-1, sur une demande de mainlevée totale ou
@@ -12644,6 +12686,61 @@ _Créé par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 187-1 (M)
+
+
+###### Article 187-3
+
+Dans le cas prévu par le deuxième alinéa de l'article 148-1-1, le procureur de la République qui interjette appel d'une
+ordonnance de mise en liberté contraire à ses réquisitions dans un délai de quatre heures à compter de sa notification doit,
+à peine d'irrecevabilité, saisir dans le même temps le premier président de la cour d'appel ou, en cas d'empêchement, le
+magistrat qui le remplace, d'un référé-détention afin de déclarer cet appel suspensif. Le procureur de la République joint à
+sa demande les observations écrites justifiant le maintien en détention de la personne. La personne mise en examen et son
+avocat peuvent également présenter les observations écrites qu'ils jugent utiles.
+
+Le premier président de la cour d'appel ou le magistrat qui le remplace statue au plus tard le deuxième jour ouvrable suivant
+la demande. Pendant cette durée, les effets de l'ordonnance de mise en liberté sont suspendus et la personne reste détenue. A
+défaut pour le premier président de la cour d'appel ou le magistrat qui le remplace de statuer dans ce délai, la personne est
+remise en liberté, sauf si elle est détenue pour une autre cause.
+
+Le premier président de la cour d'appel ou le magistrat qui le remplace statue, au vu des éléments du dossier de la
+procédure, par une ordonnance motivée qui n'est pas susceptible de recours. A sa demande, l'avocat de la personne mise en
+examen peut présenter des observations orales devant ce magistrat, lors d'une audience de cabinet dont le ministère public
+est avisé pour qu'il y prenne, le cas échéant, ses réquisitions.
+
+Si le premier président de la cour d'appel ou le magistrat qui le remplace estime que le maintien en détention de la personne
+est manifestement nécessaire au vu d'au moins deux des critères prévus par les dispositions de l'article 144 jusqu'à ce que
+la chambre d'instruction statue sur l'appel du ministère public, il ordonne la suspension des effets de l'ordonnance de mise
+en liberté jusqu'à cette date. La personne mise en examen ne peut alors être mise en liberté jusqu'à l'audience de la chambre
+de l'instruction devant laquelle sa comparution personnelle est de droit ; la chambre de l'instruction doit se prononcer dans
+les plus brefs délais et au plus tard dans les dix jours de l'appel, faute de quoi la personne est mise d'office en liberté
+si elle n'est pas détenue pour une autre cause.
+
+Dans le cas contraire, le premier président de la cour d'appel ou le magistrat qui le remplace ordonne que la personne soit
+mise en liberté si elle n'est pas détenue pour une autre cause.
+
+A peine de nullité, le magistrat ayant statué sur la demande de référé-détention ne peut faire partie de la composition de la
+chambre de l'instruction qui statuera sur l'appel du ministère public.
+
+La transmission du dossier de la procédure au premier président de la cour d'appel ou au magistrat qui le remplace peut être
+effectuée par télécopie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002 en vigueur le 1er novembre 2002
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 144 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 148-1-1 (VT)
 
 
 ##### Section 13 : De la reprise de l'information sur charges nouvelles<a id=44></a>
