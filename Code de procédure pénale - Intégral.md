@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1961-04-13
+Version Consolidée au 1962-10-07
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -267,7 +267,7 @@ Version Consolidée au 1961-04-13
           - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#264)
           - [Section 5 : De la sécurité (art. D268 à D283)](#265)
             - [Paragraphe 1er : Dispositions générales (art. D268 à D276.)](#266)
-            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279)](#267)
+            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#267)
             - [Paragraphe 3 : Incidents (art. D281 à D283)](#268)
         - [Chapitre VI : Des mouvements de détenus (art. D286 à D315)](#269)
           - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#270)
@@ -19350,6 +19350,22 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D279-1
+
+A titre exceptionnel, et seulement pour d'impérieuses raisons de sécurité, le ministre de la justice peut suspendre pendant
+une période de temps limitée toute visite à l'intérieur d'une prison.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
