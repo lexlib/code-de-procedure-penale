@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1977-04-01
+Version Consolidée au 1977-11-27
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -285,135 +285,136 @@ Version Consolidée au 1977-04-01
         - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70-2 à D114)](#282)
           - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D70-2)](#283)
           - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#284)
-          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D93)](#285)
+          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D96)](#285)
             - [Paragraphe 1er : Maisons d'arrêt (art. D83 à D93)](#286)
               - [A : Etablissements cellulaires (art. D84 à D86)](#287)
               - [B : Etablissements en commun (art. D88 à D89)](#288)
               - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#289)
-          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#290)
-          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D120 à D147)](#291)
-            - [Paragraphe 1er : Dispositions communes (art. D120 à D123)](#292)
-            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#293)
-            - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#294)
-            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#295)
-            - [Paragraphe 4 : Permissions de sortir (art. D143 à D147)](#296)
-          - [Section 4 : Du travail des détenus (art. D99 à D109)](#297)
-            - [Paragraphe 1er : Principes (art. D99 à D100)](#298)
-            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#299)
-          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#300)
-        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D149 à D187)](#301)
-          - [Section 1 : Du greffe judiciaire des prisons (art. D149 à D166)](#302)
-            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D149 à D150)](#303)
-            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#304)
-            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D158 à D166)](#305)
-              - [A : Dossier spécial aux condamnés à une longue peine. (art. D158 à D164)](#306)
-              - [B : Dossiers des autres détenus. (art. D165 à D166)](#307)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D171 à D175)](#308)
-            - [Paragraphe 2 : Mise à l'isolement (art. D171)](#309)
-            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#310)
-          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#311)
-          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#312)
-          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#313)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#314)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#315)
-          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#316)
-            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#317)
-          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#318)
-          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#319)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#320)
-          - [Section 1 : De la police intérieure (art. D241 à D247)](#321)
-          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D250-1 à D253)](#322)
-            - [Paragraphe 1er : Sanctions disciplinaires (art. D250-1 à D251-1)](#323)
-            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D253)](#324)
-          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#325)
-          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#326)
-          - [Section 5 : De la sécurité (art. D267 à D283)](#327)
-            - [Paragraphe 1er : Dispositions générales (art. D267 à D276)](#328)
-            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#329)
-            - [Paragraphe 3 : Incidents (art. D281 à D283)](#330)
-        - [Chapitre VI : Des mouvements de détenus (art. D286 à D315)](#331)
-          - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#332)
-          - [Section 2 : Des transfèrements et des extractions (art. D290 à D315)](#333)
-            - [Paragraphe 1er : Dispositions communes (art. D292 à D295)](#334)
-            - [Paragraphe 2 : Transfèrements (art. D298 à D312)](#335)
-              - [A : Translations judiciaires (art. D298 à D299)](#336)
-              - [B : Transfèrements administratifs (art. D301 à D303)](#337)
-              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#338)
-              - [D : Cas particuliers (art. D311 à D312)](#339)
-            - [Paragraphe 3 : Extractions (art. D314 à D315)](#340)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348-1)](#341)
-          - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#342)
-            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D333)](#343)
-            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#344)
-          - [Section 2 : De l'entretien des détenus (art. D342 à D348-1)](#345)
-        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#346)
-          - [Section 1 : De l'hygiène (art. D349 à D363)](#347)
-            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#348)
-            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#349)
-            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#350)
-            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#351)
-          - [Section 2 : Du service sanitaire (art. D364 à D400)](#352)
-            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#353)
-            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D377)](#354)
-            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#355)
-            - [Paragraphe 4 : Soins divers (art. D392 à D398)](#356)
-            - [Paragraphe 5 : Maternité (art. D399 à D400)](#357)
-        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#358)
-          - [Section 1 : Des visites (art. D404 à D412)](#359)
-          - [Section 2 : De la correspondance (art. D413 à D419)](#360)
-          - [Section 3 : Du maintien des liens familiaux (art. D420 à D422)](#361)
-          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D424-1)](#362)
-          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D430 à D431)](#363)
-        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D433 à D484)](#364)
-          - [Section 1 : De l'assistance spirituelle (art. D433 à D439)](#365)
-          - [Section 2 : De l'action socio-culturelle (art. D447 à D448)](#366)
-          - [Section 3 : De l'enseignement (art. D450 à D459)](#367)
-            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#368)
-          - [Section 4 : Du service socio-éducatif (art. D477)](#369)
-            - [Paragraphe 2 : Visiteurs de prison (art. D477)](#370)
-          - [Section 5 : De l'aide à la libération (art. D484)](#371)
-            - [Paragraphe 2 : Aide aux indigents (art. D484)](#372)
-        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#373)
-          - [Section 1 : Des condamnés de police (art. D488)](#374)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D491 à D504)](#375)
-          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#376)
-          - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#377)
-          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#378)
-      - [Titre III : De la libération conditionnelle (art. D525 à D543)](#379)
-        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#380)
-        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#381)
-        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#382)
-          - [Section 2 : Des conditions particulières (art. D537)](#383)
-        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#384)
-        - [Chapitre V : Dispositions diverses (art. D543)](#385)
-      - [Titre IV : Du sursis (art. D545 à D568)](#386)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#387)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#388)
-      - [Titre VI : De la contrainte par corps (art. D569)](#389)
-  - [Partie Arrêtés (art. A1 à A57)](#390)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#391)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#392)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#393)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#394)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#395)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#396)
-    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#397)
-      - [Titre II : De la détention (art. A39-1 à A43-1)](#398)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#399)
-          - [Section 5 (art. A39-1 à A39-2)](#400)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#401)
-          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#402)
-            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#403)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#404)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#405)
-      - [Titre IV : Du sursis (art. A45 à A52)](#406)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#407)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#408)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#409)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#410)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#411)
-        - [Disposition générale (art. A53)](#412)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#413)
+            - [Paragraphe 2 : Etablissements pour peines (art. D96)](#290)
+          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#291)
+          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D120 à D147)](#292)
+            - [Paragraphe 1er : Dispositions communes (art. D120 à D123)](#293)
+            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#294)
+            - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#295)
+            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#296)
+            - [Paragraphe 4 : Permissions de sortir (art. D143 à D147)](#297)
+          - [Section 4 : Du travail des détenus (art. D99 à D109)](#298)
+            - [Paragraphe 1er : Principes (art. D99 à D100)](#299)
+            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#300)
+          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#301)
+        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D149 à D187)](#302)
+          - [Section 1 : Du greffe judiciaire des prisons (art. D149 à D166)](#303)
+            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D149 à D150)](#304)
+            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#305)
+            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D158 à D166)](#306)
+              - [A : Dossier spécial aux condamnés à une longue peine. (art. D158 à D164)](#307)
+              - [B : Dossiers des autres détenus. (art. D165 à D166)](#308)
+          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D171 à D175)](#309)
+            - [Paragraphe 2 : Mise à l'isolement (art. D171)](#310)
+            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#311)
+          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#312)
+          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#313)
+          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#314)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#315)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#316)
+          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#317)
+            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#318)
+          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#319)
+          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#320)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#321)
+          - [Section 1 : De la police intérieure (art. D241 à D247)](#322)
+          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D250-1 à D253)](#323)
+            - [Paragraphe 1er : Sanctions disciplinaires (art. D250-1 à D251-1)](#324)
+            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D253)](#325)
+          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#326)
+          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#327)
+          - [Section 5 : De la sécurité (art. D267 à D283)](#328)
+            - [Paragraphe 1er : Dispositions générales (art. D267 à D276)](#329)
+            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#330)
+            - [Paragraphe 3 : Incidents (art. D281 à D283)](#331)
+        - [Chapitre VI : Des mouvements de détenus (art. D286 à D315)](#332)
+          - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#333)
+          - [Section 2 : Des transfèrements et des extractions (art. D290 à D315)](#334)
+            - [Paragraphe 1er : Dispositions communes (art. D292 à D295)](#335)
+            - [Paragraphe 2 : Transfèrements (art. D298 à D312)](#336)
+              - [A : Translations judiciaires (art. D298 à D299)](#337)
+              - [B : Transfèrements administratifs (art. D301 à D303)](#338)
+              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#339)
+              - [D : Cas particuliers (art. D311 à D312)](#340)
+            - [Paragraphe 3 : Extractions (art. D314 à D315)](#341)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348-1)](#342)
+          - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#343)
+            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D333)](#344)
+            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#345)
+          - [Section 2 : De l'entretien des détenus (art. D342 à D348-1)](#346)
+        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#347)
+          - [Section 1 : De l'hygiène (art. D349 à D363)](#348)
+            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#349)
+            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#350)
+            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#351)
+            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#352)
+          - [Section 2 : Du service sanitaire (art. D364 à D400)](#353)
+            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#354)
+            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D377)](#355)
+            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#356)
+            - [Paragraphe 4 : Soins divers (art. D392 à D398)](#357)
+            - [Paragraphe 5 : Maternité (art. D399 à D400)](#358)
+        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#359)
+          - [Section 1 : Des visites (art. D404 à D412)](#360)
+          - [Section 2 : De la correspondance (art. D413 à D419)](#361)
+          - [Section 3 : Du maintien des liens familiaux (art. D420 à D422)](#362)
+          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D424-1)](#363)
+          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D430 à D431)](#364)
+        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D433 à D484)](#365)
+          - [Section 1 : De l'assistance spirituelle (art. D433 à D439)](#366)
+          - [Section 2 : De l'action socio-culturelle (art. D444 à D448)](#367)
+          - [Section 3 : De l'enseignement (art. D450 à D459)](#368)
+            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#369)
+          - [Section 4 : Du service socio-éducatif (art. D477)](#370)
+            - [Paragraphe 2 : Visiteurs de prison (art. D477)](#371)
+          - [Section 5 : De l'aide à la libération (art. D484)](#372)
+            - [Paragraphe 2 : Aide aux indigents (art. D484)](#373)
+        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#374)
+          - [Section 1 : Des condamnés de police (art. D488)](#375)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D491 à D504)](#376)
+          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#377)
+          - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#378)
+          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#379)
+      - [Titre III : De la libération conditionnelle (art. D525 à D543)](#380)
+        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#381)
+        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#382)
+        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#383)
+          - [Section 2 : Des conditions particulières (art. D537)](#384)
+        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#385)
+        - [Chapitre V : Dispositions diverses (art. D543)](#386)
+      - [Titre IV : Du sursis (art. D545 à D568)](#387)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#388)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#389)
+      - [Titre VI : De la contrainte par corps (art. D569)](#390)
+  - [Partie Arrêtés (art. A1 à A57)](#391)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#392)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#393)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#394)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#395)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#396)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#397)
+    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#398)
+      - [Titre II : De la détention (art. A39-1 à A43-1)](#399)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#400)
+          - [Section 5 (art. A39-1 à A39-2)](#401)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#402)
+          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#403)
+            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#404)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#405)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#406)
+      - [Titre IV : Du sursis (art. A45 à A52)](#407)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#408)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#409)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#410)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#411)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#412)
+        - [Disposition générale (art. A53)](#413)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#414)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -26405,7 +26406,32 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=290></a>
+##### Paragraphe 2 : Etablissements pour peines<a id=290></a>
+
+###### Article D96
+
+[Article abrogé]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+
+_Abrogé par_:
+
+  - Décret n°79-534 1979-07-03 art. 14 JORF 5 juillet 1979
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=291></a>
 
 ###### Article D117
 
@@ -26430,9 +26456,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R200 (M)
 
 
-##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=291></a>
+##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=292></a>
 
-##### Paragraphe 1er : Dispositions communes<a id=292></a>
+##### Paragraphe 1er : Dispositions communes<a id=293></a>
 
 ###### Article D120
 
@@ -26512,7 +26538,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=293></a>
+##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=294></a>
 
 ###### Article D128
 
@@ -26620,7 +26646,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D131 (M)
 
 
-##### Paragraphe 3 : Régime de semi-liberté<a id=294></a>
+##### Paragraphe 3 : Régime de semi-liberté<a id=295></a>
 
 ###### Article D140
 
@@ -26672,7 +26698,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D110 (V)
 
 
-##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=295></a>
+##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=296></a>
 
 ###### Article D136
 
@@ -26717,7 +26743,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 4 : Permissions de sortir<a id=296></a>
+##### Paragraphe 4 : Permissions de sortir<a id=297></a>
 
 ###### Article D143
 
@@ -26860,9 +26886,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du travail des détenus<a id=297></a>
+##### Section 4 : Du travail des détenus<a id=298></a>
 
-##### Paragraphe 1er : Principes<a id=298></a>
+##### Paragraphe 1er : Principes<a id=299></a>
 
 ###### Article D99
 
@@ -26926,7 +26952,7 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D432-2 (M)
 
 
-##### Paragraphe 2 : Formes et modalités du travail<a id=299></a>
+##### Paragraphe 2 : Formes et modalités du travail<a id=300></a>
 
 ###### Article D102
 
@@ -27035,7 +27061,7 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D433-7 (V)
 
 
-##### Section 5 : De la répartition du produit du travail<a id=300></a>
+##### Section 5 : De la répartition du produit du travail<a id=301></a>
 
 ###### Article D111
 
@@ -27146,11 +27172,11 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=301></a>
+#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=302></a>
 
-##### Section 1 : Du greffe judiciaire des prisons<a id=302></a>
+##### Section 1 : Du greffe judiciaire des prisons<a id=303></a>
 
-##### Paragraphe 1 : Registre et formalités d'écrou.<a id=303></a>
+##### Paragraphe 1 : Registre et formalités d'écrou.<a id=304></a>
 
 ###### Article D149
 
@@ -27229,7 +27255,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=304></a>
+##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=305></a>
 
 ###### Article D154
 
@@ -27250,9 +27276,9 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Dossiers individuels des détenus.<a id=305></a>
+##### Paragraphe 3 : Dossiers individuels des détenus.<a id=306></a>
 
-##### A : Dossier spécial aux condamnés à une longue peine.<a id=306></a>
+##### A : Dossier spécial aux condamnés à une longue peine.<a id=307></a>
 
 ###### Article D158
 
@@ -27391,7 +27417,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### B : Dossiers des autres détenus.<a id=307></a>
+##### B : Dossiers des autres détenus.<a id=308></a>
 
 ###### Article D165
 
@@ -27445,9 +27471,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D165. (M)
 
 
-##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=308></a>
+##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=309></a>
 
-##### Paragraphe 2 : Mise à l'isolement<a id=309></a>
+##### Paragraphe 2 : Mise à l'isolement<a id=310></a>
 
 ###### Article D171
 
@@ -27474,7 +27500,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Moyens de contrainte<a id=310></a>
+##### Paragraphe 3 : Moyens de contrainte<a id=311></a>
 
 ###### Article D172
 
@@ -27602,7 +27628,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=311></a>
+##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=312></a>
 
 ###### Article D176
 
@@ -27652,7 +27678,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : De la commission de surveillance<a id=312></a>
+##### Section 4 : De la commission de surveillance<a id=313></a>
 
 ###### Article D181
 
@@ -27692,7 +27718,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=313></a>
+##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=314></a>
 
 ###### Article D186
 
@@ -27748,9 +27774,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D473 (M)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=314></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=315></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=315></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=316></a>
 
 ###### Article D188
 
@@ -27873,7 +27899,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du personnel de l'administration pénitentiaire<a id=316></a>
+##### Section 2 : Du personnel de l'administration pénitentiaire<a id=317></a>
 
 ###### Article D197
 
@@ -27892,7 +27918,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispositions générales<a id=317></a>
+##### Paragraphe 2 : Dispositions générales<a id=318></a>
 
 ###### Article D216
 
@@ -28144,7 +28170,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
-##### Section 3 : Du contrôle des établissements pénitentiaires<a id=318></a>
+##### Section 3 : Du contrôle des établissements pénitentiaires<a id=319></a>
 
 ###### Article D230
 
@@ -28228,7 +28254,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=319></a>
+##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=320></a>
 
 ###### Article D234
 
@@ -28390,9 +28416,9 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=320></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=321></a>
 
-##### Section 1 : De la police intérieure<a id=321></a>
+##### Section 1 : De la police intérieure<a id=322></a>
 
 ###### Article D241
 
@@ -28520,9 +28546,9 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=322></a>
+##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=323></a>
 
-##### Paragraphe 1er : Sanctions disciplinaires<a id=323></a>
+##### Paragraphe 1er : Sanctions disciplinaires<a id=324></a>
 
 ###### Article D250-1
 
@@ -28618,7 +28644,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=324></a>
+##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=325></a>
 
 ###### Article D252
 
@@ -28676,7 +28702,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du règlement intérieur de chaque prison<a id=325></a>
+##### Section 3 : Du règlement intérieur de chaque prison<a id=326></a>
 
 ###### Article D256
 
@@ -28772,7 +28798,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=326></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=327></a>
 
 ###### Article D259
 
@@ -28933,9 +28959,9 @@ _Cite_:
   - Code de procédure pénale D406 et D416
 
 
-##### Section 5 : De la sécurité<a id=327></a>
+##### Section 5 : De la sécurité<a id=328></a>
 
-##### Paragraphe 1er : Dispositions générales<a id=328></a>
+##### Paragraphe 1er : Dispositions générales<a id=329></a>
 
 ###### Article D267
 
@@ -29114,7 +29140,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=329></a>
+##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=330></a>
 
 ###### Article D277
 
@@ -29205,7 +29231,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Incidents<a id=330></a>
+##### Paragraphe 3 : Incidents<a id=331></a>
 
 ###### Article D281
 
@@ -29288,9 +29314,9 @@ _Cité par_:
   - Code de procédure pénale - art. D125 (V)
 
 
-#### Chapitre VI : Des mouvements de détenus<a id=331></a>
+#### Chapitre VI : Des mouvements de détenus<a id=332></a>
 
-##### Section 1 : Des entrées et sorties des détenus<a id=332></a>
+##### Section 1 : Des entrées et sorties des détenus<a id=333></a>
 
 ###### Article D286
 
@@ -29359,7 +29385,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des transfèrements et des extractions<a id=333></a>
+##### Section 2 : Des transfèrements et des extractions<a id=334></a>
 
 ###### Article D290
 
@@ -29408,7 +29434,7 @@ _Cité par_:
   - Arrêté du 21 mai 2019 - art. 3 (V)
 
 
-##### Paragraphe 1er : Dispositions communes<a id=334></a>
+##### Paragraphe 1er : Dispositions communes<a id=335></a>
 
 ###### Article D292
 
@@ -29493,9 +29519,9 @@ _Cité par_:
   - Code de procédure pénale - art. D296 (V)
 
 
-##### Paragraphe 2 : Transfèrements<a id=335></a>
+##### Paragraphe 2 : Transfèrements<a id=336></a>
 
-##### A : Translations judiciaires<a id=336></a>
+##### A : Translations judiciaires<a id=337></a>
 
 ###### Article D298
 
@@ -29561,7 +29587,7 @@ _Cite_:
   - Code de procédure pénale D298
 
 
-##### B : Transfèrements administratifs<a id=337></a>
+##### B : Transfèrements administratifs<a id=338></a>
 
 ###### Article D301
 
@@ -29648,7 +29674,7 @@ _Abrogé par_:
   - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
 
 
-##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=338></a>
+##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=339></a>
 
 ###### Article D304
 
@@ -29809,7 +29835,7 @@ _Cité par_:
   - Code de procédure pénale - art. D334 (V)
 
 
-##### D : Cas particuliers<a id=339></a>
+##### D : Cas particuliers<a id=340></a>
 
 ###### Article D311
 
@@ -29873,7 +29899,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Extractions<a id=340></a>
+##### Paragraphe 3 : Extractions<a id=341></a>
 
 ###### Article D314
 
@@ -29936,11 +29962,11 @@ _Cité par_:
   - Code de procédure pénale - art. D49-30 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=341></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=342></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=342></a>
+##### Section 1 : De la gestion des biens des détenus<a id=343></a>
 
-##### Paragraphe 1er : Valeurs pécuniaires.<a id=343></a>
+##### Paragraphe 1er : Valeurs pécuniaires.<a id=344></a>
 
 ###### Article D319
 
@@ -30197,7 +30223,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Valeurs non pécuniaires.<a id=344></a>
+##### Paragraphe 2 : Valeurs non pécuniaires.<a id=345></a>
 
 ###### Article D335
 
@@ -30293,7 +30319,7 @@ _Cité par_:
   - Arrêté du 23 février 2018 (V)
 
 
-##### Section 2 : De l'entretien des détenus<a id=345></a>
+##### Section 2 : De l'entretien des détenus<a id=346></a>
 
 ###### Article D342
 
@@ -30418,9 +30444,9 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=346></a>
+#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=347></a>
 
-##### Section 1 : De l'hygiène<a id=347></a>
+##### Section 1 : De l'hygiène<a id=348></a>
 
 ###### Article D349
 
@@ -30440,7 +30466,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Salubrité et propreté des locaux<a id=348></a>
+##### Paragraphe 1er : Salubrité et propreté des locaux<a id=349></a>
 
 ###### Article D350
 
@@ -30503,7 +30529,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=349></a>
+##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=350></a>
 
 ###### Article D353
 
@@ -30585,7 +30611,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Hygiène personnelle<a id=350></a>
+##### Paragraphe 3 : Hygiène personnelle<a id=351></a>
 
 ###### Article D357
 
@@ -30654,7 +30680,7 @@ _Cité par_:
   - Code de procédure pénale - art. D283-1-2 (Ab)
 
 
-##### Paragraphe 4 : Exercices physiques<a id=351></a>
+##### Paragraphe 4 : Exercices physiques<a id=352></a>
 
 ###### Article D360
 
@@ -30748,9 +30774,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du service sanitaire<a id=352></a>
+##### Section 2 : Du service sanitaire<a id=353></a>
 
-##### Paragraphe 1 : Organisation sanitaire<a id=353></a>
+##### Paragraphe 1 : Organisation sanitaire<a id=354></a>
 
 ###### Article D364
 
@@ -30962,7 +30988,7 @@ _Cité par_:
   - Code de procédure pénale - art. D384-1 (V)
 
 
-##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=354></a>
+##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=355></a>
 
 ###### Article D373
 
@@ -31059,7 +31085,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D378 (V)
 
 
-##### Paragraphe 3 : Traitement médical<a id=355></a>
+##### Paragraphe 3 : Traitement médical<a id=356></a>
 
 ###### Article D380
 
@@ -31321,7 +31347,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D280. (M)
 
 
-##### Paragraphe 4 : Soins divers<a id=356></a>
+##### Paragraphe 4 : Soins divers<a id=357></a>
 
 ###### Article D392
 
@@ -31527,7 +31553,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D386 (M)
 
 
-##### Paragraphe 5 : Maternité<a id=357></a>
+##### Paragraphe 5 : Maternité<a id=358></a>
 
 ###### Article D399
 
@@ -31570,7 +31596,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=358></a>
+#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=359></a>
 
 ###### Article D402
 
@@ -31594,7 +31620,7 @@ _Abrogé par_:
   - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
-##### Section 1 : Des visites<a id=359></a>
+##### Section 1 : Des visites<a id=360></a>
 
 ###### Article D404
 
@@ -31781,7 +31807,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Section 2 : De la correspondance<a id=360></a>
+##### Section 2 : De la correspondance<a id=361></a>
 
 ###### Article D413
 
@@ -31924,7 +31950,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du maintien des liens familiaux<a id=361></a>
+##### Section 3 : Du maintien des liens familiaux<a id=362></a>
 
 ###### Article D420
 
@@ -31978,7 +32004,7 @@ _Cite_:
   - Code de procédure pénale D326 et D329
 
 
-##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=362></a>
+##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=363></a>
 
 ###### Article D424
 
@@ -32030,7 +32056,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=363></a>
+##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=364></a>
 
 ###### Article D430
 
@@ -32099,9 +32125,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=364></a>
+#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=365></a>
 
-##### Section 1 : De l'assistance spirituelle<a id=365></a>
+##### Section 1 : De l'assistance spirituelle<a id=366></a>
 
 ###### Article D433
 
@@ -32326,7 +32352,36 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'action socio-culturelle<a id=366></a>
+##### Section 2 : De l'action socio-culturelle<a id=367></a>
+
+###### Article D444
+
+Les détenus peuvent se procurer, par l'intermédiaire de l'administration, et dans les conditions déterminées par une
+instruction de service, les journaux, les périodiques et les livres français et étrangers de leur choix n'ayant pas fait
+l'objet d'une saisie dans les trois derniers mois.
+
+Toutefois, les publications contenant des menaces précises contre la sécurité des personnes ou celles des établissements
+pénitentiaires peuvent être, à la demande des chefs d'établissement, retenues sur décision du garde des sceaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D431 (Ab)
+
 
 ###### Article D447
 
@@ -32385,7 +32440,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : De l'enseignement<a id=367></a>
+##### Section 3 : De l'enseignement<a id=368></a>
 
 ###### Article D450
 
@@ -32463,7 +32518,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Formation professionnelle<a id=368></a>
+##### Paragraphe 2 : Formation professionnelle<a id=369></a>
 
 ###### Article D457
 
@@ -32528,9 +32583,9 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D438-2 (M)
 
 
-##### Section 4 : Du service socio-éducatif<a id=369></a>
+##### Section 4 : Du service socio-éducatif<a id=370></a>
 
-##### Paragraphe 2 : Visiteurs de prison<a id=370></a>
+##### Paragraphe 2 : Visiteurs de prison<a id=371></a>
 
 ###### Article D477
 
@@ -32557,9 +32612,9 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : De l'aide à la libération<a id=371></a>
+##### Section 5 : De l'aide à la libération<a id=372></a>
 
-##### Paragraphe 2 : Aide aux indigents<a id=372></a>
+##### Paragraphe 2 : Aide aux indigents<a id=373></a>
 
 ###### Article D484
 
@@ -32583,7 +32638,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D490 (M)
 
 
-#### Chapitre XI : De différentes catégories de détenus<a id=373></a>
+#### Chapitre XI : De différentes catégories de détenus<a id=374></a>
 
 ###### Article D487
 
@@ -32607,7 +32662,7 @@ _Cite_:
   - Code de procédure pénale - art. D58 (V)
 
 
-##### Section 1 : Des condamnés de police<a id=374></a>
+##### Section 1 : Des condamnés de police<a id=375></a>
 
 ###### Article D488
 
@@ -32636,7 +32691,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 717 (M)
 
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=375></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=376></a>
 
 ###### Article D491
 
@@ -32905,7 +32960,7 @@ _Abrogé par_:
   - Décret n°83-48 1983-01-26 art. 2 JORF 28 janvier 1983
 
 
-##### Section 3 : Des détenus de nationalité étrangère<a id=376></a>
+##### Section 3 : Des détenus de nationalité étrangère<a id=377></a>
 
 ###### Article D505
 
@@ -32975,7 +33030,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des détenus appartenant aux forces armées<a id=377></a>
+##### Section 4 : Des détenus appartenant aux forces armées<a id=378></a>
 
 ###### Article D509
 
@@ -33059,7 +33114,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=378></a>
+##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=379></a>
 
 ###### Article D514
 
@@ -33195,9 +33250,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-### Titre III : De la libération conditionnelle<a id=379></a>
+### Titre III : De la libération conditionnelle<a id=380></a>
 
-#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=380></a>
+#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=381></a>
 
 ###### Article D525
 
@@ -33224,7 +33279,7 @@ _Modifié par_:
   - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
 
 
-#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=381></a>
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=382></a>
 
 ###### Article D529
 
@@ -33246,7 +33301,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=382></a>
+#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=383></a>
 
 ###### Article D531
 
@@ -33267,7 +33322,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-##### Section 2 : Des conditions particulières<a id=383></a>
+##### Section 2 : Des conditions particulières<a id=384></a>
 
 ###### Article D537
 
@@ -33292,7 +33347,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=384></a>
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=385></a>
 
 ###### Article D538
 
@@ -33340,7 +33395,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre V : Dispositions diverses<a id=385></a>
+#### Chapitre V : Dispositions diverses<a id=386></a>
 
 ###### Article D543
 
@@ -33362,11 +33417,11 @@ _Abrogé par_:
   - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 
-### Titre IV : Du sursis<a id=386></a>
+### Titre IV : Du sursis<a id=387></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=387></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=388></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=388></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=389></a>
 
 ###### Article D545
 
@@ -33890,7 +33945,7 @@ _Abrogé par_:
   - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
-### Titre VI : De la contrainte par corps<a id=389></a>
+### Titre VI : De la contrainte par corps<a id=390></a>
 
 ###### Article D569
 
@@ -33920,17 +33975,17 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-# Partie Arrêtés<a id=390></a>
+# Partie Arrêtés<a id=391></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=391></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=392></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=392></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=393></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=393></a>
+#### Chapitre Ier : De la police judiciaire<a id=394></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=394></a>
+##### Section 2 : Des officiers de police judiciaire<a id=395></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=395></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=396></a>
 
 ###### Article A1
 
@@ -34168,7 +34223,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=396></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=397></a>
 
 ###### Article A2
 
@@ -34293,13 +34348,13 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=397></a>
+## Livre V : Des procédures d'exécution<a id=398></a>
 
-### Titre II : De la détention<a id=398></a>
+### Titre II : De la détention<a id=399></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=399></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=400></a>
 
-##### Section 5<a id=400></a>
+##### Section 5<a id=401></a>
 
 ###### Article A39-1
 
@@ -34347,11 +34402,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=401></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=402></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=402></a>
+##### Section 1 : De la gestion des biens des détenus<a id=403></a>
 
-##### Paragraphe 1er : Pécule.<a id=403></a>
+##### Paragraphe 1er : Pécule.<a id=404></a>
 
 ###### Article A42-1
 
@@ -34414,9 +34469,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=404></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=405></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=405></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=406></a>
 
 ###### Article A43
 
@@ -34475,13 +34530,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=406></a>
+### Titre IV : Du sursis<a id=407></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=407></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=408></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=408></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=409></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=409></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=410></a>
 
 ###### Article A45
 
@@ -34542,7 +34597,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=410></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=411></a>
 
 ###### Article A48
 
@@ -34643,9 +34698,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=411></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=412></a>
 
-#### Disposition générale<a id=412></a>
+#### Disposition générale<a id=413></a>
 
 ###### Article A53
 
@@ -34663,7 +34718,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=413></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=414></a>
 
 ###### Article A54
 
