@@ -1,7 +1,7 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-11-05
+Version Consolidée au 1993-01-05
 ## Contenu: 
-  - [Partie législative (art. 1 à 802)](#1)
+  - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. 11 à 230)](#3)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. 11 à 52)](#4)
@@ -26,7 +26,7 @@ Version Consolidée au 1992-11-05
         - [Chapitre III : Des contrôles d'identité (art. 78-1 à 78-5)](#23)
       - [Titre III : Des juridictions d'instruction (art. 79 à 230)](#24)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 79 à 190)](#25)
-          - [Section 1 : Dispositions générales (art. 79)](#26)
+          - [Section 1 : Dispositions générales (art. 79 à 83-1)](#26)
           - [Section 2 : De la constitution de la partie civile et de ses effets (art. 85 à 90)](#27)
           - [Section 3 : Des transports, des perquisitions, des saisies et des interceptions de correspondances émises par la voie des télécommunications (art. 92 à 100-6)](#28)
             - [Sous-section 1 : Des transports, des perquisitions et des saisies (art. 92 à 94)](#29)
@@ -37,7 +37,7 @@ Version Consolidée au 1992-11-05
           - [Section 6 : Des mandats et de leur exécution (art. 124 à 136)](#34)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 141-1 à 150)](#35)
             - [Sous-section 1 : Du contrôle judiciaire (art. 141-1 à 143)](#36)
-            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149-2 à 150)](#37)
+            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149-1 à 150)](#37)
           - [Section 9 : De l'expertise (art. 157 à 169-1)](#38)
           - [Section 10 : Des nullités de l'information (art. 170 à 174)](#39)
           - [Section 11 : Des ordonnances de règlement (art. 175 à 183)](#40)
@@ -52,10 +52,10 @@ Version Consolidée au 1992-11-05
             - [Sous-section 1 : Des transports, des perquisitions et des saisies (art. 95 à 99)](#49)
           - [Section 4 : Des auditions de témoins (art. 104)](#50)
           - [Section 5 : Des interrogatoires et confrontations (art. 114 à 120)](#51)
-          - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 137 à 149-1)](#52)
+          - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 137 à 149)](#52)
             - [Sous-section 1 : Du contrôle judiciaire (art. 138 à 142-2)](#53)
             - [Sous-section 2 : De la détention provisoire (art. 144 à 148-8)](#54)
-            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149 à 149-1)](#55)
+            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149)](#55)
           - [Section 8 : Des commissions rogatoires (art. 152 à 155)](#56)
           - [Section 12 : De l'appel des ordonnances du juge d'instruction (art. 187)](#57)
         - [Chapitre Ier : De la chambre d'instruction et du juge d'instruction : juridictions d'instruction du premier degré (art. 145-2)](#58)
@@ -149,7 +149,7 @@ Version Consolidée au 1992-11-05
       - [Titre VI : Des renvois d'un tribunal à un autre (art. 662 à 667)](#146)
       - [Titre VII : De la récusation (art. 668 à 674-2)](#147)
       - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux (art. 675 à 678)](#148)
-      - [Titre IX : Des crimes et délits commis par des magistrats et certains fonctionnaires (art. 679 à 688)](#149)
+      - [Titre IX : Des crimes et délits commis par des magistrats et certains fonctionnaires (art. 681)](#149)
       - [Titre X : Des infractions commises à l'étranger (art. 689 à 696)](#150)
       - [Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation (art. 698-1 à 701)](#151)
         - [Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix (art. 698-1 à 698-8)](#152)
@@ -167,7 +167,7 @@ Version Consolidée au 1992-11-05
       - [Titre XV : Des infractions en relation avec une entreprise individuelle ou collective ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur (art. 706-16 à 706-25)](#164)
         - [Section 1 : Compétence (art. 706-18 à 706-22)](#165)
         - [Section 2 : Procédure (art. 706-23 à 706-25)](#166)
-    - [Livre V : Des procédures d'exécution (art. 707 à 802)](#167)
+    - [Livre V : Des procédures d'exécution (art. 707 à 803)](#167)
       - [Titre Ier : De l'exécution des sentences pénales (art. 707 à 712)](#168)
         - [Chapitre Ier : Dispositions générales (art. 709 à 712)](#169)
       - [Titre II : De la détention (art. 714 à 728-1)](#170)
@@ -187,8 +187,8 @@ Version Consolidée au 1992-11-05
       - [Titre VII : De la prescription de la peine (art. 763 à 767)](#184)
       - [Titre VIII : Du casier judiciaire (art. 768 à 781)](#185)
       - [Titre IX : De la réhabilitation des condamnés (art. 782 à 799)](#186)
-      - [Titre X : Des frais de justice (art. 800 à 802)](#187)
-        - [Dispositions générales (art. 801 à 802)](#188)
+      - [Titre X : Des frais de justice (art. 800 à 803)](#187)
+        - [Dispositions générales (art. 801 à 803)](#188)
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R250)](#189)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. R1 à R40-4)](#190)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. R1 à R15-17)](#191)
@@ -852,6 +852,28 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Décret n°92-701 du 20 juillet 1992 - art. 1 (V)
+
+
+###### Article 2-12
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose par ses statuts de
+combattre la délinquance routière et de défendre ou d'assister les victimes de cette délinquance peut exercer les droits
+reconnus à la partie civile en ce qui concerne les délits d'homicide ou blessures involontaires commis à l'occasion de la
+conduite d'un véhicule automobile terrestre à moteur lorsque l'action publique a été mise en mouvement par le ministère
+public ou la partie lésée.
+
+Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si
+celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 
 ###### Article 3
@@ -2336,15 +2358,17 @@ Le ministre de la justice peut dénoncer au procureur général les infractions 
 enjoindre d'engager ou de faire engager des poursuites ou de saisir la juridiction compétente de telles réquisitions écrites
 que le ministre juge opportunes.
 
+Les instructions du ministre de la justice sont toujours écrites.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+  - Loi n°93-2 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -2531,6 +2555,8 @@ infractions à la loi pénale.
 
 A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
 
+Le procureur de la République contrôle les mesures de garde à vue.
+
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du
 chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
 
@@ -2543,15 +2569,16 @@ l'informer sur les mesures propres à favoriser l'insertion sociale de l'intére
 de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue n'excède pas cinq ans
 d'emprisonnement, ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire.
 
+Le procureur de la République peut enfin, préalablement à sa décision sur l'action publique et avec l'accord des parties,
+décider de recourir à une médiation s'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage
+causé à la victime, de mettre fin au trouble résultant de l'infraction et de contribuer au reclassement de l'auteur de
+l'infraction.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
-
-_Modifié par_:
-
-  - Loi n°89-461 du 6 juillet 1989 - art. 1 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
 
 _Cité par_:
 
@@ -2571,6 +2598,10 @@ _Cité par_:
   - Code de procédure pénale - art. D77 (V)
   - Code de procédure pénale - art. R121-3 (V)
   - Code de procédure pénale - art. R15-33-66-9 (V)
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
 
 _Cite_:
 
@@ -4326,6 +4357,44 @@ _Cite_:
   - Code de procédure pénale - art. 44 (V)
 
 
+###### Article 83-1
+
+Pour l'application du deuxième alinéa de l'article 83, lorsque le tribunal comporte un ou deux juges d'instruction, le
+premier président de la cour d'appel, à la demande du président du tribunal, ou, en cas d'empêchement, le magistrat qui le
+remplace, peut adjoindre au juge chargé de l'information un ou plusieurs des juges de son ressort.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-2 1993-01-04 art. 226
+
+_Créé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 20 () JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+  - Décret n°2008-54 du 16 janvier 2008 - art. 6 (V)
+  - Code de procédure pénale - art. 221-3 (VT)
+  - Code de procédure pénale - art. 706-168 (VD)
+  - Code de procédure pénale - art. 804 (VT)
+  - Code de procédure pénale - art. 84 (VT)
+  - Code de procédure pénale - art. 877 (V)
+  - Code de procédure pénale - art. 905-1 (VT)
+  - Code de procédure pénale - art. D15-4-5 (V)
+  - Code de procédure pénale - art. D31-1 (V)
+
+
 ##### Section 2 : De la constitution de la partie civile et de ses effets<a id=27></a>
 
 ###### Article 85
@@ -5588,6 +5657,44 @@ _Cite_:
 
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=37></a>
+
+###### Article 149-1
+
+L'indemnité prévue à l'article précédent est allouée par décision d'une commission qui statue souverainement.
+
+Le bureau de la Cour de cassation peut décider que la commission comportera plusieurs formations.
+
+La commission, ou chacune des formations qu'elle comporte le cas échéant, est composée du premier président de la Cour de
+cassation, ou de son représentant, qui la préside, et de deux magistrats du siège à la même cour ayant le grade de président
+de chambre, de conseiller ou de conseiller référendaire, désignés annuellement par le bureau de la cour. Outre ces deux
+magistrats, ce bureau désigne également, dans les mêmes conditions, trois suppléants.
+
+Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cité par_:
+
+  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (M)
+  - Loi n°2000-516 du 15 juin 2000 - art. 72 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 626 (M)
+  - Code de procédure pénale - art. 149 (V)
+  - Code de procédure pénale - art. R26 (V)
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 150 () JORF 5 janvier 1993
+
+_Nouveaux textes_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (V)
+
 
 ###### Article 149-2
 
@@ -7469,14 +7576,17 @@ d'entrer en relation avec elles, de quelque façon que ce soit ;
 fins de désintoxication ;
 
 11° Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge
-d'instruction, compte tenu notamment des ressources de l'inculpé ;
-
-12° Ne pas se livrer à certaines activités de nature professionnelle ou sociale, à l'exclusion de l'exercice des mandats
-électifs et des responsabilités syndicales, lorsque l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice
-de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise ;
+d'instruction, compte tenu notamment des ressources de l'inculpé ;    12° Ne pas se livrer à certaines activités de nature
+professionnelle ou sociale, à l'exclusion de l'exercice des mandats électifs et des responsabilités syndicales, lorsque
+l'infraction a été commise dans l'exercice ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une
+nouvelle infraction soit commise. Lorsque l'activité concernée est celle d'un avocat, le juge d'instruction doit saisir le
+conseil de l'ordre qui statue comme il est dit à l'article 23 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de
+certaines professions judiciaires et juridiques ;
 
 13° Ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré
-ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les formules de chèques dont l'usage est ainsi prohibé ;
+ou ceux qui sont certifiés et, le cas échéant, remettre au greffe les
+
+formules de chèques dont l'usage est ainsi prohibé ;
 
 14° Ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont il est
 détenteur ;
@@ -7540,17 +7650,13 @@ _Cité par_:
   - Code de procédure pénale - art. R57-10 (V)
   - Code monétaire et financier - art. L621-13 (V)
 
+_Cite_:
+
+  - Loi n°71-1130 du 31 décembre 1971 - art. 23 (M)
+
 _Modifié par_:
 
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970
-  - Loi n°75-701 1975-08-06 art. 23 JORF 7 août 1975
-  - Loi n°83-466 du 10 juin 1983 - art. 30 () JORF 11 juin 1983
-  - Loi n°83-608 1983-07-08 art. 4 JORF 9 juillet 1983
-  - Loi n°85-1407 1985-12-30 art. 16 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+  - Loi n°93-2 du 4 janvier 1993 - art. 149 () JORF 5 janvier 1993
 
 
 ###### Article 139
@@ -8247,45 +8353,6 @@ _Cite_:
   - Code de procédure pénale 505 et S.
 
 
-###### Article 149-1
-
-L'indemnité prévue à l'article précédent est allouée par décision d'une commission qui statue souverainement.
-
-La commission est composée de trois magistrats du siège à la Cour de cassation ayant le grade de président de chambre ou de
-conseiller. Ces magistrats sont désignés annuellement, en même temps que trois suppléants, par le bureau de la Cour de
-cassation.
-
-Les fonctions du ministère public sont remplies par le parquet général près la Cour de cassation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
-_Créé par_:
-
-  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
-
-_Cité par_:
-
-  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (M)
-  - Loi n°2000-516 du 15 juin 2000 - art. 72 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L141-2 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 626 (M)
-  - Code de procédure pénale - art. 149 (V)
-  - Code de procédure pénale - art. R26 (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*141-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°70-643 art.
-
-
 ##### Section 8 : Des commissions rogatoires<a id=56></a>
 
 ###### Article 152
@@ -8708,18 +8775,21 @@ observations sommaires.
 
 La chambre d'accusation peut ordonner la comparution personnelle des parties ainsi que l'apport des pièces à conviction.
 
-En matière de détention provisoire, la comparution personnelle de l'inculpé est de droit si celui-ci ou son conseil en fait
-la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration d'appel ou que la
-demande de mise en liberté adressée à la chambre d'accusation. Par dérogation aux dispositions du premier alinéa, en cas de
-comparution personnelle d'un inculpé majeur au moment de la commission de l'infraction, lorsque l'inculpé ou son conseil en
-fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en audience publique sauf si la
-publicité est de nature à nuire au bon déroulement de l'information, aux intérêts d'un tiers, à l'ordre public ou aux bonnes
-moeurs ; la chambre d'accusation statue sur cette demande, après avoir recueilli les observations du procureur général et, le
-cas échéant, des conseils des autres parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en
-cassation qu'en même temps que l'arrêt portant sur la demande principale.
+Il est donné lecture de l'arrêt par le président ou par l'un des conseillers ; cette lecture peut être faite même en
+l'absence des autres conseillers.
 
-En cas de comparution personnelle de l'inculpé, le délai maximum prévu au deuxième alinéa de l'article 194 est prolongé de
-cinq jours.
+En matière de détention provisoire, la comparution personnelle de la personne concernée est de droit si celle-ci ou son
+conseil en fait la demande ; cette requête doit, à peine d'irrecevabilité, être présentée en même temps que la déclaration
+d'appel ou que la demande de mise en liberté adressée à la chambre d'accusation. Par dérogation aux dispositions du premier
+alinéa, en cas de comparution personnelle d'une personne majeure au moment de la commission de l'infraction, lorsque la
+personne ou son conseil en fait la demande dès l'ouverture des débats, ceux-ci se déroulent et l'arrêt est rendu en audience
+publique sauf si la publicité est de nature à nuire au bon déroulement de l'information, aux intérêts d'un tiers, à l'ordre
+public ou aux bonnes moeurs ; la chambre d'accusation statue sur cette demande, après avoir recueilli les observations du
+procureur général et, le cas échéant, des conseils des autres parties, par un arrêt rendu en chambre du conseil qui n'est
+susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
+
+En cas de comparution personnelle de la personne concernée, le délai maximum prévu au deuxième alinéa de l'article 194 est
+prolongé de cinq jours.
 
 **Liens relatifs à cet article**
 
@@ -8733,7 +8803,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°89-461 du 6 juillet 1989 - art. 7 () JORF 8 juillet 1989 en vigueur le 1er décembre 1989
+  - Loi n°93-2 du 4 janvier 1993 - art. 144 () JORF 5 janvier 1993 en vigueur le 5 janvier 1993
 
 _Cité par_:
 
@@ -9382,7 +9452,8 @@ _Cité par_:
 
 ###### Article 230
 
-Les dispositions de la présente section sont applicables aux chefs de district et aux agents techniques des eaux et forêts.
+Les dispositions de la présente section sont applicables aux agents de police judiciaire adjoints ainsi qu'aux fonctionnaires
+et agents chargés de certaines fonctions de police judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -9390,13 +9461,13 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Modifié par_:
-
-  - Loi n°78-788 1978-07-28 art. 6 JORF 29 juillet 1978
-
 _Cité par_:
 
   - Loi n°83-520 du 27 juin 1983 - art. 18 (V)
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 151 () JORF 5 janvier 1993
 
 **Liens**:
 
@@ -10543,7 +10614,9 @@ L'arrêt de renvoi est signifié à l'accusé.
 
 Il lui en est laissé copie.
 
-Cette signification doit être faite à personne si l'accusé est détenu.
+Cette signification doit être faite à personne si l'accusé est détenu. Toutefois, l'arrêt de renvoi peut être notifié à
+l'accusé détenu par les soins du chef de l'établissement pénitentiaire qui adresse, sans délai, au procureur général,
+l'original ou la copie du récépissé signé par l'intéressé.
 
 Dans le cas contraire, elle est faite dans les formes prévues au titre IV du présent livre.
 
@@ -10555,7 +10628,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
+  - Loi n°93-2 du 4 janvier 1993 - art. 145 () JORF 5 janvier 1993
 
 
 ###### Article 269
@@ -17852,21 +17925,27 @@ L'appel est jugé à l'audience sur le rapport oral d'un conseiller ; le préven
 
 Les témoins ne sont entendus que si la cour a ordonné leur audition.
 
-Les parties en cause ont la parole dans l'ordre suivant : d'abord, les parties appelantes, puis les parties intimées ; s'il y
-a plusieurs parties appelantes ou intimées, elles sont entendues dans l'ordre fixé par le président.
+Les parties en cause ont la parole dans l'ordre prévu par l'article 460.
 
-Le prévenu ou son conseil auront toujours la parole les derniers.
+Le prévenu ou son avocat auront toujours la parole les derniers.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 99 () JORF 5 janvier 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°93-1013 1993-08-24 art. 34
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 460 (M)
 
 _Cité par_:
 
@@ -18602,7 +18681,7 @@ Ce versement est effectué :
 
 1. Soit, au moment de la constatation de l'infraction, entre les mains de l'agent de l'exploitant ;
 
-2. Soit, dans un délai de quatre mois à compter de la constatation de l'infraction, auprès du service de l'exploitant indiqué
+2. Soit, dans un délai de deux mois à compter de la constatation de l'infraction, auprès du service de l'exploitant indiqué
 dans la proposition de transaction ; dans ce dernier cas, il y est ajouté aux sommes dues le montant des frais de
 constitution du dossier.
 
@@ -18614,8 +18693,8 @@ l'exploitant.
 
 **Nota:**
 
-Pour le calcul du montant de l'indemnité forfaitaire art. 80-4 du décret 730 du 22 mars 1942, dans la rédaction issue du
-décret 86-1405 du 18 septembre 1986 art. 3 JORF 19 septembre 1986.
+NOTA : Pour le calcul du montant de l'indemnité forfaitaire art. 80-4 du décret 730 du 22 mars 1942, dans la rédaction issue
+du décret 86-1405 du 18 septembre 1986 art. 3 JORF 19 septembre 1986.
 
 **Liens relatifs à cet article**
 
@@ -18643,13 +18722,12 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
+  - Loi n°93-2 du 4 janvier 1993 - art. 153 () JORF 5 janvier 1993
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
   - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000
   - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 1 ()
   - TXT_SOURCE: Décret n°2000-1136 du 24 novembre 2000 - art. 2 ()
@@ -18658,11 +18736,11 @@ _Créé par_:
 ###### Article 529-5
 
 Dans le délai prévu par l'article précédent, le contrevenant doit s'acquitter du montant des sommes dues au titre de la
-transaction, à moins qu'il ne formule dans le délai de quatre mois à compter de la constatation de l'infraction une
+transaction, à moins qu'il ne formule dans le délai de deux mois à compter de la constatation de l'infraction une
 protestation auprès du service de l'exploitant. Cette protestation, accompagnée du procès-verbal d'infraction, est transmise
 au ministère public.
 
-A défaut de paiement ou de protestation dans le délai de quatre mois précité, le procès-verbal d'infraction est adressé par
+A défaut de paiement ou de protestation dans le délai de deux mois précité, le procès-verbal d'infraction est adressé par
 l'exploitant au ministère public et le contrevenant devient redevable de plein droit d'une amende forfaitaire majorée
 recouvrée par le Trésor public en vertu d'un titre rendu exécutoire par le ministère public.
 
@@ -18689,13 +18767,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+  - Loi n°93-2 du 4 janvier 1993 - art. 153 () JORF 5 janvier 1993
 
 _Cite_:
 
@@ -18844,12 +18918,14 @@ _Cité par_:
 
 Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant les règles
 prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à courir à compter
-de la signature par le ministère public de l'état récapitulatif des titres de recouvrement [*point de départ*].
+de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif.
 
-Dans les dix jours [*délai*] de l'envoi de l'avertissement invitant le contrevenant à payer l'amende majorée, l'intéressé
-peut former auprès du ministère public une réclamation, qui a pour effet d'annuler le titre exécutoire. Cette réclamation
-reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte d'exécution ou de tout autre moyen de
-preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée [*conditions*].
+Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut
+former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne
+l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte
+d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.
+
+La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée.
 
 **Liens relatifs à cet article**
 
@@ -18882,25 +18958,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er octobre 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
-  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+  - Loi n°93-2 du 4 janvier 1993 - art. 154 () JORF 5 janvier 1993
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 529-2 (M)
   - CODE DE PROCEDURE PENALE - art. 529-5 (M)
 
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
 
 ###### Article 530-1
 
 Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en application du
-premier alinéa de l'article 529-5 ou de la réclamation faite en application du second alinéa de l'article 530, le ministère
-public peut soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2 ou aux articles
-531 et suivants.
+premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article 530, le ministère
+public peut, soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2 ou aux articles
+531 et suivants, soit aviser l'intéressé de l'irrecevabilité de la réclamation non motivée ou non accompagnée de l'avis.
 
 En cas de condamnation, l'amende prononcée ne peut être inférieure au montant de l'amende ou de l'indemnité forfaitaire dans
 les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure au
@@ -18915,12 +18990,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 51 et art. 94 JORF 31 décembre 1985 en vigueur le 1er Octobre 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
-  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+  - Loi n°93-2 du 4 janvier 1993 - art. 155 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -18933,7 +19003,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 529-5 (M)
   - CODE DE PROCEDURE PENALE - art. 530 (M)
   - CODE DE PROCEDURE PENALE - art. 531 (M)
-  - Code de procédure pénale 524 à 528-2, 529-2, 529-5, 530, 531
+  - Code de procédure pénale 530, 524 à 528-2, 531, 529-2, 529-5
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
 
 
 ###### Article 530-2
@@ -19613,17 +19687,12 @@ Le délai entre le jour où la citation est délivrée et le jour fixé pour la 
 police est d'au moins dix jours, si la partie citée réside dans un département de la France métropolitaine ou si, résidant
 dans un département d'outre-mer, elle est citée devant un tribunal de ce département.
 
-Si la partie citée réside hors de France métropolitaine, ce délai est porté :
+Ce délai est augmenté d'un mois si la partie citée devant le tribunal d'un département d'outre-mer réside dans un autre
+département d'outre-mer, dans un territoire d'outre-mer, à Saint-Pierre-et-Miquelon ou Mayotte ou en France métropolitaine,
+ou si, cité devant un tribunal d'un département de la France métropolitaine, elle réside dans un département ou territoire
+d'outre-mer, à Saint-Pierre-et-Miquelon ou Mayotte.
 
-1° A deux mois si elle demeure en Europe, en Afrique et en Amérique du Nord sauf dans les territoires mentionnés au 2° ci-
-dessous ;
-
-2° A trois mois si elle demeure en Amérique centrale, en Amérique du Sud sauf au Pérou, au Mexique, en Turquie, en Israël et
-à la Réunion ;
-
-3° A quatre mois si elle demeure en Syrie, au Liban, en Jordanie, en Iran et en Irak ;
-
-4° A cinq mois si elle demeure en Asie, sauf pour les Etats déjà mentionnés ci-dessus, en Océanie et au Pérou.
+Si la partie citée réside à l'étranger, ce délai est augmenté de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -19642,6 +19711,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 146 () JORF 5 janvier 1993
 
 
 ###### Article 553
@@ -22565,20 +22638,16 @@ _Modifié par_:
 ###### Article 662
 
 En matière criminelle, correctionnelle ou de police, la chambre criminelle de la Cour de cassation peut dessaisir toute
-juridiction d'instruction ou de jugement et renvoyer la connaissance de l'affaire à une autre juridiction du même ordre, soit
-si la juridiction normalement compétente ne peut être légalement composée, ou si le cours de la justice se trouve autrement
-interrompu, soit pour cause de suspicion légitime.
+juridiction d'instruction ou de jugement et renvoyer la connaissance de l'affaire à une autre juridiction du même ordre pour
+cause de suspicion légitime.
 
 La requête aux fins de renvoi peut être présentée soit par le procureur général près la Cour de cassation, soit par le
-ministère public établi près la juridiction saisie, soit par l'inculpé, soit par la partie civile.
+ministère public établi près la juridiction saisie, soit par les parties.
 
 La requête doit être signifiée à toutes les parties intéressées qui ont un délai de dix jours pour déposer un mémoire au
 greffe de la Cour de cassation.
 
 La présentation de la requête n'a point d'effet suspensif à moins qu'il n'en soit autrement ordonné par la Cour de cassation.
-
-Le procureur général près la Cour de cassation peut aussi et dans les mêmes formes demander à la chambre criminelle le renvoi
-d'une affaire d'une juridiction à une autre dans l'intérêt d'une bonne administration de la justice.
 
 **Liens relatifs à cet article**
 
@@ -22602,7 +22671,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-461 du 6 juillet 1989 - art. 15 () JORF 8 juillet 1989
+  - Loi n°93-2 du 4 janvier 1993 - art. 103 () JORF 5 janvier 1993
 
 
 ###### Article 664
@@ -22636,19 +22705,28 @@ _Cité par_:
 
 ###### Article 665
 
-Le renvoi peut être également ordonné pour cause de sûreté publique par la chambre criminelle, mais seulement à la requête du
-procureur général près la Cour de cassation.
+Le renvoi d'une affaire d'une juridiction à une autre peut être ordonné pour cause de sûreté publique par la chambre
+criminelle, mais seulement à la requête du procureur général près la Cour de cassation.
+
+Le renvoi peut également être ordonné, dans l'intérêt d'une bonne administration de la justice, par la chambre criminelle,
+soit sur requête du procureur général près la Cour de cassation, soit sur requête du procureur général près la cour d'appel
+dans le ressort de laquelle la juridiction saisie a son siège, agissant d'initiative ou sur demande des parties.
+
+Dans les dix jours de la réception de la demande et s'il n'y donne pas suite, le procureur général près la cour d'appel
+informe le demandeur des motifs de sa décision. Ce dernier peut alors former un recours devant le procureur général près la
+Cour de cassation qui, s'il ne saisit pas la chambre criminelle l'informe des motifs de sa décision.
+
+La chambre criminelle statue dans les huit jours de la requête.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 104 () JORF 5 janvier 1993
 
 _Cité par_:
 
@@ -22656,38 +22734,70 @@ _Cité par_:
   - Code de justice militaire. - art. L123-4 (VD)
 
 
-###### Article 666
+###### Article 665-1
 
-Tout arrêt qui a statué sur une demande en renvoi pour l'une des causes précitées sera signifié aux parties intéressées à la
-diligence du procureur général près la Cour de cassation par l'intermédiaire du ministre de la justice.
+Le renvoi peut encore être ordonné par la chambre criminelle si la juridiction normalement compétente ne peut être légalement
+composée ou si le cours de la justice se trouve autrement interrompu.
+
+La requête aux fins de renvoi peut être présentée, soit par le procureur général près la Cour de cassation, soit par le
+ministère public établi près la juridiction saisie.
+
+La requête doit être signifiée à toutes les parties intéressées qui ont un délai de dix jours pour déposer un mémoire au
+greffe de la Cour de cassation.
+
+La chambre criminelle statue dans les quinze jours de la requête.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 105 () JORF 5 janvier 1993
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 398 (MMN)
+  - Code de procédure pénale - art. 667 (V)
+
+
+###### Article 666
+
+Tout arrêt qui a statué sur une demande en renvoi pour l'une des causes précitées sera signifié aux parties intéressées à la
+diligence du procureur général près la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 147 () JORF 5 janvier 1993
 
 
 ###### Article 667
 
-L'arrêt qui a rejeté une demande en renvoi pour sûreté publique n'exclut pas une nouvelle demande en renvoi fondée sur des
-faits survenus depuis.
+L'arrêt qui a rejeté une demande en renvoi pour sûreté publique, pour les motifs énoncés au premier alinéa de l'article
+665-1, pour suspicion légitime ou dans l'intérêt d'une bonne administration de la justice n'exclut pas une nouvelle demande
+en renvoi fondée sur des faits survenus depuis.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 106 () JORF 5 janvier 1993
+
+_Cite_:
+
+  - Code de procédure pénale - art. 665-1 (V)
 
 
 ### Titre VII : De la récusation<a id=147></a>
@@ -22925,9 +23035,9 @@ _Cité par_:
 
 ###### Article 675
 
-Sous réserve des dispositions des articles 342, 457 et 681, alinéa 6, les infractions commises à l'audience sont jugées,
-d'office ou sur les réquisitions du ministère public, suivant les dispositions ci-après, nonobstant toutes règles spéciales
-de compétence ou de procédure.
+Sous réserve des dispositions des articles 342 et 457, les infractions commises à l'audience sont jugées, d'office ou sur les
+réquisitions du ministère public, suivant les dispositions ci-après, nonobstant toutes règles spéciales de compétence ou de
+procédure.
 
 **Liens relatifs à cet article**
 
@@ -22937,13 +23047,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-506 1982-06-15 art. 7 JORF 16 juin 1982
+  - Loi n°93-2 du 4 janvier 1993 - art. 107 () JORF 5 janvier 1993
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 342 (M)
-  - CODE DE PROCEDURE PENALE - art. 457 (M)
-  - Code de procédure pénale 342, 457, 681 al. 6
+  - Code de procédure pénale - art. 342 (V)
+  - Code de procédure pénale - art. 457 (V)
 
 
 ###### Article 676
@@ -22978,19 +23087,24 @@ Si le fait, qualifié délit, a été commis à l'audience d'un tribunal de poli
 transmet au procureur de la République ; il peut, si la peine encourue est supérieure à six mois d'emprisonnement, ordonner
 l'arrestation de l'auteur, et sa conduite immédiate devant le procureur de la République.
 
+Par dérogation aux dispositions qui précèdent, lorsqu'il a été commis pendant la durée d'une audience d'un tribunal ou d'une
+cour l'un des délits visés par les articles 222 et 223 du code pénal, le président en dresse procès-verbal qu'il transmet au
+procureur de la République. Les magistrats ayant participé à l'audience lors de la commission du délit ne peuvent composer la
+juridiction saisie des poursuites.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 108 () JORF 5 janvier 1993
+
 _Cite_:
 
+  - Code pénal 222, 223
   - CODE DE PROCEDURE PENALE - art. 676 (V)
 
 
@@ -23013,75 +23127,6 @@ _Codifié par_:
 
 
 ### Titre IX : Des crimes et délits commis par des magistrats et certains fonctionnaires<a id=149></a>
-
-###### Article 679
-
-Lorsqu'un membre du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes, un préfet, un magistrat de l'ordre
-judiciaire, un magistrat consulaire ou un magistrat des tribunaux administratifs, est susceptible d'être inculpé d'un crime
-ou d'un délit commis hors l'exercice de ses fonctions, le procureur de la République, saisi de l'affaire, présente requête à
-la chambre criminelle de la Cour de cassation qui procède et statue comme en matière de règlement de juges et désigne la
-juridiction chargée de l'instruction et du jugement de l'affaire.
-
-La chambre criminelle doit se prononcer dans la huitaine qui suit le jour où la requête lui sera parvenue.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Cité par_:
-
-  - Loi n°82-595 du 10 juillet 1982 - art. 6 (Ab)
-  - Loi n°83-520 du 27 juin 1983 - art. 54 (V)
-  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 681 (MMN)
-  - Code électoral - art. L115 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-
-###### Article 680
-
-Le juge d'instruction désigné conformément aux dispositions de l'article 83 doit procéder personnellement aux auditions, aux
-interrogatoires et aux confrontations des personnes visées aux articles 679 et 687 en considération desquelles sa désignation
-a été provoquée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°75-701 1975-08-06 art. 14 JORF 7 août 1975
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 679 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 687 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 83 (M)
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. R200 (M)
-
 
 ###### Article 681
 
@@ -23131,165 +23176,6 @@ _Cité par_:
 
   - Code de justice militaire - art. 95 (Ab)
   - Code du travail - art. L514-9 (Ab)
-
-
-###### Article 682
-
-La chambre d'accusation saisie commet un de ses membres qui prescrit tous actes d'instruction nécessaires dans les formes et
-conditions prévues par le chapitre Ier du titre III du livre Ier. Ce magistrat a compétence même en dehors des limites
-prévues par l'article 93.
-
-Il peut requérir par commission rogatoire tout juge, tout officier de police judiciaire ou tout juge d'instruction dans les
-conditions prévues par les articles 151 à 155.
-
-Les décisions de caractère juridictionnel, notamment celles relatives à la mise ou au maintien en détention ou à la mise en
-liberté de l'inculpé ainsi que celles qui terminent l'information sont rendues par la chambre d'accusation après
-communication du dossier au procureur général.
-
-Sur réquisitions du procureur général, le président de cette chambre peut, avant sa réunion, décerner mandat contre
-l'inculpé. Dans les cinq jours qui suivent l'arrestation de l'inculpé, la chambre décide s'il y a lieu ou non de le maintenir
-en détention.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
-  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 93 (M)
-  - Code de procédure pénale 93, 151 à 155
-
-
-###### Article 683
-
-Lorsque l'instruction est terminée, la chambre d'accusation peut :
-
-Soit dire qu'il n'y a lieu à suivre ;
-
-Soit, si l'infraction retenue à la charge de l'inculpé constitue un délit, le renvoyer devant une juridiction correctionnelle
-du premier degré autre que celle dans le ressort de laquelle l'inculpé exerçait ses fonctions ;
-
-Soit, si l'infraction retenue à la charge de l'inculpé constitue un crime, le renvoyer devant une cour d'assises, autre que
-celle dans le ressort de laquelle l'accusé exerçait ses fonctions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-
-###### Article 684
-
-Les arrêts de la chambre d'accusation sont susceptibles de pourvoi dans les conditions déterminées par le titre Ier du livre
-III. Toutefois, par dérogation à l'article 574, l'arrêt de la chambre d'accusation portant renvoi de l'inculpé devant le
-tribunal correctionnel peut, dans tous les cas, faire l'objet d'un pourvoi en cassation. L'arrêt de renvoi devenu définitif
-couvre, s'il en existe, les vices de la procédure antérieure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 574 (M)
-
-
-###### Article 687
-
-Lorsqu'un officier de police judiciaire est susceptible d'être inculpé d'un crime ou d'un délit, qui aurait été commis dans
-la circonscription où il est territorialement compétent, hors ou dans l'exercice de ses fonctions, ou, s'il s'agit d'un maire
-ou de ses adjoints, lorsque les dispositions de l'article 681 ne leur sont pas applicables, le procureur de la République
-saisi de l'affaire présente sans délai requête à la chambre criminelle de la Cour de cassation, qui procède et statue comme
-en matière de règlement de juges et désigne la juridiction chargée de l'instruction ou du jugement de l'affaire.
-
-La Chambre criminelle se prononce dans la huitaine qui suit le jour auquel la requête lui est parvenue.
-
-Les dispositions des articles 680 et 681 (alinéa 5) sont applicables.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°74-646 1974-07-18 art. 3 JORF 19 juillet 1974
-  - Loi n°81-82 du 2 février 1981 - art. 68 () JORF 3 février 1981
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. 680 (Ab)
-  - Code forestier - art. L341-3 (Ab)
-  - Code forestier de Mayotte - art. L341-3 (VT)
-
-_Cite_:
-
-  - Code de procédure pénale 680, 681 al. 5
-
-
-###### Article 688
-
-Jusqu'à la désignation de la juridiction compétente comme il est dit ci-dessus, la procédure est suivie conformément aux
-règles de compétence du droit commun.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
-
-_Cité par_:
-
-  - Code électoral - art. L115 (Ab)
 
 
 ### Titre X : Des infractions commises à l'étranger<a id=150></a>
@@ -27065,11 +26951,11 @@ Le droit d'accorder la libération conditionnelle appartient, selon les distinct
 des peines, soit au ministre de la justice.
 
 Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à
-compter du jour de l'incarcération, n'excède pas trois années, la libération conditionnelle est accordée par le juge de
+compter du jour de l'incarcération, n'excède pas cinq années, la libération conditionnelle est accordée par le juge de
 l'application des peines après avis de la commission de l'application des peines.
 
 Lorsque le condamné doit subir une ou plusieurs peines privatives de liberté entraînant une détention dont la durée totale, à
-compter du jour de l'incarcération, excède trois années, la libération conditionnelle est accordée par le ministre de la
+compter du jour de l'incarcération, excède cinq années, la libération conditionnelle est accordée par le ministre de la
 justice. La proposition de libération conditionnelle est établie par le juge de l'application des peines, après avis de la
 commission de l'application des peines. Elle peut être soumise par le ministre de la justice à un comité consultatif de
 libération conditionnelle. L'avis du préfet du département où le condamné entend fixer sa résidence est recueilli dans tous
@@ -27086,14 +26972,6 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°72-1226 1972-12-29 art. 40 JORF 30 décembre 1972 en vigueur le 1er janvier 1973
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°72-1226 1972-12-29 art. 66
-
 _Cité par_:
 
   - Loi n°83-520 du 27 juin 1983 - art. 59 (V)
@@ -27109,6 +26987,10 @@ _Cité par_:
   - Code de procédure pénale - art. D49-74 (V)
   - Code de procédure pénale - art. D523 (V)
   - Code de procédure pénale - art. D542 (V)
+
+_Modifié par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 156 () JORF 5 janvier 1993
 
 _Cite_:
 
@@ -29038,6 +28920,26 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 764 (Ab)
 
 
+###### Article 765-1
+
+Pour le recouvrement des amendes en matière criminelle, correctionnelle et de police, la prescription est interrompue par un
+commandement notifié au condamné ou une saisie signifiée à celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 157 () JORF 5 janvier 1993
+
+_Abrogé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 159 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+
 ###### Article 766
 
 En aucun cas, les condamnés par défaut ou par contumace dont la peine est prescrite ne peuvent être admis à se présenter pour
@@ -30583,6 +30485,27 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 105 (M)
+
+
+###### Article 803
+
+Nul ne peut être soumis au port des menottes ou des entraves que s'il est considéré soit comme dangereux pour autrui ou pour
+lui-même, soit comme susceptible de tenter de prendre la fuite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 60 () JORF 5 janvier 1993
+
+_Cité par_:
+
+  - Arrêté du 23 février 1999 - art. 3 (V)
+  - Code de procédure pénale - art. D283-4 (Ab)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=189></a>
