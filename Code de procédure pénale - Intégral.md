@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-09-19
+Version Consolidée au 1999-11-07
 ## Contenu: 
   - [Partie législative (art. 1 à 805)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -531,26 +531,29 @@ Version Consolidée au 1999-09-19
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#528)
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#529)
             - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#530)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#531)
-      - [Titre II : De la détention (art. A39 à A43-1)](#532)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#533)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#534)
-          - [Section 5 (art. A39-1 à A39-2)](#535)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#536)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#537)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#538)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#539)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#540)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#541)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#542)
-      - [Titre IV : Du sursis (art. A45 à A52)](#543)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#544)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#545)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#546)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#547)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#548)
-        - [Disposition générale (art. A53)](#549)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#550)
+    - [Livre II : Des juridictions de jugement (art. A37 à A37-7)](#531)
+      - [Titre III : Du jugement des contraventions (art. A37 à A37-7)](#532)
+        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-7)](#533)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#534)
+      - [Titre II : De la détention (art. A39 à A43-1)](#535)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#536)
+          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#537)
+          - [Section 5 (art. A39-1 à A39-2)](#538)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#539)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#540)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#541)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#542)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#543)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#544)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#545)
+      - [Titre IV : Du sursis (art. A45 à A52)](#546)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#547)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#548)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#549)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#550)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#551)
+        - [Disposition générale (art. A53)](#552)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#553)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -68638,13 +68641,287 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 16 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=531></a>
+## Livre II : Des juridictions de jugement<a id=531></a>
 
-### Titre II : De la détention<a id=532></a>
+### Titre III : Du jugement des contraventions<a id=532></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=533></a>
+#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=533></a>
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=534></a>
+###### Article A37
+
+Pour relever les contraventions soumises à la procédure de l'amende forfaitaire dans le cas où celles-ci ne sont pas payées
+immédiatement entre les mains de l'agent verbalisateur, ce dernier utilise des formulaires dont les caractéristiques sont
+fixées par les dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-29 (VD)
+
+
+###### Article A37-1
+
+Le premier volet, de format 100 mm x 186 mm et de couleur blanche, constitue la carte de paiement.
+
+Au recto, sur la partie gauche, figurent les informations relatives au service verbalisateur, à la date de l'infraction, au
+montant de l'amende à payer et, le cas échéant, le numéro d'immatriculation du véhicule.
+
+La partie droite comporte l'emplacement où peut être apposée la partie à envoyer du timbre-amende en cas de non-paiement par
+chèque, et l'indication du destinataire de la carte de paiement.
+
+Au verso, sont mentionnées les modalités de paiement ainsi que les possibilités de requête avec l'indication de l'autorité
+compétente pour recevoir la réclamation. Il est en outre prévu un emplacement où sont portées des informations relatives à
+l'auteur de la requête en exonération.
+
+Sur ce volet sont également indiquées les conséquences du défaut de paiement et de l'absence de requête en exonération dans
+les délais impartis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cité par_:
+
+  - Arrêté du 13 mai 2011 - art. 5 (VD)
+  - Code de procédure pénale - art. A37-10 (VD)
+  - Code de procédure pénale - art. A37-3 (VD)
+  - Code de procédure pénale - art. A37-4 (VD)
+  - Code de procédure pénale - art. A37-5 (VD)
+  - Code de procédure pénale - art. A37-7 (VD)
+  - Code de procédure pénale - art. A37-8 (VD)
+  - Code de procédure pénale - art. A37-9 (VD)
+
+
+###### Article A37-2
+
+Le second volet, de format 100 mm x 186 mm et de couleur blanche, constitue l'avis de contravention.
+
+Au recto, sur la partie gauche, sont portées les mentions relatives au service verbalisateur, à la nature, au lieu et à la
+date de la contravention ainsi que les références des textes réprimant ladite contravention et, le cas échéant, sont précisés
+les éléments d'identification du véhicule et l'obligation de procéder à l'échange du permis de conduire.
+
+Un emplacement est réservé pour faire figurer la perte de point(s) que la contravention relevée est susceptible d'entraîner.
+
+Sur la partie droite, figurent les précisions nécessaires à l'information du contrevenant prévue par le premier alinéa de
+l'article L. 11-3 du code de la route.
+
+De même, y figurent les mentions utiles à l'information du contrevenant sur les dispositions de l'article 34 de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+Un emplacement est destiné, en cas de non-paiement par chèque, à l'apposition de la partie à conserver du timbre-amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cite_:
+
+  - Loi n°78-17 1978-01-06 art. 34
+  - Code de la route L11-3
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-3 (V)
+  - Code de procédure pénale - art. A37-4 (V)
+  - Code de procédure pénale - art. A37-6 (VD)
+  - Code de procédure pénale - art. A37-8 (V)
+
+
+###### Article A37-3
+
+Le troisième volet, de format 100 mm x 186 mm et de couleur rose, constitue le procès-verbal de contravention qui est
+conservé par le service auquel appartient l'agent verbalisateur ou adressé à l'unité de gendarmerie ou de police compétente,
+quand les agents verbalisateurs sont ceux visés aux articles R. 250-1 et au 4° de l'article R. 251 du code de la route.
+
+Au recto, sur la partie gauche, sont portées les mentions prévues par les deuxième et troisième alinéas de l'article A. 37-2,
+qui sont établies par duplication de la partie gauche du deuxième volet.
+
+Sur la partie droite figurent les emplacements destinés à la signature de l'agent verbalisateur et, le cas échéant, aux
+éléments chiffrés permettant le traitement de la contravention relevée, à la signature et aux déclarations du contrevenant
+indiquant s'il reconnaît ou ne reconnaît pas l'infraction.
+
+Au verso, sur la partie gauche, figurent trois emplacements destinés à enregistrer, le cas échéant, des renseignements
+complémentaires, à noter l'établissement d'une fiche d'immobilisation et à recueillir les déclarations du contrevenant, sa
+signature et celle de l'enquêteur.
+
+Sur la partie droite figurent les informations relatives au contrevenant ainsi que, le cas échéant, au titulaire du
+certificat d'immatriculation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
+  - Code de la route R251, R250-1
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-9 (V)
+
+
+###### Article A37-4
+
+Par dérogation aux articles A. 37 à A 37-3, le relevé des contraventions réprimées par l'article R. 232 (2°) du code de la
+route (dépassement de la vitesse maximale autorisée pour les véhicules à moteur), lorsqu'elles sont soumises à la procédure
+de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur, s'effectue au
+moyen de formulaires simplifiés, d'un format identique à ceux des formulaires décrits aux articles précités, mais dont les
+caractéristiques diffèrent de la manière suivante :
+
+- avis de contravention : outre les mentions prévues à l'article A. 37-2, figurent les indications relatives à la vitesse
+maximale autorisée, à celle enregistrée à l'aide d'un appareil de contrôle et à celle retenue par le service verbalisateur,
+les informations sur le moyen de contrôle utilisé, sur le type de voie empruntée et sur le modèle de véhicule ;
+
+- procès-verbal de contravention : outre les mentions prévues à l'article A. 37-3, ce volet de couleur jaune comporte au
+recto, sur la partie gauche, les informations obtenues par duplication du second volet décrit au paragraphe précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. A37-10 (Ab)
+  - Code de procédure pénale - art. A37-25 (V)
+  - Code de procédure pénale - art. A37-27-2 (VD)
+  - Code de procédure pénale - art. A37-5 (VD)
+  - Code de procédure pénale - art. A37-6 (VD)
+  - Code de procédure pénale - art. A37-8 (V)
+  - Code de procédure pénale - art. A37-9 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
+  - Code de procédure pénale A37 à A37-3, A37-2
+  - Code de la route R232
+
+
+###### Article A37-5
+
+Les contraventions non soumises à la procédure de l'amende forfaitaire qui ont donné lieu à l'interpellation du contrevenant
+peuvent être constatées au moyen des formulaires décrits aux articles A. 37 à A. 37-4 ci-dessus.
+
+Au recto de la carte de paiement remise au contrevenant figure l'indication que la procédure de l'amende forfaitaire n'est
+pas applicable et que la contravention sera jugée par le tribunal de police.
+
+Au verso du procès-verbal de contravention sont recueillies les déclarations du contrevenant indiquant s'il reconnaît ou ne
+reconnaît pas l'infraction, sa signature et celle de l'enquêteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-6 (VD)
+
+_Cite_:
+
+  - Code de procédure pénale A37 à A37-4
+
+
+###### Article A37-6
+
+Par dérogation aux articles A. 37 à A. 37-3, le relevé des contraventions à l'arrêt ou au stationnement des véhicules qui
+sont réprimées par l'article R. 233-1 du code de la route, à l'exclusion du premier alinéa, lorsqu'elles sont soumises à la
+procédure de l'amende forfaitaire et qu'elles ne sont pas payées immédiatement entre les mains de l'agent verbalisateur,
+s'effectue au moyen de formulaires simplifiés, d'un format identique à ceux décrits par les articles précités mais dont les
+caractéristiques diffèrent de la manière suivante :
+
+- avis de contravention : n'y figurent pas les mentions prévues par les alinéas 3 et 4 de l'article A. 37-2 ; y figurent deux
+emplacements pour mentionner, d'une part, si une demande d'enlèvement a été formulée et, d'autre part, si l'infraction a été
+commise par un véhicule de plus de 20 mètres carrés dans une zone touristique ;
+
+- procès-verbal de contravention : outre les mentions prévues à l'article A. 37-3, ce volet de couleur verte comporte au
+recto, sur la partie gauche, les informations obtenues par duplication du second volet décrit au paragraphe précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. A37-2 (M)
+  - Code de procédure pénale A37 à A37-3, A37-2
+  - Code de la route. - art. R233-1 (M)
+
+
+###### Article A37-7
+
+Les trois modèles de formulaire de la carte de paiement (premier volet), de l'avis de contravention (second volet) et du
+procès-verbal de contravention (troisième volet), correspondant aux documents CERFA n° 11317* 01-CCTA Rose, n° 11316*01-CCTA
+Jaune, n° 11318* 01-CCTA Vert, ainsi que les fiches techniques d'impression afférentes à chacun de ces modèles, peuvent être
+consultés sur le site internet d'admifrance [http://www.admifrance.gouv.fr/].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 1999-10-05 art. 1 JORF 7 novembre 1999
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A37-11 (VD)
+  - Code de procédure pénale - art. A37-13 (V)
+
+
+## Livre V : Des procédures d'exécution<a id=534></a>
+
+### Titre II : De la détention<a id=535></a>
+
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=536></a>
+
+##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=537></a>
 
 ###### Article A39
 
@@ -68731,7 +69008,7 @@ _Cite_:
   - Code de procédure pénale D70, D70-2, D490 à D496
 
 
-##### Section 5<a id=535></a>
+##### Section 5<a id=538></a>
 
 ###### Article A39-1
 
@@ -68779,9 +69056,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=536></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=539></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=537></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=540></a>
 
 ###### Article A40
 
@@ -68932,11 +69209,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=538></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=541></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=539></a>
+##### Section 1 : De la gestion des biens des détenus<a id=542></a>
 
-##### Paragraphe 1er : Pécule.<a id=540></a>
+##### Paragraphe 1er : Pécule.<a id=543></a>
 
 ###### Article A41
 
@@ -69085,9 +69362,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=541></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=544></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=542></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=545></a>
 
 ###### Article A43
 
@@ -69146,13 +69423,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=543></a>
+### Titre IV : Du sursis<a id=546></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=544></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=547></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=545></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=548></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=546></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=549></a>
 
 ###### Article A45
 
@@ -69213,7 +69490,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=547></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=550></a>
 
 ###### Article A48
 
@@ -69314,9 +69591,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=548></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=551></a>
 
-#### Disposition générale<a id=549></a>
+#### Disposition générale<a id=552></a>
 
 ###### Article A53
 
@@ -69334,7 +69611,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=550></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=553></a>
 
 ###### Article A54
 
