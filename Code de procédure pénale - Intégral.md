@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1979-09-01
+Version Consolidée au 1980-01-05
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -18909,6 +18909,36 @@ _Cité par_:
   - Code de procédure pénale - art. R70 (V)
 
 
+###### Article 771
+
+Le casier judiciaire national automatisé reçoit également les condamnations, décisions, jugements ou arrêtés visés à
+l'article 768 du présent code, concernant les personnes nées à l'étranger et les personnes dont l'acte de naissance n'est pas
+retrouvé ou dont l'identité est douteuse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-2 1980-01-04 art. 10 automatisation du casier judiciaire - progressivité - entrée en vigueur par décrets multiples
+
+_Modifié par_:
+
+  - Loi n°80-2 1980-01-04 art. 2 JORF 5 janvier 1980
+
+_Cité par_:
+
+  - Loi n°80-2 du 4 janvier 1980  - art. 10 (V)
+  - Loi n°80-2 du 4 janvier 1980  - art. 2 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 768 (V)
+
+
 ###### Article 772
 
 Il est donné connaissance aux autorités militaires, par l'envoi d'une copie de la fiche du casier judiciaire, des
@@ -18936,6 +18966,34 @@ _Cité par_:
 _Cite_:
 
   - Code de procédure pénale - art. 769 (V)
+
+
+###### Article 773-1
+
+Une copie de chaque fiche constatant une condamnation à une peine privative de liberté prononcée pour crime ou délit est
+adressée au sommier de police technique tenu par le ministre de l'intérieur. La consultation de ce fichier est exclusivement
+réservée aux autorités judiciaires et aux services de police et de gendarmerie.
+
+Les condamnations effacées par une amnistie ou par la réhabilitation de plein droit ou judiciaire cessent de figurer au
+sommier de police technique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-2 1980-01-04 art. 10 automatisation du casier judiciaire - progressivité - entrée en vigueur par décrets multiples
+
+_Créé par_:
+
+  - Loi n°80-2 1980-01-04 art. 2 JORF 5 janvier 1980
+
+_Cité par_:
+
+  - Loi n°80-2 du 4 janvier 1980  - art. 4 (V)
 
 
 ###### Article 774
@@ -19082,6 +19140,81 @@ _Cité par_:
 _Cite_:
 
   - Code de procédure pénale 775-1 al. 1
+
+
+###### Article 777-2
+
+Toute personne justifiant de son identité obtient, sur demande adressée au procureur de la République près le tribunal de
+grande instance dans le ressort duquel elle réside, communication du relevé intégral des mentions du casier judiciaire la
+concernant. Si la personne intéressée réside à l'étranger, la communication est faite par l'intermédiaire de l'agent
+diplomatique ou du consul compétent.
+
+La communication ne vaut pas notification des décisions non définitives et ne fait pas courir les délais de recours.
+
+Aucune copie de ce relevé intégral ne peut être délivrée.
+
+Les dispositions du présent article sont également applicables au sommier de police technique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-2 1980-01-04 art. 10 automatisation du casier judiciaire - entrée en vigueur progressive - décrets multiples
+
+_Créé par_:
+
+  - Loi n°80-2 1980-01-04 art. 5, art. 10 JORF 5 janvier 1980
+
+_Cité par_:
+
+  - Loi n°80-2 du 4 janvier 1980  - art. 5 (V)
+  - CODE DE PROCEDURE PENALE - art. 706-53-9 (V)
+  - Code de procédure pénale - art. 706-25-11 (V)
+  - Code de procédure pénale - art. 781 (V)
+
+
+###### Article 777-3
+
+Aucun rapprochement ni aucune connexion, au sens de l'article 19 de la loi n. 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, ne peuvent être effectués entre le casier judiciaire national automatisé et
+tout autre fichier ou recueil de données nominatives détenus par une personne quelconque ou par un service de l'Etat ne
+dépendant pas du ministère de la justice.
+
+Aucun fichier ou recueil de données nominatives détenu par une personne quelconque ou par un service de l'Etat ne dépendant
+pas du ministère de la justice ne pourra mentionner, hors les cas et dans les conditions prévus par la loi, des jugements ou
+arrêts de condamnation.
+
+Toutefois, une condamnation pénale pourra toujours être invoquée en justice par la victime de l'infraction.
+
+Toute infraction aux dispositions qui précèdent sera punie des peines prévues à l'article 44 de la loi visée à l'alinéa 1er.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°51-711 du 7 juin 1951 - art. 7 bis (V)
+  - Loi n°80-2 du 4 janvier 1980  - art. 6 (V)
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Cite_:
+
+  - Loi n°78-17 1978-01-06 art. 44 al. 1, art. 19
+  - Loi n°78-17 du 6 janvier 1978 - art. 19 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°80-2 1980-01-04 art. 10 automatisation du casier judiciaire - entrée en vigueur progressive - décrets multiples
+
+_Créé par_:
+
+  - Loi n°80-2 1980-01-04 art. 4, art. 10 JORF 5 janvier 1980
 
 
 ###### Article 778
