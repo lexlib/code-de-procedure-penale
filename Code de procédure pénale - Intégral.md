@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2003-03-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -534,11 +534,11 @@ Version Consolidée au 2003-03-19
           - [Section 3 : De l'enseignement et de la formation professionnelle (art. D450 à D459)](#531)
             - [Paragraphe 1er : Enseignement (art. D452 à D456)](#532)
             - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#533)
-          - [Section 2 : De l'action socio-culturelle (art. D440 à D449)](#534)
+          - [Section 2 : De l'action socio-culturelle (art. D440 à D449-1)](#534)
             - [Paragraphe 1er : Les activités socioculturelles (art. D440)](#535)
             - [Paragraphe 2 : L'action culturelle (art. D441 à D441-2)](#536)
             - [Paragraphe 3 : L'association socioculturelle et sportive (art. D442)](#537)
-            - [Paragraphe 4 : L'accès des détenus aux activités culturelles et socioculturelles (art. D443 à D449)](#538)
+            - [Paragraphe 4 : L'accès des détenus aux activités culturelles et socioculturelles (art. D443 à D449-1)](#538)
           - [Section 4 : Des activités physiques et sportives (art. D459-1 à D459-3)](#539)
           - [Section 5 : De l'intervention socio-éducative (art. D460 à D465)](#540)
           - [Section 6 : Des visiteurs de prison (art. D472 à D477)](#541)
@@ -60920,7 +60920,8 @@ _Cite_:
 ###### Article D64
 
 Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information dans les conditions
-prévues par l'article 145-4 et ils sont utilisés dans les conditions visées aux articles D. 403 et suivants.
+prévues par l'article 145-4 et ils sont utilisés dans les conditions visées aux articles D. 403 et suivants. Notamment, il
+peut toujours prescrire que les visites auront lieu dans un parloir avec dispositif de séparation.
 
 Sauf disposition contraire, ces permis sont valables jusqu'au moment où la condamnation éventuelle acquiert un caractère
 définitif. En conséquence, il n'y a pas lieu à renouvellement du permis lorsque le magistrat qui l'a accordé est dessaisi du
@@ -60933,14 +60934,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 98 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 20 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -60948,9 +60944,17 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D186 (V)
   - CODE DE PROCEDURE PENALE - art. D403 (V)
 
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 145-4 (M)
+  - Code de procédure pénale - art. 145-4
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D65
@@ -61120,22 +61124,15 @@ _Cité par_:
 
 ###### Article D70
 
-Les établissements qui reçoivent les condamnés définitifs sont les maisons centrales, les centres de détention à vocation
-nationale ou régionale selon les distinctions prévues par les articles D. 71 et D. 72, les centres de semi-liberté et les
-centres pour peines aménagées.
+Les établissements pour peines, dans lesquels sont reçus les condamnés définitifs, sont les maisons centrales, les centres de
+détention, les centres de semi-liberté et les centres pour peines aménagées.
 
-Les maisons centrales comportent une organisation et un régime de sécurité dont les modalités internes permettent également
-de préserver et de développer les possibilités de réinsertion sociale des condamnés.
+A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés dans les conditions déterminées par l'article D. 73.
 
-Les centres de détention et les centres pour peines aménagées comportent un régime principalement orienté vers la réinsertion
-sociale et la préparation à la sortie des condamnés.
-
-Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans les centres ou quartiers de semi-liberté,
-soit dans les centres pour peines aménagées. Les condamnés faisant l'objet d'une mesure de placement à l'extérieur dans les
-conditions fixées par l'article D. 136 peuvent également être détenus dans ces établissements.
-
-A titre exceptionnel, les maisons d'arrêt peuvent recevoir des condamnés, dans les conditions déterminées par l'article D.
-73.
+Les centres pénitentiaires regroupent des quartiers distincts pouvant appartenir aux différentes catégories d'établissements
+pénitentiaires. Ces quartiers sont respectivement dénommés, en fonction de la catégorie d'établissement correspondante, comme
+suit : "quartier maison centrale", "quartier centre de détention", "quartier de semi-liberté", "quartier pour peines
+aménagées", "quartier maison d'arrêt".
 
 **Liens relatifs à cet article**
 
@@ -61145,7 +61142,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-663 du 30 avril 2002 - art. 1 () JORF 2 mai 2002
+  - Décret n°2003-259 du 20 mars 2003 - art. 1 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -61157,23 +61154,15 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D136 (M)
-  - CODE DE PROCEDURE PENALE - art. D71 (M)
-  - CODE DE PROCEDURE PENALE - art. D72 (M)
   - CODE DE PROCEDURE PENALE - art. D73 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D71
 
-Les maisons centrales et les centres de détention à vocation nationale reçoivent les condamnés à une ou plusieurs peines
-d'emprisonnement dont la durée totale est supérieure à cinq ans, sous réserve des dispositions de l'article D. 72, deuxième
-alinéa.
+Les maisons centrales et les quartiers maison centrale comportent une organisation et un régime de sécurité renforcé dont les
+modalités internes permettent également de préserver et de développer les possibilités de réinsertion sociale des condamnés.
 
-Un arrêté du ministre de la justice fixe la liste des maisons centrales et des centres de détention à vocation nationale.
+Un arrêté du garde des sceaux, ministre de la justice, fixe la liste des maisons centrales et des quartiers maison centrale.
 
 **Liens relatifs à cet article**
 
@@ -61181,13 +61170,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
-
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 2 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -61196,13 +61181,13 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D97 (M)
   - Code de procédure pénale - art. A39 (V)
 
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D72 (M)
-
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. D72 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 _Anciens textes_:
 
@@ -61211,14 +61196,11 @@ _Anciens textes_:
 
 ###### Article D72
 
-Les centres de détention à vocation régionale reçoivent les condamnés à une ou plusieurs peines d'emprisonnement dont la
-durée totale n'excède pas cinq ans.
+Les centres de détention comportent un régime principalement orienté vers la réinsertion sociale et, le cas échéant, la
+préparation à la sortie des condamnés.
 
-Ils peuvent recevoir les condamnés à une ou plusieurs peines dont la durée totale est inférieure à sept ans, si la durée de
-l'incarcération restant à subir au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive,
-est inférieure à cinq ans.
-
-Un arrêté du ministre de la justice fixe la liste des centres de détention à vocation régionale.
+Un arrêté du garde des sceaux, ministre de la justice, fixe la liste des centres de détention et des quartiers centre de
+détention.
 
 **Liens relatifs à cet article**
 
@@ -61228,12 +61210,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 717 (M)
-  - CODE DE PROCEDURE PENALE - art. D301. (M)
+  - Décret n°2003-259 du 20 mars 2003 - art. 3 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -61259,13 +61236,13 @@ _Nouveaux textes_:
 ###### Article D72-1
 
 Les centres de semi-liberté et quartiers de semi-liberté ainsi que les centres pour peines aménagées et les quartiers pour
-peines aménagées comportent un régime essentiellement orienté vers la réinsertion sociale et la préparation à la sortie des
+peines aménagées comportent un régime essentiellement orienté vers la réinsertion sociale et à la préparation à la sortie des
 condamnés.
 
 Les condamnés faisant l'objet d'une mesure de semi-liberté sont détenus soit dans des centres de semi-liberté ou des
 quartiers de semi-liberté, soit dans des centres pour peines aménagées ou des quartiers pour peines aménagées. Les condamnés
-faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D. 136 peuvent également
-être détenus dans ces établissements ou ces quartiers.
+faisant l'objet d'une mesure de placement à l'extérieur dans les conditions fixées par l'article D 136 peuvent également être
+détenus dans ces établissements ou ces quartiers.
 
 Les centres pour peines aménagées et quartiers pour peines aménagées peuvent recevoir les condamnés dont le reliquat de peine
 leur restant à subir est inférieur à un an.
@@ -61282,15 +61259,19 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-663 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
+  - Décret n°2003-259 du 20 mars 2003 - art. 4 () JORF 22 mars 2003
 
 _Cité par_:
 
   - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
   - Code de procédure pénale - art. A39-2 (V)
   - Code de procédure pénale - art. A39-3 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D136 (M)
 
 _Nouveaux textes_:
 
@@ -61300,21 +61281,21 @@ _Nouveaux textes_:
 ###### Article D73
 
 Les maisons d'arrêt peuvent recevoir des condamnés à l'emprisonnement d'une durée inférieure ou égale à un an dans les
-conditions prévues par le troisième alinéa de l'article 717.
+conditions prévues par le deuxième alinéa de l'article 717.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°59-322 1959-02-23
+  - Décret n°59-322 du 23 février 1959
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 13 () JORF 22 mars 2003
 
-_Cite_:
+_Abrogé par_:
 
-  - CODE DE PROCEDURE PENALE - art. 717 (M)
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 _Cité par_:
 
@@ -61327,6 +61308,10 @@ _Anciens textes_:
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. D74 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 717
 
 **Liens**:
 
@@ -61474,8 +61459,7 @@ l'établissement pénitentiaire où le condamné est détenu ou doit être incar
 individuelle visée à l'article D. 158 et, s'il y a lieu, la copie de la décision sur les intérêts civils conformément à
 l'article D. 325.
 
-Lorsque la peine privative de liberté prononcée est supérieure à deux ans pour les majeurs, et six mois pour les mineurs, le
-ministère public adresse en outre à l'établissement pénitentiaire, les pièces suivantes :
+Le ministère public adresse en outre à l'établissement pénitentiaire, les pièces suivantes :
 
 1° La copie du rapport de l'enquête ou des enquêtes sur la personnalité, la situation matérielle, familiale ou sociale de
 l'intéressé, qui auraient été prescrites conformément aux dispositions de l'article 41, alinéa 6, et de l'article 81, alinéas
@@ -61488,8 +61472,7 @@ l'intéressé, qui auraient été prescrites conformément aux dispositions de l
 
 4° Et, s'il y a lieu, les avis indiqués à l'article D. 78.
 
-Ces pièces doivent être envoyées dans le mois qui suit la date à compter de laquelle la condamnation est devenue définitive
-lorsque l'intéressé est détenu ou, dans le cas contraire, dans le mois qui suit l'incarcération de celui-ci.
+Ces pièces doivent être envoyées dans les plus brefs délais possibles.
 
 Une copie des documents prévus par le présent article est également adressée par le ministère public au secrétariat-greffe du
 juge de l'application des peines compétent pour être versé dans le dossier individuel du condamné prévu par l'article D.
@@ -61513,7 +61496,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1388 du 30 décembre 2000 - art. 2 (V) JORF 31 décembre 2000 en vigueur le 16 juin 2001
+  - Décret n°2003-259 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 _Cite_:
 
@@ -61600,18 +61583,29 @@ _Cite_:
 ###### Article D80
 
 Le ministre de la justice dispose d'une compétence d'affectation des condamnés dans toutes les catégories d'établissement. Sa
-compétence est exclusive pour les affectations dans les maisons centrales et les centres de détention à vocation nationale.
+compétence est exclusive pour les affectations dans les maisons centrales et les quartiers maison centrale ainsi que pour
+décider de l'affectation :
 
-L'affectation des condamnés dans les centres de détention à vocation régionale et les centres pour peines aménagées est
-décidée par le directeur régional des services pénitentiaires. Celui-ci peut déléguer sa compétence aux directeurs des
-établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de détention régional, pour
-l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière
-de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux ans.
+- des condamnés à une ou plusieurs peines dont la durée totale est supérieure ou égale à dix ans et dont la durée de
+l'incarcération restant à subir au moment où leur condamnation ou la dernière de leurs condamnations est devenue définitive
+est supérieure à cinq ans ;
+
+- des condamnés à raison d'actes de terrorisme tels que prévus et réprimés par les articles 421-1 à 421-5 du code pénal ainsi
+que des condamnés ayant fait l'objet d'une inscription au répertoire des détenus particulièrement signalés, prévu par
+l'article D. 276-1.
+
+Le directeur régional des services pénitentiaires est compétent pour décider de l'affectation, dans les centres de détention
+ou quartiers centre de détention, les centres de semi-liberté ou quartiers de semi-liberté, les centres pour peines aménagées
+ou quartiers pour peines aménagées, les maisons d'arrêt ou quartiers maison d'arrêt, des autres condamnés. Il peut déléguer
+sa compétence aux directeurs des établissements pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre de
+détention, pour l'affectation des condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur
+condamnation ou la dernière de leurs condamnations est devenue définitive, une incarcération d'une durée inférieure à deux
+ans.
 
 Le directeur régional des services pénitentiaires peut également déléguer sa compétence aux directeurs des établissements
-pénitentiaires comprenant un quartier maison d'arrêt et un quartier centre pour peines aménagées, pour l'affectation des
-condamnés qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs
-condamnations est devenue définitive, une incarcération dont la durée totale n'excède pas un an.
+pénitentiaires comprenant un quartier maison d'arrêt et un quartier pour peines aménagées, pour l'affectation des condamnés
+qui y sont incarcérés et auxquels il reste à subir, au moment où leur condamnation ou la dernière de leurs condamnations est
+devenue définitive, une incarcération dont la durée totale n'excède pas un an.
 
 Les condamnés affectés dans des maisons d'arrêt sont maintenus dans l'établissement où ils sont écroués ou sont transférés
 dans une autre maison d'arrêt de la région. Dans ce second cas, l'affectation est décidée par le directeur régional des
@@ -61627,7 +61621,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-663 du 30 avril 2002 - art. 3 () JORF 2 mai 2002
+  - Décret n°2003-259 du 20 mars 2003 - art. 6 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code pénal 421-1 à 421-5
+  - CODE DE PROCEDURE PENALE - art. D276-1 (V)
 
 _Cité par_:
 
@@ -61635,22 +61634,24 @@ _Cité par_:
   - Code de procédure pénale - art. A55 (V)
   - Code de procédure pénale - art. D82 (V)
 
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 
 ###### Article D81
 
 Lorsque l'affectation incombe au directeur régional, la décision donne lieu :
 
-1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale
-ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
+1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention ou d'un centre pour
+peines aménagées ou d'un centre de semi-liberté ou d'une maison d'arrêt ou d'un quartier d'un centre pénitentiaire
+appartenant à l'une de ces catégories d'établissements pénitentiaires de sa circonscription ;
 
 2° Soit au maintien de l'intéressé à l'établissement où il se trouve ;
 
 3° Soit à sa mise à la disposition d'un autre directeur régional après l'accord préalable de ce dernier. Le ministre de la
 justice est compétent en cas de désaccord entre les directeurs régionaux.
+
+4° Soit à un dessaisissement au profit du ministre de la justice en vue d'une affectation dans une maison centrale ou un
+quartier maison centrale, dès lors que le directeur régional des services pénitentiaires estime que le condamné doit être
+affecté dans cette catégorie d'établissement. Dans ce cas, la décision incombe au ministre de la justice qui décide de
+l'affectation du condamné dans l'établissement pénitentiaire le plus approprié.
 
 **Liens relatifs à cet article**
 
@@ -61660,17 +61661,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-663 du 30 avril 2002 - art. 4 () JORF 2 mai 2002
+  - Décret n°2003-259 du 20 mars 2003 - art. 7 () JORF 22 mars 2003
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D82 (M)
   - Code de procédure pénale - art. A56 (V)
   - Code de procédure pénale - art. D163 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D81-1
@@ -61738,8 +61735,18 @@ _Cité par_:
 L'affectation peut être modifiée soit à la demande du condamné, soit à la demande du chef de l'établissement dans lequel il
 exécute sa peine.
 
-Hors le cas où le condamné a été mis à la disposition d'un directeur régional dans les conditions prévues par les articles D.
-81 et D. 81-1, la décision de changement d'affectation appartient à l'autorité qui a décidé de l'affectation initiale.
+La décision de changement d'affectation appartient au ministre de la justice, dès lors qu'elle concerne :
+
+1° Un condamné dont il a décidé l'affectation dans les conditions du deuxième alinéa de l'article D. 80 et dont la durée de
+l'incarcération restant à subir est supérieure à trois ans, au jour où est formée la demande visée au premier alinéa ;
+
+2° Un condamné à raison d'actes de terrorisme tels que prévus et réprimés par les articles 421-1 à 421-5 du code pénal ;
+
+3° Un condamné ayant fait l'objet d'une inscription au répertoire des détenus particulièrement signalés, prévu par l'article
+D. 276-1.
+
+Le directeur régional des services pénitentiaires est compétent pour décider du changement d'affectation des autres
+condamnés.
 
 L'affectation ne peut être modifiée que s'il survient un fait ou un élément d'appréciation nouveau.
 
@@ -61751,7 +61758,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 2 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 8 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -61759,12 +61766,9 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D81 (M)
-  - CODE DE PROCEDURE PENALE - art. D81-1 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Code pénal 421-1 à 421-5
+  - CODE DE PROCEDURE PENALE - art. D276-1 (V)
+  - CODE DE PROCEDURE PENALE - art. D80 (M)
 
 
 ###### Article D82-1
@@ -61797,10 +61801,14 @@ _Cite_:
 
 Lorsque la décision incombe au directeur régional, elle donne lieu :
 
-1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention à vocation régionale
-ou d'un centre pour peines aménagées ou d'une maison d'arrêt de sa circonscription ;
+1° Soit à la délivrance d'un ordre de transfèrement du condamné à destination d'un centre de détention ou d'un centre pour
+peines aménagées ou d'un centre de semi-liberté ou d'une maison d'arrêt ou d'un quartier d'un centre pénitentiaire
+appartenant à l'une de ces catégories d'établissements pénitentiaires, de sa circonscription ;
 
-2° Soit au maintien de l'intéressé à l'établissement où il se trouve.
+2° Soit au maintien de l'intéressé à l'établissement où il se trouve ;"    3° Soit à un dessaisissement au profit du ministre
+de la justice en vue d'une affectation dans une maison centrale ou un quartier maison centrale, dès lors que le directeur
+régional des services pénitentiaires estime que le condamné doit être affecté dans cette catégorie d'établissement. Dans ce
+cas, le ministre de la justice décide de l'affectation du condamné dans l'établissement pénitentiaire le plus approprié.
 
 **Liens relatifs à cet article**
 
@@ -61810,7 +61818,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-663 du 30 avril 2002 - art. 5 () JORF 2 mai 2002
+  - Décret n°2003-259 du 20 mars 2003 - art. 9 () JORF 22 mars 2003
 
 
 ###### Article D82-3
@@ -62255,9 +62263,9 @@ _Cite_:
 
 ###### Article D97
 
-Le régime des centres de détention mentionnés aux articles D. 71 et D. 72 comporte les particularités énoncées aux articles
-D. 146 concernant les permissions de sortir, D. 417 relatif aux modalités et moyens de correspondance avec l'extérieur et D.
-448 sur les activités collectives et leur organisation.
+Le régime des centres de détention comporte les particularités énoncées aux articles D. 146 concernant les permissions de
+sortir, D. 417 relatif aux modalités et moyens de correspondance avec l'extérieur et D. 448 sur les activités collectives et
+leur organisation.
 
 Les détenus dont le comportement se révèle incompatible avec l'application de ce régime font l'objet d'une procédure de
 changement d'affectation.
@@ -62270,7 +62278,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 12 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 12 () JORF 22 mars 2003
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 7
 
 _Cité par_:
 
@@ -62279,11 +62291,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D146 (M)
-  - CODE DE PROCEDURE PENALE - art. D417 (M)
-  - CODE DE PROCEDURE PENALE - art. D448 (M)
-  - CODE DE PROCEDURE PENALE - art. D71 (M)
-  - CODE DE PROCEDURE PENALE - art. D72 (M)
+  - Code de procédure pénale - art. D146
 
 **Liens**:
 
@@ -65065,7 +65073,8 @@ _Modifié par_:
 ###### Article D155
 
 Pour tout détenu, il est constitué au greffe de l'établissement pénitentiaire un dossier individuel qui suit l'intéressé dans
-les différents établissements où il serait éventuellement transféré.
+les différents établissements où il serait éventuellement transféré. Ce dossier contient, dans une cote spéciale, tous les
+renseignements tenus à jour, utiles à déterminer l'existence d'un éventuel risque suicidaire.
 
 Indépendamment de ce dossier, des dossiers particuliers doivent être établis en outre à l'égard de certains détenus,
 notamment pour les condamnés proposables à la libération conditionnelle, pour les interdits de séjour, pour les étrangers
@@ -65080,7 +65089,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 17 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -65194,10 +65203,10 @@ _Cité par_:
 
 ###### Article D159
 
-La partie pénitentiaire du dossier est constituée par le chef de l'établissement dans lequel le condamné accomplit sa peine.
+La partie pénitentiaire du dossier est constituée par le chef de l'établissement dans lequel le condamné accomplit sa peine. 
 
 Elle contient tous les renseignements tenus à jour sur son comportement en détention, au travail et pendant les activités, et
-sur les décisions administratives prises à son égard.
+sur les décisions administratives prises à son égard, outre la cote spéciale visée au premier alinéa de l'article D. 155.
 
 **Liens relatifs à cet article**
 
@@ -65207,8 +65216,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 1998-12-08 art. 40, 43 et 46 JORF 9 décembre 1998
-  - Décret n°98-1099 du 8 décembre 1998 - art. 40 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 18 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de procédure pénale - art. D155 (V)
 
 _Cité par_:
 
@@ -67448,9 +67460,9 @@ _Cité par_:
 
 ###### Article D250-4
 
-Lors de sa comparution devant la commission de discipline, le détenu présente en personne, sous la seule réserve des
-dispositions du deuxième alinéa ci-dessous, ses explications écrites ou orales. Le président de la commission peut décider de
-faire entendre par la commission, en qualité de témoin, toute personne dont l'audition lui paraît utile.
+Lors de sa comparution devant la commission de discipline, le détenu présente, en personne, sous réserve des dispositions du
+deuxième alinéa ci-dessous et des dispositions prises en application de l'article 24 de la loi n° 2000-321 du 12 avril 2000
+relative aux droits des citoyens dans leurs relations avec les administrations, ses explications écrites ou orales.
 
 Si le détenu ne comprend pas la langue française, n'est pas en mesure de s'exprimer dans cette langue, ou s'il est
 physiquement incapable de s'exprimer, ses explications sont présentées, dans la mesure du possible, par l'intermédiaire d'un
@@ -67465,13 +67477,14 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Modifié par_:
-
-  - Décret n°98-1099 du 8 décembre 1998 - art. 187 () JORF 9 décembre 1998
-
 _Cite_:
 
+  - Loi n°2000-321 du 12 avril 2000 - art. 24 (V)
   - CODE DE PROCEDURE PENALE - art. D250-5 (M)
+
+_Modifié par_:
+
+  - Décret n°2003-259 du 20 mars 2003 - art. 14 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -69542,13 +69555,13 @@ _Cite_:
 ###### Article D300
 
 Le ministre de la justice ordonne les transfèrements de caractère administratif, c'est-à-dire les transfèrements autres que
-ceux visés aux articles D. 297 à D. 299.
+ceux visés aux articles D. 297 à D. 299. 
 
-La compétence du ministre de la justice est exclusive en ce qui concerne :
+La compétence du ministre de la justice est exclusive en ce qui concerne : 
 
-1° Le transfèrement à titre administratif de tout détenu d'une région pénitentiaire à une autre ;
+1° Le transfèrement à titre administratif de tout détenu d'une région pénitentiaire à une autre ; 
 
-2° Les transfèrements vers ou à partir d'une maison centrale ou d'un centre de détention à vocation nationale.
+2° Les transfèrements vers ou à partir d'une maison centrale ou d'un quartier maison centrale.
 
 **Liens relatifs à cet article**
 
@@ -69556,24 +69569,15 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°97-1187 du 19 décembre 1997 - art. 1 (V)
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 73 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 10 () JORF 22 mars 2003
 
 _Cité par_:
 
   - Décret n°2014-1279 du 23 octobre 2014 - art. (VD)
   - CODE DE PROCEDURE PENALE - art. D75 (M)
   - Code de procédure pénale - art. D301 (V)
-
-_Cite_:
-
-  - Code de procédure pénale D297 à D299
 
 
 ###### Article D301
@@ -69639,7 +69643,7 @@ _Cité par_:
 
 ###### Article D304
 
-La direction de l'administration pénitentiaire comprend un service central des transfèrements, dirigé par un sous-directeur
+La direction de l'administration pénitentiaire comprend un service central des transfèrements, dirigé par un directeur
 d'établissement pénitentiaire.
 
 Ce service assure l'exécution des ordres de transfèrements émanant de l'administration centrale.
@@ -69650,10 +69654,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
+  - Décret n°2003-259 du 20 mars 2003 - art. 11 () JORF 22 mars 2003
 
 
 ###### Article D305
@@ -69750,9 +69753,9 @@ _Codifié par_:
 
 Le chef de l'établissement remet au chef de l'escorte des détenus à transférer les extraits de jugement ou d'arrêt et les
 autres pièces figurant au dossier individuel des intéressés, ainsi que les effets ou objets leur appartenant, à l'exclusion
-de l'argent qui est transmis par virement postal.
+de l'argent qui est transmis par virement. 
 
-Indépendamment de l'application éventuelle des dispositions de l'article R101, le poids et le volume des objets ainsi
+Indépendamment de l'application éventuelle des dispositions de l'article R. 101, le poids et le volume des objets ainsi
 transportés sont toutefois limités dans les conditions précisées par l'instruction de service.
 
 **Liens relatifs à cet article**
@@ -69761,18 +69764,17 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R101 (V)
+  - Décret n°2003-259 du 20 mars 2003 - art. 16 () JORF 22 mars 2003
 
 _Cité par_:
 
   - Code de procédure pénale - art. D334 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. R101 (V)
 
 
 ##### D : Cas particuliers<a id=501></a>
@@ -73017,7 +73019,8 @@ _Abrogé par_:
 Les visites se déroulent dans un parloir sans dispositif de séparation. Toutefois, le chef d'établissement peut décider que
 les visites auront lieu dans un parloir avec dispositif de séparation :
 
-a) S'il existe des raisons sérieuses de redouter un incident ;
+a) S'il existe des raisons sérieuses de redouter un incident notamment en considération des circonstances de l'infraction
+pour laquelle le détenu a été condamné ;
 
 b) En cas d'incident au cours de la visite ;
 
@@ -73033,7 +73036,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 101 () JORF 9 décembre 1998
+  - Décret n°2003-259 du 20 mars 2003 - art. 21 () JORF 22 mars 2003
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
 
 **Liens**:
 
@@ -73044,6 +73051,9 @@ _Modifié par_:
 
 En toute hypothèse, un surveillant est présent au parloir ou au lieu de l'entretien. Il doit avoir la possibilité d'entendre
 les conversations.
+
+A titre exceptionnel, il peut être dérogé aux dispositions de l'alinéa qui précède, par décision du chef d'établissement,
+lorsque la visite doit se dérouler dans des locaux spécialement aménagés.
 
 L'accès au parloir implique, outre la fouille des détenus avant et après l'entretien, les mesures de contrôle jugées
 nécessaires à l'égard des visiteurs, pour des motifs de sécurité.
@@ -73056,7 +73066,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°75-402 1975-05-23 art. 1 JORF 27 mai 1975
+  - Décret n°2003-259 du 20 mars 2003 - art. 22 () JORF 22 mars 2003
 
 _Cité par_:
 
@@ -74718,6 +74728,46 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D449-1
+
+Les détenus peuvent acquérir par l'intermédiaire de l'administration et selon les modalités qu'elle détermine des équipements
+informatiques.
+
+Une instruction générale détermine les caractéristiques auxquelles doivent répondre ces équipements, ainsi que les conditions
+de leur utilisation. En aucun cas, les détenus ne sont autorisés à conserver des documents, autres que ceux liés à des
+activités socioculturelles ou d'enseignement ou de formation ou professionnelles, sur un support informatique.
+
+Ces équipements ainsi que les données qu'ils contiennent sont soumis au contrôle de l'administration. Sans préjudice d'une
+éventuelle saisie par l'autorité judiciaire, tout équipement informatique appartenant à un détenu peut, au surplus, être
+retenu, pour ne lui être restitué qu'au moment de sa libération, dans les cas suivants :
+
+1° Pour des raisons d'ordre et de sécurité ;
+
+2° En cas d'impossibilité d'accéder aux données informatiques, du fait volontaire du détenu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2003-259 du 20 mars 2003 - art. 19 () JORF 22 mars 2003
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A42-1 (V)
 
 **Liens**:
 
