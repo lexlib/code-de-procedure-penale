@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-04-04
+Version Consolidée au 1980-06-08
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -6616,6 +6616,21 @@ _Cité par_:
 _Cite_:
 
   - Code de procédure pénale 215-1 al. 2
+
+
+###### Article 273
+
+Le président interroge l'accusé sur son identité et s'assure que celui-ci a reçu signification de l'arrêt de renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Ordonnance 60-529 1960-06-04 art. 8 JORF 8 juin 1960
 
 
 ###### Article 274
