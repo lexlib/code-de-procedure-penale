@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1996-04-12
+Version Consolidée au 1996-05-14
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -990,6 +990,33 @@ _Cité par_:
   - Code de procédure pénale - art. 90-1 (V)
   - Code de procédure pénale - art. D1 (V)
   - Code de procédure pénale - art. R1-1 (V)
+
+
+###### Article 2-16
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts, de
+lutter contre la toxicomanie ou le trafic de stupéfiants peut exercer les droits reconnus à la partie civile en ce qui
+concerne les infractions prévues par les articles 222-34 à 222-40 et par l'article 227-18-1 du code pénal lorsque l'action
+publique a été mise en mouvement par le ministère public ou la partie lésée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°96-392 du 13 mai 1996 - art. 19 () JORF 14 mai 1996
+
+_Cite_:
+
+  - Code pénal - art. 222-34 (V)
+  - Code pénal - art. 227-18-1 (V)
+
+_Cité par_:
+
+  - Code pénal - art. R131-47 (V)
 
 
 ###### Article 3
@@ -18599,9 +18626,10 @@ _Cité par_:
 ###### Article 470-1
 
 Le tribunal saisi, à l'initiative du ministère public ou sur renvoi d'une juridiction d'instruction, de poursuites exercées
-pour homicide ou blessures involontaires qui prononce une relaxe demeure compétent, sur la demande de la partie civile ou de
-son assureur formulée avant la clôture des débats, pour accorder, en application des règles de droit civil, réparation de
-tous les dommages résultant des faits qui ont fondé la poursuite.
+pour une infraction non intentionnelle au sens des deuxième et troisième alinéas de l'article 121-3 du code pénal, et qui
+prononce une relaxe demeure compétent, sur la demande de la partie civile ou de son assureur formulée avant la clôture des
+débats, pour accorder, en application des règles du droit civil, réparation de tous les dommages résultant des faits qui ont
+fondé la poursuite.
 
 Toutefois, lorsqu'il apparaît que des tiers responsables doivent être mis en cause, le tribunal renvoie l'affaire, par une
 décision non susceptible de recours, devant la juridiction civile compétente qui l'examine d'urgence selon une procédure
@@ -18613,13 +18641,17 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
-
-  - Loi n°83-608 1983-07-08 art. 13-I JORF 9 juillet 1983 en vigueur le 1er septembre 1983
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-393 du 13 mai 1996 - art. 4 () JORF 14 mai 1996
+
+_Cite_:
+
+  - Code pénal - art. 121-3 (M)
 
 _Cité par_:
 
@@ -26192,8 +26224,8 @@ Dans le ressort de chaque cour d'appel, un ou plusieurs tribunaux de grande inst
 prévues par le présent titre pour la poursuite, l'instruction et, s'il s'agit de délits, le jugement des infractions
 suivantes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
 
-1° Délits prévus par les articles 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 432-10 à 432-15, 433-1, 433-2 et 434-9 du
-code pénal ;
+1° Délits prévus par les articles 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 324-1, 324-2, 432-10 à 432-15, 433-1,
+433-2 et 434-9 du code pénal ;
 
 2° Délits prévus par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
 
@@ -26210,7 +26242,7 @@ entreprises ;
 
 8° Délits prévus par le code de l'urbanisme ;
 
-9° Délits par le code de la consommation ;
+9° Délits prévus par le code de la consommation ;
 
 10° Délits prévus par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit ;
 
@@ -26253,10 +26285,12 @@ _Cite_:
   - Code pénal - art. 313-6 (M)
   - Code pénal - art. 314-1 (M)
   - Code pénal - art. 314-2 (M)
+  - Code pénal - art. 324-1 (M)
+  - Code pénal - art. 324-2 (M)
   - Code pénal - art. 433-1 (M)
   - Code pénal - art. 433-2 (M)
   - Code pénal - art. 434-9 (M)
-  - Code pénal 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 432-10 à 432-15, 433-1, 433-2, 434-9
+  - Code pénal 222-38, 313-1, 313-2, 313-4, 313-6, 314-1, 314-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 324-1, 324-2
   - Loi n°1885-03-28
 
 _Codifié par_:
@@ -26266,10 +26300,6 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°75-701 1975-08-06 décret fixant la date d'entrée en vigueur - absence
-
-_Modifié par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 5 () JORF 2 février 1994 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -26302,6 +26332,10 @@ _Cité par_:
   - Code de procédure pénale - art. D47-4 (V)
   - Code de procédure pénale - art. R15-33-66-8 (V)
   - Code de procédure pénale - art. R50 quinquies (V)
+
+_Modifié par_:
+
+  - Loi n°96-392 du 13 mai 1996 - art. 3 () JORF 14 mai 1996
 
 
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière<a id=151></a>
