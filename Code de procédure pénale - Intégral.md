@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-08-06
+Version Consolidée au 2003-08-26
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -80060,26 +80060,35 @@ formations de services suivantes :
 
 - l'Office central pour la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre ;
 
-- les groupes d'investigations et de procédures de la brigade des chemins de fer ;
+- la brigade des chemins de fer ;
 
-- l'unité de contrôle des trains internationaux de la brigade des chemins de fer ;
+- l'unité nationale d'escorte, de soutien et d'intervention ;
 
-- l'unité nationale d'escorte, de soutien et d'intervention.
+- le bureau de la police aéronautique.
 
-2° Pour les directions interrégionales et les directions interdépartementales de la police aux frontières :
+2° Pour les directions zonales de la police aux frontières :
+
+- les brigades des chemins de fer ;
 
 - les brigades mobiles de recherches ;
 
-- les brigades de police aéronautique.
+- les brigades de police aéronautique ;
 
-3° Pour les directions départementales, les services départementaux, les directions, les services et les directions
-territoriales de la police aux frontières :
+- les unités d'éloignement.
+
+3° Pour les directions de la police aux frontières des aérodromes Charles-de-Gaulle, Le Bourget et de l'aérodrome d'Orly, les
+directions départementales, les directions de la police aux frontières de la Nouvelle-Calédonie et des îles Wallis-et-Futuna,
+de la Polynésie française, de Saint-Pierre-et-Miquelon et de Mayotte et les services locaux de la police aux frontières :
 
 - les unités d'investigations ;
 
 - les services de quart et du contrôle de l'immigration ;
 
-- les brigades mobiles de recherches.
+- les brigades de chemin de fer ;
+
+- les brigades mobiles de recherches ;
+
+- les unités d'éloignement.
 
 4° Pour les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont
 affectées : les bureaux de circulation routière.
@@ -80092,7 +80101,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+  - Arrêté 2003-08-07 art. 1 JORF 26 août 2003
 
 _Cite_:
 
