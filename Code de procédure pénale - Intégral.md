@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1983-10-01
+Version Consolidée au 1983-12-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -28930,6 +28930,32 @@ _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R147-1 (M)
   - Code de justice militaire. - art. D269-11 (V)
+
+
+###### Article R147-1
+
+Le tarif des frais de garde entraînés par l'immobilisation d'un véhicule décidée en application de l'article 43-3-3° bis du
+Code pénal est celui qui est fixé conformément à l'article R. 289 du Code de la route.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Créé par_:
+
+  - Décret n°83-1154 1983-12-23 art. 4 JORF 2 décembre 1983
+
+_Cite_:
+
+  - Code pénal 43-3-3° bis
+  - Code de la route R289
 
 
 ###### Article R148
