@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-07-14
+Version Consolidée au 2004-08-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -5087,9 +5087,9 @@ contenues dans le ou les systèmes informatiques ou traitements de données nomi
 
 L'officier de police judiciaire, intervenant sur réquisition du procureur de la République préalablement autorisé par
 ordonnance du juge des libertés et de la détention, peut requérir des opérateurs de télécommunications, et notamment de ceux
-mentionnés à l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, de prendre,
-sans délai, toutes mesures propres à assurer la préservation, pour une durée ne pouvant excéder un an, du contenu des
-informations consultées par les personnes utilisatrices des services fournis par les opérateurs.
+mentionnés au 1 du I de l'article 6 de la loi 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, de
+prendre, sans délai, toutes mesures propres à assurer la préservation, pour une durée ne pouvant excéder un an, du contenu
+des informations consultées par les personnes utilisatrices des services fournis par les opérateurs.
 
 Les organismes ou personnes visés au présent article mettent à disposition les informations requises par voie télématique ou
 informatique dans les meilleurs délais.
@@ -5101,7 +5101,11 @@ prévues par l'article 131-38 du code pénal.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
 catégories d'organismes visés au premier alinéa ainsi que les modalités d'interrogation, de transmission et de traitement des
-informations requises. ;
+informations requises.
+
+**Nota:**
+
+NOTA : L'article 56 de la loi 2004-575 a été modifié par la loi 2004-669 du 9 juillet 2004 art. 110.
 
 **Liens relatifs à cet article**
 
@@ -5112,14 +5116,14 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 33 (M)
-  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+  - Loi n°2004-575 2004-06-21 art. 6, art. 56
   - Code pénal - art. 121-2 (M)
   - Code pénal - art. 131-38 (M)
   - CODE DE PROCEDURE PENALE - art. 31 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 80 () JORF 10 mars 2004
+  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004 en vigueur le 1er août 2004
 
 _Cité par_:
 
