@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1970-07-19
+Version Consolidée au 1970-08-04
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -264,7 +264,7 @@ Version Consolidée au 1970-07-19
           - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D173 à D175)](#261)
             - [Paragraphe 3 : Moyens de contrainte (art. D173 à D175)](#262)
           - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D179)](#263)
-          - [Section 4 : De la commission de surveillance (art. D181)](#264)
+          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#264)
           - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#265)
         - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#266)
           - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D195)](#267)
@@ -19988,6 +19988,26 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D185
+
+Les commissions de surveillance instituées auprès d'établissements pénitentiaires d'un même département peuvent avoir la même
+composition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°70-696 1970-07-31 art. 4 JORF 4 août 1970
+
+**Liens**:
+
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
