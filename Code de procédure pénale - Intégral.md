@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-07-18
+Version Consolidée au 1987-07-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -714,6 +714,23 @@ _Cite_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 807 (V)
+
+
+###### Article 2-7
+
+En cas de poursuites pénales pour incendie volontaire commis dans les bois, forêts, landes, maquis, garrigues, plantations ou
+reboisements, les personnes morales de droit public peuvent se constituer partie civile devant la juridiction de jugement en
+vue d'obtenir le remboursement, par le condamné, des frais qu'elles ont exposés pour lutter contre l'incendie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°87-565 du 22 juillet 1987 - art. 35 () JORF 23 juillet 1987
 
 
 ###### Article 3
