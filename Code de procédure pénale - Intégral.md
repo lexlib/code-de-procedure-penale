@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-10-27
+Version Consolidée au 1996-02-01
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -332,7 +332,7 @@ Version Consolidée au 1995-10-27
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D2 à D47)](#329)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D2 à D15)](#330)
         - [Chapitre Ier : De la police judiciaire (art. D2 à D15)](#331)
-          - [Section 1 : Dispositions générales (art. D2 à D8)](#332)
+          - [Section 1 : Dispositions générales (art. D2 à D8-2)](#332)
           - [Section 2 : Des officiers de police judiciaire (art. D9 à D12)](#333)
           - [Section 3 : Des agents de police judiciaire (art. D13 à D15)](#334)
       - [Titre III : Des juridictions d'instruction (art. D16 à D47)](#335)
@@ -45110,11 +45110,7 @@ _Nouveaux textes_:
 ###### Article D2-1
 
 Les officiers de police judiciaire des différents corps ou services entretiennent, à tous les échelons, des relations de
-coopération et d'aide réciproque.
-
-En principe, les relations s'établissent entre les commissaires divisionnaires, chefs de service, et les chefs de corps de
-gendarmerie ; entre les commissaires ou officiers de police d'une part, et les commandants de compagnie ou commandants de
-brigade de gendarmerie d'autre part.
+coopération et d'aide réciproque, dans le respect des règles administratives et des procédures hiérarchiques en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -45129,9 +45125,9 @@ _Codifié par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-932 du 17 août 1995 - art. 1 () JORF 24 août 1995
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
 
 _Anciens textes_:
 
@@ -45140,19 +45136,23 @@ _Anciens textes_:
 
 ###### Article D3
 
-Dès qu'il est informé d'un crime ou délit flagrant, l'officier de police judiciaire local prévient le procureur de la
+Dès qu'il est informé d'un crime ou d'un délit flagrant, l'officier de police judiciaire local prévient le procureur de la
 République et, dans le cadre des dispositions réglementaires propres à chaque corps ou service, provoque l'enquête ou y
-procède conformément aux prescriptions du Code de procédure pénale.
+procède conformément aux prescriptions du code de procédure pénale.
 
 Le magistrat compétent apprécie souverainement, dans chaque cas d'espèce, en fonction de la nature et des circonstances de
-l'affaire des hypothèses qu'elle autorise et de l'étendue des recherches à entreprendre, s'il y a lieu de dessaisir
+l'affaire, des hypothèses qu'elle autorise et de l'étendue des recherches à entreprendre, s'il y a lieu de dessaisir
 l'officier de police judiciaire qui a commencé l'enquête ou de lui laisser poursuivre pour tout ou partie les investigations.
 
-Les officiers de police judiciaire de la gendarmerie donnent avis aux organismes de police de tout fait paraissant constituer
-un crime ou un délit d'un caractère particulier en raison de son objet, de ses circonstances ou de son auteur et tels que
-ceux énumérés à l'article suivant *obligation*.
+Qu'ils appartiennent à la police nationale ou à la gendarmerie nationale, les officiers de police judiciaire s'avisent
+réciproquement dans les meilleurs délais de tout fait paraissant constituer un crime ou délit d'un caractère particulier en
+raison de son objet, des circonstances de sa commission ou de son auteur présumé, dès lors qu'il est susceptible d'être mis
+en rapprochement avec des faits de même nature qui auraient déjà été constatés ou qui pourraient être imputés aux personnes
+mises en cause dans des affaires similaires.
 
-La même obligation s'impose aux officiers de police judiciaire de la sûreté nationale à l'égard des services de gendarmerie.
+Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces
+officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la
+police judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -45166,6 +45166,10 @@ _Codifié par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
+
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
 
 _Cité par_:
 
@@ -45178,25 +45182,17 @@ _Cite_:
 
 ###### Article D4
 
-Le magistrat fait appel aux fonctionnaires relevant des services de police judiciaire dans les cas de nécessité, en tenant
-compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources
-d'information, sa connaissance de l'affaire et du milieu humain.
+Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire, dans
+les cas de nécessité, en tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa
+rapidité d'intervention, ses sources d'information, sa connaissance de l'affaire et du milieu humain.
 
-Le concours de ces fonctionnaires peut se révéler indispensable lorsque la poursuite de l'enquête exige :
+Le concours de ces officiers de police judiciaire peut se révéler indispensable lorsque la poursuite de l'enquête exige :
 
-Soit une spécialisation technique : infractions d'ordre commercial, financier ou bancaire, infractions économiques, traite
-des femmes, trafic d'or et de devises, trafic d'armes, contrefaçons ;
+- soit une compétence technique particulière notamment dans les domaines relevant des offices centraux de la police
+judiciaire énumérés à l'article D. 8-1 ; ces derniers assurent en outre, chaque fois que nécessaire, la coordination entre
+les services de police et les unités de gendarmerie ;
 
-Soit des recherches dépassant le cadre territorial d'un corps de gendarmerie ;
-
-Soit des investigations auprès d'administrations, offices ou organismes nationaux ou internationaux (trafic de stupéfiants,
-faux monnayage) ;
-
-Soit lorsque le crime ou le délit est présumé avoir été commis par des délinquants professionnels itinérants ou par des
-bandes organisées ;
-
-Soit lorsque le mode des investigations à poursuivre n'entre pas dans les méthodes traditionnelles de la gendarmerie
-(filature, surveillances spéciales, pénétration dans certains milieux).
+- soit des investigations internationales auprès d'offices ou d'organismes étrangers.
 
 **Liens relatifs à cet article**
 
@@ -45219,24 +45215,27 @@ _Cité par_:
   - Code de procédure pénale - art. D3 (V)
   - Code du patrimoine - art. R112-30 (V)
 
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D8-1 (M)
+
 
 ###### Article D5
 
-Lorsque les officiers ou agents de police judiciaire de la gendarmerie et des services de police judiciaire participent à une
-même enquête, la répartition des tâches et la centralisation des éléments d'information sont assurées par le magistrat saisi
-de l'enquête.
+Lorsqu'ils participent à une même enquête, les officiers ou agents de police judiciaire de la police nationale et de la
+gendarmerie nationale collaborent constamment dans l'intérêt de la justice. Ils mettent en commun leur compétence, leurs
+aptitudes et les moyens complémentaires dont ils disposent.
 
-Les militaires de la gendarmerie et les fonctionnaires de la police judiciaire se font par des renseignements recueillis et
-des opérations effectuées dans le cadre des instructions données par le magistrat.
+La répartition des tâches et la centralisation des éléments d'enquête sont assurées par le magistrat saisi.
 
-Ils collaborent constamment dans l'intérêt dans la justice. Ils mettent en commun leur compétence, leurs aptitudes et les
-moyens complémentaires dont ils disposent.
+Les officiers et agents de police judiciaire de la police nationale et de la gendarmerie nationale se font part des
+renseignements recueillis et des opérations effectuées dans le cadre des instructions données par le magistrat.
 
-A la demande des services de police judiciaire, et dans le cadre de la réglementation en vigueur, la gendarmerie peut mettre
-en place des barrages routiers suivant les plans établis dans les unités de l'arme.
-
-Les militaires de la gendarmerie et les fonctionnaires de la police judiciaire mentionnent dans leur procédure les concours
-qu'ils se sont apportés dans la conduite de l'enquête.
+Ils mentionnent dans leur procédure les concours qu'ils se sont apportés dans la conduite de l'enquête.
 
 **Liens relatifs à cet article**
 
@@ -45251,19 +45250,33 @@ _Codifié par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+
 
 ###### Article D6
 
-Lorsqu'ils sont amenés à exécuter une commission rogatoire dans la circonscription d'une brigade de gendarmerie, les
-fonctionnaires de la police judiciaire informent de leur mission l'officier dont dépend cette unité ou, s'il y a urgence ou
-difficultés, le commandant de brigade. Les militaires de la gendarmerie facilitent, dans toute la mesure de leurs moyens,
-l'exécution de cette mission.
+Lorsqu'ils sont amenés, soit pour l'exécution d'une commission rogatoire, soit dans le cadre d'une enquête préliminaire ou de
+flagrance, à procéder à un acte d'enquête susceptible d'entraîner un trouble à l'ordre public, les officiers de police
+judiciaire de la police nationale ou de la gendarmerie nationale sont tenus, après avis donné au magistrat mandant,
+d'informer de leur intervention et par tout moyen le responsable de la police nationale ou de la gendarmerie nationale en
+charge de la sécurité publique.
 
-Dans la limite des instructions du magistrat compétent et des dispositions législatives ou réglementaires visant notamment
-les obligations qui lient les officiers de police judiciaire, les fonctionnaires de la police judiciaire informent des
-résultats obtenus dans leur circonscription les officiers de gendarmerie intéressés.
+Le service local facilite dans toute la mesure de ses moyens l'exécution de cette mission ; en tout état de cause, il est
+impérativement, et dans les meilleurs délais, avisé de la fin de celle-ci.
+
+Dans la limite des instructions du magistrat mandant et des dispositions législatives ou réglementaires visant notamment les
+obligations qui lient les officiers de police judiciaire, les militaires de la gendarmerie et les fonctionnaires de la police
+nationale agissant dans les circonstances objet du premier alinéa informent le responsable de la police nationale ou de la
+gendarmerie nationale ayant en charge la sécurité publique du résultat de leur intervention dès lors que celui-ci peut avoir
+des incidences sur l'ordre public.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
 
 **Liens**:
 
@@ -45272,25 +45285,25 @@ résultats obtenus dans leur circonscription les officiers de gendarmerie intér
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°58-1304 1958-12-23
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
 
 
 ###### Article D7
 
-Dans le cadre des instructions données par les parquets, les officiers et agents de police judiciaire de la gendarmerie font
-appel aux spécialistes des services de l'identité judiciaire pour effectuer des constatations, prélèvements et relevés,
-lorsque les moyens propres à la gendarmerie ne permettent pas de les réaliser dans des conditions satisfaisantes.
+Les officiers et agents de police judiciaire veillent à la préservation de l'état des lieux ainsi qu'à la conservation des
+traces et des indices jusqu'à ce qu'il soit procédé aux opérations de police technique et scientifique. Sauf désignation par
+le magistrat d'un service de police technique et scientifique particulier, ces opérations sont effectuées par les
+spécialistes auxquels font habituellement appel les premiers intervenants.
 
-En pareil cas, les officiers de police judiciaire de gendarmerie, tout en conservant l'initiative de l'enquête, veillent à la
-conservation des traces et de l'état des lieux.
+Lorsqu'il y a lieu de procéder à des examens techniques ou scientifiques qui ne peuvent être différés, les officiers de
+police judiciaire peuvent, selon le type d'enquête qu'ils conduisent, faire appel aux personnes qualifiées appartenant aux
+organismes spécialisés de la police nationale ou de la gendarmerie nationale.
 
-Ils facilitent la tâche des spécialistes des services de l'identité judiciaire qui, de leur côté, fournissent aux enquêteurs
-de la gendarmerie tous renseignements techniques utiles à l'orientation des recherches qu'ils sont habilités à poursuivre.
-
-Les militaires de la gendarmerie qualifiés procèdent aux opérations simples de police technique, l'interprétation des
-résultats étant confiée, s'il y a lieu, aux services de l'identité judiciaire.
+L'interprétation des résultats des opérations de police technique et scientifique peut être indifféremment confiée aux
+organismes spécialisés cités ci-dessus. Ceux-ci mettent en commun les moyens dont ils disposent lorsque leurs propres
+capacités se révèlent insuffisantes.
 
 **Liens relatifs à cet article**
 
@@ -45304,19 +45317,34 @@ _Codifié par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
+
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
 
 
 ###### Article D8
 
-Dans le cadre des textes réglementaires ou des accords interministériels en vigueur :
+Dans le cadre des textes législatifs et réglementaires ou des accords interministériels en vigueur :
 
-La gendarmerie adresse aux services relevant de la direction de la police judiciaire de la sûreté nationale les
-renseignements relatifs à la criminalité, susceptibles d'être exploités dans un but de centralisation, de classification ou
-de diffusion (avis, fiches, statistiques) ;
+1° La police nationale et la gendarmerie nationale s'attachent à organiser et à mettre en oeuvre la convergence de leurs
+systèmes centraux de documentation criminelle.
 
-Les mêmes services de police judiciaire transmettent à la gendarmerie par messages, fiches, circulaires, toutes indications
-utiles à l'identification ou à la recherche des malfaiteurs. Lorsque ces diffusions sont établies à la demande d'un service
-de gendarmerie, celui-ci doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
+Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police
+judiciaire les renseignements relatifs à la délinquance et à la criminalité susceptibles d'être exploités dans un but de
+centralisation, de classification ou de diffusion (avis, fiches, statistiques).
+
+La direction centrale de la police judiciaire transmet aux autres services de la police nationale ainsi qu'à la gendarmerie,
+par tout moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou
+l'unité de gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la
+découverte des individus recherchés.
+
+2° Les services de la police nationale et les unités de gendarmerie informent les offices centraux de la police judiciaire et
+les organes de coopération internationale policière placés au sein de la direction centrale de la police judiciaire, énumérés
+aux articles D. 8-1 et D. 8-2.
+
+Ces services ont la charge d'assurer, dans les matières relevant de leurs compétences respectives, la centralisation, la
+coordination et la diffusion nationales de l'information auprès des services de police et des unités de gendarmerie.
 
 **Liens relatifs à cet article**
 
@@ -45330,6 +45358,100 @@ _Codifié par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
+
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D8-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D8-2 (V)
+
+
+###### Article D8-1
+
+Les offices centraux de police judiciaire relevant du 1° de l'article R. 15-18 sont les suivants :
+
+1° Office central pour la répression du faux-monnayage ;
+
+2° Office central pour la répression du trafic illicite des stupéfiants ;
+
+3° Office central pour la répression de la traite des êtres humains ;
+
+4° Office central pour la répression du banditisme ;
+
+5° Office central pour la répression du vol d'oeuvres et objets d'art ;
+
+6° Office central pour la répression du trafic des armes, des munitions, des produits explosifs et des matières nucléaires,
+biologiques et chimiques ;
+
+7° Office central pour la répression de la grande délinquance financière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+_Créé par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+
+_Cité par_:
+
+  - Arrêté du 15 mai 1996 - art. 2 (Ab)
+  - Arrêté du 5 août 2009 - art. 6 (V)
+  - Arrêté du 24 août 2009 (V)
+  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Décret n°2013-960 du 25 octobre 2013 (V)
+  - CODE DE PROCEDURE PENALE - art. D3 (M)
+  - Code de procédure pénale - art. D4 (V)
+  - Code de procédure pénale - art. D8 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°97-285 du 25 mars 1997
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R15-18 (M)
+
+
+###### Article D8-2
+
+Les organes de coopération internationale policière placés au sein de la direction centrale de la police judiciaire sont les
+suivants : 
+
+1° Le bureau central national-France de l'organisation internationale de police criminelle Interpol ; 
+
+2° Le bureau national chargé de la gestion opérationnelle de la partie nationale du système d'information Schengen, dénommé
+Sirene ; 
+
+3° L'unité centrale de coopération policière internationale, désignée par l'article 40, paragraphe 5, de la convention
+d'application de l'accord de Schengen du 14 juin 1985, signée à Schengen le 19 juin 1990 ; 
+
+4° L'unité nationale de l'Office européen de police, dénommé Europol.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+_Créé par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 1 () JORF 1er février 1996
+
+_Cité par_:
+
+  - Arrêté du 5 août 2009 - art. 4 (V)
+  - Décret n°2017-1467 du 13 octobre 2017 (V)
+  - CODE DE PROCEDURE PENALE - art. D8 (M)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 40 (V)
 
 
 ##### Section 2 : Des officiers de police judiciaire<a id=333></a>
@@ -45409,47 +45531,62 @@ _Cite_:
 
 ###### Article D12
 
-L'extension de compétence territoriale conférée aux officiers de police judiciaire par l'article 18 (alinéa 4) revêt un
-caractère exceptionnel et limitatif [*conditions d'application*] :
+1. L'extension de compétence territoriale conférée aux officiers de police judiciaire par l'article 18 (troisième alinéa)
+revêt un caractère exceptionnel et limitatif :
 
-1° Elle n'est applicable qu'au cas de crime ou délit flagrant ;
+- elle n'est applicable qu'en cas de crime ou de délit flagrant ;
 
-2° Elle ne peut être exercée que s'il s'agit d'un crime ou délit constaté dans la circonscription habituelle de l'officier de
+- elle ne peut être exercée que s'il s'agit d'un crime ou délit constaté dans la circonscription habituelle de l'officier de
 police judiciaire ;
 
-3° Elle concerne seulement la poursuite des investigations et l'exécution des auditions, perquisitions et saisies qui se
+- elle concerne seulement la poursuite des investigations et l'exécution des autitions, perquisitions et saisies qui se
 rattachent directement à l'infraction et qui s'imposent à l'officier de police judiciaire dans le temps de l'enquête de
-flagrant délit.
+flagrance.
 
-Lorsque, par application de l'article 18 (alinéa 4), un officier de police judiciaire opère en dehors de sa circonscription
-habituelle, même s'il agit dans le ressort d'un tribunal de grande instance près duquel il exerce ses fonctions, il doit
-aviser préalablement le procureur de la République et l'officier de police judiciaire ayant normalement compétence sur le
-lieu où il se transporte [*obligation, information*.
+2. Lorsque, par application de l'article 18 (deuxième et troisième alinéa), un officier de police judiciaire opère en dehors
+de sa circonscription habituelle, même s'il agit dans le ressort d'un tribunal de grande instance près duquel il exerce ses
+fonctions, il doit aviser préalablement le procureur de la République et l'officier de police judiciaire en charge de la
+sécurité publique territorialement compétents.
 
-A l'issue de ses opérations, il tient ces derniers informés des résultats obtenus *]obligation*. Il mentionne dans sa
-procédure les avis donnés et, éventuellement, les concours qui lui ont été prêtés par le service local de police ou de
-gendarmerie.
+A l'issue de ses opérations, il tient ces derniers informés des résultats obtenus. Il mentionne dans sa procédure les avis
+donnés et, éventuellement, les concours qui lui ont été prêtés par le service local de police ou de gendarmerie.
 
-L'extension de compétence territoriale prévue à l'article 18 (alinéa 5) est applicable soit dans le cours d'une enquête de
-flagrant délit, soit dans le cadre d'une information judiciaire, mais elle ne peut résulter que d'une prescription formelle
-du magistrat saisi, et seulement s'il y a urgence [*conditions*.
+3. L'extension de compétence territoriale prévue à l'article 18 (quatrième alinéa) est applicable soit dans le cours d'une
+enquête de flagrance ou d'une enquête préliminaire, soit dans le cadre d'une information judiciaire, mais elle ne peut
+résulter que d'une prescription formelle du magistrat saisi, et seulement s'il y a urgence.
 
-Les réquisitions du procureur de la République ou la commission rogatoire, selon le cas, doivent viser l'article 18 (alinéa
-5) et mentionner expressément, outre l'urgence, la nature et le lieu des opérations à effectuer *]formalité obligatoire*.
+Les réquisitions du procureur de la République ou la commission rogatoire, selon le cas, doivent viser l'article 18
+(quatrième alinéa) et mentionner expressément, outre l'urgence, la nature et le lieu des opérations à effectuer. Elles
+doivent également préciser si l'assistance d'un officier de police judiciaire territorialement compétent est requise.
 
-Dans le plus bref délai et, autant que possible, avant son transport, l'officier de police judiciaire requis ou commis dans
-les conditions ci-dessus avise un officier de police judiciaire exerçant ses fonctions dans la circonscription où il doit
-opérer qu'il va recourir à son assistance ; il lui fournit, en même temps, les précisions indispensables, notamment de temps
-et de lieu.
+Lorsque le magistrat a décidé qu'une assistance territoriale est nécessaire, l'officier de police judiciaire bénéficiant de
+l'extension de compétence doit, dans le plus bref délai et autant que possible avant son transport, aviser un officier de
+police judiciaire exerçant ses fonctions dans la circonscription où il doit opérer qu'il va recourir à son assistance ; il
+lui fournit en même temps les précisions indispensables, notamment de temps et de lieu. Il mentionne cet avis dans sa
+procédure ainsi que le concours de l'officier de police judiciaire l'ayant assisté.
 
-Il mentionne cet avis dans sa procédure ainsi que le concours de l'officier de police judiciaire l'ayant assisté ; il informe
-le procureur de la République territorialement compétent du résultat de ses opérations.
+Lorsque le magistrat n'a pas décidé qu'une assistance territoriale était nécessaire, l'officier de police judiciaire
+bénéficiant de l'extension de compétence doit, dans le plus bref délai et, autant que possible, avant son transport, aviser
+l'officier de police judiciaire en charge de la sécurité publique dans la circonscription où il doit opérer. Il mentionne cet
+avis dans sa procédure. Si les circonstances l'exigent, il peut être assisté par des agents de police judiciaire
+territorialement compétents.
+
+Dans tous les cas, l'officier de police judiciaire ayant bénéficié de l'extension de compétence informe le procureur de la
+République territorialement compétent du résultat de ses opérations.
+
+4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D.
+3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise les services relevant de la direction
+centrale de la police judiciaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-1304 1958-12-23
+
+_Modifié par_:
+
+  - Décret n°96-74 du 25 janvier 1996 - art. 2 () JORF 1er février 1996
 
 **Liens**:
 
@@ -45458,7 +45595,8 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de procédure pénale 18 al. 4 et al. 5
+  - CODE DE PROCEDURE PENALE - art. 18 (M)
+  - CODE DE PROCEDURE PENALE - art. D3 (M)
 
 
 ##### Section 3 : Des agents de police judiciaire<a id=334></a>
