@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-06-18
+Version Consolidée au 1998-07-03
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -141,7 +141,7 @@ Version Consolidée au 1998-06-18
         - [Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence (art. 699 à 700)](#138)
         - [Chapitre III : Des crimes et délits contre les intérêts fondamentaux de la Nation (art. 701 à 702)](#139)
       - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication (art. 702-1 à 703)](#140)
-      - [Titre XIII : De la procédure applicable aux infractions en matière économique et financière (art. 704)](#141)
+      - [Titre XIII : De la procédure applicable aux infractions en matière économique et financière (art. 704 à 706)](#141)
       - [Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière (art. 705)](#142)
       - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. 706-3 à 706-14)](#143)
       - [Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme (art. 706-16 à 706-25-1)](#144)
@@ -26639,6 +26639,57 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°96-392 du 13 mai 1996 - art. 3 () JORF 14 mai 1996
+
+
+###### Article 706
+
+Peuvent exercer des fonctions d'assistant spécialisé auprès d'une ou plusieurs cours d'appel ou d'un ou de plusieurs
+tribunaux de grande instance mentionnés à l'article 704 les fonctionnaires de catégorie A ou B ainsi que les personnes
+titulaires d'un diplôme sanctionnant une formation économique, financière, juridique ou sociale d'une durée au moins égale à
+quatre années d'études supérieures après le baccalauréat qui remplissent les conditions d'accès à la fonction publique et
+justifient d'une expérience professionnelle minimale de quatre années.
+
+Les assistants spécialisés assistent, dans le déroulement de la procédure, les magistrats sous la direction desquels ils sont
+placés, sans pouvoir procéder par eux-mêmes à aucun acte.
+
+Ils ont accès au dossier de la procédure pour l'exécution des tâches qui leur sont confiées et sont soumis au secret
+professionnel sous les peines prévues à l'article 226-13 du code pénal.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment la durée pour laquelle les
+assistants spécialisés sont nommés et les modalités selon lesquelles ils prêtent serment.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 91 II
+
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 91 (V) JORF 3 juillet 1998
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 567-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 704 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 706-79 (M)
+  - Code de procédure pénale - art. 28-1 (VD)
+  - Code de procédure pénale - art. 706-181 (V)
+  - Code de procédure pénale - art. 706-2 (VT)
+  - Code de procédure pénale - art. R15-33-66-8 (V)
+  - Code de procédure pénale - art. R50 bis (V)
+  - Code de procédure pénale - art. R50 ter (V)
+  - Code des douanes - art. 59 terdecies (V)
+  - Livre des procédures fiscales - art. L135 ZJ (V)
 
 
 ### Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière<a id=142></a>
