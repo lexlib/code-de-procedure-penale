@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-02
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -41198,6 +41198,28 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 41-2 (M)
   - Code de la route L1
   - Code de la route - art. L1 (Ab)
+
+
+###### Article 809-2
+
+En Polynésie française, les fonctionnaires et agents mentionnés à l'article 35 de la loi organique n° 2004-192 du 27 février
+2004 portant statut d'autonomie de la Polynésie française sont agents de police judiciaire adjoints dans les conditions
+prévues à l'article 21 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 96-268 1996-03-28
+
+_Cite_:
+
+  - Loi n°2004-192 2004-02-27 art. 35
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+_Créé par_:
+
+  - Loi n°2004-193 du 27 février 2004 - art. 22 () JORF 2 mars 2004
 
 
 ###### Article 810
