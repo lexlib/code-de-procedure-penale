@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1999-11-07
+Version Consolidée au 1999-11-11
 ## Contenu: 
   - [Partie législative (art. 1 à 805)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -136,9 +136,9 @@ Version Consolidée au 1999-11-07
         - [Chapitre II : De l'exercice des poursuites et de la juridiction territorialement compétente (art. 692 à 693)](#133)
       - [Titre X : De l'entraide judiciaire internationale (art. 694 à 696-2)](#134)
       - [Titre XI : Des crimes et des délits en matière militaire et des crimes et délits contre les intérêts fondamentaux de la nation (art. 697 à 702)](#135)
-        - [Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix (art. 697 à 698-8)](#136)
+        - [Chapitre Ier : De la poursuite, de l'instruction et du jugement des crimes et délits en matière militaire en temps de paix (art. 697 à 698-9)](#136)
           - [Section 1 : Compétence (art. 697 à 697-3)](#137)
-          - [Section 2 : Procédure (art. 698 à 698-8)](#138)
+          - [Section 2 : Procédure (art. 698 à 698-9)](#138)
         - [Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence (art. 699 à 700)](#139)
         - [Chapitre III : Des crimes et délits contre les intérêts fondamentaux de la Nation (art. 701 à 702)](#140)
       - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication (art. 702-1 à 703)](#141)
@@ -19147,9 +19147,10 @@ _Créé par_:
 
 ###### Article 465
 
-Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de droit commun et si la peine prononcée est au
-moins d'une année d'emprisonnement sans sursis, le tribunal peut, par décision spéciale et motivée, lorsque les éléments de
-l'espèce justifient une mesure particulière de sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
+Dans le cas visé à l'article 464, premier alinéa, s'il s'agit d'un délit de droit commun ou d'un délit d'ordre militaire
+prévu par le livre III du code de justice militaire et si la peine prononcée est au moins d'une année d'emprisonnement sans
+sursis, le tribunal peut, par décision spéciale et motivée, lorsque les éléments de l'espèce justifient une mesure
+particulière de sûreté, décerner mandat de dépôt ou d'arrêt contre le prévenu.
 
 Le mandat d'arrêt continue à produire son effet, même si le tribunal, sur opposition, ou la cour, sur appel, réduit la peine
 à moins d'une année d'emprisonnement.
@@ -19190,8 +19191,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°70-643 1970-07-17 art. 11-I et art. 11-II JORF 19 juillet 1970
-  - Loi n°85-1407 1985-12-30 art. 42 et art. 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
+  - Loi n°99-929 du 10 novembre 1999 - art. 56 () JORF 11 novembre 1999
 
 _Cite_:
 
@@ -26510,39 +26510,6 @@ _Cité par_:
   - Code de procédure pénale - art. 698-2 (V)
 
 
-###### Article 697-2
-
-Lorsqu'en temps de paix, un tribunal aux armées n'a pas été établi auprès d'une force qui stationne ou opère hors du
-territoire de la République, les crimes et délits qui seraient de la compétence de ce tribunal sont, sous réserve des
-conventions internationales, portés devant une des juridictions mentionnées à l'article 697.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 65 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Abrogé par_:
-
-  - Loi n°99-929 du 10 novembre 1999 - art. 57 (Ab) JORF 11 novembre 1999
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°99-929 du 10 novembre 1999 - art. 66 (Ab)
-
-_Cité par_:
-
-  - Loi n°99-929 du 10 novembre 1999 - art. 57 (Ab)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 697 (M)
-
-
 ###### Article 697-3
 
 La compétence territoriale des juridictions mentionnées à l'article 697 est déterminée conformément aux articles 43,52,382 et
@@ -26579,7 +26546,7 @@ _Cite_:
 ###### Article 698
 
 Les infractions relevant de la compétence des juridictions mentionnées à l'article 697 sont instruites et jugées selon les
-règles du présent code sous réserve des dispositions particulières édictées par les articles 698-1 à 698-8.
+règles du présent code sous réserve des dispositions particulières édictées par les articles 698-1 à 698-9.
 
 Toutefois, le procureur de la République compétent en application de l'article 43 a qualité pour accomplir ou faire accomplir
 les actes nécessités par l'urgence et requérir à cet effet le juge d'instruction de son siège. Les dispositions des articles
@@ -26591,16 +26558,14 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°63-22 1963-01-15 art. 1 JORF 16 janvier 1963
-  - Loi n°81-737 1981-08-04 art. 1 JORF 5 août 1981
-  - Loi n°92-1336 du 16 décembre 1992 - art. 65 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°82-621 1982-07-21 art. 14
   - SPEC_APPLI: Décret n°82-1146 1982-12-29
+
+_Modifié par_:
+
+  - Loi n°99-929 du 10 novembre 1999 - art. 58 () JORF 11 novembre 1999
 
 _Nouveaux textes_:
 
@@ -26610,7 +26575,7 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 43 (M)
   - CODE DE PROCEDURE PENALE - art. 697 (M)
-  - Code de procédure pénale 43, 697, 698-1 à 698-8
+  - Code de procédure pénale 43, 697, 698-1 à 698-9
 
 
 ###### Article 698-1
@@ -26716,9 +26681,9 @@ _Modifié par_:
 
 ###### Article 698-5
 
-Les articles 73 à 77, 93, 94, 137, 302, 307 à 318, 357, 371, 374, 375, 377 et 384 alinéa 3 du Code de justice militaire sont
-applicables. Conformément à l'article 135 de ce même code, la personne mise en examen, le prévenu ou le condamné militaire
-doit être détenu dans des locaux séparés.
+Les articles 73 à 77, 93, 94, 137, 204, 349, 357, 366, 368, 369, 371, 373, 374, 375, 377 et le deuxième alinéa de l'article
+384 du code de justice militaire sont applicables. Conformément à l'article 135 de ce même code, la personne mise en examen,
+le prévenu ou le condamné militaire doit être détenu dans des locaux séparés.
 
 **Liens relatifs à cet article**
 
@@ -26728,10 +26693,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 214 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+  - Loi n°99-929 du 10 novembre 1999 - art. 60 () JORF 11 novembre 1999
 
 _Cite_:
 
+  - Code de justice militaire - art. 135 (M)
   - Code de justice militaire - art. 137 (M)
   - Code de justice militaire - art. 302 (Ab)
   - Code de justice militaire - art. 357 (M)
@@ -26742,7 +26708,7 @@ _Cite_:
   - Code de justice militaire - art. 384 (M)
   - Code de justice militaire - art. 93 (Ab)
   - Code de justice militaire - art. 94 (Ab)
-  - Code de justice militaire 73 à 77, 93, 94, 137, 302, 307 à 318, 357, 371, 374, 375, 377, 384
+  - Code de justice militaire 73 à 77, 93, 94, 137, 302, 307 à 318, 357, 371, 374, 375, 377, 384, 135
 
 
 ###### Article 698-6
@@ -26837,6 +26803,30 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°92-1336 du 16 décembre 1992 - art. 65 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 698-9
+
+Les juridictions de jugement mentionnées à l'article 697 peuvent, en constatant dans leur décision que la publicité risque
+d'entraîner la divulgation d'un secret de la défense nationale, ordonner, par décision rendue en audience publique, que les
+débats auront lieu à huis clos. Lorsque le huis clos a été ordonné, celui-ci s'applique au prononcé des jugements séparés qui
+peuvent intervenir sur des incidents ou exceptions.
+
+La décision au fond est toujours prononcée en audience publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°99-929 du 10 novembre 1999 - art. 61 () JORF 11 novembre 1999
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 697 (M)
 
 
 #### Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence<a id=139></a>
