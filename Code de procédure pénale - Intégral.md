@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1992-04-03
+Version Consolidée au 1992-07-17
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24727,7 +24727,7 @@ _Cité par_:
 ###### Article 706-4
 
 L'indemnité est allouée par une commission instituée dans le ressort de chaque tribunal de grande instance. Cette commission
-a le caractère d'une juridiction civile qui se prononce en premier et dernier ressort.
+a le caractère d'une juridiction civile qui se prononce en premier ressort.
 
 La commission est composée de deux magistrats du siège du tribunal de grande instance et d'une personne majeure, de
 nationalité française et jouissant de ses droits civiques, s'étant signalée par l'intérêt qu'elle porte aux problèmes des
@@ -24746,13 +24746,13 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Modifié par_:
-
-  - Loi n°83-608 1983-07-08 art. 16 JORF 9 juillet 1983 en vigueur le 1er janvier 1984
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°83-608 du 8 juillet 1983 - art. 23, v. init.
+
+_Modifié par_:
+
+  - Loi n°92-665 du 16 juillet 1992 - art. 36 () JORF 17 juillet 1992
 
 _Cité par_:
 
@@ -24774,6 +24774,7 @@ _Cité par_:
 _Nouveaux textes_:
 
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. L231-2 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R214-1 (V)
 
 
 ###### Article 706-5
