@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1977-03-05
+Version Consolidée au 1977-04-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -33952,6 +33952,37 @@ _Nouveaux textes_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. R3 (M)
+
+
+###### Article A3
+
+L'examen technique d'officier de police judiciaire a lieu chaque année, au cours du dernier trimestre, et comporte deux
+épreuves écrites à savoir :
+
+1. Une composition sur des notions de droit pénal ou de procédure pénale (durée : trois heures) ;
+
+2. Une épreuve pratique de procédure sur un cas de crime ou de délit (durée : quatre heures).
+
+La valeur de chaque épreuve est constatée par une note de 0 à 20. Toute note égale ou inférieure à 5 dans l'une ou l'autre
+épreuve est éliminatoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Modifié par_:
+
+  - Arrêté 1977-02-01 art. 1 et art. 2 JORF 9 février 1977 en vigueur le 1er avril 1977
+
+_Anciens textes_:
+
+  - Code de procédure pénale - art. A2 (T)
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. A4 (V)
 
 
 ###### Article A4
