@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-08-26
+Version Consolidée au 2003-08-27
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -45356,19 +45356,25 @@ _Cite_:
 ###### Article R15-19
 
 Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire
-exercent leurs fonctions habituelles et dont la compétence s'exerce sur le ressort d'une ou plusieurs cours d'appel ou
+exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'une ou plusieurs zones de défense ou
 parties de celles-ci sont les suivantes :
 
-1° Les services régionaux de police judiciaire et la direction régionale de police judiciaire de Paris ainsi que leurs
-détachements, antennes et services départementaux ;
+1° Les directions interrégionales de la police judiciaire, ainsi que leurs services régionaux et antennes de police
+judiciaire et les directions régionales de la police judiciaire ainsi que leurs services départementaux et antennes de police
+judiciaire ;
 
-2° Les directions interrégionales et la direction interdépartementale du contrôle de l'immigration et de la lutte contre
-l'emploi des clandestins ainsi que les unités de police des chemins de fer, les brigades mobiles de recherches et les
-brigades de police aéronautique qui leur sont rattachées, dans la zone de défense où elles ont leur siège ;
+2° Au titre de la police aux frontières :
 
-3° Les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont
-affectées et, pour les infractions visées à l'article L. 23-1 du code de la route, les sections motocyclistes dans les
-départements du ressort de leur groupement d'affectation ;
+a) Les directions zonales ainsi que les brigades des chemins de fer, les brigades mobiles de recherches, les brigades de
+police aéronautique et les unités d'éloignement, dans la zone de défense où leur direction zonale a son siège ;
+
+b) La direction des aérodromes Charles-de-Gaulle et Le Bourget, sur l'emprise de ces aérodromes ;
+
+c) La direction de l'aérodrome d'Orly, sur l'emprise de cet aérodrome ;
+
+3° Au titre de la police de la circulation : les unités autoroutières des compagnies républicaines de sécurité pour les voies
+de circulation auxquelles elles sont affectées et les unités motocyclistes régionales pour les infractions visées à l'article
+L. 130-1 du code de la route ;
 
 4° La direction des renseignements généraux de la préfecture de police ;
 
@@ -45386,7 +45392,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-801 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
+  - Décret n°2003-795 du 25 août 2003 - art. 2 () JORF 27 août 2003
 
 _Cité par_:
 
@@ -45406,31 +45412,38 @@ _Cité par_:
   - Code de procédure pénale - art. R15-20 (V)
   - Code de procédure pénale - art. R15-29 (V)
 
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 15-1 (M)
+  - Code de la route. - art. L130-1 (V)
+
 
 ###### Article R15-20
 
 Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire
-exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un ou de plusieurs tribunaux de grande
-instance d'une même cour d'appel sont les suivantes :
+exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un département ou d'une collectivité
+d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes :
 
-1° Les sûretés départementales de sécurité publique, pour l'ensemble des circonscriptions de sécurité publique du département
+1° Les sûretés départementales et les circonscriptions de sécurité publique ;
+
+2° A Paris, la direction de la police urbaine de proximité et la direction de l'ordre public et de la circulation de la
+préfecture de police ;
+
+3° Au titre de la police aux frontières :
+
+a) Les directions départementales ainsi que, sous réserve des dispositions du a du 2° de l'article R. 15-19, les brigades des
+chemins de fer, les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans le département
 où elles ont leur siège ;
 
-2° Les services de police urbaine des circonscriptions de sécurité publique, pour l'ensemble des circonscriptions de sécurité
-publique du ressort du tribunal de grande instance où ils ont leur siège ;
-
-3° Les directions départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins, dans le
-département où elles ont leur siège.
+b) Les directions de la Nouvelle-Calédonie et des îles Wallis-et-Futuna, de la Polynésie française, de Saint-Pierre-et-
+Miquelon et de Mayotte ainsi que les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans
+les territoires de ces collectivités.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°58-358 1958-04-02
-
-_Modifié par_:
-
-  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
 
 _Cité par_:
 
@@ -45439,6 +45452,10 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R15-21 (M)
   - CODE DE PROCEDURE PENALE - art. R16 (M)
   - Code de procédure pénale - art. R15-29 (V)
+
+_Modifié par_:
+
+  - Décret n°2003-795 du 25 août 2003 - art. 3 () JORF 27 août 2003
 
 
 ###### Article R15-21
@@ -45722,10 +45739,10 @@ _Cite_:
 
 ###### Article R15-29
 
-Les officiers et agents de police judiciaire appartenant aux directions interrégionales, interdépartementale ou
-départementales du contrôle de l'immigration et de la lutte contre l'emploi des clandestins sont compétents pour opérer sur
-l'ensemble du domaine ferroviaire du ressort de la direction interrégionale à laquelle ils appartiennent et des directions
-interrégionales ou interdépartementale limitrophes.
+Par dérogation aux dispositions du 2° de l'article R. 15-19 et du 3° de l'article R. 15-20, les officiers et agents de police
+judiciaire appartenant aux directions zonales ou départementales de la police aux frontières sont compétents pour opérer sur
+l'ensemble du domaine ferroviaire du ressort de la direction zonale à laquelle ils appartiennent et des directions zonales
+limitrophes.
 
 **Liens relatifs à cet article**
 
@@ -45733,9 +45750,14 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+  - Décret n°2003-795 du 25 août 2003 - art. 4 () JORF 27 août 2003
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-19 (V)
+  - Code de procédure pénale - art. R15-20 (V)
 
 _Cité par_:
 
@@ -45771,9 +45793,9 @@ _Cité par_:
 
 ###### Article R15-31
 
-Les officiers et agents de police judiciaire affectés à la direction régionale de la police judiciaire de la préfecture de
-police et au service régional de la police judiciaire de Versailles sont compétents pour opérer sur l'ensemble des lignes,
-stations, gares, arrêts et couloirs des transports en commun de la région Ile-de-France.
+Les officiers et agents de police judiciaire affectés aux directions régionales de la police judiciaire de Paris et de
+Versailles sont compétents pour exercer leur mission sur l'ensemble des lignes, stations, gares, arrêts et couloirs des
+transports en commun de la région Ile-de-France.
 
 **Liens relatifs à cet article**
 
@@ -45781,9 +45803,9 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+  - Décret n°2003-795 du 25 août 2003 - art. 5 () JORF 27 août 2003
 
 
 ##### Paragraphe 2 : Des officiers et agents de police judiciaire de la gendarmerie nationale<a id=263></a>
@@ -59405,7 +59427,7 @@ mises en cause dans des affaires similaires.
 Lorsqu'un tel fait est de nature à susciter des investigations entrant dans le champ d'application de l'article D. 4, ces
 officiers de police judiciaire le portent sans délai à la connaissance des services relevant de la direction centrale de la
 police judiciaire ou, lorsqu'il relève du domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de
-la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins.
+la direction centrale de la police aux frontières.
 
 **Liens relatifs à cet article**
 
@@ -59413,16 +59435,15 @@ _Codifié par_:
 
   - Décret n°58-1304 1958-12-23
 
+_Modifié par_:
+
+  - Décret n°2003-796 du 25 août 2003 - art. 1 () JORF 27 août 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
-
-_Modifié par_:
-
-  - Décret n°96-694 du 6 août 1996 - art. 1 () JORF 9 août 1996
 
 _Cité par_:
 
@@ -59437,9 +59458,9 @@ _Cite_:
 ###### Article D4
 
 Le magistrat fait appel aux officiers de police judiciaire relevant de la direction centrale de la police judiciaire ou de la
-direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins dans les cas de nécessité, en
-tenant compte des possibilités que procurent à l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses
-sources d'information, sa connaissance de l'affaire et du milieu humain.
+direction centrale de la police aux frontières dans les cas de nécessité, en tenant compte des possibilités que procurent à
+l'officier de police judiciaire premier saisi sa rapidité d'intervention, ses sources d'information, sa connaissance de
+l'affaire et du milieu humain.
 
 Le concours de ces officiers de police judiciaire peut se révéler indispensable lorsque la poursuite de l'enquête exige :
 
@@ -59455,13 +59476,6 @@ _Codifié par_:
 
   - Décret n°58-1304 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
-  - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
-
 _Cité par_:
 
   - Décret n°75-432 du 2 juin 1975 - art. 6 (Ab)
@@ -59472,7 +59486,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°96-694 du 6 août 1996 - art. 2 () JORF 9 août 1996
+  - Décret n°2003-796 du 25 août 2003 - art. 1 () JORF 27 août 2003
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
+  - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
 _Cite_:
 
@@ -59587,15 +59607,13 @@ systèmes centraux de documentation criminelle.
 
 Les services de police et les unités de gendarmerie adressent aux services relevant de la direction centrale de la police
 judiciaire ou, lorsqu'ils entrent dans le domaine de compétence de l'office central mentionné au 8° de l'article D. 8-1, de
-la direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins les renseignements relatifs
-à la délinquance et à la criminalité susceptibles d'être exploités dans un but de centralisation, de classification ou de
-diffusion (avis, fiches, statistiques).
+la direction centrale de la police aux frontières les renseignements relatifs à la délinquance et à la criminalité
+susceptibles d'être exploités dans un but de centralisation, de classification ou de diffusion (avis, fiches, statistiques).
 
-La direction centrale de la police judiciaire et la direction centrale du contrôle de l'immigration et de la lutte contre
-l'emploi des clandestins transmettent aux autres services de la police nationale ainsi qu'à la gendarmerie nationale par tout
-moyen, toutes indications utiles à l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de
-gendarmerie qui est à l'origine d'une demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des
-individus recherchés.
+La direction centrale de la police judiciaire et la direction centrale de la police aux frontières transmettent aux autres
+services de la police nationale ainsi qu'à la gendarmerie nationale par tout moyen, toutes indications utiles à
+l'identification ou à la recherche de malfaiteurs. Le service de police ou l'unité de gendarmerie qui est à l'origine d'une
+demande de diffusion doit figurer parmi les autorités à prévenir dès la découverte des individus recherchés.
 
 2° Les services de la police nationale et les unités de la gendarmerie nationale informent les offices centraux de police
 judiciaire et les organes de coopération internationale policière énumérés aux articles D. 8-1 et D. 8-2.
@@ -59609,16 +59627,15 @@ _Codifié par_:
 
   - Décret n°58-1304 1958-12-23
 
+_Modifié par_:
+
+  - Décret n°2003-796 du 25 août 2003 - art. 1 () JORF 27 août 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 12 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 13 (M)
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
-
-_Modifié par_:
-
-  - Décret n°96-694 du 6 août 1996 - art. 3 () JORF 9 août 1996
 
 _Cite_:
 
@@ -59839,8 +59856,7 @@ République territorialement compétent du résultat de ses opérations.
 
 4. Lorsque les investigations portent sur un fait ayant donné lieu à l'information prévue au dernier alinéa de l'article D.
 3, l'officier de police judiciaire bénéficiant de l'extension de compétence avise, selon les cas, les services relevant de la
-direction centrale de la police judiciaire ou de la direction centrale du contrôle de l'immigration et de la lutte contre
-l'emploi des clandestins.
+direction centrale de la police judiciaire ou de la direction centrale de la police aux frontières.
 
 **Liens relatifs à cet article**
 
@@ -59850,7 +59866,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°96-694 du 6 août 1996 - art. 5 () JORF 9 août 1996
+  - Décret n°2003-796 du 25 août 2003 - art. 1 () JORF 27 août 2003
 
 **Liens**:
 
