@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-10-14
+Version Consolidée au 1975-10-24
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -290,8 +290,8 @@ Version Consolidée au 1975-10-14
             - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#287)
             - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#288)
             - [Paragraphe 4 : Permissions de sortir (art. D143 à D147)](#289)
-          - [Section 4 : Du travail des détenus (art. D100 à D109)](#290)
-            - [Paragraphe 1er : Principes (art. D100)](#291)
+          - [Section 4 : Du travail des détenus (art. D99 à D109)](#290)
+            - [Paragraphe 1er : Principes (art. D99 à D100)](#291)
             - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#292)
           - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#293)
         - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D149 à D187)](#294)
@@ -368,7 +368,7 @@ Version Consolidée au 1975-10-14
             - [Paragraphe 2 : Aide aux indigents (art. D484)](#365)
         - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#366)
           - [Section 1 : Des condamnés de police (art. D488)](#367)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D496 à D504)](#368)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D491 à D504)](#368)
           - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#369)
           - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#370)
           - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#371)
@@ -24154,6 +24154,39 @@ _Modifié par_:
 
 ##### Paragraphe 1er : Principes<a id=291></a>
 
+###### Article D99
+
+De même que les prévenus, les condamnés de police, les condamnés bénéficiant du régime visé à l'article D493 et les détenus
+pour dettes peuvent demander qu'il leur soit donné du travail.
+
+Dans cette hypothèse, ils sont assujettis aux mêmes règles que les condamnés pour l'organisation et la discipline du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°75-972 1975-10-23 art. 3 JORF 24 octobre 1975
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D489 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D570 (M)
+  - CODE DE PROCEDURE PENALE - art. D62 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D493 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D100
 
 Les dispositions nécessaires doivent être prises pour qu'un travail productif et suffisant pour occuper la durée normale
@@ -29803,9 +29836,11 @@ _Cite_:
 
 ##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=368></a>
 
-###### Article D496
+###### Article D491
 
-[Article abrogé].
+L'admission au régime spécial des personnes qui satisfont à l'une des conditions visées à l'article D. 490 a lieu d'office
+sur l'indication que le ministère public près la juridiction saisie ou la juridiction de condamnation donne au chef de
+l'établissement d'incarcération.
 
 **Liens relatifs à cet article**
 
@@ -29816,15 +29851,103 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
   - Décret n°71-769 1971-09-16 art. 1 JORF 19 septembre 1971
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D490 (M)
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
-_Abrogé par_:
 
+###### Article D492
+
+Le bénéfice du régime spécial cesse d'être applicable aux détenus qui ne remplissent plus les conditions prévues à l'article
+D. 490.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
   - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D490 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D494
+
+Les détenus bénéficiaires du régime spécial, même dans les établissements pénitentiaires dont le régime ne comporte pas de
+telles particularités, et sauf instructions contraires du juge d'instruction en application des articles 116 et D. 56, ont la
+faculté d'être réunis aux heures de la journée fixées par le chef d'établissement et de recevoir, en présence d'un
+surveillant, des visites dans un parloir sans dispositif de séparation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D495 (M)
+
+_Cite_:
+
+  - Code de procédure pénale 116 et D56
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D495
+
+Tout détenu bénéficiaire du régime spécial est soumis aux mesures réglementaires prévues pour assurer l'ordre et la sécurité
+dans les établissements pénitentiaires. Il peut notamment faire l'objet des sanctions disciplinaires prévues au présent
+titre.
+
+En outre, tout ou partie des avantages visés à l'article D. 494, peut être retiré à titre temporaire ou définitif au détenu
+qui, par l'usage qu'il en fait, porte atteinte à l'ordre ou à la sécurité de l'établissement.
+
+Cette décision est prise, sur proposition du chef d'établissement, par le ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D494 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ###### Article D497
