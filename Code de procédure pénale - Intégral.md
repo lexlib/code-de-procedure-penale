@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1984-03-02
+Version Consolidée au 1984-04-10
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -25534,6 +25534,37 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+
+###### Article R40-2
+
+L'admission au bénéfice de l'aide judiciaire devant la commission peut être accordée dans les mêmes formes et conditions et
+avec les mêmes effets qu'en matière civile, soit par le bureau établi près la Cour de cassation, soit par le bureau établi
+près la juridiction qui a rendu la décision de non-lieu, de relaxe ou d'acquittement, selon que le demandeur aura demandé à
+être représenté ou assisté par un avocat au Conseil d'Etat et à la Cour de cassation ou par un avocat régulièrement inscrit à
+un barreau.
+
+La demande d'aide judiciaire est directement adressée au bureau compétent pour en connaître.
+
+Cette demande interrompt le délai prévu à l'article 149-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-358 1958-04-22
+
+_Créé par_:
+
+  - Décret n°78-50 1978-01-09 art. 1 JORF 9 janvier 1978
+
+_Modifié par_:
+
+  - Décret n°84-255 1984-04-09 art. 17 JORF 10 avril 1984
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 149-2 (M)
 
 
 ###### Article R40-3
