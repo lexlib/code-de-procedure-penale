@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1968-01-01
+Version Consolidée au 1968-06-09
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -330,13 +330,13 @@ Version Consolidée au 1968-01-01
           - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#327)
       - [Titre VI : De la contrainte par corps (art. D569)](#328)
   - [Partie Arrêtés (art. A1 à A57)](#329)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A38)](#330)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A38)](#331)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A38)](#332)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A38)](#333)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A35)](#330)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A35)](#331)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A35)](#332)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A35)](#333)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#334)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#335)
-            - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A26 à A38)](#336)
+            - [Paragraphe 3 : Désignation des officiers de police de la préfecture de police (art. A34 à A35)](#336)
     - [Livre V : Des procédures d'exécution (art. A40 à A53)](#337)
       - [Titre II : De la détention (art. A40)](#338)
         - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#339)
@@ -23891,148 +23891,6 @@ _Cité par_:
 
 ##### Paragraphe 3 : Désignation des officiers de police de la préfecture de police<a id=336></a>
 
-###### Article A26
-
-[*Article abrogé*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté 1960-09-24 art. 1 JORF 25 août 1960
-  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-
-###### Article A27
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
-  - Arrêté 1964-02-27 art. 1 JORF 19 mars 1964
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-
-###### Article A28
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A29
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A30
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A31
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A32
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-_Cité par_:
-
-  - Code de procédure pénale - art. A31 (T)
-
-
-###### Article A33
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
 ###### Article A34
 
 [Article abrogé].
@@ -24051,55 +23909,6 @@ _Abrogé par_:
 ###### Article A35
 
 [Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A36
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-
-###### Article A37
-
-[Article abrogé].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Abrogé par_:
-
-  - Arrêté 1968-05-27 art. 2 JORF 9 juin 1968
-
-_Cité par_:
-
-  - Code de procédure pénale - art. A37-29 (VD)
-
-
-###### Article A38
-
-[*Article abrogé*].
 
 **Liens relatifs à cet article**
 
