@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-03-21
+Version Consolidée au 1973-04-07
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -336,7 +336,7 @@ Version Consolidée au 1973-03-21
             - [Paragraphe 5 : Maternité (art. D399 à D400)](#333)
         - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D430)](#334)
           - [Section 1 : Des visites (art. D404 à D412)](#335)
-          - [Section 2 : De la correspondance (art. D413)](#336)
+          - [Section 2 : De la correspondance (art. D413 à D419)](#336)
           - [Section 3 : Du maintien des liens familiaux (art. D420 à D422)](#337)
           - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424-1)](#338)
           - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D430)](#339)
@@ -26656,6 +26656,39 @@ _Abrogé par_:
 _Cite_:
 
   - Code de procédure pénale - art. D65
+
+
+###### Article D419
+
+Les défenseurs correspondent, dans les conditions visées à l'article D. 69, avec les prévenus et avec les condamnés qu'ils
+ont assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement qu'ils ont
+personnellement apporté cette assistance.
+
+Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de
+justice peuvent être autorisés à correspondre avec les condamnés dans les conditions fixées aux articles D. 414 et D. 416.
+
+Pour les cas où ils désirent bénéficier dans leur correspondance des dispositions particulières prévues à l'article D. 69,
+ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence, selon laquelle le secret de la
+communication paraît justifié par la nature des intérêts en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D69 (V)
+  - Code de procédure pénale D69, D414 et D416
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Section 3 : Du maintien des liens familiaux<a id=337></a>
