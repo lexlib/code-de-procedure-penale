@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-29
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -32645,7 +32645,8 @@ Yvelines ;
 
 3° Cent jurés pour les cours d'assises du Calvados, de la Corse-du-Sud, de la Haute-Corse, du Finistère, du Gard, de la
 Haute-Garonne, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, de la Meuse, du
-Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, de la Somme, du Var, de Vaucluse et des Vosges ;.
+Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, de la Seine-Maritime, de la Somme, du Var, de Vaucluse et des
+Vosges ;
 
 4° Cinquante jurés pour les autres cours d'assises.
 
@@ -32657,7 +32658,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-485 du 13 juin 1990 - art. 1 () JORF 15 juin 1990
+  - Décret n°93-114 du 25 janvier 1993 - art. 1 () JORF 29 janvier 1993
 
 _Cite_:
 
