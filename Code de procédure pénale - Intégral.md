@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 880)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
