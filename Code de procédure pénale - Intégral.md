@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-03-22
+Version Consolidée au 2003-04-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -49518,9 +49518,8 @@ _Cite_:
 Les contraventions des quatre premières classes pour lesquelles l'action publique est éteinte par le paiement d'une amende
 forfaitaire sont les suivantes :
 
-1° Contraventions réprimées par le code de la route punies uniquement d'une peine d'amende, à l'exclusion de toute peine
-complémentaire, qu'elles entraînent ou non un retrait des points affectés au permis de conduire sous réserve des dispositions
-de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
+1° Contraventions réprimées par le code de la route qu'elles entraînent ou non un retrait des points affectés au permis de
+conduire sous réserve des dispositions de l'article R. 49-8-5 relatives à l'amende forfaitaire minorée ;
 
 2° Contraventions en matière de transport et de circulation réprimées par :
 
@@ -49648,9 +49647,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R10-11 (V)
   - Code des postes et des communications électronique - art. R11 (T)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-801 du 3 mai 2002 - art. 4 () JORF 5 mai 2002
+  - Décret n°2003-293 du 31 mars 2003 - art. 1 () JORF 1er avril 2003
 
 **Liens**:
 
