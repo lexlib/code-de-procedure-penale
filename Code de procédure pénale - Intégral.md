@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-03-20
+Version Consolidée au 2004-03-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -618,29 +618,31 @@ Version Consolidée au 2004-03-20
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#615)
             - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#616)
           - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-11)](#617)
-    - [Livre II : Des juridictions de jugement (art. A37 à A37-10)](#618)
-      - [Titre III : Du jugement des contraventions (art. A37 à A37-10)](#619)
-        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-10)](#620)
-    - [Livre IV (art. A38 à A38-1)](#621)
-      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#622)
-      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#623)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#624)
-      - [Titre II : De la détention (art. A39 à A43-1)](#625)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#626)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#627)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#628)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#629)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#630)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#631)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#632)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#633)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#634)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#635)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#636)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#637)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#638)
-        - [Disposition générale (art. A53)](#639)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#640)
+    - [Livre II : Des juridictions de jugement (art. A36-12 à A37-10)](#618)
+      - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#619)
+        - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#620)
+      - [Titre III : Du jugement des contraventions (art. A37 à A37-10)](#621)
+        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-10)](#622)
+    - [Livre IV (art. A38 à A38-1)](#623)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#624)
+      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#625)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#626)
+      - [Titre II : De la détention (art. A39 à A43-1)](#627)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#628)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#629)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#630)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#631)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#632)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#633)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#634)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#635)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#636)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#637)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#638)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#639)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#640)
+        - [Disposition générale (art. A53)](#641)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#642)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -85637,9 +85639,178 @@ _Cite_:
 
 ## Livre II : Des juridictions de jugement<a id=618></a>
 
-### Titre III : Du jugement des contraventions<a id=619></a>
+### Titre Ier : De la cour d'assises<a id=619></a>
 
-#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=620></a>
+#### Chapitre III : De la composition de la cour d'assises<a id=620></a>
+
+###### Article A36-12
+
+En application des dispositions du deuxième alinéa de l'article 260, le nombre des jurés figurant sur les listes annuelles
+établies dans le ressort des cours d'assises énumérées ci-dessous est fixé comme suit :
+
+DÉPARTEMENTS
+
+NOMBRE DE JURÉS figurant sur la liste annuelle
+
+Alpes-Maritimes
+
+1 000 
+
+Ardèche
+
+420 
+
+Bouches-du-Rhône
+
+2 000 
+
+Charente
+
+300 
+
+Côte-d'Or
+
+600 
+
+Dordogne
+
+400 
+
+Eure
+
+500 
+
+Guadeloupe
+
+450 
+
+Haute-Marne
+
+300 
+
+Haute-Savoie
+
+600 
+
+Ille-et-Vilaine
+
+900 
+
+Indre
+
+230 
+
+Mayenne
+
+300 
+
+Nièvre
+
+230 
+
+Paris
+
+2 300 
+
+Savoie
+
+390 
+
+Seine-Saint-Denis
+
+2 000 
+
+Val-de-Marne
+
+1 700 
+
+Var
+
+1 000 
+
+Yonne
+
+350 
+
+Les dispositions du présent article cessent d'être applicables si, en raison de l'évolution officiellement constatée du
+nombre des habitants du ressort de la cour d'assises, le nombre des jurés résultant des dispositions du premier alinéa de
+l'article 260 dépasse celui fixé ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 26 mai 2004 - art. 1 (V)
+  - Arrêté du 13 septembre 2006 - art. 1 (V)
+  - Arrêté du 28 juin 2010 - art. 1 (V)
+  - Arrêté du 21 octobre 2015 (V)
+  - Arrêté du 21 octobre 2015 - art. 1 (V)
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 2004-03-12 art. 1 JORF 25 mars 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 260 (M)
+
+
+###### Article A36-13
+
+La liste des jurés suppléants prévue par l'article 264 comprend :
+
+1° Sept cents jurés pour les cours d'assises de Paris et de la Seine-Saint-Denis ;
+
+2° Six cents jurés pour la cour d'assises du Val-de-Marne ;
+
+3° Quatre cent cinquante jurés pour les cours d'assises des Bouches-du-Rhône, de la Gironde, du Nord et des Yvelines ;
+
+4° Deux cent cinquante jurés pour les cours d'assises des Alpes-Maritimes, de la Corse-du-Sud, de la Haute-Corse, de
+l'Essonne, des Hauts-de-Seine, d'Ille-et-Vilaine, de la Loire-Atlantique, du Pas-de-Calais, du Rhône, de la Seine-Maritime,
+de Seine-et-Marne, du Val-d'Oise et du Var ;
+
+5° Deux cents jurés pour les cours d'assises de la Marne et de la Réunion ;
+
+6° Cent cinquante jurés pour les cours d'assises de l'Aisne, de l'Ardèche, du Calvados, de la Côte-d'Or, de l'Eure, du
+Finistère, du Gard, de la Guadeloupe, de la Haute-Garonne, de la Haute-Savoie, de l'Hérault, de l'Isère, de Maine-et-Loire,
+de Meurthe-et-Moselle, de la Meuse, de la Moselle, de l'Oise, des Pyrénées-Atlantiques, des Pyrénées-Orientales, du Bas-Rhin,
+du Haut-Rhin, de la Sarthe, de la Savoie, de la Somme, de Vaucluse, des Vosges et de l'Yonne ;
+
+7° Soixante-dix jurés pour la cour d'assises de la Polynésie française ;
+
+8° Cinquante jurés pour la cour d'assises de la Nouvelle-Calédonie ;
+
+9° Cent jurés pour les autres cours d'assises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1958-12-23
+
+_Créé par_:
+
+  - Arrêté 2004-03-12 art. 1 JORF 25 mars 2004
+
+_Cité par_:
+
+  - Arrêté du 26 mai 2004 - art. 1 (V)
+  - Arrêté du 13 septembre 2006 - art. 1 (V)
+  - Arrêté du 21 octobre 2015 (V)
+  - Arrêté du 21 octobre 2015 - art. 1 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 264 (M)
+
+
+### Titre III : Du jugement des contraventions<a id=621></a>
+
+#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=622></a>
 
 ###### Article A37
 
@@ -86022,9 +86193,9 @@ _Cité par_:
   - Code de procédure pénale - art. A37-14 (VD)
 
 
-## Livre IV<a id=621></a>
+## Livre IV<a id=623></a>
 
-### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=622></a>
+### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=624></a>
 
 ###### Article A38
 
@@ -86125,7 +86296,7 @@ _Créé par_:
   - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
 
 
-### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=623></a>
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=625></a>
 
 ###### Article A38-1
 
@@ -86156,13 +86327,13 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 706-71 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=624></a>
+## Livre V : Des procédures d'exécution<a id=626></a>
 
-### Titre II : De la détention<a id=625></a>
+### Titre II : De la détention<a id=627></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=626></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=628></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=627></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=629></a>
 
 ###### Article A39
 
@@ -86405,9 +86576,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D72-1 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=628></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=630></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=629></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=631></a>
 
 ###### Article A40
 
@@ -86568,11 +86739,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=630></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=632></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=631></a>
+##### Section 1 : De la gestion des biens des détenus<a id=633></a>
 
-##### Paragraphe 1er : Pécule.<a id=632></a>
+##### Paragraphe 1er : Pécule.<a id=634></a>
 
 ###### Article A41
 
@@ -86711,9 +86882,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=633></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=635></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=634></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=636></a>
 
 ###### Article A43
 
@@ -86772,9 +86943,9 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=635></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=637></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=636></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=638></a>
 
 ###### Article A44
 
@@ -87240,9 +87411,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=637></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=639></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=638></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=640></a>
 
 ###### Article A45
 
@@ -87317,7 +87488,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=639></a>
+#### Disposition générale<a id=641></a>
 
 ###### Article A53
 
@@ -87335,7 +87506,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=640></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=642></a>
 
 ###### Article A54
 
