@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-04-28
+Version Consolidée au 2004-04-30
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -84351,28 +84351,25 @@ _Modifié par_:
 
 ###### Article A13
 
-Pour l'application de l'article R. 10 du code de procédure pénale et aux fins de constater l'aptitude à la fonction
-d'officier de police judiciaire des élèves lieutenants de police, il est inclus dans la scolarité de l'Ecole nationale
-supérieure des officiers de police un examen, sous forme d'un contrôle continu des connaissances, comportant le groupe
-d'épreuves suivant :
+Pour l'application de l'article R. 10 du code de procédure pénale et aux fins de constater l'aptitude à la qualité d'officier
+de police judiciaire des élèves lieutenants de police, il est prévu dans la scolarité de l'Ecole nationale supérieure des
+officiers de police un examen, comportant le groupe d'épreuves suivant : 
 
-1° Deux épreuves écrites de caractère pratique, en droit pénal général et droit pénal spécial ;
+1° Une épreuve écrite de caractère pratique, en droit pénal général et droit pénal spécial (durée : quatre heures) ; 
 
-2° Deux épreuves écrites de caractère pratique, en procédure pénale et police judiciaire ;
+2° Une épreuve écrite de caractère pratique, en procédure pénale et police judiciaire (durée : quatre heures) ; 
 
-3° Une épreuve orale en libertés publiques et procédure pénale.
+3° Une épreuve orale en libertés publiques et procédure pénale. 
 
-Ces épreuves sont notées de 0 à 20. Toute moyenne des notes obtenues aux épreuves visées au 1° ou aux épreuves visées au 2°
-égale ou inférieure à 5 est éliminatoire.
+Ces épreuves sont noter de 0 à 20. Toute note égale ou inférieure à 5 obtenue à l'une de ces épreuves est éliminatoire. 
 
-Ces épreuves sont affectées d'un coefficient 4 pour chacune des épreuves écrites prévues aux 1° et 2°, 8 pour l'épreuve orale
-prévue au 3°.
+Ces épreuves sont affectées d'un coefficient 4 pour chaque épreuve écrite et d'un coefficient 8 pour l'épreuve orale. 
 
-Nul ne pourra être considéré comme ayant satisfait à ce groupe d'épreuves s'il n'a obtenu au moins 240 points.
+Nul ne pourra être considéré comme ayant satisfait à ce groupe d'épreuves s'il ne totalise au moins 160 points. 
 
-Dans l'hypothèse où l'élève lieutenant de police a été éliminé ou n'a pas obtenu 240 points, il est admis à se présenter à
+Dans l'hypothèse où l'élève lieutenant de police a été éliminé ou n'a pas obtenu 160 points, il est admis à se présenter à
 une session spéciale de rattrapage comportant une épreuve orale. Cette épreuve, notée de 0 à 20, porte sur les matières
-visées aux 1°, 2° et 3° pour la ou lesquelles l'élève n'a pas obtenu une note moyenne égale ou supérieure à 10.
+visées aux 1°, 2° et 3° pour la ou lesquelles l'élève n'a pas obtenu une note moyenne égale ou supérieure à 10. 
 
 Nul ne pourra être considéré comme ayant satisfait à l'examen s'il n'a obtenu à cette session une note égale ou supérieure à
 10 sur 20.
@@ -84383,13 +84380,13 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
 _Modifié par_:
 
-  - Arrêté 1995-10-16 art. 1 JORF 27 octobre 1995
+  - Arrêté du 9 avril 2004 - art. 2
+
+_Abrogé par_:
+
+  - Arrêté du 30 avril 2008 - art. 1
 
 _Cité par_:
 
@@ -84397,7 +84394,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R10 (M)
+  - CODE DE PROCEDURE PENALE - art. R10 (V)
 
 
 ###### Article A14
@@ -84582,7 +84579,7 @@ _Abrogé par_:
 ###### Article A15
 
 Les sujets des épreuves écrites sont choisis par le président du jury prévu par l'article R. 11 du code de procédure pénale,
-sur proposition du directeur de l'administration de la police nationale.
+sur proposition du directeur de la formation de la police nationale.
 
 **Liens relatifs à cet article**
 
@@ -84590,19 +84587,19 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-_Modifié par_:
-
-  - Arrêté 1995-10-16 art. 1 JORF 27 octobre 1995
-
 _Cité par_:
 
   - Arrêté du 16 octobre 1995 - art. 4 (V)
   - CODE DE PROCEDURE PENALE - art. A24 (Ab)
   - Code de procédure pénale - art. A21 (V)
+
+_Modifié par_:
+
+  - Arrêté du 9 avril 2004 - art. 3
+
+_Abrogé par_:
+
+  - Arrêté du 30 avril 2008 - art. 1
 
 _Cite_:
 
@@ -84612,7 +84609,7 @@ _Cite_:
 ###### Article A16
 
 Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'Ecole nationale supérieure des
-officiers de police sont assurés par la direction de l'administration de la police nationale.
+officiers de police sont assurés par la direction de la formation de la police nationale.
 
 **Liens relatifs à cet article**
 
@@ -84620,13 +84617,13 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
 _Modifié par_:
 
-  - Arrêté 1995-10-16 art. 1 JORF 27 octobre 1995
+  - Arrêté du 9 avril 2004 - art. 4
+
+_Abrogé par_:
+
+  - Arrêté du 30 avril 2008 - art. 1
 
 
 ###### Article A17
@@ -84764,9 +84761,7 @@ _Cite_:
 ###### Article A21
 
 A l'issue des épreuves, le jury établit la liste des candidats reconnus aptes à la qualité d'officier de police judiciaire.
-Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus. Elle est
-remise au secrétariat du jury en vue de la prise en compte des points dans le classement des élèves à l'examen de fin de
-scolarité de l'école.
+Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
 
 **Liens relatifs à cet article**
 
@@ -84774,13 +84769,13 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
 _Modifié par_:
 
-  - Arrêté 1995-10-16 art. 1 JORF 27 octobre 1995
+  - Arrêté du 9 avril 2004 - art. 5
+
+_Abrogé par_:
+
+  - Arrêté du 30 avril 2008 - art. 1
 
 _Cité par_:
 
