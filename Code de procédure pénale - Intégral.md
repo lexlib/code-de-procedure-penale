@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1974-07-07
+Version Consolidée au 1974-07-19
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -14405,6 +14405,97 @@ _Cité par_:
 _Abrogé par_:
 
   - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+
+###### Article 682
+
+La chambre d'accusation saisie commet un de ses membres qui prescrit tous actes d'instruction nécessaires dans les formes et
+conditions prévues par le chapitre Ier du titre III du livre Ier. Ce magistrat a compétence même en dehors des limites
+prévues par l'article 93.
+
+Il peut requérir par commission rogatoire tout juge, tout officier de police judiciaire ou tout juge d'instruction dans les
+conditions prévues par les articles 151 à 155.
+
+Les décisions de caractère juridictionnel, notamment celles relatives à la mise ou au maintien en détention ou à la mise en
+liberté de l'inculpé ainsi que celles qui terminent l'information sont rendues par la chambre d'accusation après
+communication du dossier au procureur général.
+
+Sur réquisitions du procureur général, le président de cette chambre peut, avant sa réunion, décerner mandat contre
+l'inculpé. Dans les cinq jours qui suivent l'arrestation de l'inculpé, la chambre décide s'il y a lieu ou non de le maintenir
+en détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960
+  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
+
+_Abrogé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 93 (M)
+  - Code de procédure pénale 93, 151 à 155
+
+
+###### Article 683
+
+Lorsque l'instruction est terminée, la chambre d'accusation peut :
+
+Soit dire qu'il n'y a lieu à suivre ;
+
+Soit, si l'infraction retenue à la charge de l'inculpé constitue un délit, le renvoyer devant une juridiction correctionnelle
+du premier degré autre que celle dans le ressort de laquelle l'inculpé exerçait ses fonctions ;
+
+Soit, si l'infraction retenue à la charge de l'inculpé constitue un crime, le renvoyer devant une cour d'assises, autre que
+celle dans le ressort de laquelle l'accusé exerçait ses fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
+
+_Abrogé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+
+###### Article 684
+
+Les arrêts de la chambre d'accusation sont susceptibles de pourvoi dans les conditions déterminées par le titre Ier du livre
+III. Toutefois, par dérogation à l'article 574, l'arrêt de la chambre d'accusation portant renvoi de l'inculpé devant le
+tribunal correctionnel peut, dans tous les cas, faire l'objet d'un pourvoi en cassation. L'arrêt de renvoi devenu définitif
+couvre, s'il en existe, les vices de la procédure antérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
+
+_Abrogé par_:
+
+  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V) JORF 5 janvier 1993
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 574 (M)
 
 
 ###### Article 688
