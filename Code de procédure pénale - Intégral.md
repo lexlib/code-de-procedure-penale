@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1959-02-25
 ## Contenu: 
   - [Partie législative (art. 1 à 223)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 1958-12-24
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. R40-4)](#44)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. R40-4)](#45)
             - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R40-4)](#46)
-  - [Partie réglementaire - Décrets simples (art. D2 à D18)](#47)
+  - [Partie réglementaire - Décrets simples (art. D2 à D88)](#47)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D2 à D18)](#48)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D2)](#49)
         - [Chapitre Ier : De la police judiciaire (art. D2)](#50)
@@ -56,13 +56,22 @@ Version Consolidée au 1958-12-24
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. D18)](#53)
           - [Section 1 : Dispositions générales (art. D18)](#54)
             - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D18)](#55)
-  - [Partie Arrêtés (art. A4 à A11)](#56)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A4 à A11)](#57)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A4 à A11)](#58)
-        - [Chapitre Ier : De la police judiciaire (art. A4 à A11)](#59)
-          - [Section 2 : Des officiers de police judiciaire (art. A4 à A11)](#60)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A4 à A10)](#61)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#62)
+    - [Livre V : Des procédures d'exécution (art. D64 à D88)](#56)
+      - [Titre II : De la détention (art. D64 à D88)](#57)
+        - [Chapitre Ier : De l'exécution de la détention provisoire (art. D64 à D65)](#58)
+          - [Section 3 : Du régime de la détention provisoire (art. D64 à D65)](#59)
+            - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#60)
+        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D88)](#61)
+          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D88)](#62)
+            - [Paragraphe 1er : Maisons d'arrêt (art. D88)](#63)
+              - [B : Etablissements en commun (art. D88)](#64)
+  - [Partie Arrêtés (art. A4 à A11)](#65)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A4 à A11)](#66)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A4 à A11)](#67)
+        - [Chapitre Ier : De la police judiciaire (art. A4 à A11)](#68)
+          - [Section 2 : Des officiers de police judiciaire (art. A4 à A11)](#69)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A4 à A10)](#70)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#71)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -2878,17 +2887,117 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D16 (M)
 
 
-# Partie Arrêtés<a id=56></a>
+## Livre V : Des procédures d'exécution<a id=56></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=57></a>
+### Titre II : De la détention<a id=57></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=58></a>
+#### Chapitre Ier : De l'exécution de la détention provisoire<a id=58></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=59></a>
+##### Section 3 : Du régime de la détention provisoire<a id=59></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=60></a>
+##### Paragraphe 3 : Visites et correspondance<a id=60></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=61></a>
+###### Article D64
+
+Les permis de visite sont délivrés pour les prévenus par le magistrat saisi du dossier de l'information et ils sont utilisés
+dans les conditions visées aux articles D403 et suivants.
+
+Sauf disposition contraire, ces permis sont valables jusqu'au moment où la condamnation éventuelle acquiert un caractère
+définitif. En conséquence, il n'y a pas lieu à renouvellement du permis lorsque le magistrat qui l'a accordé est dessaisi du
+dossier de la procédure, mais l'autorité judiciaire ultérieurement saisie est compétente pour en supprimer les effets ou pour
+délivrer de nouveaux permis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Cité par_:
+
+  - Arrêté du 4 octobre 2010 - art. 4 (V)
+  - CODE DE PROCEDURE PENALE - art. D186 (V)
+  - CODE DE PROCEDURE PENALE - art. D403 (V)
+
+
+###### Article D65
+
+Les prévenus peuvent écrire tous les jours et sans limitation à toute personne de leur choix et recevoir des lettres de toute
+personne, sous réserve de dispositions contraires ordonnées par le magistrat saisi du dossier de l'information.
+
+Indépendamment des mesures de contrôle auxquelles elle est soumise conformément aux articles D415 et D416, leur
+correspondance est communiquée audit magistrat dans les conditions que celui-ci détermine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 46
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D32-1 (M)
+  - Code de procédure pénale - art. D413 (Ab)
+
+_Cite_:
+
+  - Code de procédure pénale
+
+
+#### Chapitre II : De l'exécution des peines privatives de liberté<a id=61></a>
+
+##### Section 3 : Du régime auquel les condamnés sont soumis<a id=62></a>
+
+##### Paragraphe 1er : Maisons d'arrêt<a id=63></a>
+
+##### B : Etablissements en commun<a id=64></a>
+
+###### Article D88
+
+Dans les maisons d'arrêt dont les locaux, en tout ou en partie, ne permettent que l'incarcération en commun, et où les
+détenus sont par suite nécessairement réunis, toutes les précautions utiles doivent être prises pour éviter que leur
+promiscuité entraîne des conséquences fâcheuses.
+
+Au surplus, dans la mesure du possible, il convient d'assurer l'emprisonnement individuel de certains détenus et, pour les
+autres, de les séparer par catégories.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+# Partie Arrêtés<a id=65></a>
+
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=66></a>
+
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=67></a>
+
+#### Chapitre Ier : De la police judiciaire<a id=68></a>
+
+##### Section 2 : Des officiers de police judiciaire<a id=69></a>
+
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=70></a>
 
 ###### Article A4
 
@@ -3040,7 +3149,7 @@ _Cite_:
   - Code de procédure pénale - art. A11 (V)
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=62></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=71></a>
 
 ###### Article A2
 
