@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1978-03-09
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -30227,6 +30227,32 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°75-128 1975-03-07 art. 1 et art. 3 JORF 9 mars 1975
+
+
+###### Article D331
+
+Les détenus peuvent verser sur leur livret de caisse d'épargne des sommes prélevées sur leur part disponible.
+
+Les opérations éventuelles de retrait sont subordonnées, pendant la détention, à l'accord du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°71-274 1971-04-15 art. 2 JORF 16 avril 1971
+  - Décret n°75-128 1978-03-07 art. 1 et art. 3 JORF 9 mars 1978
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
 ###### Article D332
