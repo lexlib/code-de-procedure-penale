@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-01-26
+Version Consolidée au 1985-07-12
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -23249,6 +23249,30 @@ _Cité par_:
 _Cite_:
 
   - Code de procédure pénale - art. 769 (V)
+
+
+###### Article 773
+
+Le casier judiciaire national automatisé communique à l'Institut national de la statistique et des études économiques
+l'identité des personnes qui ont fait l'objet d'une décision entraînant la privation de leurs droits électoraux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°80-2 1980-01-04 art. 3 JORF 5 janvier 1980
+  - Loi n°85-669 1985-07-11 art. 10-I JORF 12 juillet 1985
+
+_Cité par_:
+
+  - Loi n°80-2 du 4 janvier 1980  - art. 10 (V)
+  - Loi n°80-2 du 4 janvier 1980  - art. 3 (V)
+  - Loi n°83-520 du 27 juin 1983 - art. 64 (V)
+  - CODE DE PROCEDURE PENALE - art. 876 (V)
 
 
 ###### Article 773-1
