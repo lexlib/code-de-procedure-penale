@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1974-04-14
+Version Consolidée au 1974-05-28
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -179,16 +179,16 @@ Version Consolidée au 1974-04-14
           - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R55)](#176)
           - [Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement (art. R59)](#177)
           - [Section 5 : Dispositions diverses (art. R61)](#178)
-      - [Titre VIII : Du casier judiciaire (art. R72 à R86)](#179)
+      - [Titre VIII : Du casier judiciaire (art. R72 à R90)](#179)
         - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R72)](#180)
         - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74)](#181)
-        - [Chapitre VII : Dispositions diverses (art. R85 à R86)](#182)
+        - [Chapitre VII : Dispositions diverses (art. R85 à R90)](#182)
       - [Titre X : Des frais de justice (art. R94 à R248)](#183)
         - [Chapitre II : Tarif des frais (art. R94 à R213-2)](#184)
           - [Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction (art. R94 à R104)](#185)
-          - [Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité (art. R106 à R114)](#186)
-            - [Paragraphe 1er : Des experts. (art. R106 à R114)](#187)
-              - [A : Règles générales (art. R106 à R114)](#188)
+          - [Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité (art. R106 à R115)](#186)
+            - [Paragraphe 1er : Des experts. (art. R106 à R115)](#187)
+              - [A : Règles générales (art. R106 à R115)](#188)
           - [Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés (art. R123 à R145)](#189)
             - [Paragraphe 1er : Des témoins (art. R123 à R138)](#190)
               - [A : Règles générales (art. R123 à R128)](#191)
@@ -18071,6 +18071,40 @@ _Créé par_:
   - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
 
 
+###### Article R90
+
+Les fiches du casier judiciaire, les copies de ces fiches destinées à l'échange international ou au recrutement de l'armée
+ainsi que les bulletins n° 1, n° 2 et n° 3 et les déclarations de perte de pièces d'identité prévues au premier alinéa de
+l'article précédent sont établis conformément aux modèles fixés par le garde des sceaux, ministre de la justice. 
+
+Les copies de fiches destinées à la vérification de la capacité électorale sont établies selon un modèle fixé par l'Institut
+national de la statistique et des études économiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°74-560 1974-05-24 art. 2 JORF 28 mai 1974
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 779 (M)
+  - TXT_SOURCE: Code de procédure pénale 776 (3°), 779
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D49-31 (V)
+  - Code de procédure pénale - art. R309 (V)
+
+
 ### Titre X : Des frais de justice<a id=183></a>
 
 #### Chapitre II : Tarif des frais<a id=184></a>
@@ -18647,6 +18681,33 @@ _Créé par_:
 
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+
+###### Article R115
+
+Les magistrats commettants peuvent autoriser les experts à percevoir au cours de la procédure des acomptes provisionnels soit
+lorsqu'ils ont fait des travaux d'ine importance exceptionnelle, soit lorsqu'ils ont été dans la nécessité de faire des
+transports coûteux ou des avances personnelles.
+
+Toutefois, le montant total des acomptes ne pourra pas dépasser le tiers du montant des frais et honoraires prévu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+
+_Modifié par_:
+
+  - Décret n°74-88 1974-05-24 art. 1 JORF 28 mai 1974
 
 
 ##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés<a id=189></a>
