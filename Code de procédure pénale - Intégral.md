@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-05-02
+Version Consolidée au 2002-05-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -311,11 +311,11 @@ Version Consolidée au 2002-05-02
       - [Titre XIII : De la poursuite, de l'instruction et du jugement des infractions en matière économique et financière (art. R50 bis à R50 ter)](#308)
       - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. R50-1 à R50-28)](#309)
       - [Titre XV : Diligences incombant au ministère public pour l'application de l'article 706-37 (art. R51 à R51-1)](#310)
-      - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes (art. R53 à R53-21)](#311)
-        - [Chapitre Ier : De l'administrateur ad hoc (art. R53 à R53-8)](#312)
-          - [Section 1 : De la liste des administrateurs ad hoc (art. R53 à R53-58)](#313)
+      - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes (art. R53 à R53-8)](#311)
+        - [Chapitre unique : De l'administrateur ad hoc (art. R53 à R53-8)](#312)
+          - [Section 1 : De la liste des administrateurs ad hoc (art. R53 à R53-5)](#313)
           - [Section 2 : De la désignation d'un administrateur ad hoc (art. R53-6 à R53-8)](#314)
-        - [Chapitre II : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques (art. R53-9 à R53-21)](#315)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques (art. R53-9 à R53-21)](#315)
     - [Livre V : Des procédures d'exécution. (art. R57-1 à R249-8)](#316)
       - [Titre Ier : De l'application des peines. (art. R57-1 à R57-4)](#317)
       - [Titre II : Des conditions de détention. (art. R57-5 à R57-9)](#318)
@@ -49910,7 +49910,7 @@ _Cité par_:
 
 ### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes<a id=311></a>
 
-#### Chapitre Ier : De l'administrateur ad hoc<a id=312></a>
+#### Chapitre unique : De l'administrateur ad hoc<a id=312></a>
 
 ##### Section 1 : De la liste des administrateurs ad hoc<a id=313></a>
 
@@ -49930,7 +49930,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -49973,9 +49973,9 @@ _Cite_:
 
   - Loi n°85-98 1985-01-25
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -49999,9 +49999,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50033,9 +50033,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -50055,9 +50055,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50066,7 +50066,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R53-8 (M)
 
 
-###### Article R53-58
+###### Article R53-5
 
 La radiation d'un administrateur ad hoc peut être prononcée chaque année par l'assemblée générale de la cour d'appel, soit à
 la demande de l'intéressé, soit à l'initiative du premier président ou du procureur général, après que l'intéressé ait été
@@ -50084,9 +50084,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50110,9 +50110,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50142,13 +50142,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Modifié par_:
-
-  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°2001-709 du 31 juillet 2001 - art. 6 (V)
+
+_Modifié par_:
+
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50167,9 +50167,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°99-818 du 16 septembre 1999 - art. 2 () JORF 19 septembre 1999
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50183,7 +50183,7 @@ _Cité par_:
   - Code de procédure pénale - art. R53-4 (V)
 
 
-#### Chapitre II : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques<a id=315></a>
+### Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques<a id=315></a>
 
 ###### Article R53-9
 
@@ -50198,9 +50198,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50217,22 +50217,18 @@ Font l'objet d'un enregistrement au fichier :
 
 1° Les résultats des analyses d'identification par empreintes génétiques des traces de matériel biologique issu de personnes
 inconnues, recueillies dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit flagrant, ou d'une
-instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-47 ;
+instruction préparatoire concernant l'une des infractions mentionnées à l'article 706-55 ;
 
 2° Avec l'autorisation, selon le cas, du procureur de la République ou du procureur général, les résultats des analyses
 d'identification par empreintes génétiques des échantillons de matériel biologique prélevés dans le cadre d'une enquête
 préliminaire, d'une enquête pour crime ou délit flagrant, d'une instruction préparatoire ou de la procédure prévue à
-l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-47.
+l'article R. 53-21 sur une personne définitivement condamnée pour l'une des infractions mentionnées à l'article 706-55.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
 
 _Cité par_:
 
@@ -50245,9 +50241,13 @@ _Cité par_:
   - Code de procédure pénale - art. R53-14-2 (V)
   - Code de procédure pénale - art. R53-20 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
   - CODE DE PROCEDURE PENALE - art. R53-21 (M)
 
 
@@ -50273,9 +50273,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50310,9 +50310,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50344,9 +50344,9 @@ _Cite_:
 
   - Décret n°97-109 du 6 février 1997 - art. 1 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -50366,9 +50366,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cite_:
 
@@ -50393,11 +50393,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-17 1978-01-06 art. 34
+  - Loi n°78-17 du 6 janvier 1978 - art. 34 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 
 ###### Article R53-16
@@ -50412,9 +50412,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -50425,13 +50425,13 @@ _Cité par_:
 ###### Article R53-17
 
 Le magistrat mentionné à l'article R. 53-16 et, à sa demande, les membres du comité prévu au même article disposent d'un
-accès permanent au fichier et au lieu où se trouve celui-ci.
+accès permanent au fichier et au lieu où se trouve celui-ci. 
 
 L'autorité gestionnaire du fichier lui adresse un rapport annuel d'activité ainsi que, sur sa demande, toutes informations
-relatives au fichier.
+relatives au fichier. 
 
 Ce magistrat peut ordonner toutes mesures nécessaires à l'exercice de son contrôle, telles que saisies ou copies
-d'informations, ainsi que l'effacement d'enregistrements illicites.
+d'informations, ainsi que l'effacement d'enregistrements illicites. 
 
 Les pouvoirs qui lui sont confiés s'exercent sans préjudice du contrôle exercé par la Commission nationale de l'informatique
 et des libertés en application des dispositions et selon les modalités prévues par l'article 21 de la loi n° 78-17 du 6
@@ -50445,12 +50445,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 21 (M)
-  - CODE DE PROCEDURE PENALE - art. R53-16 (M)
+  - Loi n°78-17 du 6 janvier 1978 - art. 21 (V)
+  - Code de procédure pénale - art. R53-16 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 
 ###### Article R53-18
@@ -50470,9 +50470,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -50492,9 +50492,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
 
 _Cité par_:
 
@@ -50505,7 +50505,7 @@ _Cité par_:
 
 Sur décision du procureur de la République ou, en cours d'information, du juge d'instruction, les scellés contenant des
 échantillons de matériel biologique saisis dans le cadre d'une enquête préliminaire, d'une enquête pour crime ou délit
-flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-47 et ayant fait
+flagrant, ou d'une instruction préparatoire suivie pour l'une des infractions mentionnées à l'article 706-55 et ayant fait
 l'objet d'un conditionnement normalisé, sont conservés, jusqu'à l'expiration des délais prévus par l'article R. 53-14, par le
 service central de préservation des prélèvements biologiques de l'institut de recherche criminelle de la gendarmerie
 nationale.
@@ -50530,14 +50530,10 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°78-17 1978-01-06
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
   - CODE DE PROCEDURE PENALE - art. R53-14 (M)
   - CODE DE PROCEDURE PENALE - art. R53-16 (M)
   - CODE DE PROCEDURE PENALE - art. R53-9 (M)
-
-_Créé par_:
-
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
 
 _Cité par_:
 
@@ -50545,11 +50541,15 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R53-21 (M)
   - Code de procédure pénale - art. R53-19 (V)
 
+_Modifié par_:
+
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+
 
 ###### Article R53-21
 
 Lorsqu'elle n'a pas été réalisée au cours de la procédure d'enquête, d'instruction ou de jugement, l'analyse d'identification
-par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-47 est
+par empreintes génétiques d'une personne définitivement condamnée pour l'une des infractions énumérées à l'article 706-55 est
 ordonnée par le procureur de la République. Cette analyse est effectuée par un expert habilité conformément aux dispositions
 de l'article 16-12 du code civil.
 
@@ -50568,14 +50568,15 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2000-413 du 18 mai 2000 - art. 1 () JORF 19 mai 2000
+  - Décret n°2002-697 du 30 avril 2002 - art. 1 () JORF 3 mai 2002
+  - Décret n°2002-697 du 30 avril 2002 - art. 2 () JORF 3 mai 2002
 
 _Cite_:
 
   - Code civil - art. 16-12 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
   - CODE DE PROCEDURE PENALE - art. R53-20 (M)
 
 _Cité par_:
