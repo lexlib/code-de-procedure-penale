@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-01-16
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -423,8 +423,8 @@ Version Consolidée au 1985-01-04
           - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#420)
           - [Section 4 : Des détenus appartenant aux forces armées (art. D508 à D513)](#421)
           - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#422)
-      - [Titre III : De la libération conditionnelle (art. D525 à D544-4)](#423)
-        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#424)
+      - [Titre III : De la libération conditionnelle (art. D520 à D544-4)](#423)
+        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D520 à D525)](#424)
         - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#425)
         - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#426)
           - [Section 2 : Des conditions particulières (art. D535 à D537)](#427)
@@ -44653,6 +44653,179 @@ _Cite_:
 ### Titre III : De la libération conditionnelle<a id=423></a>
 
 #### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=424></a>
+
+###### Article D520
+
+Le comité consultatif de libération conditionnelle est composé ainsi qu'il suit :
+
+1° Un magistrat hors hiérarchie de l'ordre judiciaire, en activité ou honoraire, président ;
+
+2° Un magistrat hors hiérarchie de l'ordre judiciaire, en activité ou honoraire, vice-président ;
+
+3° Un inspecteur général de l'administration au ministère de l'intérieur et de la décentralisation, titulaire ou suppléant.
+
+4° Le magistrat au ministère de la justice, chef du bureau des grâces et de l'application des peines à la direction des
+affaires criminelles et des grâces, ou le magistrat le suppléant ;
+
+5° Le magistrat au ministère de la justice désigné par le directeur de l'administration pénitentiaire parmi les membres de sa
+direction ;
+
+6° Le chef du bureau chargé, au ministère de l'intérieur et de la décentralisation, des questions pénales et de
+l'interdiction de séjour, ou le fonctionnaire le suppléant ;
+
+7° Un représentant du ministre chargé de la défense ayant voix délibérative pour les seules affaires concernant les
+militaires condamnés par une des juridictions mentionnées à l'article 697 ou une juridiction des forces armées ;
+
+8° Un juge de l'application des peines, titulaire ou suppléant ;
+
+9° Un fonctionnaire ou ancien fonctionnaire du corps des personnels de direction des services extérieurs de l'administration
+pénitentiaire, titulaire ou suppléant ;
+
+10° Un membre du barreau, en activité ou honoraire, titulaire ou suppléant ;
+
+11° Une personne exerçant des responsabilités dans un organisme ou une association de réinsertion sociale des condamnés,
+titulaire ou suppléante ;
+
+12° Une personne s'étant signalée par l'intérêt qu'elle porte aux problèmes des victimes, titulaire ou suppléante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-49 1985-01-15 art. 1 JORF 16 janvier 1985
+  - Décret n°65-129 1965-02-19 art. 2 JORF 24 février 1965
+
+_Cité par_:
+
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+  - CODE DE PROCEDURE PENALE - art. D523 (M)
+  - Code de procédure pénale - art. D601 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D521
+
+Les services du ministère de la justice sont chargés de l'instruction du dossier ; à cette fin, ils peuvent procéder ou faire
+procéder à tous examens, auditions, enquêtes ou autres mesures utiles. Le comité ou son président peuvent effectuer ou
+prescrire toutes investigations complémentaires.
+
+Un rapport sur les propositions de libération conditionnelle est présenté au comité consultatif par l'un des magistrats qui
+le composent ou, sur délégation de celui-ci, par un magistrat ou un fonctionnaire du ministère de la justice. A moins qu'il
+ne soit membre titulaire ou suppléant du comité, le rapporteur a voix consultative seulement pour les affaires qu'il
+rapporte.
+
+Le comité prend connaissance des observations écrites présentées, le cas échéant, par le condamné ou son avocat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-49 1985-01-15 art. 2 JORF 16 janvier 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D522
+
+Un magistrat ou un fonctionnaire de la direction des affaires criminelles et des grâces au ministère de la justice remplit
+les fonctions de secrétaire.
+
+Il est chargé de la rédaction du procès-verbal de chaque séance qui mentionne les noms et qualités des membres présents ainsi
+que les avis émis par le comité en ce qui concerne chaque proposition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-49 1985-01-15 art. 3 JORF 16 janvier 1985
+  - Décret n°65-129 1965-02-19 art. 3 JORF 24 février 1965
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D523
+
+Le président, le vice-président, ainsi que les membres visés aux 8° à 12° de l'article D. 520 et leurs suppléants, sont
+nommés par arrêté du garde des sceaux, ministre de la justice, pour une période de trois ans renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-49 1985-01-15 art. 4 JORF 16 janvier 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D520 (M)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D526 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D524
+
+La date des réunions et délibérations du comité est fixée par le directeur des affaires criminelles et des grâces.
+
+En l'absence du président, les séances sont dirigées par le vice-président.
+
+Au cas d'absence simultanée du président et du vice-président, le président de séance est désigné par ses collègues.
+
+Le comité ne peut valablement statuer que lorsque les membres présents ayant voix délibérative sont au nombre de quatre au
+moins.
+
+En cas de partage, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°85-49 1985-01-15 art. 5-I et art. 5-II JORF 16 janvier 1985
+  - Décret n°65-129 1965-02-19 art. 4 JORF 24 février 1965
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D528-1 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
 
 ###### Article D525
 
