@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-01-03
+Version Consolidée au 2004-01-10
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -362,7 +362,7 @@ Version Consolidée au 2004-01-03
                 - [e) Radiodiagnostic (art. R120)](#359)
                 - [f) Expertise mécanique (art. R120-1)](#360)
                 - [g) Psychologie légale (art. R120-2)](#361)
-            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire ainsi que des médiateurs et des délégués du procureur de la République (art. R121 à R121-2)](#362)
+            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire ainsi que des médiateurs et des délégués du procureur de la République (art. R121 à R121-3)](#362)
             - [Paragraphe 3 : Des interprètes traducteurs (art. R122)](#363)
           - [Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés (art. R123 à R146)](#364)
             - [Paragraphe 1er : Des témoins (art. R123 à R138)](#365)
@@ -47614,6 +47614,9 @@ saisi de la demande, statue sur l'habilitation à la majorité de ses membres pr
 La commission restreinte de l'assemblée générale des magistrats du siège et du parquet, dans les juridictions où sa
 constitution est obligatoire, exerce les attributions mentionnées à l'alinéa précédent.
 
+La personne morale habilitée passe, avec le premier président et le procureur général de la cour d'appel dans le ressort de
+laquelle est situé son siège, une convention déterminant ses conditions d'intervention.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -47624,9 +47627,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°83-1164 1983-12-23 art. 4
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-661 du 9 mai 1995 - art. 1 () JORF 10 mai 1995
+  - Décret n°2004-32 du 9 janvier 2004 - art. 2 () JORF 10 janvier 2004
 
 _Cité par_:
 
@@ -56586,17 +56589,13 @@ _Cité par_:
 ###### Article R121
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
-fonctionnaires du groupe II, il est alloué aux personnes habilitées :
+fonctionnaires du groupe II, il est alloué aux personnes physiques habilitées :
 
 1° Pour la vérification de la situation matérielle, familiale ou sociale des personnes faisant l'objet d'une enquête prévue
 par les articles 41 (alinéa 6) et 81 (alinéa 7) : 38,87 euros ;
 
 2° Pour l'enquête sur la personnalité des personnes mises en examen ainsi que sur leur situation matérielle, familiale ou
 sociale, prévue par l'article 81 (alinéa 6) : 73,18 euros.
-
-Lorsque la personne habilitée est une association qui a passé une convention avec le premier président et le procureur
-général de la cour d'appel dans le ressort de laquelle est situé son siège, l'indemnité prévue au 1° ci-dessus est portée à
-64,03 euros et l'indemnité prévue au 2° à 152,45 euros.
 
 **Liens relatifs à cet article**
 
@@ -56615,35 +56614,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
+  - Décret n°2004-32 du 9 janvier 2004 - art. 3 () JORF 10 janvier 2004
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 41 (M)
   - CODE DE PROCEDURE PENALE - art. 81 (M)
 
-**Liens**:
-
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
 
 ###### Article R121-1
 
 En sus du remboursement de leurs frais de déplacement, calculés dans les conditions fixées pour les déplacements des
-fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques ou représentants des
-personnes morales mentionnées à l'article R. 16-2 (alinéa 1er) pour la mission de contrôle judiciaire exercée sur chaque
-personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
+fonctionnaires du groupe II, il est alloué aux enquêteurs de personnalité et aux personnes physiques pour la mission de
+contrôle judiciaire exercée sur chaque personne mise en examen, en application du 6° de l'article 138 (alinéa 2) :
 
 51,83 euros lorsque la mission de contrôle judiciaire dure trois mois ou moins ;
 
 110,53 euros lorsque la mission de contrôle judiciaire dure plus de trois mois sans excéder un an ;
 
 152,45 euros lorsque la mission de contrôle judiciaire dure plus d'un an.
-
-Lorsque cette mission est effectuée par une association qui a passé une convention avec le premier président et le procureur
-général de la cour d'appel dans le ressort de laquelle est situé son siège social, l'indemnité allouée est portée
-respectivement à 152, 45 euros, 254,59 euros et 407,04 euros.
 
 **Liens relatifs à cet article**
 
@@ -56653,8 +56642,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
+  - Décret n°2004-32 du 9 janvier 2004 - art. 4 () JORF 10 janvier 2004
 
 _Cité par_:
 
@@ -56668,11 +56656,6 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 138 (M)
-  - CODE DE PROCEDURE PENALE - art. R16-2 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
 ###### Article R121-2
@@ -56726,6 +56709,56 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 41-1 (M)
   - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+
+
+###### Article R121-3
+
+En sus du remboursement des frais de déplacement, qui a lieu dans les conditions prévues par la réglementation applicable aux
+fonctionnaires de l'Etat, il est alloué à la personne morale habilitée ayant passé la convention prévue au troisième alinéa
+de l'article R. 15-37 une indemnité fixée comme suit :
+
+1° Pour la vérification de la situation matérielle, familiale ou sociale d'une personne faisant l'objet d'une enquête,
+accomplie en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+
+2° Pour la tenue d'une permanence les samedis, dimanches ou jours fériés, lorsque pendant celle-ci aucune mesure n'a été
+prescrite en application du sixième alinéa de l'article 41 ou du septième alinéa de l'article 81 : 14 unités de base ;
+
+3° Pour une enquête sur la personnalité d'une personne mise en examen ainsi que sur sa situation matérielle, familiale ou
+sociale, menée en application du sixième alinéa de l'article 81 : 222 unités de base ;
+
+4° Pour une mission de mise en oeuvre d'une des obligations du contrôle judiciaire énumérées au 6° de l'article 138 : 185
+unités de base pour les six premiers mois de contrôle judiciaire et 74 unités de base par période de six mois supplémentaires
+dans la limite de trente-six mois.
+
+L'indemnité est majorée de 10 % pour les mesures ordonnées par une juridiction dans le ressort de laquelle la population,
+selon les données authentifiées du dernier recensement, est au plus égale à 170 000 habitants.
+
+L'indemnité est réduite de 70 % pour celles des mesures mentionnées aux 3° et 4° ci-dessus qui sont exécutées, pour le compte
+de la personne morale habilitée, par une personne qui n'est pas salariée par elle.
+
+La valeur de l'unité de base est fixée par arrêté conjoint du ministre chargé du budget et du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2004-32 du 9 janvier 2004 - art. 5 () JORF 10 janvier 2004
+
+_Cité par_:
+
+  - Arrêté du 12 janvier 2004 - art. 1 (V)
+  - CODE DE PROCEDURE PENALE - art. A43-5 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 138 (M)
+  - CODE DE PROCEDURE PENALE - art. 41 (M)
+  - CODE DE PROCEDURE PENALE - art. 81 (M)
+  - CODE DE PROCEDURE PENALE - art. R15-37 (M)
 
 
 ##### Paragraphe 3 : Des interprètes traducteurs<a id=363></a>
@@ -58951,7 +58984,7 @@ _Cité par_:
 La procédure de certification est applicable aux frais de justice criminelle, correctionnelle et de police suivants :
 
 1. Indemnités accordées aux jurés, aux témoins, aux parties civiles, aux interprètes traducteurs et aux personnes mentionnées
-aux articles R. 121 à R. 121-2 ;
+aux articles R. 121 à R. 121-3 ;
 
 2. Frais de vérifications médicales, cliniques et biologiques en matière d'alcoolémie ;
 
@@ -58978,7 +59011,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2002-801 du 3 mai 2002 - art. 10 () JORF 5 mai 2002
+  - Décret n°2004-32 du 9 janvier 2004 - art. 6 () JORF 10 janvier 2004
 
 _Cité par_:
 
@@ -58991,7 +59024,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de procédure pénale R121 à R121-2
+  - Code de procédure pénale R121 à R121-3
 
 
 ###### Article R224-2
