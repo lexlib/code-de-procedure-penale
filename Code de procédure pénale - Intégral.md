@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1989-03-18
+Version Consolidée au 1989-07-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -22528,6 +22528,46 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°87-541 du 16 juillet 1987 - art. 1 () JORF 18 juillet 1987
+
+
+###### Article 689-4
+
+Pour l'application de la convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et
+New York le 3 mars 1980, peut être poursuivi et jugé par les juridictions françaises, s'il se trouve en France, quiconque,
+hors du territoire de la République, se sera rendu coupable :
+
+1° du délit prévu par l'article 6-1 de la loi n° 80-572 du 25 juillet 1980 sur la protection et le contrôle des matières
+nucléaires ;
+
+2° de l'un des crimes ou délits prévus par les articles 295 à 298, 301, 304, 305, 306, 309, 310, 311, 312, 318, 379, 381,
+382, 384, 400, 405, 408, 434, 435, 436, 437 et 460 du code pénal ainsi que du délit d'appropriation indue prévu par l'article
+6 de la loi n° 80-572 du 25 juillet 1980 précitée, dès lors que l'infraction aura été commise au moyen des matières
+nucléaires entrant dans le champ d'application des articles premier et 2 de la convention précitée ou qu'elle aura porté sur
+ces dernières.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code pénal 295 à 298, 301, 304, 305, 306, 309, 310, 311, 312, 318, 379, 381, 382, 384, 400, 405, 408, 434, 435, 436, 437 et 460
+  - Convention 1980-03-03, ouverte à la signature à Vienne et New-York art. 1 et 2
+  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°89-434 du 30 juin 1989 - art. 2 ()
+
+_Créé par_:
+
+  - Loi n°89-434 du 30 juin 1989 - art. 2 () JORF 1er juillet 1989
+
+_Cité par_:
+
+  - Loi n°89-434 du 30 juin 1989 - art. 3 (V)
 
 
 ###### Article 690
