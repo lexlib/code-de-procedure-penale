@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1964-07-23
+Version Consolidée au 1965-02-09
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -249,8 +249,8 @@ Version Consolidée au 1964-07-23
             - [Paragraphe 3 : Dossiers individuels des détenus. (art. D158 à D166.)](#246)
               - [A : Dossier spécial aux condamnés à une longue peine. (art. D158 à D164.)](#247)
               - [B : Dossiers des autres détenus. (art. D165. à D166.)](#248)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D173 à D174)](#249)
-            - [Paragraphe 3 : Moyens de contrainte (art. D173 à D174)](#250)
+          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D173 à D175)](#249)
+            - [Paragraphe 3 : Moyens de contrainte (art. D173 à D175)](#250)
           - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D179)](#251)
           - [Section 4 : De la commission de surveillance (art. D181)](#252)
           - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#253)
@@ -18299,6 +18299,50 @@ _Codifié par_:
 _Abrogé par_:
 
   - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
+
+
+###### Article D175
+
+Conformément aux dispositions de la loi du 28 décembre 1943 "les membres du personnel des établissements pénitentiaires en
+uniforme ou en tenue civile doivent, en l'absence de l'autorité judiciaire ou administrative, déployer la force armée dans
+les cas suivants :
+
+Lorsque des violences ou des voies de fait sont exercées contre eux ou lorsqu'ils sont menacés par des individus armés ;
+
+Lorsqu'ils ne peuvent défendre autrement les établissements pénitentiaires dont ils ont la garde, le postes ou les personnes
+qui leur sont confiés ou, enfin, si la résistance est telle qu'elle ne puisse être vaincue que par la force des armes ;
+
+Lorsque des personnes cherchant à pénétrer dans un établissement pénitentiaire ou des détenus invités à s'arrêter par des
+appels répétés de "halte" faits à haute voix cherchent à échapper à leur garde ou à leurs investigations et ne peuvent être
+contraints de s'arrêter que par l'usage des armes".
+
+Pour l'application des dispositions qui précèdent, les membres des forces préposées au maintien de l'ordre, intervenant à
+l'intérieur d'un établissement pénitentiaire ou assurant une mission de protection et de garde dans l'établissement ou aux
+abords de celui-ci en application des dispositions de l'article D266, sont, pendant le temps de cette intervention ou de
+l'accomplissement de cette mission, assimilés aux membres du personnel des établissements pénitentiaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°96-287 du 2 avril 1996 - art. 5 (V) JORF 5 avril 1996
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D266. (M)
+  - Loi n°1943-12-28
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D267. (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=251></a>
