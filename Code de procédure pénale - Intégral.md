@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1964-05-16
+Version Consolidée au 1964-07-23
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -233,13 +233,13 @@ Version Consolidée au 1964-05-16
           - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#230)
           - [Section 3 : Du régime auquel les condamnés sont soumis (art. D84 à D93)](#231)
             - [Paragraphe 1er : Maisons d'arrêt (art. D84 à D93)](#232)
-              - [A : Etablissements cellulaires (art. D84)](#233)
+              - [A : Etablissements cellulaires (art. D84 à D86)](#233)
               - [B : Etablissements en commun (art. D88)](#234)
               - [C : Répartition des détenus dans les établissements (art. D93)](#235)
           - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#236)
           - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D120 à D141)](#237)
             - [Paragraphe 1er : Dispositions communes (art. D120 à D123)](#238)
-            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D129 à D132)](#239)
+            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#239)
             - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#240)
           - [Section 4 : Du travail des détenus (art. D105 à D109)](#241)
             - [Paragraphe 2 : Formes et modalités du travail (art. D105 à D109)](#242)
@@ -258,7 +258,7 @@ Version Consolidée au 1964-05-16
           - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D195)](#255)
           - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#256)
             - [Paragraphe 1er : Attributions particulières (art. D199 à D215)](#257)
-            - [Paragraphe 2 : Dispositions générales (art. D218 à D228)](#258)
+            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#258)
           - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#259)
           - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#260)
         - [Chapitre V : De la discipline et de la sécurité des prisons (art. D242 à D283)](#261)
@@ -293,7 +293,7 @@ Version Consolidée au 1964-05-16
             - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#290)
             - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D377)](#291)
             - [Paragraphe 3 : Traitement médical (art. D381 à D390)](#292)
-            - [Paragraphe 4 : Soins divers (art. D393 à D398)](#293)
+            - [Paragraphe 4 : Soins divers (art. D392 à D398)](#293)
             - [Paragraphe 5 : Maternité (art. D399 à D400)](#294)
         - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D430)](#295)
           - [Section 1 : Des visites (art. D407 à D412)](#296)
@@ -17755,6 +17755,22 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D375 (M)
 
 
+###### Article D86
+
+Des coïnculpés ne doivent pas être réunis dans une même cellule, alors même que le magistrat saisi du dossier de
+l'information n'aurait pas ordonné leur séparation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ##### B : Etablissements en commun<a id=234></a>
 
 ###### Article D88
@@ -17879,6 +17895,35 @@ _Codifié par_:
 
 
 ##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=239></a>
+
+###### Article D128
+
+Sous réserve de ce que la durée de la peine restant à subir n'excède pas cinq années, les détenus n'ayant pas été condamnés
+antérieurement à une peine privative de liberté supérieure à six mois peuvent être employés à des travaux à l'extérieur d'un
+établissement pénitentiaire.
+
+Peuvent également être employés à ces travaux les condamnés, quels que soient leurs antécédents et leur date de libération,
+qui remplissent les conditions de délai requises pour être proposés au bénéfice de la libération conditionnelle ou pour être
+admis au régime de semi-liberté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D129 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D129
 
@@ -18837,6 +18882,26 @@ _Abrogé par_:
 
 
 ##### Paragraphe 2 : Dispositions générales<a id=258></a>
+
+###### Article D216
+
+Le personnel des services extérieurs de l'administration pénitentiaire est tenu de parfaire ses connaissances
+professionnelles dans les conditions qui sont fixées par l'administration centrale.
+
+Il a obligation de participer aux cours et stages de formation ou de perfectionnement assurés à l'école de formation du
+personnel de l'administration pénitentiaire ou organisés par le centre national d'études et de recherches pénitentiaires ou
+par tout autre organisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D218
 
@@ -20545,6 +20610,26 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
+###### Article D345
+
+Les vivres vendus en cantine comprennent seulement les denrées d'usage courant qui peuvent être consommées sans faire l'objet
+d'aucune préparation, à moins que le règlement intérieur de l'établissement ait prévu l'installation de cuisine spéciale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 du 23 février 1959
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D346
 
 Quelle que soit leur situation pénale, les détenus peuvent, à moins d'en être privés par mesure disciplinaire ou par
@@ -21305,6 +21390,31 @@ _Cite_:
 
 
 ##### Paragraphe 4 : Soins divers<a id=293></a>
+
+###### Article D392
+
+Dans chaque établissement un chirurgien-dentiste est habilité par le ministre de la justice, sur proposition du directeur
+régional et après avis du préfet, à donner ses soins aux détenus.
+
+Il est tenu de faire au moins deux visites par mois à la prison et de s'y rendre sur appel du chef de l'établissement en cas
+d'urgence.
+
+Il doit pratiquer l'examen dentaire systématique des détenus dans les conditions déterminées par une instruction de service.
+
+Le règlement des frais et honoraires pour les soins et prothèses dentaires qui ne seraient pas indispensables au maintien ou
+au rétablissement de la santé incombe aux détenus bénéficiaires dans les conditions déterminées par ladite instruction de
+service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
 
 ###### Article D393
 
