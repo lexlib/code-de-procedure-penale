@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-10-29
+Version Consolidée au 2003-10-30
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -590,8 +590,8 @@ Version Consolidée au 2003-10-29
       - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#587)
     - [Livre V : Des procédures d'exécution (art. A39 à A53)](#588)
       - [Titre II : De la détention (art. A39 à A43-1)](#589)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#590)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#591)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#590)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#591)
         - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#592)
           - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#593)
         - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#594)
@@ -80964,30 +80964,30 @@ _Cite_:
 
 ###### Article A39
 
-La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales prévue à l'article D. 71 est fixée
-comme suit :
+La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales ou comportant un quartier maison
+centrale prévue à l'article D. 71 est fixée comme suit :
 
-Maison centrale d'Arles (Bouches-du-Rhône) ;
+Maison centrale d'Arles (Bouches-du-Rhône).
 
-Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne) ;
+Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
 
-Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube) ;
+Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube).
 
-Quartier maison centrale du centre pénitentiaire de Ducos (Martinique) ;
+Quartier maison centrale du centre pénitentiaire de Ducos (Martinique).
 
-Maison centrale d'Ensisheim (Haut-Rhin) ;
+Maison centrale d'Ensisheim (Haut-Rhin).
 
-Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées).
 
-Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier).
 
-Maison centrale de Poissy (Yvelines) ;
+Maison centrale de Poissy (Yvelines).
 
-Quartier maison centrale du centre pénitentiaire du Port (Réunion) ;
+Quartier maison centrale du centre pénitentiaire du Port (Réunion).
 
-Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane).
 
-Maison centrale de Saint-Martin-de-Ré (Charente-Maritime) ;
+Maison centrale de Saint-Martin-de-Ré (Charente-Maritime).
 
 Maison centrale de Saint-Maur (Indre).
 
@@ -80999,7 +80999,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-05-07 art. 1 JORF 23 mai 2003
+  - Arrêté 2003-09-17 art. 1 JORF 30 octobre 2003
 
 _Cité par_:
 
@@ -81015,100 +81015,99 @@ _Cite_:
 La liste des établissements pénitentiaires classés dans la catégorie des centres de détention ou comportant un quartier
 centre de détention prévue à l'article D. 72 est fixée comme suit :
 
-Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie) ;
+Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie).
 
-Centre de détention d'Argentan (Orne) ;
+Centre de détention d'Argentan (Orne).
 
-Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet (Vaucluse) ;
+Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet (Vaucluse).
 
-Quartier centre de détention du centre pénitentiaire de Baie-Mahault (Guadeloupe) ;
+Quartier centre de détention du centre pénitentiaire de Baie-Mahaut (Guadeloupe).
 
-Centre de détention de Bapaume (quartier hommes, quartier femmes) (Pas-de-Calais) ;
+Centre de détention de Bapaume (quartier hommes, quartier femmes) (Pas-de-Calais).
 
-Centre de détention de Bédenac (Charente-Maritime) ;
+Centre de détention de Bédenac (Charente-Maritime).
 
-Quartier centre de détention du centre pénitentiaire de Caen (Calvados) ;
+Quartier centre de détention du centre pénitentiaire de Caen (Calvados).
 
-Centre de détention de Casabianda (Haute-Corse) ;
+Centre de détention de Casabianda (Haute-Corse).
 
-Centre de détention de Châteaudun (Eure-et-Loir) ;
+Centre de détention de Châteaudun (Eure-et-Loir).
 
-Quartier centre de détention du centre pénitentiaire de Châteauroux (Indre) ;
+Quartier centre de détention du centre pénitentiaire de Châteauroux (Indre).
 
-Quartier centre de détention du centre pénitentiaire de Château-Thierry (Aisne) ;
+Quartier centre de détention du centre pénitentiaire de Château-Thierry (Aisne).
 
-Quartier centre de détention du centre pénitentiaire de Clairvaux (Aube) ;
+Quartier centre de détention du centre pénitentiaire de Clairvaux (Aube).
 
-Quartier centre de détention du centre pénitentiaire de Draguignan (Var) ;
+Quartier centre de détention du centre pénitentiaire de Draguignan (Var).
 
-Quartier centre de détention du centre pénitentiaire de Ducos (Martinique) ;
+Quartier centre de détention du centre pénitentiaire de Ducos (Martinique).
 
-Centre de détention d'Ecrouves (Meurthe-et-Moselle) ;
+Centre de détention d'Ecrouves (Meurthe-et-Moselle).
 
-Centre de détention d'Eysses (Lot-et-Garonne) ;
+Centre de détention d'Eysses (Lot-et-Garonne).
 
-Centre de détention de Joux-la-Ville (hommes, femmes) (Yonne) ;
+Centre de détention de Joux-la-Ville (hommes, femmes) (Yonne).
 
-Quartier centre de détention du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+Quartier centre de détention du centre pénitentiaire de Lannemezan (Hautes-Pyrénées).
 
-Quartier centre de détention du centre pénitentiaire de Laon (Aisne) ;
+Quartier centre de détention du centre pénitentiaire de Laon (Aisne).
 
-Centre de détention de Liancourt (Oise) ;
+Centre de détention de Liancourt (Oise).
 
-Quartier centre de détention du centre pénitentiaire de Longuenesse (Pas-de-Calais) ;
+Quartier centre de détention du centre pénitentiaire de Longuenesse (Pas-de-Calais).
 
-Centre de détention de Loos (Nord) ;
+Centre de détention de Loos (Nord).
 
-Quartier centre de détention du centre pénitentiaire de Lorient-Ploemeur (Morbihan) ;
+Quartier centre de détention du centre pénitentiaire de Lorient-Ploemeur (Morbihan).
 
-Quartier centre de détention du centre pénitentiaire de Marseille (femmes) (Bouches-du-Rhône) ;
+Quartier centre de détention du centre pénitentiaire de Marseille (femmes) (Bouches-du-Rhône).
 
-Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord) ;
+Quartier centre de détention du centre pénitentiaire de Maubeuge (Nord).
 
-Centre de détention de Mauzac (Dordogne) ;
+Centre de détention de Mauzac (Dordogne).
 
-Centre de détention de Melun (Seine-et-Marne) ;
+Centre de détention de Melun (Seine-et-Marne).
 
-Centre de détention de Montmédy (Meuse) ;
+Centre de détention de Montmédy (Meuse).
 
-Centre de détention de Muret (Haute-Garonne) ;
+Centre de détention de Muret (Haute-Garonne).
 
-Quartier centre de détention du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+Quartier centre de détention du centre pénitentiaire de Nantes (Loire-Atlantique).
 
-Centre de détention de Neuvic (Dordogne) ;
+Centre de détention de Neuvic (Dordogne).
 
-Centre de détention d'Oermingen (Bas-Rhin) ;
+Centre de détention d'Oermingen (Bas-Rhin).
 
-Quartier centre de détention du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
+Quartier centre de détention du centre pénitentiaire de Perpignan (Pyrénées-Orientales).
 
-Quartier centre de détention du centre pénitentiaire du Port (Réunion) ;
+Quartier centre de détention du centre pénitentiaire du Port (Réunion).
 
-Quartier centre de détention du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+Quartier centre de détention du centre pénitentiaire de Remire-Montjoly (Guyane).
 
-Quartier centre de détention du centre pénitentiaire de Rennes (femmes) (Ille-et-Vilaine) ;
+Quartier centre de détention du centre pénitentiaire de Rennes (femmes) (Ille-et-Vilaine).
 
-Centre de détention de Riom (Puy-de-Dôme) ;
+Centre de détention de Riom (Puy-de-Dôme).
 
-Centre de détention de Saint-Mihiel (Meuse) ;
+Centre de détention de Saint-Mihiel (Meuse).
 
-Quartier centre de détention du centre pénitentiaire de Saint-Pierre (collectivité territoriale de Saint-Pierre-et-
-Miquelon) ;
+Quartier centre de détention du centre pénitentiaire de Saint-Pierre (collectivité territoriale de Saint-Pierre-et-Miquelon).
 
-Quartier centre de détention du centre pénitentiaire de Saint-Quentin-Fallavier (Isère) ;
+Quartier centre de détention du centre pénitentiaire de Saint-Quentin-Fallavier (Isère).
 
-Centre de détention de Saint-Sulpice-la-Pointe (Tarn) ;
+Centre de détention de Saint-Sulpice-la-Pointe (Tarn).
 
-Centre de détention de Salon-de-Provence (Bouches-du-Rhône) ;
+Centre de détention de Salon-de-Provence (Bouches-du-Rhône).
 
-Centre de détention de Tarascon (Bouches-du-Rhône) ;
+Centre de détention de Tarascon (Bouches-du-Rhône).
 
-Centre de détention de Toul (Meurthe-et-Moselle) ;
+Centre de détention de Toul (Meurthe-et-Moselle).
 
-Centre de détention d'Uzerche (Corrèze) ;
+Centre de détention d'Uzerche (Corrèze).
 
-Centre de détention de Val-de-Reuil (Eure) ;
+Centre de détention de Val-de-Reuil (Eure).
 
-Quartier centre de détention du centre pénitentiaire de Varennes-le-Grand (Saône-et-Loire) ;
+Quartier centre de détention du centre pénitentiaire de Varennes-le-Grand (Saône-et-Loire).
 
 Centre de détention de Villenauxe-la-Grande (Aube).
 
@@ -81120,7 +81119,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-05-07 art. 2 JORF 23 mai 2003
+  - Arrêté 2003-09-17 art. 2 JORF 30 octobre 2003
 
 _Cite_:
 
@@ -81129,12 +81128,34 @@ _Cite_:
 
 ###### Article A39-2
 
-La liste des établissements pénitentiaires classés dans la catégorie des centres pour peines aménagées ou comportant un
-quartier pour peines aménagées prévue à l'article D. 72-1 est fixée comme suit :
+La liste des établissements pénitentiaires classés dans la catégorie des centres de semi-liberté prévue à l'article D. 72-1
+est fixée comme suit :
 
-Quartier pour peines aménagées du centre pénitentiaire de Marseille (Bouches-du-Rhône) ;
+Centre de semi-liberté de Besançon (Doubs).
 
-Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
+Centre de semi-liberté de Briey (Meurthe-et-Moselle).
+
+Centre de semi-liberté de Corbeil (hommes, femmes) (Essonne).
+
+Centre de semi-liberté de Gagny (Seine-Saint-Denis).
+
+Centre de semi-liberté de Grenoble (hommes, femmes) (Isère).
+
+Centre de semi-liberté d'Haubourdin (hommes, femmes) (Nord).
+
+Centre de semi-liberté de Lyon (hommes, femmes) (Rhône).
+
+Centre de semi-liberté de Maxeville (hommes, femmes) (Meurthe-et-Moselle).
+
+Centre de semi-liberté de Montargis (Loiret).
+
+Centre de semi-liberté de Montpellier (hommes, femmes) (Hérault).
+
+Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
+
+Centre de semi-liberté de Toulouse (Haute-Garonne).
+
+Centre de semi-liberté de Villejuif (Val-de-Marne).
 
 **Liens relatifs à cet article**
 
@@ -81144,12 +81165,36 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-05-07 art. 3 JORF 23 mai 2003
+  - Arrêté 2003-09-17 art. 3 JORF 30 octobre 2003
 
 _Cité par_:
 
   - Décret n°2016-1996 du 30 décembre 2016 - art. 2
   - Décret n°2016-1996 du 30 décembre 2016 - art. 4 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D72-1 (M)
+
+
+###### Article A39-3
+
+La liste des établissements pénitentiaires classés dans la catégorie des centres pour peines aménagées ou comportant un
+quartier pour peines aménagées prévue à l'article D. 72-1 est fixée comme suit :
+
+Quartier pour peines aménagées du centre pénitentiaire de Marseille (Bouches-du-Rhône).
+
+Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2003-09-17 art. 4 JORF 30 octobre 2003
 
 _Cite_:
 
