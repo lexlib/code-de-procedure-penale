@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-06-09
+Version Consolidée au 2001-06-13
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1138,6 +1138,43 @@ _Cite_:
 _Cité par_:
 
   - Code pénal - art. R131-47 (V)
+
+
+###### Article 2-17
+
+Toute association reconnue d'utilité publique régulièrement déclarée depuis au moins cinq ans à la date des faits et se
+proposant par ses statuts de défendre et d'assister l'individu ou de défendre les droits et libertés individuels et
+collectifs peut, à l'occasion d'actes commis par toute personne physique ou morale dans le cadre d'un mouvement ou
+organisation ayant pour but ou pour effet de créer, de maintenir ou d'exploiter une sujétion psychologique ou physique,
+exercer les droits reconnus à la partie civile en ce qui concerne les infractions d'atteintes volontaires ou involontaires à
+la vie ou à l'intégrité physique ou psychique de la personne, de mise en danger de la personne, d'atteinte aux libertés de la
+personne, d'atteinte à la dignité de la personne, d'atteinte à la personnalité, de mise en péril des mineurs ou d'atteintes
+aux biens prévues par les articles 221-1 à 221-6, 222-1 à 222-40, 223-1 à 223-15, 223-15-2, 224-1 à 224-4, 225-5 à 225-15,
+225-17 et 225-18, 226-1 à 226-23, 227-1 à 227-27, 311-1 à 311-13, 312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3 et 324-1 à
+324-6 du code pénal, les infractions d'exercice illégal de la médecine ou de la pharmacie prévues par les articles L. 4161-5
+et L. 4223-1 du code de la santé publique, et les infractions de publicité mensongère, de fraudes ou de falsifications
+prévues par les articles L. 121-6 et L. 213-1 à L. 213-4 du code de la consommation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Modifié par_:
+
+  - Loi n°2001-504 du 12 juin 2001 - art. 22 () JORF 13 juin 2001
+
+_Cite_:
+
+  - Code de la consommation - art. L121-6 (M)
+  - Code de la consommation L121-6, L213-1 à L213-4
+  - Code pénal - art. 223-15-2 (M)
+  - Code pénal - art. 225-17 (M)
+  - Code pénal - art. 225-18 (M)
+  - Code pénal 221-1 à 221-6, 222-1 à 222-40, 223-1 à 223-15, 223-15-2, 224-1 à 224-4, 225-5 à 225-15, 225-17, 225-18, 226-1 à 226-23, 227-1 à 227-27, 311-1 à 311-13, 312-1 à 312-12, 313-1 à 313-3, 314-1 à 314-3, 324-1 à 324-6
+  - Code de la santé publique - art. L4161-5 (M)
+  - Code de la santé publique - art. L4223-1 (M)
 
 
 ###### Article 2-18
@@ -31514,6 +31551,51 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°92-1336 du 16 décembre 1992 - art. 78 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 706-45
+
+Le juge d'instruction peut placer la personne morale sous contrôle judiciaire dans les conditions prévues aux articles 139 et
+140 en la soumettant à une ou plusieurs des obligations suivantes :
+
+1° Dépôt d'un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge
+d'instruction ;
+
+2° Constitution, dans un délai, pour une période et un montant déterminés par le juge d'instruction, des sûretés personnelles
+ou réelles destinées à garantir les droits de la victime ;
+
+3° Interdiction d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux
+qui sont certifiés ou d'utiliser des cartes de paiement ;
+
+4° Interdiction d'exercer certaines activités professionnelles ou sociales lorsque l'infraction a été commise dans l'exercice
+ou à l'occasion de l'exercice de ces activités et lorsqu'il est à redouter qu'une nouvelle infraction soit commise ;
+
+5° Placement sous contrôle d'un mandataire de justice désigné par le juge d'instruction pour une durée de six mois
+renouvelable, en ce qui concerne l'activité dans l'exercice ou à l'occasion de laquelle l'infraction a été commise.
+
+Les interdictions prévues aux 3° et 4° ne peuvent être ordonnées par le juge d'instruction que dans la mesure où elles sont
+encourues à titre de peine par la personne morale poursuivie. La mesure prévue au 5° ne peut être ordonnée par le juge
+d'instruction si la personne morale ne peut être condamnée à la peine prévue par le 3° de l'article 131-39 du code pénal.
+
+En cas de violation du contrôle judiciaire, les articles 434-43 et 434-47 du code pénal sont, le cas échéant, applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°2001-504 du 12 juin 2001 - art. 23 () JORF 13 juin 2001
+
+_Cite_:
+
+  - Code pénal - art. 131-39 (MMN)
+  - Code pénal - art. 434-43 (MMN)
+  - Code pénal - art. 434-47 (MMN)
+  - CODE DE PROCEDURE PENALE - art. 139 (M)
+  - CODE DE PROCEDURE PENALE - art. 140 (M)
 
 
 ###### Article 706-46
