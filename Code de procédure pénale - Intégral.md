@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2002-03-05
+Version Consolidée au 2002-03-06
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -569,25 +569,24 @@ Version Consolidée au 2002-03-05
       - [Titre III : Du jugement des contraventions (art. A37 à A37-7)](#566)
         - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-7)](#567)
     - [Livre IV (art. A38)](#568)
-      - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes (art. A38)](#569)
-        - [Chapitre Ier : Du fichier national automatisé des empreintes génétiques (art. A38)](#570)
-    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#571)
-      - [Titre II : De la détention (art. A39 à A43-1)](#572)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#573)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#574)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#575)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#576)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#577)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#578)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#579)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#580)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#581)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#582)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#583)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#584)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#585)
-        - [Disposition générale (art. A53)](#586)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#587)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#569)
+    - [Livre V : Des procédures d'exécution (art. A39 à A53)](#570)
+      - [Titre II : De la détention (art. A39 à A43-1)](#571)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#572)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#573)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#574)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#575)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#576)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#577)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#578)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#579)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#580)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#581)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#582)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#583)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#584)
+        - [Disposition générale (art. A53)](#585)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#586)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -77745,14 +77744,11 @@ _Cité par_:
 
 ## Livre IV<a id=568></a>
 
-### Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes<a id=569></a>
-
-#### Chapitre Ier : Du fichier national automatisé des empreintes génétiques<a id=570></a>
+### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=569></a>
 
 ###### Article A38
 
-La liste des segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau
-ci-après :
+Les segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau ci-après :
 
 SEGMENTS D'ADN OU loci
 
@@ -77760,13 +77756,25 @@ selon la nomenclature internationale
 
 LOCALISATION
 
-D21S11
+D3S1358
 
-Chromosome n° 21 
+Chromosome n° 3 
 
 VWA
 
 Chromosome n° 12 
+
+D8S1179
+
+Chromosome n° 8 
+
+D21S11
+
+Chromosome n° 21 
+
+D18S51
+
+Chromosome n° 18 
 
 THO1
 
@@ -77774,21 +77782,57 @@ Chromosome n° 11
 
 FGA
 
-Chromosome n°  4 
+Chromosome n° 4 
 
-D8S1179
+Amélogénine
 
-Chromosome n°  8 
+Chromosomes X et Y
 
-D3S1358
+Les analyses peuvent également porter sur les segments d'ADN suivants :
 
-Chromosome n°  3 
+SEGMENTS D'ADN OU loci
 
-D18S51
+selon la nomenclature internationale
 
-Chromosome n° 18 
+LOCALISATION
 
-Les analyses portent également sur le gène de l'amélogénine.
+D16S539
+
+Chromosome n° 16
+
+D2S1338
+
+Chromosome n° 2
+
+D19S433
+
+Chromosome n° 19
+
+PentaE Chromosome n° 15
+
+D5S818
+
+Chromosome n° 5
+
+D13S317
+
+Chromosome n° 13
+
+D7S820
+
+Chromosome n° 7
+
+CSF1PO
+
+Chromosome n° 5
+
+PentaD
+
+Chromosome n° 21
+
+TPOX
+
+Chromosome n° 2
 
 **Liens relatifs à cet article**
 
@@ -77796,22 +77840,18 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 2000-05-18 art. 1 JORF 19 mai 2000
-
-_Abrogé par_:
-
-  - Arrêté 2002-02-14 art. 1 I JORF 6 mars 2002
+  - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
 
 
-## Livre V : Des procédures d'exécution<a id=571></a>
+## Livre V : Des procédures d'exécution<a id=570></a>
 
-### Titre II : De la détention<a id=572></a>
+### Titre II : De la détention<a id=571></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=573></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=572></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=574></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=573></a>
 
 ###### Article A39
 
@@ -78013,9 +78053,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D72 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=575></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=574></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=576></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=575></a>
 
 ###### Article A40
 
@@ -78176,11 +78216,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=577></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=576></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=578></a>
+##### Section 1 : De la gestion des biens des détenus<a id=577></a>
 
-##### Paragraphe 1er : Pécule.<a id=579></a>
+##### Paragraphe 1er : Pécule.<a id=578></a>
 
 ###### Article A41
 
@@ -78319,9 +78359,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=580></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=579></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=581></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=580></a>
 
 ###### Article A43
 
@@ -78380,9 +78420,9 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=582></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=581></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=583></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=582></a>
 
 ###### Article A44
 
@@ -79954,9 +79994,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=584></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=583></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=585></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=584></a>
 
 ###### Article A45
 
@@ -80031,7 +80071,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=586></a>
+#### Disposition générale<a id=585></a>
 
 ###### Article A53
 
@@ -80049,7 +80089,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=587></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=586></a>
 
 ###### Article A54
 
