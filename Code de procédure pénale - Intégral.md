@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1975-03-09
+Version Consolidée au 1975-04-01
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -26546,6 +26546,43 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D111 (M)
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
   - Code de procédure pénale D111, D112, D113 et D114
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D329
+
+Les sommes qui échoient aux détenus sont considérées comme ayant un caractère alimentaire, dans la mesure où elles n'excèdent
+pas chaque mois la somme fixée par arrêté du ministre de la justice.
+
+Elles sont dès lors entièrement versées à la part disponible jusqu'à concurrence de cette somme et pour le surplus elles sont
+soumises au prélèvement prévu à l'article D. 113 sous réserve des dispositions particulières concernant les rentes, les
+pensions et les indemnités.
+
+Les gratifications exceptionnelles visées au dernier alinéa de l'article D. 114 sont entièrement versées à la part
+disponible.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°75-128 1975-07-03 art. 1 et art. 3 JORF 1er avril 1975
+
+_Abrogé par_:
+
+  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D113 (M)
+  - CODE DE PROCEDURE PENALE - art. D114 (M)
 
 **Liens**:
 
