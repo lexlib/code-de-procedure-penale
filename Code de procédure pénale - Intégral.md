@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-07-01
+Version Consolidée au 1986-09-04
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -20,10 +20,10 @@ Version Consolidée au 1986-07-01
           - [Section 3 : Des attributions du procureur de la République (art. 39 à 44)](#17)
           - [Section 4 : Du ministère public près le tribunal de police (art. 46 à 48)](#18)
         - [Chapitre III : Du juge d'instruction (art. 49 à 52)](#19)
-      - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-4)](#20)
+      - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-5)](#20)
         - [Chapitre Ier : Des crimes et des délits flagrants (art. 53 à 74)](#21)
         - [Chapitre II : De l'enquête préliminaire (art. 75 à 78)](#22)
-        - [Chapitre III : Des contrôles d'identité (art. 78-4)](#23)
+        - [Chapitre III : Des contrôles d'identité (art. 78-1 à 78-5)](#23)
       - [Titre III : Des juridictions d'instruction (art. 79 à 230)](#24)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. 79 à 190)](#25)
           - [Section 1 : Dispositions générales (art. 79)](#26)
@@ -3757,6 +3757,228 @@ _Cite_:
 
 #### Chapitre III : Des contrôles d'identité<a id=23></a>
 
+###### Article 78-1
+
+L'application des règles prévues par le présent chapitre est soumise au contrôle des autorités judiciaires mentionnées aux
+articles 12 et 13.
+
+Toute personne se trouvant sur le territoire national doit accepter de se prêter à un contrôle d'identité effectué dans les
+conditions et par les autorités de police visées aux articles suivants.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8 (Ab)
+  - Ordonnance n°2000-373 du 26 avril 2000 - art. 8 (VT)
+  - Ordonnance n°2000-371 du 26 avril 2000 - art. 8 (V)
+  - Ordonnance n°2000-372 du 26 avril 2000 - art. 9 (V)
+  - Ordonnance n°2002-388 du 20 mars 2002 - art. 9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (VD)
+  - Code rural - art. L205-4 (V)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Créé par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+_Modifié par_:
+
+  - Loi n°86-1004 1986-09-03 art. 1 JORF 4 septembre 1986
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 12 (V)
+  - CODE DE PROCEDURE PENALE - art. 13 (M)
+
+
+###### Article 78-2
+
+Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et
+agents de police judiciaire adjoints mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen, de son
+identité toute personne à l'égard de laquelle existe un indice faisant présumer :
+
+- qu'elle a commis ou tenté de commettre une infraction ;
+
+- ou qu'elle se prépare à commettre un crime ou un délit ;
+
+- ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit ;
+
+- ou qu'elle fait l'objet de recherches ordonnées par une autorité judiciaire.
+
+L'identité de toute personne peut également être contrôlée, selon les mêmes modalités, pour prévenir une atteinte à l'ordre
+public, notamment une atteinte à la sécurité des personnes et des biens.
+
+La personne de nationalité étrangère dont l'identité est contrôlée en application des dispositions du présent article doit
+être en mesure de présenter les pièces ou documents sous le couvert desquels elle est autorisée à séjourner en France.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8 (Ab)
+  - Loi n°55-385 du 3 avril 1955 - art. 8-1 (VT)
+  - Loi n°93-992 du 10 août 1993 - art. 3 (Ab)
+  - Loi n°93-992 du 10 août 1993 - art. 4 (V)
+  - Arrêté du 23 mars 1995 - art. 1 (V)
+  - Arrêté du 23 mars 1995 - art. 2 (V)
+  - Arrêté du 23 mars 1995 - art. 3 (V)
+  - Arrêté du 23 mars 1995 - art. 4 (V)
+  - Ordonnance n°2000-373 du 26 avril 2000 - art. 8 (VT)
+  - Ordonnance n°2000-371 du 26 avril 2000 - art. 8 (V)
+  - Ordonnance n°2000-372 du 26 avril 2000 - art. 9 (V)
+  - Ordonnance n°2002-388 du 20 mars 2002 - art. 9 (V)
+  - Décret n°2004-1266 du 25 novembre 2004 - art. 4 (Ab)
+  - Arrêté du 5 novembre 2008 (Ab)
+  - Arrêté du 5 novembre 2008 - art. 1 (Ab)
+  - Arrêté du 5 novembre 2008 - art. 2 (Ab)
+  - Arrêté du 5 novembre 2008 - art. 3 (Ab)
+  - Arrêté du 5 novembre 2008 - art. 4 (Ab)
+  - Arrêté du 29 avril 2009 (Ab)
+  - Arrêté du 1er mai 2009 (Ab)
+  - Arrêté du 19 juin 2009 (Ab)
+  - Arrêté du 27 juillet 2009 (Ab)
+  - Arrêté du 22 mars 2012 - art. 1 (V)
+  - Arrêté du 22 mars 2012 - art. 2 (V)
+  - Arrêté du 22 mars 2012 - art. 3 (V)
+  - Loi n°2017-86 du 27 janvier 2017 - art. 211 (V)
+  - Décret n°2017-636 du 25 avril 2017 (V)
+  - Décret n°2017-636 du 25 avril 2017 - art. 1 (V)
+  - CODE DE PROCEDURE PENALE - art. 78-2-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L611-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R611-12 (M)
+  - Code de procédure pénale - art. 78-2-4 (M)
+  - Code de procédure pénale - art. 78-3 (V)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Créé par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+_Modifié par_:
+
+  - Loi n°86-1004 1986-09-03 art. 2 JORF 4 septembre 1986
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - Code de procédure pénale 20, 21-1°
+
+
+###### Article 78-3
+
+Si l'intéressé refuse ou se trouve dans l'impossibilité de justifier de son identité, il peut, en cas de nécessité, être
+retenu sur place ou dans le local de police où il est conduit aux fins de vérification de son identité. Dans tous les cas, il
+est présenté immédiatement à un officier de police judiciaire qui le met en mesure de fournir par tout moyen les éléments
+permettant d'établir son identité et qui procède, s'il y a lieu, aux opérations de vérification nécessaires. Il est aussitôt
+informé par celui-ci de son droit de faire aviser le procureur de la République de la vérification dont il fait l'objet et de
+prévenir à tout moment sa famille ou toute personne de son choix. Si des circonstances particulières l'exigent, l'officier de
+police judiciaire prévient lui-même la famille ou la personne choisie.
+
+Lorsqu'il s'agit d'un mineur de dix-huit ans, le procureur de la République doit être informé dès le début de la rétention.
+Sauf impossibilité, le mineur doit être assisté de son représentant légal.
+
+La personne qui fait l'objet d'une vérification ne peut être retenue que pendant le temps strictement exigé par
+l'établissement de son identité. La rétention ne peut excéder quatre heures à compter du contrôle effectué en application de
+l'article 78-2 et le procureur de la République peut y mettre fin à tout moment.
+
+Si la personne interpellée maintient son refus de justifier de son identité ou fournit des éléments d'identité manifestement
+inexacts, les opérations de vérification peuvent donner lieu, après autorisation du procureur de la République ou du juge
+d'instruction, à la prise d'empreintes digitales ou de photographies lorsque celle-ci constitue l'unique moyen d'établir
+l'identité de l'intéressé.
+
+La prise d'empreintes ou de photographies doit être mentionnée et spécialement motivée dans le procès-verbal prévu ci-après.
+
+L'officier de police judiciaire mentionne, dans un procès-verbal, les motifs qui justifient le contrôle ainsi que la
+vérification d'identité, et les conditions dans lesquelles la personne a été présentée devant lui, informée de ses droits et
+mise en mesure de les exercer. Il précise le jour et l'heure à partir desquels le contrôle a été effectué, le jour et l'heure
+de la fin de la rétention et la durée de celle-ci.
+
+Ce procès-verbal est présenté à la signature de l'intéressé. Si ce dernier refuse de le signer, mention est faite du refus et
+des motifs de celui-ci.
+
+Le procès-verbal est transmis au procureur de la République, copie en ayant été remise à l'intéressé dans le cas prévu par
+l'alinéa suivant.
+
+Si elle n'est suivie à l'égard de la personne qui a été retenue d'aucune procédure d'enquête ou d'exécution adressée à
+l'autorité judiciaire, la vérification d'identité ne peut donner lieu à une mise en mémoire sur fichiers et le procès-verbal
+ainsi que toutes les pièces se rapportant à la vérification sont détruits dans un délai de six mois sous le contrôle du
+procureur de la République.
+
+Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée à l'autorité judiciaire et assortie du maintien en
+garde à vue, la personne retenue doit être aussitôt informée de son droit de faire aviser le procureur de la République de la
+mesure dont elle fait l'objet.
+
+Les prescriptions énumérées au présent article sont imposées à peine de nullité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Créé par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+_Modifié par_:
+
+  - Loi n°86-1004 1986-09-03 art. 3 JORF 4 septembre 1986
+
+_Cité par_:
+
+  - Décret n°87-249 du 8 avril 1987 - art. 1 (V)
+  - Décret n°87-249 du 8 avril 1987 - art. 8 (V)
+  - Décret n°87-249 du 8 avril 1987 - art. 8-1 (V)
+  - Décret n°2004-1266 du 25 novembre 2004 - art. 1 (Ab)
+  - Décret n°2004-1266 du 25 novembre 2004 - art. 4 (Ab)
+  - Loi n°2009-1436 du 24 novembre 2009 - art. 12-1 (V)
+  - Ordonnance n°2017-157 du 9 février 2017 - art. 4 (VD)
+  - CODE DE PROCEDURE PENALE - art. 171 (M)
+  - Code de commerce - art. L450-3-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-8 (V)
+  - Code de l'environnement - art. L172-7 (VD)
+  - Code de la consommation - art. L215-3-3 (VT)
+  - Code de la consommation - art. L512-13 (VD)
+  - Code de procédure pénale - art. 78-4 (V)
+  - Code de procédure pénale - art. 78-5 (V)
+  - Code de procédure pénale - art. 78-6 (V)
+  - Code des douanes - art. 67-1 (V)
+  - Code des ports maritimes - art. L345-6 (VT)
+  - Code des transports - art. L5336-7 (VD)
+  - Code forestier (nouveau) - art. L161-14 (VD)
+  - Code général de la propriété des personnes publ... - art. L2132-23 (VT)
+  - Code rural et  de la pêche maritime - art. L942-3 (V)
+  - Loi du 15 juillet 1845 - art. 23 (Ab)
+
+_Cite_:
+
+  - Code de procédure pénale 62 et 78-2
+
+
 ###### Article 78-4
 
 La durée de la rétention prévue par l'article précédent s'impute, s'il y a lieu, sur celle de la garde à vue.
@@ -3778,6 +4000,35 @@ _Créé par_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 78-4 (M)
+
+
+###### Article 78-5
+
+Seront punis d'un emprisonnement de dix jours à trois mois et d'une amende de 500 à 15 000 F ceux qui auront refusé de se
+prêter aux prises d'empreintes digitales ou de photographies autorisées par le procureur de la République ou le juge
+d'instruction, conformément aux dispositions de l'article 78-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Créé par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 21 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+_Modifié par_:
+
+  - Loi n°86-1004 1986-09-03 art. 5 JORF 4 septembre 1986
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 
 ### Titre III : Des juridictions d'instruction<a id=24></a>
