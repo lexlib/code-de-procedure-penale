@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-07-27
+Version Consolidée au 2000-08-18
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -70545,7 +70545,7 @@ Le Président de la République ;
 Les membres du Gouvernement (Premier ministre, ministres et secrétaires d'Etat), en particulier le garde des sceaux, ministre
 de la justice ;
 
-Le Médiateur ;
+le Médiateur de la République et ses délégués départementaux ;
 
 Le directeur du cabinet du ministre de la justice, l'inspecteur général des services judiciaires, le chef de l'inspection des
 services pénitentiaires, les directeurs du ministère de la justice et les magistrats et fonctionnaires de ces directions ;
@@ -70618,12 +70618,6 @@ IV. - Doivent être assimilés aux autorités françaises :
 
 Les députés au Parlement européen ;
 
-Le président de la Commission européenne des droits de l'homme de Strasbourg ;
-
-Le secrétariat de la Commission européenne des droits de l'homme ;
-
-Tous membres de la Commission européenne des droits de l'homme ;
-
 Le président de la Cour européenne des droits de l'homme ;
 
 Le greffe de la Cour européenne des droits de l'homme ;
@@ -70638,7 +70632,15 @@ Conseil de l'Europe, Strasbourg ;
 
 Le président du Tribunal communautaire de première instance, Luxembourg ;
 
-Le président de la Cour de justice des Communautés européennes, Luxembourg.
+Le président de la Cour de justice des Communautés européennes, Luxembourg ;
+
+Le président du Comité des Nations unies contre la torture, Genève ;
+
+Tous membres du Comité des Nations unies contre la torture, Genève ;
+
+Le président du Comité des droits de l'homme, Genève ;
+
+Tous membres du Comité des droits de l'homme, Genève.
 
 **Liens relatifs à cet article**
 
@@ -70648,7 +70650,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1997-05-12 art. 1 JORF 28 mai 1997
+  - Arrêté 2000-03-15 art. 1 JORF 18 août 2000
 
 _Cité par_:
 
