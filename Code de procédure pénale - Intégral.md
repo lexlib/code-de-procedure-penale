@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-04-25
+Version Consolidée au 1997-05-28
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -491,19 +491,21 @@ Version Consolidée au 1997-04-25
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#488)
           - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#489)
           - [Section 5 (art. A39-1 à A39-2)](#490)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#491)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#492)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#493)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#494)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#495)
-      - [Titre IV : Du sursis (art. A45 à A52)](#496)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#497)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#498)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#499)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#500)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#501)
-        - [Disposition générale (art. A53)](#502)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#503)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#491)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#492)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#493)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#494)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#495)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#496)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#497)
+      - [Titre IV : Du sursis (art. A45 à A52)](#498)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#499)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#500)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#501)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#502)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#503)
+        - [Disposition générale (art. A53)](#504)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#505)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -42450,7 +42452,7 @@ c) Pour l'examen clinique et la prise de sang prévus aux articles R. 20 à R. 2
 
 - auxquels il est procédé les dimanches et jours fériés ... C 1,5 (plus une indemnité de 50 F).
 
-d) Pour chaque examen prévu par l'article L. 627-1 du Code de la santé publique ... C 2
+d) Pour chaque examen prévu par l'article 706-29 du code de procédure pénale ... C 2
 
 2° Pour un transport sur les lieux et description de cadavre ... C 2,5
 
@@ -42481,16 +42483,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°60-897 1960-08-24 art. 1 JORF 25 août 1960
-  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
-  - Décret n°79-235 1979-03-19 art. 3 JORF 25 mars 1979
+  - Décret n°97-525 du 26 mai 1997 - art. 1 () JORF 28 mai 1997
 
 _Cité par_:
 
@@ -42508,14 +42503,14 @@ _Cité par_:
   - Code de procédure pénale - art. R93-3 (V)
   - Code des débits de boissons et des mesures contre  - art. R*29 (Ab)
 
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-29 (M)
+  - Code des débits de boissons R20 à R25
+
 **Liens**:
 
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
-
-_Cite_:
-
-  - Code des débits de boissons R20 à R25
-  - Code de la santé publique - art. L627-1 (M)
 
 
 ##### c) Toxicologie<a id=274></a>
@@ -42525,7 +42520,9 @@ _Cite_:
 Les analyses toxicologiques sont ainsi cotées, pour chaque expert, lorsque les dosages de plusieurs éléments ne peuvent être
 groupés en une seule opération :
 
-1° Pour recherche et dosage de l'alcool dans le sang ... B 50
+1° Pour recherche et dosage de l'alcool dans le sang : B 50 ;
+
+Et, en cas de recours à la chromatographie en phase gazeuse : B 120
 
 2° Dosage de l'oxycarbonémie ... B 50
 
@@ -42539,8 +42536,9 @@ groupés en une seule opération :
 
 7° Expertise toxicologique complète ... B 1500
 
-8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60 9° Recherche et dosage des stupéfiants dans le
-sang ou les urines ... B 150.
+8° Recherche et dosage des amphétamines dans le sang ou les urines ... B 60
+
+9° Recherche et dosage des stupéfiants dans le sang ou les urines ... B 150.
 
 **Liens relatifs à cet article**
 
@@ -42548,15 +42546,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°67-62 1967-01-14 art. 1 JORF 20 janvier 1967
-  - Décret n°72-436 1972-05-29 art. 1 JORF 30 mai 1972
-  - Décret n°79-235 1979-03-19 art. 4 JORF 25 mars 1979
+  - Décret n°97-525 du 26 mai 1997 - art. 2 () JORF 28 mai 1997
 
 _Cité par_:
 
@@ -64488,11 +64480,164 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=491></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=491></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=492></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=492></a>
 
-##### Paragraphe 1er : Pécule.<a id=493></a>
+###### Article A40
+
+La liste des autorités administratives et judiciaires avec lesquelles les détenus peuvent correspondre sous pli fermé, en
+application de l'article D. 262, est fixée comme suit :
+
+I. - Les autorités administratives et judiciaires françaises :
+
+Le Président de la République ;
+
+Les membres du Gouvernement (Premier ministre, ministres et secrétaires d'Etat), en particulier le garde des sceaux, ministre
+de la justice ;
+
+Le Médiateur ;
+
+Le directeur du cabinet du ministre de la justice, l'inspecteur général des services judiciaires, le chef de l'inspection des
+services pénitentiaires, les directeurs du ministère de la justice et les magistrats et fonctionnaires de ces directions ;
+
+Les préfets et les sous-préfets ;
+
+Les maires du domicile du détenu et du lieu de détention ;
+
+Le président de la commission de surveillance de l'établissement où est incarcéré le détenu ;
+
+Les présidents des assemblées parlementaires (Sénat, Assemblée nationale) ;
+
+Les députés et sénateurs ;
+
+Les députés français au Parlement européen ;
+
+Le premier président et le procureur général de la Cour de cassation ;
+
+Le président de la Cour de justice de la République ;
+
+Les premiers présidents des cours d'appel et les procureurs généraux près les cours d'appel ;
+
+Les présidents de chambre d'accusation ;
+
+Les présidents des tribunaux de grande instance et les procureurs de la République près les tribunaux de grande instance ;
+
+Les présidents des tribunaux d'instance ;
+
+Les juges d'instruction ;
+
+Les juges des tutelles ;
+
+Les juges des enfants ;
+
+Les juges de l'application des peines ;
+
+Les juges aux affaires familiales ;
+
+Le vice-président du Conseil d'Etat ;
+
+Les présidents des cours administratives d'appel ;
+
+Les présidents des tribunaux administratifs ;
+
+Le président de la commission d'accès aux documents administratifs ;
+
+Les directeurs régionaux des services pénitentiaires ;
+
+Le chef de l'inspection générale des affaires sociales ;
+
+Les médecins inspecteurs des directions départementales des affaires sanitaires et sociales (DDASS) ;
+
+Les médecins inspecteurs des directions régionales des affaires sanitaires et sociales (DRASS) ;
+
+Les directeurs d'établissement de santé.
+
+II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
+
+Le directeur général de la gendarmerie nationale ;
+
+Les généraux commandant les régions militaires ;
+
+Les commandants de l'unité dont relève le détenu.
+
+III. - Doit être assimilée à ces autorités :
+
+L'épouse du Président de la République.
+
+IV. - Doivent être assimilés aux autorités françaises :
+
+Les députés au Parlement européen ;
+
+Le président de la Commission européenne des droits de l'homme de Strasbourg ;
+
+Le secrétariat de la Commission européenne des droits de l'homme ;
+
+Tous membres de la Commission européenne des droits de l'homme ;
+
+Le président de la Cour européenne des droits de l'homme ;
+
+Le greffe de la Cour européenne des droits de l'homme ;
+
+Tous membres de la Cour européenne des droits de l'homme ;
+
+Le président du Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants au
+Conseil de l'Europe, Strasbourg ;
+
+Tous membres du Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants au
+Conseil de l'Europe, Strasbourg ;
+
+Le président du Tribunal communautaire de première instance, Luxembourg ;
+
+Le président de la Cour de justice des Communautés européennes, Luxembourg.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1997-05-12 art. 1 JORF 28 mai 1997
+
+_Cité par_:
+
+  - Arrêté du 25 avril 2008 - art. 2 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D262. (M)
+
+
+###### Article A40-1
+
+Les courriers doivent être adressés, par les détenus, à l'adresse professionnelle ou fonctionnelle des autorités
+administratives et judiciaires.
+
+Les courriers adressés par les autorités administratives et judiciaires françaises ou assimilées doivent clairement indiquer
+la qualité de leur expéditeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1997-05-12 art. 1 JORF 28 mai 1997
+
+_Cité par_:
+
+  - Arrêté du 25 avril 2008 - art. 2 (V)
+
+
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=493></a>
+
+##### Section 1 : De la gestion des biens des détenus<a id=494></a>
+
+##### Paragraphe 1er : Pécule.<a id=495></a>
 
 ###### Article A41
 
@@ -64641,9 +64786,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=494></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=496></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=495></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=497></a>
 
 ###### Article A43
 
@@ -64702,13 +64847,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=496></a>
+### Titre IV : Du sursis<a id=498></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=497></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=499></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=498></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=500></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=499></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=501></a>
 
 ###### Article A45
 
@@ -64769,7 +64914,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=500></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=502></a>
 
 ###### Article A48
 
@@ -64870,9 +65015,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=501></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=503></a>
 
-#### Disposition générale<a id=502></a>
+#### Disposition générale<a id=504></a>
 
 ###### Article A53
 
@@ -64890,7 +65035,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=503></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=505></a>
 
 ###### Article A54
 
