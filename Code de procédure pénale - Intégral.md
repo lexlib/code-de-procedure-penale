@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1998-10-01
+Version Consolidée au 1998-11-19
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1565,21 +1565,30 @@ nominativement désignés par arrêté des ministres de la justice et de la déf
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
 fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale, nominativement désignés par
-arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission.
+arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission ;
 
-La composition des commissions prévues aux 2° et 3° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
+4° Les fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins trois ans de services
+dans ce corps, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme de la
+commission mentionnée au 3°.
+
+La composition des commissions prévues aux 2° à 4° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
 ministre de la justice et des ministres intéressés.
 
 Ont également la qualité d'officier de police judiciaire les personnes exerçant des fonctions de directeur ou sous-directeur
 de la police judiciaire relevant du ministre de l'intérieur et de directeur ou sous-directeur de la gendarmerie au ministère
 des armées.
 
-Les fonctionnaires mentionnés aux 2° et 3° ci-dessus ne peuvent exercer effectivement les attributions attachées à leur
+Les fonctionnaires mentionnés aux 2° à 4° ci-dessus ne peuvent exercer effectivement les attributions attachées à leur
 qualité d'officier de police judiciaire ni se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
 exercice et en vertu d'une décision du procureur général près la cour d'appel les y habilitant personnellement. L'exercice de
 ces attributions est momentanément suspendu pendant le temps où ils participent, en unité constituée, à une opération de
 maintien de l'ordre. Lorsqu'ils appartiennent à un service dont la compétence excède le ressort de la cour d'appel, la
 décision d'habilitation est prise par le procureur général près la cour d'appel du siège de leur fonction.
+
+Toutefois, les fonctionnaires visés au 4° ne peuvent recevoir l'habilitation prévue à l'alinéa précédent que s'ils sont
+affectés soit dans un service ou une catégorie de services déterminés en application de l'article 15-1 et figurant sur une
+liste fixée par arrêté des ministres de la justice et de l'intérieur, soit, à titre exclusif, dans une formation d'un service
+mentionnée par le même arrêté.
 
 Les conditions d'octroi, de retrait et de suspension pour une durée déterminée de l'habilitation prévue par le précédent
 alinéa sont fixées par décret en Conseil d'Etat pris sur le rapport du ministre de la justice et des ministres intéressés.
@@ -1664,7 +1673,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 20 () JORF 23 juillet 1996
+  - Loi n°98-1035 1998-11-18 art. 1 JORF 19 novembre 1998
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 15-1 (M)
 
 
 ###### Article 16-1
