@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-09-23
+Version Consolidée au 2003-10-02
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -45810,9 +45810,9 @@ police urbaine des circonscriptions de sécurité publique sont compétents pour
 gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les
 départements limitrophes.
 
-Toutefois, les officiers et agents de police judiciaire appartenant au service de la préfecture de police chargé de la
-surveillance du métropolitain et du réseau express régional sont compétents pour opérer sur l'ensemble des lignes, stations,
-gares, arrêts et couloirs de ceux-ci.
+Toutefois, les officiers et agents de police judiciaire affectés au service de police déconcentré chargé, en coordination
+avec les exploitants, de la sécurité des personnes et des biens sur les réseaux de transport en commun de voyageurs par voie
+ferrée sont compétents pour opérer sur toute l'étendue de la région d'Ile-de-France.
 
 **Liens relatifs à cet article**
 
@@ -45822,7 +45822,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-737 du 27 août 1999 - art. 1 () JORF 31 août 1999
+  - Décret n°2003-932 du 1 octobre 2003 - art. 2 () JORF 2 octobre 2003
 
 _Cité par_:
 
