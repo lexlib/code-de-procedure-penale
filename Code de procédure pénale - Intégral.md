@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1971-04-16
+Version Consolidée au 1971-09-19
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -333,7 +333,7 @@ Version Consolidée au 1971-04-16
             - [Paragraphe 2 : Aide aux indigents (art. D484)](#330)
         - [Chapitre XI : De différentes catégories de détenus (art. D487 à D514)](#331)
           - [Section 1 : Des condamnés de police (art. D488)](#332)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D497 à D504)](#333)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D496 à D504)](#333)
           - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#334)
           - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#335)
           - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514)](#336)
@@ -353,18 +353,20 @@ Version Consolidée au 1971-04-16
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#350)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#351)
     - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#352)
-      - [Titre II : De la détention (art. A39-1 à A40)](#353)
+      - [Titre II : De la détention (art. A39-1 à A43-1)](#353)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#354)
           - [Section 5 (art. A39-1 à A39-2)](#355)
         - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#356)
           - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#357)
-      - [Titre IV : Du sursis (art. A50 à A51)](#358)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#359)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#360)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#361)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#362)
-        - [Disposition générale (art. A53)](#363)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#364)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#358)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#359)
+      - [Titre IV : Du sursis (art. A50 à A51)](#360)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#361)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#362)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#363)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#364)
+        - [Disposition générale (art. A53)](#365)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#366)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -24405,6 +24407,30 @@ _Cite_:
 
 ##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=333></a>
 
+###### Article D496
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°60-898 1960-08-24 art. 1 JORF 25 août 1960
+  - Décret n°71-769 1971-09-16 art. 1 JORF 19 septembre 1971
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Abrogé par_:
+
+  - Décret n°75-972 1975-10-23 art. 1 JORF 24 octobre 1975
+
+
 ###### Article D497
 
 [Article abrogé].
@@ -25765,13 +25791,74 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-### Titre IV : Du sursis<a id=358></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=358></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=359></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=359></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=360></a>
+###### Article A43
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=361></a>
+La commission consultative du régime spécial institué à l'article D. 490 est composée ainsi qu'il suit : 
+
+1° Un conseiller à la Cour de cassation, président ; 
+
+Un conseiller à ladite cour, président suppléant ; 
+
+2° Un membre de l'Institut ; 
+
+3° Un membre du Conseil d'Etat ; un membre dudit conseil, suppléant ; 
+
+4° Le bâtonnier de l'ordre des avocats près la cour d'appel de Paris ou son représentant ; 
+
+5° Le directeur des affaires criminelles et des grâces au ministère de la justice ou son représentant ; 
+
+6° Le directeur de l'administration pénitentiaire au ministère de la justice ou son représentant ; 
+
+7° Un conseiller référendaire à la Cour de cassation ; 
+
+Un conseiller référendaire à ladite cour, suppléant. 
+
+Les présidents et membres visés aux 1°, 2°, 3° et 7° sont désignés par arrêté du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
+
+_Cite_:
+
+  - Code de procédure pénale - art. D490 (V)
+
+
+###### Article A43-1
+
+La commission établit son règlement intérieur.
+
+Elle peut faire appel, à titre de rapporteurs, à des magistrats du ministère de la justice non membres de la commission,
+lesquels n'ont pas voix délibérative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
+
+
+### Titre IV : Du sursis<a id=360></a>
+
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=361></a>
+
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=362></a>
+
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=363></a>
 
 ###### Article A50
 
@@ -25812,9 +25899,9 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=362></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=364></a>
 
-#### Disposition générale<a id=363></a>
+#### Disposition générale<a id=365></a>
 
 ###### Article A53
 
@@ -25832,7 +25919,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=364></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=366></a>
 
 ###### Article A56
 
