@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1997-03-31
+Version Consolidée au 1997-04-25
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -4632,14 +4632,18 @@ L'identité de toute personne, quel que soit son comportement, peut également �
 premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le
-19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, [Dispositions déclarées non conformes à la Constitution par
-décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] ainsi que dans les zones accessibles au public des ports,
-aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté [Dispositions déclarées
-non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993] l'identité de toute
+19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, (Dispositions déclarées non conformes à la Constitution par
+décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) ainsi que dans les zones accessibles au public des ports,
+aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées
+non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute
 personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des
 obligations de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle
 d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de
 nullité des procédures incidentes.
+
+Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt
+kilomètres en-deçà, l'identité de toute personne peut être contrôlée, selon les modalités prévues au premier alinéa, en vue
+de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus par la loi.
 
 **Liens relatifs à cet article**
 
@@ -4690,12 +4694,65 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1027 du 24 août 1993 - art. 34 () JORF 29 août 1993
+  - Loi n°97-396 du 24 avril 1997 - art. 18 () JORF 25 avril 1997
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - Code de procédure pénale 20, 21-1°
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+
+###### Article 78-2-1
+
+Sur réquisitions du procureur de la République, les officiers de police judiciaire et, sur l'ordre ou la responsabilité de
+ceux-ci, les agents de police judiciaire et agents de police judiciaire adjoints mentionnés aux articles 20 et 21 (1°) sont
+habilités à entrer dans les lieux à usage professionnel, ainsi que dans leurs annexes et dépendances, sauf s'ils constituent
+un domicile, où sont en cours des activités de construction, de production, de transformation, de réparation, de prestation
+de services ou de commercialisation, en vue :
+
+- de s'assurer que ces activités ont donné lieu à l'immatriculation au répertoire des métiers ou au registre du commerce et
+des sociétés lorsqu'elle est obligatoire, ainsi qu'aux déclarations exigées par les organismes de protection sociale et
+l'administration fiscale ;
+
+- de se faire présenter le registre unique du personnel et les documents attestant que les déclarations préalables à
+l'embauche ont été effectuées ;
+
+- de contrôler l'identité des personnes occupées, dans le seul but de vérifier qu'elles figurent sur le registre ou qu'elles
+ont fait l'objet des déclarations mentionnées à l'alinéa précédent.
+
+Les réquisitions du procureur de la République sont écrites et précisent les infractions, parmi celles visées aux articles L.
+324-9 et L. 341-6 du code du travail, qu'il entend faire rechercher et poursuivre, ainsi que les lieux dans lesquels
+l'opération de contrôle se déroulera. Ces réquisitions sont prises pour une durée maximum d'un mois et sont présentées à la
+personne disposant des lieux ou à celle qui la représente.
+
+Les mesures prises en application des dispositions prévues au présent article font l'objet d'un procès-verbal remis à
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 8 (Ab)
+  - Ordonnance n°2000-373 du 26 avril 2000 - art. 8 (VT)
+  - Ordonnance n°2000-371 du 26 avril 2000 - art. 8 (V)
+  - Ordonnance n°2000-372 du 26 avril 2000 - art. 9 (V)
+  - Ordonnance n°2002-388 du 20 mars 2002 - art. 9 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L611-1 (V)
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°97-396 du 24 avril 1997 - art. 19 () JORF 25 avril 1997
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
+  - Code du travail - art. L324-9 (M)
+  - Code du travail - art. L341-6 (M)
 
 
 ###### Article 78-3
