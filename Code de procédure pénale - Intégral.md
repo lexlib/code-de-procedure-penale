@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2001-04-08
+Version Consolidée au 2001-05-10
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -850,19 +850,18 @@ _Créé par_:
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant par ses statuts de
 combattre les discriminations fondées sur le sexe ou sur les moeurs, peut exercer les droits reconnus à la partie civile en
 ce qui concerne les discriminations réprimées par les articles 225-2 et 432-7 du code pénal, lorsqu'elles sont commises en
-raison du sexe, de la situation de famille ou des moeurs de la victime, et par l'article L. 123-1 du code du travail.
+raison du sexe, de la situation de famille ou des moeurs de la victime, et par l'article L. 123-1 du code du travail. 
 
 Toutefois, en ce qui concerne les infractions aux dispositions du dernier alinéa de l'article L. 123-1 du code du travail et
-aux quatre derniers alinéas de l'article 6 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
-fonctionnaires, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord écrit de la personne
-intéressée, ou, si celle-ci est mineure et après l'avis de cette dernière, celui du titulaire de l'autorité parentale ou du
-représentant légal.
+à l'article 6 ter de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, l'association ne
+sera recevable dans son action que si elle justifie avoir reçu l'accord écrit de la personne intéressée, ou, si celle-ci est
+mineure et après l'avis de cette dernière, celui du titulaire de l'autorité parentale ou du représentant légal.
 
 L'association peut également exercer les droits reconnus à la partie civile en cas d'atteintes volontaires à la vie ou à
-l'intégrité de la personne et de destructions, dégradations et détériorations réprimées par les articles 221-1 à 221-4, 222-1
-à 222-18 et 322-1 à 322-13 du code pénal, lorsque ces faits ont été commis en raison du sexe ou des moeurs de la victime, dès
-lors qu'elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé, celui de son
-représentant légal.
+l'intégrité de la personne et de destructions, dégradations et détériorations réprimées par les articles 221-1 à 221-4, 
+222-1 à 222-18 et 322-1 à 322-13 du code pénal, lorsque ces faits ont été commis en raison du sexe ou des moeurs de la
+victime, dès lors qu'elle justifie avoir reçu l'accord de la victime ou, si celle-ci est un mineur ou un majeur protégé,
+celui de son représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -872,15 +871,16 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°83-634 1983-07-13 art. 6
-  - Code pénal - art. 225-2 (M)
-  - Code pénal - art. 432-7 (M)
-  - Code pénal 225-2, 432-7, 221-1 à 221-4, 222-1 à 222-18, 322-1 à 322-13
-  - Code du travail - art. L123-1 (M)
+  - Loi n°83-634 du 13 juillet 1983 - art. 6 ter (V)
+  - Code pénal - art. 221-1 (V)
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 225-2 (V)
+  - Code pénal - art. 322-1 (V)
+  - Code pénal - art. 432-7 (V)
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 106 () JORF 16 juin 2000
+  - Loi n°2001-397 du 9 mai 2001 - art. 22 () JORF 10 mai 2001
 
 _Cité par_:
 
