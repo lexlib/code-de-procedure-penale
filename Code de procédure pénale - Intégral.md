@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1990-05-12
+Version Consolidée au 1990-06-15
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -32297,16 +32297,17 @@ _Modifié par_:
 
 ###### Article R41-1
 
-- La liste des jurés suppléants prévue par l'article 264 comprend.
+La liste des jurés suppléants prévue par l'article 264 comprend.
 
 1° Cinq cent cinquante jurés pour la cour d'assises de Paris ;
 
-2° Deux cents jurés pour la cour d'assises des Bouches-du-Rhône, de l'Essonne, des Hauts-de-Seine, du Nord, du Rhône, de la
-Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines ;
+2° Deux cents jurés pour les cours d'assises des Alpes-Maritimes, des Bouches-du-Rhône, de l'Essonne, de la Gironde, des
+Hauts-de-Seine, du Nord, du Rhône, de Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des
+Yvelines ;
 
-3° Cent jurés pour les cours d'assises des Alpes-Maritimes, du Finistère, du Gard, de la Gironde, de la Haute-Garonne,
-D'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, du Pas-de-Calais, de la Réunion, de Seine-et-
-Marne et de Vaucluse ;
+3° Cent jurés pour les cours d'assises du Calvados, de la Corse-du-Sud, de la Haute-Corse, du Finistère, du Gard, de la
+Haute-Garonne, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, de la Meuse, du
+Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, de la Somme, du Var, de Vaucluse et des Vosges ;.
 
 4° Cinquante jurés pour les autres cours d'assises.
 
@@ -32318,7 +32319,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°89-173 1989-03-14 art. 1 JORF 18 mars 1989
+  - Décret n°90-485 du 13 juin 1990 - art. 1 () JORF 15 juin 1990
 
 _Cite_:
 
