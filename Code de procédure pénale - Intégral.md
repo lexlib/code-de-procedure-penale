@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1995-08-24
+Version Consolidée au 1995-09-01
 ## Contenu: 
   - [Partie législative (art. 1 à 901)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -249,7 +249,7 @@ Version Consolidée au 1995-08-24
       - [Titre II : Du jugement des délits (art. R41-2)](#246)
         - [Chapitre Ier : Du tribunal correctionnel (art. R41-2)](#247)
       - [Titre III : Du jugement des contraventions (art. R42 à R50)](#248)
-        - [Chapitre II : Procédure simplifiée (art. R42 à R48-2)](#249)
+        - [Chapitre II : Procédure simplifiée (art. R42 à R48)](#249)
         - [Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée (art. R49 à R49-8)](#250)
         - [Chapitre II ter : Dispositions applicables à certaines infractions au code de la route (art. R49-9 à R49-13)](#251)
         - [Chapitre III : De l'instruction définitive devant le tribunal de police (art. R50)](#252)
@@ -38078,23 +38078,19 @@ _Cite_:
 
 ###### Article R42
 
-A l'expiration du délai d'opposition ouvert au ministère public, le secrétaire-greffier en chef du tribunal de police notifie
-l'ordonnance pénale au contrevenant par une lettre recommandée avec demande d'avis de réception qui comporte les mentions
-prévues à l'article 526 et indique les délais et modalités de paiement et d'opposition fixés aux articles R. 43, R. 44 et R.
-46.
+A l'expiration du délai d'opposition ouvert au ministère public, le chef du greffe de la juridiction notifie l'ordonnance
+pénale au prévenu par une lettre recommandée avec demande d'avis de réception qui comporte les mentions prévues à l'article
+526 et indique les délais et modalités de paiement et d'opposition fixés aux articles R. 43 à R. 46.
 
-Le secrétaire-greffier en chef adresse dans les trois jours au comptable direct du Trésor, en trois exemplaires, un état
-récapitulatif des lettres recommandées envoyées.
+Les magistrats ou officiers du ministère public vérifient les extraits d'ordonnances pénales. Ils vérifient et visent l'état
+récapitulatif des ordonnances pénales, auquel sont joints les extraits mentionnés dans cet état, qui est adressé par le chef
+du greffe au comptable principal du Trésor.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 **Liens**:
 
@@ -38112,24 +38108,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
-  - Décret n°67-488 1967-06-22 art. 1 JORF 25 juin 1967 rectificatif JORF 29 juin 1967
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 526 (M)
-  - CODE DE PROCEDURE PENALE - art. R43 (M)
-  - Code de procédure pénale 526, R43, R44 et R46
+  - Code de procédure pénale 526, R43 à R46
 
 
 ###### Article R43
 
-Dans les trente jours de la date d'envoi de la lettre recommandée, le contrevenant peut acquitter l'amende et les frais de
-justice en versant, en une seule fois, leur montant entre les mains du comptable direct du Trésor, soit en espèces, soit par
-mandat poste, soit par virement au compte de chèques postaux dudit comptable, soit par chèque barré ou virement de banque.
+Dans les trente jours de la date d'envoi de la lettre recommandée, le prévenu doit acquitter l'amende et le droit fixe de
+procédure en versant leur montant entre les mains du comptable direct du Trésor, à moins qu'il ne fasse opposition.
 
-Dans tous les cas, le contrevenant doit, à l'appui du paiement, remettre ou faire parvenir au comptable direct du Trésor la
-lettre de notification ou lui faire connaître les références portées sur celle-ci.
+Dans tous les cas, le prévenu doit, à l'appui du paiement, indiquer au comptable direct du Trésor les références portées sur
+la lettre de notification.
 
 **Liens relatifs à cet article**
 
@@ -38137,9 +38130,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959, rectificatif JORF 13 juin 1959
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 _Cité par_:
 
@@ -38150,16 +38143,11 @@ _Cité par_:
 
   - TXT_SOURCE: Code de procédure pénale 524 à 528-2
 
-_Modifié par_:
-
-  - Décret n°67-488 1967-06-22 art. 1 JORF 25 juin 1967 rectificatif JORF 29 juin 1967
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
-
 
 ###### Article R44
 
-Si deux contraventions ou plus ont donné lieu à une seule ordonnance, le contrevenant doit s'acquitter en un seul versement
-du montant total des amendes et des frais de justice, à moins qu'il ne fasse opposition à l'ordonnance.
+Deux contraventions ou plus peuvent donner lieu à une seule ordonnance ; dans ce cas, le prévenu acquitte une seule fois le
+droit fixe de procédure.
 
 **Liens relatifs à cet article**
 
@@ -38167,13 +38155,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 **Liens**:
 
@@ -38182,9 +38166,19 @@ _Modifié par_:
 
 ###### Article R45
 
-Quarante jours au plus tard à compter de l'envoi de la dernière en date des lettres recommandées qui figurent sur l'état
-récapitulatif prévu à l'alinéa 2 de l'article R. 42, le comptable donne avis au secrétaire-greffier en chef des paiements
-régulièrement faits, par renvoi d'un exemplaire dudit état émargé par duplication.
+L'opposition faite par le prévenu, dans les délais prévus soit au troisième soit au cinquième alinéa de l'article 527, doit
+être formée :
+
+- soit par lettre adressée au chef du greffe du tribunal qui a rendu la décision attaquée. La lettre doit être expédiée dans
+le délai prescrit, le cachet de la poste faisant foi ;
+
+- soit par une déclaration verbale faite au chef du greffe, enregistrée et signée par celui-ci et par le prévenu lui-même ou
+par un avocat ou un fondé de pouvoir spécial. Le pouvoir est annexé à l'acte dressé par le chef du greffe.
+
+Dans les deux cas, le prévenu doit, à l'appui de l'opposition, remettre ou adresser au chef du greffe la lettre de
+notification ou lui faire connaître les références portées sur celle-ci.
+
+Les déclarations d'opposition sont inscrites sur un registre.
 
 **Liens relatifs à cet article**
 
@@ -38192,13 +38186,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 527 (M)
 
 _Cité par_:
 
@@ -38209,27 +38203,11 @@ _Cité par_:
 
   - TXT_SOURCE: Code de procédure pénale 524 à 528-2
 
-_Cite_:
-
-  - Code de procédure pénale R42 al. 2
-
 
 ###### Article R46
 
-L'opposition faite par le contrevenant dans les délais prévus soit aux troisième et quatrième alinéas, soit au sixième alinéa
-de l'article 527 doit être formée :
-
-Soit par lettre adressée au secrétaire-greffier en chef du tribunal qui a rendu la décision attaquée. La lettre doit être
-expédiée dans le délai prescrit, le cachet de la poste faisant foi ;
-
-Soit par une déclaration verbale faite au secrétaire-greffier en chef enregistrée et signée par celui-ci et par le
-contrevenant lui-même ou par un avocat ou un fondé de pouvoir spécial. Le pouvoir est annexé à l'acte dressé par le
-secrétaire-greffier en chef.
-
-Dans les deux cas, le contrevenant doit, à l'appui de l'opposition, remettre ou adresser au secrétaire-greffier en chef la
-lettre de notification ou lui faire connaître les références portées sur celle-ci.
-
-Les déclarations d'opposition sont inscrites sur un registre.
+En cas d'opposition formée par le prévenu, le chef du greffe avise sans délai le procureur de la République ou l'officier du
+ministère public, et lui transmet les pièces de la procédure.
 
 **Liens relatifs à cet article**
 
@@ -38237,27 +38215,19 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 524 à 528-2
 
-_Cite_:
-
-  - Code de procédure pénale 527 al. 3, al. 4 et al. 6
-
 
 ###### Article R47
 
-En cas d'opposition formée par le prévenu, le secrétaire-greffier en chef avise sans délai le procureur de la République et
-lui transmet les pièces de la procédure.
+A l'expiration du délai d'opposition, le chef du greffe donne avis au comptable direct du Trésor des oppositions reçues et de
+l'annulation des extraits correspondants.
 
 **Liens relatifs à cet article**
 
@@ -38265,13 +38235,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
+  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 **Liens**:
 
@@ -38280,12 +38246,8 @@ _Modifié par_:
 
 ###### Article R48
 
-Si le contrevenant n'a pas payé l'amende et les frais de justice et s'il n'a pas formé opposition dans le délai fixé à
-l'article 527 (alinéas 3 et 4), l'ordonnance pénale est mise à exécution.
-
-Le recouvrement est effectué au vu d'un extrait de l'ordonnance établi par le secrétaire-greffier en chef du tribunal de
-police, sur une formule dont le modèle est arrêté par le garde des sceaux, ministre de la justice, et par le ministre de
-l'Economie et des Finances.
+Le comptable direct du Trésor procède au recouvrement de l'ordonnance pénale à l'expiration du délai de trente jours à
+compter de la date d'envoi de la lettre recommandée prévue à l'article R. 42, à moins qu'il ne soit fait opposition.
 
 **Liens relatifs à cet article**
 
@@ -38293,131 +38255,21 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Cité par_:
 
   - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
 
 _Modifié par_:
-
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 524 à 528-2
-
-_Cite_:
-
-  - Code de procédure pénale 527 al. 3 et al. 4
-
-
-###### Article R48-1
-
-Les magistrats ou officiers du ministère public vérifient les extraits. Ils vérifient et visent le bordereau d'envoi de ces
-documents, adressé par le secrétaire-greffier en chef aux services du Trésor.
-
-Le délai d'envoi des extraits d'ordonnances pénales est fixé à trente-cinq jours à compter de la date à laquelle le
-secrétaire-greffier en chef aura eu connaissance, par la réception de l'avis prévu à l'article R. 45, du non-paiement de
-l'amende et des frais de justice.
-
-Le recouvrement est opéré suivant les règles établies pour l'exécution des sentences pénales.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Cité par_:
-
-  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
-  - Décret n°2011-348 du 29 mars 2011 - art. 2 (V)
-  - Décret n°2012-343 du 9 mars 2012 (V)
-  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
-  - Décret n°2019-725 du 9 juillet 2019 - art. 1
-  - Décret n°2019-1114 du 30 octobre 2019 - art. 4 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
-  - Code de l'environnement - art. R*242-78 (Ab)
-  - Code de l'environnement - art. R322-42 (V)
-  - Code de l'environnement - art. R331-72 (M)
-  - Code de l'environnement - art. R331-74 (V)
-  - Code de l'environnement - art. R332-79 (V)
-  - Code de procédure pénale - art. R251 (VD)
-  - Code des postes et des communications électroni... - art. R10-11 (V)
-  - Code des postes et des communications électronique - art. R11 (T)
-
-_Modifié par_:
-
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
-  - Décret n°86-1044 du 18 septembre 1986 - art. 1 () JORF 18 septembre 1986
-
-_Abrogé par_:
 
   - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. R45 (M)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de l'environnement - art. R322-42 (V)
-
-
-###### Article R48-2
-
-Si le contrevenant forme opposition dans le délai fixé à l'article 527 (alinéa 6), le procureur de la République informe
-immédiatement le comptable direct du Trésor de l'annulation de l'extrait correspondant.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Cité par_:
-
-  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
-  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
-
-_Modifié par_:
-
-  - Décret n°72-471 1972-06-12 art. 1 JORF 13 juin 1972
-  - Décret n°83-1155 1983-12-23 art. 2 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
-  - Décret n°86-1044 du 18 septembre 1986 - art. 1 () JORF 18 septembre 1986
-
-_Abrogé par_:
-
-  - Décret n°95-457 du 26 avril 1995 - art. 1 () JORF 28 avril 1995 en vigueur le 1er septembre 1995
+  - CODE DE PROCEDURE PENALE - art. R42 (M)
 
 **Liens**:
 
   - TXT_SOURCE: Code de procédure pénale 524 à 528-2
-
-_Cite_:
-
-  - Code de procédure pénale 527 al. 6
 
 
 #### Chapitre II bis : Amende forfaitaire et amende forfaitaire majorée<a id=250></a>
