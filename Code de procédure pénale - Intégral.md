@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1964-03-19
+Version Consolidée au 1964-05-16
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -252,13 +252,13 @@ Version Consolidée au 1964-03-19
           - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D179)](#249)
           - [Section 4 : De la commission de surveillance (art. D181)](#250)
           - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#251)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D234)](#252)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#252)
           - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D195)](#253)
           - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#254)
             - [Paragraphe 1er : Attributions particulières (art. D199 à D215)](#255)
             - [Paragraphe 2 : Dispositions générales (art. D218 à D228)](#256)
           - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#257)
-          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234)](#258)
+          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#258)
         - [Chapitre V : De la discipline et de la sécurité des prisons (art. D242 à D283)](#259)
           - [Section 1 : De la police intérieure (art. D242 à D247)](#260)
           - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#261)
@@ -19184,6 +19184,146 @@ _Codifié par_:
 
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
   - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
+
+###### Article D235
+
+Le conseil supérieur de l'administration pénitentiaire délibère soit en commission, soit en assemblée générale sur les
+questions relevant de la compétence de la direction de l'administration pénitentiaire et qui sont soumises à son examen par
+le ministre de la justice.
+
+Il formule des avis et établit des rapports soumis à l'agrément du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+
+###### Article D236
+
+Le conseil supérieur de l'administration pénitentiaire est composé :
+
+Du garde des sceaux, ministre de la justice, président ;
+
+Du directeur de l'administration pénitentiaire, rapporteur général ;
+
+De membres de droit ;
+
+De membres désignés ;
+
+D'un secrétaire choisi parmi les magistrats en fonctions à la direction de l'administration pénitentiaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+
+###### Article D238
+
+Un arrêté du ministre de la justice désigne le président et les membres du conseil supérieur de l'administration
+pénitentiaire, siégeant en commission, ainsi que le secrétaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
+###### Article D239
+
+Le conseil supérieur se réunit en assemblée générale au moins une fois par an au ministère de la justice, sur convocation de
+son président.
+
+Il est convoqué en commission au moins une fois par semestre, par le ministère de la justice, sur la proposition soit du
+président de commission, soit du rapporteur général.
+
+Ses avis et rapports sont adoptés à la majorité des membres présents. En cas de partage, la voix du président est
+prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Abrogé par_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
+
+
+###### Article D240
+
+Le secrétariat du conseil supérieur de l'administration pénitentiaire est chargé de l'organisation des réunions du conseil
+supérieur siégeant en assemblée générale ou en commission.
+
+Il établit les procès-verbaux et en assure la diffusion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+_Modifié par_:
+
+  - Décret n°64-421 1964-05-14 art. 1 JORF 16 mai 1964
 
 _Abrogé par_:
 
