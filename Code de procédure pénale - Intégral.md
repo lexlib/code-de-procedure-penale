@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-03-15
+Version Consolidée au 2003-03-19
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1246,6 +1246,34 @@ _Créé par_:
   - Loi n°2000-516 du 15 juin 2000 - art. 108 () JORF 16 juin 2000
 
 
+###### Article 2-20
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits qui se propose, par ses statuts, de
+défendre les intérêts moraux et matériels des locataires, propriétaires et bailleurs d'immeubles collectifs à usage
+d'habitation peut exercer les droits reconnus à la partie civile en cas d'atteintes volontaires à l'intégrité de la personne
+ou de destructions, dégradations et détériorations réprimées par les articles 222-1 à 222-18 et 322-1 à 322-13 du code pénal
+lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée et que l'infraction a été
+commise dans un immeuble faisant partie de son objet associatif. 
+
+Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si
+celle-ci est un mineur ou un majeur protégé, celui de son représentant légal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 63 () JORF 19 mars 2003
+
+_Cite_:
+
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 322-1 (V)
+
+
 ###### Article 3
 
 L'action civile peut être exercée en même temps que l'action publique et devant la même juridiction.
@@ -1467,11 +1495,11 @@ En matière de délit, la prescription de l'action publique est de trois années
 distinctions spécifiées à l'article précédent.
 
 Le délai de prescription de l'action publique des délits commis contre des mineurs prévus et réprimés par les articles 222-9,
-222-11 à 222-15, 222-27 à 222-30, 225-7, 227-22 et 227-25 à 227-27 du code pénal ne commence à courir qu'à partir de la
-majorité de ces derniers.
+222-11 à 222-15, 222-27 à 222-30, 225-4-2, 225-7, 225-15, 227-22 et 227-25 à 227-27 du code pénal ne commence à courir qu'à
+partir de la majorité de ces derniers.
 
 Par dérogation aux dispositions du premier alinéa, le délai de prescription est de dix ans lorsque la victime est mineure et
-qu'il s'agit de l'un des délits prévus aux articles 222-30 et 227-26 du code pénal.
+qu'il s'agit de l'un des délits prévus aux articles 222-30, 225-4-2, et 227-26 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -1479,28 +1507,22 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
-  - SPEC_APPLI: Loi n°98-468 du 17 juin 1998 - art. 50 (V)
-
-_Modifié par_:
-
-  - Loi n°98-468 du 17 juin 1998 - art. 26 () JORF 18 juin 1998
-
 _Cité par_:
 
   - Loi n°98-468 du 17 juin 1998 - art. 50 (V)
   - Code de justice militaire. - art. L212-38 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 38 () JORF 19 mars 2003
+
 _Cite_:
 
   - Code pénal - art. 222-9 (M)
+  - Code pénal - art. 225-15 (M)
   - Code pénal - art. 225-7 (M)
   - Code pénal - art. 227-22 (M)
-  - Code pénal - art. 227-26 (MMN)
-  - Code pénal 222-9, 222-11 à 222-15, 222-27 à 222-30, 225-7, 227-22, 227-25 à 227-27, 227-26
-  - CODE DE PROCEDURE PENALE - art. 7 (M)
+  - Code pénal 222-9, 222-11 à 222-15, 222-27 à 222-30, 225-7, 225-15, 227-22, 227-25 à 227-27
 
 
 ###### Article 9
@@ -1758,17 +1780,15 @@ _Cité par_:
 Les catégories de services ou unités dans lesquels les officiers et agents de police judiciaire visés aux sections II et III
 du présent chapitre exercent leurs fonctions habituelles, les modalités de création de ces services ou unités ainsi que leurs
 critères de compétence territoriale sont déterminés par décret en Conseil d'Etat pris sur le rapport du ministre de la
-justice et du ministre intéressé.
+justice et du ministre intéressé. La compétence territoriale de ces services ou unités s'exerce, selon les distinctions
+prévues par ce décret, soit sur l'ensemble du territoire national, soit sur une ou plusieurs zones de défense, ou parties de
+celles-ci, soit sur l'ensemble d'un département.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
-
-_Créé par_:
-
-  - Loi n°94-89 du 1 février 1994 - art. 1 () JORF 2 février 1994 en vigueur le 2 février 1994
 
 _Cité par_:
 
@@ -1784,6 +1804,11 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R15-24 (V)
   - CODE DE PROCEDURE PENALE - art. R15-27 (V)
   - Code de procédure pénale - art. 16 (VD)
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 8 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 8
 
 
 ###### Article 15-2
@@ -1839,8 +1864,9 @@ Ont la qualité d'officier de police judiciaire :
 nominativement désignés par arrêté des ministres de la justice et de la défense, après avis conforme d'une commission ;
 
 3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
-fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale, nominativement désignés par
-arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une commission ;
+fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale, et les fonctionnaires stagiaires
+du corps de commandement et d'encadrement déjà titulaires de cette qualité nominativement désignés par arrêté des ministres
+de la justice et de l'intérieur, après avis conforme d'une commission ;
 
 4° Les fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins trois ans de services
 dans ce corps, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme de la
@@ -1938,21 +1964,20 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 96-647 1996-07-22 art. 27
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1 (V)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1-1 (V)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2 (V)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2-1 (V)
-
 _Modifié par_:
 
-  - Loi n°98-1035 1998-11-18 art. 1 JORF 19 novembre 1998
+  - Loi n°2003-239 du 18 mars 2003 - art. 8 () JORF 19 mars 2003
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 15-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R1-1 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2 (V)
+  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R2-1 (V)
 
 
 ###### Article 16-1
@@ -2091,45 +2116,34 @@ _Cite_:
 
 Les officiers de police judiciaire ont compétence dans les limites territoriales où ils exercent leurs fonctions habituelles.
 
-Les officiers de police judiciaire qui n'exercent pas leurs fonctions habituelles dans l'ensemble du ressort du tribunal de
-grande instance auquel ils sont rattachés peuvent, en cas d'urgence ou de crime ou délit flagrant, opérer dans toute
-l'étendue de ce ressort à l'effet d'y poursuivre leurs investigations et de procéder à des auditions, perquisitions et
-saisies.
+Les officiers de police judiciaire, mis temporairement à disposition d'un service autre que celui dans lequel ils sont
+affectés, ont la même compétence territoriale que celle des officiers de police judiciaire du service d'accueil.
 
 En cas de crime ou délit flagrant, les officiers de police judiciaire peuvent se transporter dans le ressort des tribunaux de
 grande instance limitrophes du tribunal ou des tribunaux auxquels ils sont rattachés, à l'effet d'y poursuivre leurs
 investigations et de procéder à des auditions, perquisitions et saisies. Pour l'application du présent alinéa, les ressorts
-des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un seul et même ressort. 
+des tribunaux de grande instance situés dans un même département sont considérés comme un seul et même ressort. Les ressorts
+des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil sont considérés comme un seul et même ressort.
 
-En cas d'urgence, les officiers de police judiciaire peuvent, sur commission rogatoire expresse du juge d'instruction ou sur
-réquisitions du procureur de la République, prises au cours d'une enquête préliminaire ou d'une enquête de flagrance,
-procéder aux opérations prescrites par ces magistrats sur toute l'étendue du territoire national. Ils sont tenus d'être
-assistés d'un officier de police judiciaire exerçant ses fonctions dans la circonscription intéressée si le magistrat dont
-ils tiennent la commission ou la réquisition le décide. Le procureur de la République territorialement compétent en est
-informé par le magistrat ayant prescrit l'opération.
+Les officiers de police judiciaire peuvent, sur commission rogatoire expresse du juge d'instruction ou sur réquisitions du
+procureur de la République, prises au cours d'une enquête préliminaire ou d'une enquête de flagrance, procéder aux opérations
+prescrites par ces magistrats sur toute l'étendue du territoire national. Ils sont tenus d'être assistés d'un officier de
+police judiciaire territorialement compétent si le magistrat dont ils tiennent la commission ou la réquisition le décide. Le
+procureur de la République territorialement compétent en est informé par le magistrat ayant prescrit l'opération.
 
 Ils peuvent, sur proposition des autorités administratives dont ils dépendent et par habilitation du procureur général,
-recevoir compétence dans les limites territoriales de la circonscription des officiers de police judiciaire qu'ils sont
-appelés à suppléer en cas de besoin.
+recevoir compétence dans les mêmes limites de compétence territoriale que celles des officiers de police judiciaire qu'ils
+sont appelés à suppléer en cas de besoin.
 
-Les officiers ou agents de police judiciaire exerçant leur mission dans des véhicules affectés au transport collectif de
-voyageurs ou dans les lieux destinés à l'accès à ces moyens de transport dont les limites territoriales excèdent le ressort
-de leur circonscription d'affectation sont compétents pour opérer dans ces lieux ou véhicules, dans des conditions
-déterminées par décret en Conseil d'Etat, pris sur le rapport du ministre de la justice et du ministre intéressé.
+Les officiers ou agents de police judiciaire exerçant habituellement leur mission dans les véhicules affectés au transport
+collectif de voyageurs ou dans les lieux destinés à l'accès à ces moyens de transport sont compétents pour opérer sur
+l'étendue de la zone de défense de leur service d'affectation, dans des conditions déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8
-
-_Modifié par_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 54 () JORF 9 février 1995
 
 _Cité par_:
 
@@ -2141,6 +2155,10 @@ _Cité par_:
   - Code de procédure pénale - art. 21-1 (V)
   - Code de procédure pénale - art. 70 (V)
   - Code de procédure pénale - art. D12 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 8 () JORF 19 mars 2003
 
 
 ###### Article 19
@@ -2322,6 +2340,37 @@ _Modifié par_:
   - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
 
 
+###### Article 20-1
+
+Les fonctionnaires de la police nationale et les militaires de la gendarmerie nationale à la retraite ayant eu durant leur
+activité la qualité d'officier ou d'agent de police judiciaire peuvent bénéficier de la qualité d'agent de police judiciaire
+lorsqu'ils sont appelés au titre de la réserve civile de la police nationale ou au titre de la réserve opérationnelle de la
+gendarmerie nationale. Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il précise les
+conditions d'expérience et les qualités requises pour bénéficier de la qualité d'agent de police judiciaire au titre du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 9 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 9
+
+_Cité par_:
+
+  - Décret n°2003-1395 du 31 décembre 2003 - art. 4 (Ab)
+  - Décret n°2011-1372 du 27 octobre 2011 - art. 7 (VT)
+  - Décret n°2013-874 du 27 septembre 2013 - art. 1 (V)
+  - Décret n°2013-874 du 27 septembre 2013 - art. 4 (V)
+  - Code de la sécurité intérieure - art. R411-26 (VD)
+  - Code de procédure pénale - art. 21 (VD)
+  - Code de procédure pénale - art. R15-17-1 (V)
+
+
 ###### Article 21
 
 Sont agents de police judiciaire adjoints :
@@ -2349,6 +2398,9 @@ lois organiques ou spéciales qui leur sont propres ;
 
 De constater par procès-verbal les contraventions aux dispositions du code de la route dont la liste est fixée par décret en
 Conseil d'Etat.
+
+Lorsqu'ils constatent une infraction par procès-verbal, les agents de police judiciaire adjoints peuvent recueillir les
+éventuelles observations du contrevenant.
 
 **Liens relatifs à cet article**
 
@@ -2451,21 +2503,20 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 2001-1062 2001-11-15 art. 71
-  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002
-  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 1 (V)
-  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V)
-
 _Cite_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 36 (M)
   - CODE DE PROCEDURE PENALE - art. 20 (M)
 
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002
+  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 1 (V)
+  - TXT_SOURCE: Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V)
+
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
+  - Loi n°2003-239 du 18 mars 2003 - art. 90 () JORF 19 mars 2003
 
 
 ###### Article 21-1
@@ -2663,9 +2714,9 @@ _Cité par_:
 
 ###### Article 27
 
-Les gardes champêtres des communes adressent leurs procès-verbaux au procureur de la République, par l'intermédiaire du
-commissaire de police ou de l'officier de police, chef des services de sécurité publique de la localité ou, à défaut, du
-commandant de brigade de gendarmerie.
+Les gardes champêtres adressent leurs rapports et leurs procès-verbaux simultanément au maire et, par l'intermédiaire des
+officiers de police judiciaire de la police ou de la gendarmerie nationales territorialement compétents, au procureur de la
+République.
 
 Cet envoi au destinataire doit avoir lieu dans les cinq jours au plus tard, y compris celui où ils ont constaté le fait,
 objet de leur procès-verbal.
@@ -2676,9 +2727,10 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+  - Loi n°2003-239 du 18 mars 2003 - art. 93 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 93
 
 _Cité par_:
 
@@ -4080,6 +4132,37 @@ _Modifié par_:
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 
+###### Article 55-1
+
+L'officier de police judiciaire peut procéder, ou faire procéder sous son contrôle, sur toute personne susceptible de fournir
+des renseignements sur les faits en cause ou sur toute personne à l'encontre de laquelle il existe une ou plusieurs raisons
+plausibles de soupçonner qu'elle a commis ou tenté de commettre l'infraction, aux opérations de prélèvements externes
+nécessaires à la réalisation d'examens techniques et scientifiques de comparaison avec les traces et indices prélevés pour
+les nécessités de l'enquête.
+
+Il procède, ou fait procéder sous son contrôle, aux opérations de signalisation nécessaires à l'alimentation et à la
+consultation des fichiers de police selon les règles propres à chacun de ces fichiers.
+
+Le refus de se soumettre aux opérations de prélèvement ordonnées par l'officier de police judiciaire est puni d'un an
+d'emprisonnement et de 15 000 Euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 30 1° JORF 19 mars 2003
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 154-1 (V)
+  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+  - Code de procédure pénale - art. 76-2 (V)
+
+
 ###### Article 56
 
 Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents ou autres objets en
@@ -4328,6 +4411,39 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 66 (V)
 
 
+###### Article 57-1
+
+Les officiers de police judiciaire ou, sous leur responsabilité, les agents de police judiciaire peuvent, au cours d'une
+perquisition effectuée dans les conditions prévues par le présent code, accéder par un système informatique implanté sur les
+lieux où se déroule la perquisition à des données intéressant l'enquête en cours et stockées dans ledit système ou dans un
+autre système informatique, dès lors que ces données sont accessibles à partir du système initial ou disponibles pour le
+système initial.
+
+S'il est préalablement avéré que ces données, accessibles à partir du système initial ou disponibles pour le système initial,
+sont stockées dans un autre système informatique situé en dehors du territoire national, elles sont recueillies par
+l'officier de police judiciaire, sous réserve des conditions d'accès prévues par les engagements internationaux en vigueur.
+
+Les données auxquelles il aura été permis d'accéder dans les conditions prévues par le présent article peuvent être copiées
+sur tout support. Les supports de stockage informatique peuvent être saisis et placés sous scellés dans les conditions
+prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 17 1° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 17
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 76-3 (V)
+  - Code de procédure pénale - art. 97-1 (V)
+
+
 ###### Article 58
 
 Sous réserve des nécessités des enquêtes, toute communication ou toute divulgation sans l'autorisation de la personne mise en
@@ -4469,6 +4585,72 @@ _Cite_:
   - Code de procédure pénale - art. 157 (V)
   - Code de procédure pénale - art. 163 (V)
   - Code de procédure pénale - art. 166 (V)
+
+
+###### Article 60-1
+
+Sur demande de l'officier de police judiciaire, qui peut intervenir par voie télématique ou informatique, les organismes
+publics ou les personnes morales de droit privé, à l'exception de ceux visés au deuxième alinéa de l'article 31 et à
+l'article 33 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, mettent à sa
+disposition les informations utiles à la manifestation de la vérité, à l'exception de celles protégées par un secret prévu
+par la loi, contenues dans le ou les systèmes informatiques ou traitements de données nominatives qu'ils administrent.
+
+L'officier de police judiciaire, intervenant sur réquisition du procureur de la République préalablement autorisé par
+ordonnance du juge des libertés et de la détention, peut requérir des opérateurs de télécommunications, et notamment de ceux
+mentionnés à l'article 43-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, de prendre,
+sans délai, toutes mesures propres à assurer la préservation, pour une durée ne pouvant excéder un an, du contenu des
+informations consultées par les personnes utilisatrices des services fournis par les opérateurs.
+
+Les organismes ou personnes visés au présent article mettent à disposition les informations requises par voie télématique ou
+informatique dans les meilleurs délais.
+
+Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni d'une amende de 3 750 Euros. Les personnes
+morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code pénal de
+l'infraction prévue au présent alinéa. La peine encourue par les personnes morales est l'amende, suivant les modalités
+prévues par l'article 131-38 du code pénal.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
+catégories d'organismes visés au premier alinéa ainsi que les modalités d'interrogation, de transmission et de traitement des
+informations requises. ;
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 33 (M)
+  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - CODE DE PROCEDURE PENALE - art. 31 (V)
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 18 1° JORF 19 mars 2003
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 80 () JORF 10 mars 2004
+
+_Cité par_:
+
+  - Arrêté du 22 mai 2018 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. 151-1-1 (T)
+  - Code de procédure pénale - art. 230-44 (V)
+  - Code de procédure pénale - art. 628-9 (V)
+  - Code de procédure pénale - art. 706 (V)
+  - Code de procédure pénale - art. 77-1-1 (VD)
+  - Code de procédure pénale - art. 99-3 (V)
+  - Code de procédure pénale - art. D15-5 (V)
+  - Code de procédure pénale - art. R40-43 (V)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 60-2 (M)
+  - CODE DE PROCEDURE PENALE - art. 60-2 (V)
 
 
 ###### Article 61
@@ -4642,8 +4824,6 @@ _Modifié par_:
 Toute personne placée en garde à vue est immédiatement informée par un officier de police judiciaire, ou, sous le contrôle de
 celui-ci, par un agent de police judiciaire, de la nature de l'infraction sur laquelle porte l'enquête, des droits mentionnés
 aux articles 63-2, 63-3 et 63-4 ainsi que des dispositions relatives à la durée de la garde à vue prévues par l'article 63.
-La personne gardée à vue est également immédiatement informée qu'elle a le choix de faire des déclarations, de répondre aux
-questions qui lui seront posées ou de se taire.
 
 Mention de cet avis est portée au procès-verbal et émargée par la personne gardée à vue ; en cas de refus d'émargement, il en
 est fait mention.
@@ -4671,7 +4851,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-307 du 4 mars 2002 - art. 3 () JORF 5 mars 2002
+  - Loi n°2003-239 du 18 mars 2003 - art. 19 () JORF 19 mars 2003
 
 _Cité par_:
 
@@ -5464,6 +5644,51 @@ _Abrogé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
+###### Article 76-2
+
+Le procureur de la République ou, sur autorisation de celui-ci, l'officier de police judiciaire peut faire procéder aux
+opérations de prélèvements externes prévues par l'article 55-1.
+
+Les dispositions des deuxième et troisième alinéas de l'article 55-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 30 2° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 30
+
+_Cite_:
+
+  - Code de procédure pénale - art. 55-1 (V)
+
+
+###### Article 76-3
+
+L'officier de police peut, pour les nécessités de l'enquête, dans les conditions prévues à l'article 76, recourir aux
+opérations prévues par l'article 57-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 17 2° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 17
+
+_Cite_:
+
+  - Code de procédure pénale - art. 57-1 (V)
+  - Code de procédure pénale - art. 76 (V)
+
+
 ###### Article 77
 
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre
@@ -5561,6 +5786,49 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 60 (M)
+
+
+###### Article 77-1-1
+
+Sur autorisation du procureur de la République, l'officier de police judiciaire peut procéder aux réquisitions prévues par le
+premier alinéa de l'article 60-1.
+
+Sur autorisation du juge des libertés et de la détention saisi à cette fin par le procureur de la République, l'officier de
+police peut procéder aux réquisitions prévues par le deuxième alinéa de l'article 60-1.
+
+Les organismes ou personnes concernés mettent à disposition les informations requises par voie télématique ou informatique
+dans les meilleurs délais.
+
+Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni conformément aux dispositions du quatrième
+alinéa de l'article 60-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 18 2° JORF 19 mars 2003
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 80 () JORF 10 mars 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 60-1 (T)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 77-1-2 (V)
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 706 (V)
+  - Code de procédure pénale - art. D15-5 (V)
+  - Code de procédure pénale - art. R40-43 (V)
 
 
 ###### Article 77-2
@@ -5694,7 +5962,7 @@ _Cite_:
 
 Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et
 agents de police judiciaire adjoints mentionnés aux articles 20 et 21-1° peuvent inviter à justifier, par tout moyen, de son
-identité toute personne à l'égard de laquelle existe un indice faisant présumer :
+identité toute personne à l'égard de laquelle existe une ou plusieurs raisons plausibles de soupçonner :
 
 - qu'elle a commis ou tenté de commettre une infraction ;
 
@@ -5713,20 +5981,27 @@ L'identité de toute personne, quel que soit son comportement, peut également �
 premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le
-19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, (Dispositions déclarées non conformes à la Constitution par
-décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) ainsi que dans les zones accessibles au public des ports,
-aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées
-non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute
-personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des
-obligations de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle
-d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de
-nullité des procédures incidentes.
+19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, ainsi que dans les zones accessibles au public des ports, aéroports
+et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées non
+conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne
+peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations
+de détention, de port et de présentation des titres et documents prévues par la loi. Le fait que le contrôle d'identité
+révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas une cause de nullité des
+procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt
-kilomètres en-deçà, l'identité de toute personne peut être contrôlée, selon les modalités prévues au premier alinéa, en vue
-de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus par la loi.
+kilomètres en-deçà, et sur une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route nationale 2 sur le
+territoire de la commune de Régina, l'identité de toute personne peut être contrôlée, selon les modalités prévues au premier
+alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus
+par la loi.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 93-323 1993-08-05
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
 
 _Cité par_:
 
@@ -5769,18 +6044,9 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°93-992 1993-08-10 art. 3 et 4
-
 _Modifié par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 143 () JORF 19 mars 2003
 
 
 ###### Article 78-2-1
@@ -5838,24 +6104,30 @@ _Cite_:
 
 Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite des actes de terrorisme visés
 par les articles 421-1 à 421-5 du code pénal, des infractions en matière d'armes et d'explosifs visées par l'article 3 de la
-loi du 19 juin 1871 précitée et par les articles 20, 31 et 32 du décret du 18 avril 1939 précité ou des faits de trafic de
-stupéfiants visés par les articles 222-34 à 222-38 du code pénal, les officiers de police judiciaire, assistés, le cas
-échéant, des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de
-l'article 21, peuvent, dans les lieux et pour la période de temps que ce magistrat détermine, procéder non seulement aux
-contrôles d'identité prévus au sixième alinéa de l'article 78-2 mais aussi à la visite des véhicules circulant, arrêtés ou
-stationnant sur la voie publique ou dans des lieux accessibles au public.
+loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre et par les articles 20,
+31 et 32 du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, des infractions de vol
+visées par les articles 311-3 à 311-11 du code pénal, de recel visées par les articles 321-1 et 321-2 du même code ou des
+faits de trafic de stupéfiants visés par les articles 222-34 à 222-38 dudit code, les officiers de police judiciaire,
+assistés, le cas échéant, des agents de police judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1°
+bis et 1° ter de l'article 21 peuvent, dans les lieux et pour la période de temps que ce magistrat détermine et qui ne peut
+excéder vingt-quatre heures, renouvelables sur décision expresse et motivée selon la même procédure, procéder non seulement
+aux contrôles d'identité prévus au sixième alinéa de l'article 78-2 mais aussi à la visite des véhicules circulant, arrêtés
+ou stationnant sur la voie publique ou dans des lieux accessibles au public.
 
 Pour l'application des dispositions du présent article, les véhicules en circulation ne peuvent être immobilisés que le temps
 strictement nécessaire au déroulement de la visite qui doit avoir lieu en présence du conducteur. Lorsqu'elle porte sur un
 véhicule à l'arrêt ou en stationnement, la visite se déroule en présence du conducteur ou du propriétaire du véhicule ou, à
 défaut, d'une personne requise à cet effet par l'officier ou l'agent de police judiciaire et qui ne relève pas de son
 autorité administrative. La présence d'une personne extérieure n'est toutefois pas requise si la visite comporte des risques
-particuliers.
+graves pour la sécurité des personnes et des biens.
 
 En cas de découverte d'une infraction ou si le conducteur ou le propriétaire du véhicule le demande ainsi que dans le cas où
 la visite se déroule en leur absence, il est établi un procès-verbal mentionnant le lieu et les dates et heures du début et
 de la fin de ces opérations. Un exemplaire en est remis à l'intéressé et un autre est transmis sans délai au procureur de la
 République.
+
+Toutefois, la visite des véhicules spécialement aménagés à usage d'habitation et effectivement utilisés comme résidence ne
+peut être faite que conformément aux dispositions relatives aux perquisitions et visites domiciliaires.
 
 Le fait que ces opérations révèlent des infractions autres que celles visées dans les réquisitions du procureur de la
 République ne constitue pas une cause de nullité des procédures incidentes.
@@ -5872,21 +6144,80 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 23 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 11 () JORF 19 mars 2003
 
 _Cite_:
 
-  - Code pénal 421-1 à 421-5, 222-34 à 222-38
+  - Code pénal - art. 321-1 (M)
+  - Code pénal - art. 321-2 (M)
+  - Code pénal 421-1 à 421-5, 311-3 à 311-11, 321-1, 321-2, 222-34 à 222-38
   - CODE DE PROCEDURE PENALE - art. 21 (M)
   - CODE DE PROCEDURE PENALE - art. 78-2 (M)
+  - Décret n°1870-09-04
   - Décret n°1939-04-18 art. 20, art. 31, art. 32
   - Loi n°1871-06-19 art. 3
+
+
+###### Article 78-2-3
+
+Les officiers de police judiciaire, assistés, le cas échéant, des agents de police judiciaire et des agents de police
+judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21, peuvent procéder à la visite des véhicules circulant
+ou arrêtés sur la voie publique ou dans des lieux accessibles au public lorsqu'il existe à l'égard du conducteur ou d'un
+passager une ou plusieurs raisons plausibles de soupçonner qu'il a commis, comme auteur ou comme complice, un crime ou un
+délit flagrant ; ces dispositions s'appliquent également à la tentative. 
+
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article 78-2-2 sont applicables aux dispositions du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 12 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 12
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21 (V)
+  - Code de procédure pénale - art. 78-2-2 (V)
+
+
+###### Article 78-2-4
+
+Pour prévenir une atteinte grave à la sécurité des personnes et des biens, les officiers de police judiciaire et, sur l'ordre
+et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents de police judiciaire adjoints mentionnés
+aux 1°, 1° bis et 1° ter de l'article 21 peuvent procéder non seulement aux contrôles d'identité prévus au septième alinéa de
+l'article 78-2 mais aussi, avec l'accord du conducteur ou, à défaut, sur instructions du procureur de la République
+communiquées par tous moyens, à la visite des véhicules circulant, arrêtés ou stationnant sur la voie publique ou dans des
+lieux accessibles au public. 
+
+Dans l'attente des instructions du procureur de la République, le véhicule peut être immobilisé pour une durée qui ne peut
+excéder trente minutes. 
+
+Les deuxième, troisième et quatrième alinéas de l'article 78-2-2 sont applicables aux dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 13 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 13
+
+_Cite_:
+
+  - Code de procédure pénale - art. 21 (V)
+  - Code de procédure pénale - art. 78-2 (V)
+  - Code de procédure pénale - art. 78-2-2 (V)
 
 
 ###### Article 78-3
@@ -7239,6 +7570,27 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 56 (M)
   - CODE DE PROCEDURE PENALE - art. 96 (M)
+
+
+###### Article 97-1
+
+L'officier de police judiciaire peut, pour les nécessités de l'exécution de la commission rogatoire, procéder aux opérations
+prévues par l'article 57-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 17 3° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 17
+
+_Cite_:
+
+  - Code de procédure pénale - art. 57-1 (V)
 
 
 ###### Article 98
@@ -10847,6 +11199,44 @@ _Cité par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
 
 
+###### Article 151-1-1
+
+Pour les nécessités de l'exécution de la commission rogatoire, l'officier de police judiciaire peut procéder aux réquisitions
+prévues par le premier alinéa de l'article 60-1.
+
+Avec l'autorisation expresse du juge d'instruction, l'officier de police peut procéder aux réquisitions prévues par le
+deuxième alinéa de l'article 60-1.
+
+Les organismes ou personnes concernés mettent à disposition les informations requises par voie télématique ou informatique
+dans les meilleurs délais.
+
+Le fait de refuser de répondre sans motif légitime à ces réquisitions est puni conformément aux dispositions du quatrième
+alinéa de l'article 60-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 18 3° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 18
+
+_Transféré par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 116 () JORF 10 mars 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 60-1 (T)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 99-4 (V)
+
+
 ###### Article 152
 
 Les magistrats ou officiers de police judiciaire commis pour l'exécution exercent, dans les limites de la commission
@@ -10989,6 +11379,29 @@ _Cite_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D34 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D35 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. D36 (M)
+
+
+###### Article 154-1
+
+Pour les nécessités de l'exécution de la commission rogatoire, l'officier de police judiciaire peut faire procéder aux
+opérations de prélèvements externes prévues par l'article 55-1.
+
+Les dispositions des deuxième et troisième alinéas de l'article 55-1 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2003-239 2003-03-18 art. 30 3° JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 30
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 55-1 (M)
 
 
 ###### Article 155
@@ -11405,8 +11818,9 @@ _Codifié par_:
 ###### Article 166
 
 Lorsque les opérations d'expertise sont terminées, les experts rédigent un rapport qui doit contenir la description desdites
-opérations ainsi que leurs conclusions. Les experts doivent attester avoir personnellement accompli les opérations qui leur
-ont été confiées et signent leur rapport.
+opérations ainsi que leurs conclusions. Les experts signent leur rapport et mentionnent les noms et qualités des personnes
+qui les ont assistés, sous leur contrôle et leur responsabilité, pour la réalisation des opérations jugées par eux
+nécessaires à l'exécution de la mission qui leur a été confiée.
 
 Lorsque plusieurs experts ont été désignés et s'ils sont d'avis différents ou s'ils ont des réserves à formuler sur des
 conclusions communes, chacun d'eux indique son opinion ou ses réserves en les motivant.
@@ -11422,11 +11836,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-1407 1985-12-30 art. 26 et 94 JORF 31 décembre 1985 en vigueur le 1er février 1986
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1407 1985-12-30 art. 94
+  - Loi n°2003-239 du 18 mars 2003 - art. 16 () JORF 19 mars 2003
 
 _Cité par_:
 
@@ -32693,14 +33103,17 @@ _Cité par_:
 
 En cas d'information ouverte pour infraction aux articles 222-34 à 222-38, 324-1 et 324-2 du code pénal, et afin de garantir
 le paiement des amendes encourues, ainsi que l'exécution de la confiscation prévue au deuxième alinéa de l'article 222-49 et
-au 12° de l'article 324-7 du code pénal, le président du tribunal de grande instance ou un juge délégué par lui, sur requête
-du procureur de la République, peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de
-procédure civile, des mesures conservatoires sur les biens de la personne mise en examen.
+au 12° de l'article 324-7 du code pénal, le juge des libertés et de la détention, sur requête du procureur de la République,
+peut ordonner, aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures
+conservatoires sur les biens de la personne mise en examen.
 
 La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
 ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+Pour l'application des dispositions du présent article, le juge des libertés et de la détention est compétent sur l'ensemble
+du territoire national.
 
 **Liens relatifs à cet article**
 
@@ -32708,13 +33121,14 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 127 V
-
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 47 () JORF 16 mai 2001
+  - Loi n°2003-239 du 18 mars 2003 - art. 39 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 39
+
+_Abrogé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 _Cite_:
 
@@ -32722,7 +33136,7 @@ _Cite_:
   - Code pénal - art. 324-2 (M)
   - Code pénal - art. 324-7 (M)
   - Code pénal 222-34 à 222-38, 324-1, 324-2, 324-7
-  - Code de procédure pénale 222-49
+  - CODE DE PROCEDURE PENALE 222-49
 
 _Cité par_:
 
@@ -32985,6 +33399,42 @@ _Cite_:
   - Code pénal - art. 225-10 (M)
   - CODE DE PROCEDURE PENALE - art. 148-1 (M)
   - CODE DE PROCEDURE PENALE - art. 706-34 (M)
+
+
+###### Article 706-36-1
+
+En cas d'information ouverte pour une infraction entrant dans le champ d'application de l'article 706-34 et afin de garantir
+le paiement des amendes encourues ainsi que, le cas échéant, la confiscation prévue par l'article 225-25 du code pénal, le
+juge des libertés et de la détention, sur requête du procureur de la République, peut ordonner, aux frais avancés du Trésor
+et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne mise
+en examen.
+
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+Pour l'application des dispositions du présent article, le juge des libertés et de la détention est compétent sur l'ensemble
+du territoire national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 40 () JORF 19 mars 2003
+  - Loi n°2003-239 du 18 mars 2003 - art. 40
+
+_Abrogé par_:
+
+  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
+_Cite_:
+
+  - Code pénal - art. 225-25 (M)
 
 
 ###### Article 706-37
@@ -33353,6 +33803,53 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. 706-47-1 (VD)
 
 
+###### Article 706-47-1
+
+L'officier de police judiciaire, agissant au cours de l'enquête ou sur commission rogatoire, peut faire procéder sur toute
+personne contre laquelle il existe des indices graves ou concordants d'avoir commis un viol, une agression sexuelle ou une
+atteinte sexuelle prévus par les articles 222-23 à 222-26 et 227-25 à 227-27 du code pénal, à un examen médical et à une
+prise de sang afin de déterminer si cette personne n'est pas atteinte d'une maladie sexuellement transmissible.
+
+Le médecin, l'infirmier ou la personne habilitée par les dispositions du code de la santé publique à effectuer les actes
+réservés à ces professionnels, qui est requis à cette fin par l'officier de police judiciaire, doit s'efforcer d'obtenir le
+consentement de l'intéressé.
+
+A la demande de la victime ou lorsque son intérêt le justifie, cette opération peut être effectuée sans le consentement de
+l'intéressé sur instructions écrites du procureur de la République ou du juge d'instruction qui sont versées au dossier de la
+procédure.
+
+Le résultat du dépistage est porté, dans les meilleurs délais et par l'intermédiaire d'un médecin, à la connaissance de la
+victime ou, si celle-ci est mineure, de ses représentants légaux ou de l'administrateur ad hoc nommé en application des
+dispositions de l'article 706-50.
+
+Le fait de refuser de se soumettre au dépistage prévu au présent article est puni d'un an d'emprisonnement et de 15 000 Euros
+d'amende. Nonobstant les dispositions des articles 132-2 à 132-5 du code pénal, ces peines se cumulent, sans possibilité de
+confusion, avec celles susceptibles d'être prononcées pour le crime ou le délit ayant fait l'objet de la procédure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 28 () JORF 19 mars 2003
+
+_Cite_:
+
+  - Code pénal 222-23 à 222-26, 227-25 à 227-27, 132-2 à 132-5
+  - CODE DE PROCEDURE PENALE - art. 706-50 (V)
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+
+_Nouveaux textes_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-47-2 (V)
+
+
 #### Chapitre Ier : Dispositions générales<a id=169></a>
 
 ###### Article 706-48
@@ -33553,19 +34050,37 @@ _Cite_:
 
 ###### Article 706-54
 
-Il est créé un fichier national automatisé destiné à centraliser les traces génétiques ainsi que les empreintes génétiques
-des personnes condamnées pour l'une des infractions visées à l'article 706-55 en vue de faciliter l'identification et la
-recherche des auteurs de ces infractions.
+Le fichier national automatisé des empreintes génétiques, placé sous le contrôle d'un magistrat, est destiné à centraliser
+les empreintes génétiques issues des traces biologiques ainsi que les empreintes génétiques des personnes condamnées pour
+l'une des infractions mentionnées à l'article 706-55 en vue de faciliter l'identification et la recherche des auteurs de ces
+infractions.
 
-Ce fichier est placé sous le contrôle d'un magistrat.
+Les empreintes génétiques des personnes à l'encontre desquelles il existe des indices graves ou concordants rendant
+vraisemblable qu'elles aient commis l'une des infractions mentionnées à l'article 706-55 sont également conservées dans ce
+fichier sur décision d'un officier de police judiciaire agissant soit d'office, soit à la demande du procureur de la
+République ou du juge d'instruction ; il est fait mention de cette décision au dossier de la procédure. Ces empreintes sont
+effacées sur instruction du procureur de la République agissant soit d'office, soit à la demande de l'intéressé, lorsque leur
+conservation n'apparaît plus nécessaire compte tenu de la finalité du fichier. Lorsqu'il est saisi par l'intéressé, le
+procureur de la République informe celui-ci de la suite qui a été réservée à sa demande ; s'il n'a pas ordonné l'effacement,
+cette personne peut saisir à cette fin le juge des libertés et de la détention, dont la décision peut être contestée devant
+le président de la chambre de l'instruction.
 
-Les modalités d'application du présent article, y compris la durée de conservation des informations enregistrées, sont
-déterminées par décret en Conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés.
+Les officiers de police judiciaire peuvent également, d'office ou à la demande du procureur de la République ou du juge
+d'instruction, faire procéder à un rapprochement de l'empreinte de toute personne à l'encontre de laquelle il existe une ou
+plusieurs raisons plausibles de soupçonner qu'elle a commis un crime ou un délit, avec les données incluses au fichier, sans
+toutefois que cette empreinte puisse y être conservée.
 
-Les empreintes génétiques des personnes à l'encontre desquelles il existe des indices graves ou concordants de nature à
-motiver leur mise en examen pour l'une des infractions visées à l'article 706-55 peuvent faire l'objet, à la demande du juge
-d'instruction ou du procureur de la République, d'un rapprochement avec les données incluses au fichier. Elles ne peuvent
-toutefois y être conservées.
+Le fichier prévu par le présent article contient également les empreintes génétiques issues des traces biologiques
+recueillies à l'occasion des procédures de recherche des causes de la mort ou de recherche des causes d'une disparition
+prévues par les articles 74, 74-1 et 80-4 ainsi que les empreintes génétiques correspondant ou susceptibles de correspondre
+aux personnes décédées ou recherchées.
+
+Les empreintes génétiques conservées dans ce fichier ne peuvent être réalisées qu'à partir de segments d'acide
+désoxyribonucléique non codants, à l'exception du segment correspondant au marqueur du sexe.
+
+Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés détermine les
+modalités d'application du présent article. Ce décret précise notamment la durée de conservation des informations
+enregistrées.
 
 **Liens relatifs à cet article**
 
@@ -33575,11 +34090,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 29 () JORF 19 mars 2003
 
 _Cité par_:
 
@@ -33591,6 +34102,9 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+  - CODE DE PROCEDURE PENALE - art. 74 (M)
+  - CODE DE PROCEDURE PENALE - art. 74-1 (V)
+  - CODE DE PROCEDURE PENALE - art. 80-4 (V)
 
 
 ###### Article 706-55
@@ -33598,15 +34112,26 @@ _Cite_:
 Le fichier national automatisé des empreintes génétiques centralise les traces et empreintes génétiques concernant les
 infractions suivantes :
 
-1° Les infractions de nature sexuelle visées à l'article 706-47, ainsi que le recel de ces infractions ;
+1° Les infractions de nature sexuelle visées à l'article 706-47 ;
 
-2° Les crimes d'atteintes volontaires à la vie de la personne, de torture et actes de barbarie et de violences volontaires
-prévus par les articles 221-1 à 221-5, 222-1 à 222-8, 222-10 et 222-14 (1° et 2°) du code pénal ;
+2° Les crimes contre l'humanité et les crimes et délits d'atteintes volontaires à la vie de la personne, de torture et actes
+de barbarie, de violences volontaires, de menaces d'atteintes aux personnes, de trafic de stupéfiants, d'atteintes aux
+libertés de la personne, de traite des êtres humains, de proxénétisme, d'exploitation de la mendicité et de mise en péril des
+mineurs, prévus par les articles 221-1 à 221-5, 222-1 à 222-18, 222-34 à 222-40, 224-1 à 224-8, 225-4-1 à 225-4-4, 225-5 à
+225-10, 225-12-1 à 225-12-3, 225-12-5 à 225-12-7 et 227-18 à 227-21 du code pénal ;
 
-3° Les crimes de vols, d'extorsions et de destructions, dégradations et détériorations dangereuses pour les personnes prévus
-par les articles 311-7 à 311-11, 312-3 à 312-7 et 322-7 à 322-10 du code pénal ;
+3° Les crimes et délits de vols, d'extorsions, d'escroqueries, de destructions, de dégradations, de détériorations et de
+menaces d'atteintes aux biens prévus par les articles 311-1 à 311-13, 312-1 à 312-9, 313-2 et 322-1 à 322-14 du code pénal ;
 
-4° Les crimes constituant des actes de terrorisme prévus par les articles 421-1 à 421-4 du code pénal.
+4° Les atteintes aux intérêts fondamentaux de la nation, les actes de terrorisme, la fausse monnaie et l'association de
+malfaiteurs prévus par les articles 410-1 à 413-12, 421-1 à 421-4, 442-1 à 442-5 et 450-1 du code pénal ;
+
+5° Les crimes et délits prévus par l'article 2 de la loi du 24 mai 1834 sur les détenteurs d'armes ou de munitions de guerre,
+l'article 3 de la loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur la fabrication des armes de guerre et les
+articles 24 à 35 du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ;
+
+6° Les infractions de recel ou de blanchiment du produit de l'une des infractions mentionnées aux 1° à 5°, prévues par les
+articles 321-1 à 321-7 et 324-1 à 324-6 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -33616,11 +34141,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 29 () JORF 19 mars 2003
 
 _Cité par_:
 
@@ -33634,10 +34155,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 222-10 (M)
-  - Code pénal - art. 222-14 (M)
-  - Code pénal 221-1 à 221-5, 222-1 à 222-8, 222-10, 222-14, 311-7 à 311-11, 312-3 à 312-7, 322-7 à 322-10, 421-1 à 421-4
+  - Code pénal - art. 313-2 (M)
+  - Code pénal - art. 450-1 (M)
+  - Code pénal 221-1 à 221-5, 222-1 à 222-18, 222-34 à 222-40, 224-1 à 224-8, 225-4-1 à 225-4-4, 225-5 à 225-10, 225-12-1 à 225-12-3, 225-12-5 à 225-12-7, 227-18 à 227-21, 311-1 à 311-13, 312-1 à 312-9, 313-2, 322-1 à 322-14, 410-1 à 413-12, 421-1 à 421-
   - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - Décret n°1870-09-04
+  - Décret n°1939-04-18 art. 24 à 35
+  - Loi n°1834-05-24 art. 2
+  - Loi n°1871-06-19 art. 3
 
 _Nouveaux textes_:
 
@@ -33646,10 +34171,30 @@ _Nouveaux textes_:
 
 ###### Article 706-56
 
-Le fait, pour une personne définitivement condamnée pour une des infractions visées à l'article 706-55, de refuser de se
-soumettre à un prélèvement biologique destiné à permettre l'analyse d'identification de son empreinte génétique est puni de
-six mois d'emprisonnement et de 7 500 euros d'amende. Lorsque la personne a été condamnée pour crime, la peine est de deux
-ans d'emprisonnement et 30 000 euros d'amende.
+I. - L'officier de police judiciaire peut procéder ou faire procéder sous son contrôle, à l'égard des personnes mentionnées
+au premier, au deuxième ou au troisième alinéa de l'article 706-54, à un prélèvement biologique destiné à permettre l'analyse
+d'identification de leur empreinte génétique. Préalablement à cette opération, il peut vérifier ou faire vérifier par un
+agent de police judiciaire placé sous son contrôle que l'empreinte génétique de la personne concernée n'est pas déjà
+enregistrée, au vu de son seul état civil, dans le fichier national automatisé des empreintes génétiques.
+
+Pour qu'il soit procédé à cette analyse, l'officier de police judiciaire peut requérir toute personne habilitée dans les
+conditions fixées par l'article 16-12 du code civil, sans qu'il soit toutefois nécessaire que cette personne soit inscrite
+sur une liste d'experts judiciaires ; dans ce cas, la personne prête alors par écrit le serment prévu au deuxième alinéa de
+l'article 60 du présent code.
+
+Les personnes requises conformément à l'alinéa précédent peuvent procéder, par tous moyens y compris télématiques, à la
+demande de l'officier de police judiciaire, du procureur de la République ou du juge d'instruction, aux opérations permettant
+l'enregistrement des empreintes dans le fichier national automatisé des empreintes génétiques.
+
+II. - Le fait de refuser de se soumettre au prélèvement biologique prévu au premier alinéa du I est puni d'un an
+d'emprisonnement et de 15 000 Euros d'amende.
+
+Lorsque ces faits sont commis par une personne condamnée pour crime, la peine est de deux ans d'emprisonnement et de 30 000
+Euros d'amende.
+
+Nonobstant les dispositions des articles 132-2 à 132-5 du code pénal, les peines prononcées pour les délits prévus au présent
+article se cumulent, sans possibilité de confusion, avec celles que la personne subissait ou celles prononcées pour
+l'infraction ayant fait l'objet de la procédure à l'occasion de laquelle les prélèvements devaient être effectués.
 
 **Liens relatifs à cet article**
 
@@ -33670,15 +34215,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 56 () JORF 16 novembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°2003-239 du 18 mars 2003 - art. 29 () JORF 19 mars 2003
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+  - Code pénal 132-2 à 132-5
+  - Code civil - art. 16-12 (M)
+  - CODE DE PROCEDURE PENALE - art. 60 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-54 (M)
 
 _Nouveaux textes_:
 
