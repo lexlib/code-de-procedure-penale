@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-10-17
+Version Consolidée au 1978-11-23
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 1978-10-17
           - [Section 5 : Des interrogatoires et confrontations (art. 115 à 120)](#41)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. 141-2 à 149-1)](#42)
             - [Sous-section 1 : Du contrôle judiciaire (art. 141-2 à 142-3)](#43)
-            - [Sous-section 2 : De la détention provisoire (art. 148-1)](#44)
+            - [Sous-section 2 : De la détention provisoire (art. 148-1 à 148-5)](#44)
             - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. 149 à 149-1)](#45)
           - [Section 8 : Des commissions rogatoires (art. 152 à 154)](#46)
           - [Section 12 : De l'appel des ordonnances du juge d'instruction (art. 187)](#47)
@@ -141,269 +141,270 @@ Version Consolidée au 1978-10-17
         - [Chapitre Ier : Dispositions générales (art. 709 à 712)](#138)
       - [Titre II : De la détention (art. 714 à 728)](#139)
         - [Chapitre Ier : De l'exécution de la détention provisoire (art. 714 à 716)](#140)
-        - [Chapitre II : De l'exécution des peines privatives de liberté (art. 717 à 723-2)](#141)
-        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. 724 à 728)](#142)
-      - [Titre III : De la libération conditionnelle (art. 730 à 733)](#143)
-      - [Titre IV : Du sursis (art. 734 à 747)](#144)
-        - [Chapitre Ier : Du sursis simple (art. 736 à 737)](#145)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. 738 à 747)](#146)
-      - [Titre V : De la reconnaissance de l'identité des individus condamnés (art. 748)](#147)
-      - [Titre VI : De la contrainte judiciaire (art. 753 à 762)](#148)
-      - [Titre VI : De la contrainte par corps (art. 755 à 757)](#149)
-      - [Titre VII : De la prescription de la peine (art. 763 à 767)](#150)
-      - [Titre VIII : Du casier judiciaire (art. 770 à 780)](#151)
-      - [Titre IX : De la réhabilitation des condamnés (art. 782 à 799)](#152)
-      - [Titre X : Des frais de justice (art. 800 à 802)](#153)
-        - [Dispositions générales (art. 801 à 802)](#154)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R250)](#155)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. R1 à R40-4)](#156)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. R1 à R15-16)](#157)
-        - [Chapitre Ier : De la police judiciaire (art. R1 à R15-16)](#158)
-          - [Section 1 : Dispositions générales (art. R1 à R2)](#159)
-          - [Section 2 : Des officiers de police judiciaire (art. R3 à R15-16)](#160)
-            - [Paragraphe 1er : Désignation des officiers de police judiciaire (art. R3 à R7)](#161)
-              - [A - Désignation des gendarmes officiers de police judiciaire (art. R3 à R7)](#162)
-            - [Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité (art. R13 à R15-6)](#163)
-              - [A : Habilitation des officiers de police judiciaire de la gendarmerie (art. R13 à R15-2)](#164)
-              - [B : Habilitation des officiers de police judiciaire de la police nationale (art. R15-3 à R15-6)](#165)
-            - [Paragraphe 3 : Fonctionnement de la commission prévue à l'article 16-2 (art. R15-7 à R15-16)](#166)
-      - [Titre III : Des juridictions d'instruction (art. R16-1 à R40-4)](#167)
-        - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. R16-1 à R40-4)](#168)
-          - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. R16-1 à R40-4)](#169)
-            - [Sous-section 1 : Du contrôle judiciaire (art. R16-1 à R25)](#170)
-              - [Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire (art. R16-1 à R16-2)](#171)
-              - [Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire (art. R17 à R18-1)](#172)
-              - [Paragraphe 3 : Du cautionnement (art. R22 à R25)](#173)
-            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R26 à R40-4)](#174)
-    - [Livre II : Des juridictions de jugement (art. R41 à R48)](#175)
-      - [Titre Ier : De la cour d'assises (art. R41)](#176)
-        - [Chapitre II : De la tenue des assises (art. R41)](#177)
-      - [Titre III : Du jugement des contraventions (art. R42 à R48)](#178)
-        - [Chapitre II : Procédure simplifiée (art. R42 à R48)](#179)
-    - [Livre IV : De quelques procédures particulières (art. R50-4 à R50-28)](#180)
-      - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. R50-4 à R50-28)](#181)
-    - [Livre V : Des procédures d'exécution. (art. R53 à R248)](#182)
-      - [Titre IV : Du sursis (art. R53 à R61)](#183)
-        - [Chapitre II : Du sursis avec mise à l'épreuve. (art. R53 à R60)](#184)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R53)](#185)
-          - [Section 5 : Dispositions diverses (art. R60)](#186)
-        - [Chapitre II : De sursis avec mise à l'épreuve (art. R51 à R61)](#187)
-          - [Section 1 : Dispositions générales (art. R51 à R52)](#188)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R55)](#189)
-          - [Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement (art. R59)](#190)
-          - [Section 5 : Dispositions diverses (art. R61)](#191)
-      - [Titre VIII : Du casier judiciaire (art. R66 à R90)](#192)
-        - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R66 à R72)](#193)
-        - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74)](#194)
-        - [Chapitre VII : Dispositions diverses (art. R85 à R90)](#195)
-      - [Titre X : Des frais de justice (art. R94 à R248)](#196)
-        - [Chapitre II : Tarif des frais (art. R94 à R213)](#197)
-          - [Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction (art. R94 à R104)](#198)
-          - [Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité (art. R106 à R121-1)](#199)
-            - [Paragraphe 1er : Des experts. (art. R106 à R115)](#200)
-              - [A : Règles générales (art. R106 à R115)](#201)
-            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire (art. R121-1)](#202)
-          - [Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés (art. R123 à R145)](#203)
-            - [Paragraphe 1er : Des témoins (art. R123 à R138)](#204)
-              - [A : Règles générales (art. R123 à R128)](#205)
-              - [B : Indemnités de comparution (art. R129 à R132)](#206)
-              - [C : Frais de voyage et de séjour (art. R133 à R138)](#207)
-            - [Paragraphe 2 : Des membres du jury criminel (art. R139 à R145)](#208)
-          - [Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal (art. R148)](#209)
-          - [Section 5 : Des frais de copie (art. R154 à R178)](#210)
-            - [B : Expéditions (art. R154 à R166)](#211)
-              - [a) Délivrance des expéditions (art. R154 à R160)](#212)
-              - [c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt. (art. R166)](#213)
-            - [E : Indemnités (art. R176 à R178)](#214)
-          - [Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique (art. R179 à R199)](#215)
-            - [Paragraphe 1er : Service d'audience des huissiers de justice (art. R179 à R180)](#216)
-            - [Paragraphe 2 : Citations et significations (art. R183 à R187)](#217)
-            - [Paragraphe 3 : Exécution des mandats d'amener, de dépôt et d'arrêt et des mesures de contrainte exercées contre les témoins défaillants - Capture en exécution d'une ordonnance de prise de corps, d'un jugement ou d'un arrêt (art. R188 à R191)](#218)
-            - [Paragraphe 4 : Exécution des arrêts de contumace (art. R192 à R193)](#219)
-            - [Paragraphe 5 : Frais de voyage et de séjour (art. R194 à R195)](#220)
-            - [Paragraphe 6 : Dispositions générales (art. R196 à R199)](#221)
-          - [Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers (art. R202 à R207)](#222)
-          - [Section 8 : Du port des lettres et paquets (art. R208)](#223)
-          - [Section 9 : Des frais d'impression (art. R210 à R212)](#224)
-          - [Section 10 : Des frais d'exécution des arrêts (art. R213)](#225)
-        - [Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels (art. R215 à R221)](#226)
-          - [Section 1 : Règles générales (art. R215)](#227)
-          - [Section 2 : Règles spéciales (art. R220 à R221)](#228)
-            - [Paragraphe 5 : Recouvrement des amendes (art. R220)](#229)
-            - [Paragraphe 6 : Transport des registres et archives. (art. R221)](#230)
-        - [Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police (art. R222 à R248)](#231)
-          - [Section 1 : Du mode de paiement (art. R222 à R234)](#232)
-            - [Paragraphe 1er : Délivrance de l'ordonnance de taxe. (art. R222 à R231)](#233)
-            - [Paragraphe 2 : Paiement. (art. R234)](#234)
-          - [Section 2 : De la consignation par la partie civile pour frais de procédure (art. R236 à R238)](#235)
-          - [Section 3 : De la liquidation et du recouvrement des frais (art. R241 à R248)](#236)
-            - [Paragraphe 1er : Liquidation des frais (art. R241 à R244)](#237)
-            - [Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi (art. R245 à R247)](#238)
-            - [Paragraphe 3 : Régularisation des dépenses - Recouvrement (art. R248)](#239)
-    - [Dispositions générales (art. R250)](#240)
-  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#241)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D1 à D47)](#242)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D1 à D15)](#243)
-        - [Chapitre Ier : De la police judiciaire (art. D1 à D15)](#244)
-          - [Section 1 : Dispositions générales (art. D1 à D8)](#245)
-          - [Section 2 : Des officiers de police judiciaire (art. D9 à D12)](#246)
-          - [Section 3 : Des agents de police judiciaire (art. D13 à D15)](#247)
-      - [Titre III : Des juridictions d'instruction (art. D16 à D47)](#248)
-        - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. D16 à D36)](#249)
-          - [Section 1 : Dispositions générales (art. D16 à D31)](#250)
-            - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D16 à D26)](#251)
-            - [Paragraphe 6 : Désignation du juge d'instruction. (art. D27 à D31)](#252)
-          - [Section 2 : De la constitution de partie civile et de ses effets (art. D32)](#253)
-          - [Section 8 : Des commissions rogatoires (art. D33 à D36)](#254)
-        - [Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré (art. D43)](#255)
-          - [Section 1 : Dispositions générales (art. D43)](#256)
-        - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. D44 à D47)](#257)
-          - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#258)
-    - [Livre IV : De quelques procédures particulières (art. D47-1)](#259)
-      - [Titre II : Du faux (art. D47-1)](#260)
-    - [Livre V : Des procédures d'exécution (art. D48 à D569)](#261)
-      - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49)](#262)
-      - [Titre II : De la détention (art. D52 à D519)](#263)
-        - [Chapitre Ier : De l'exécution de la détention provisoire (art. D56 à D69)](#264)
-          - [Section 2 : Des ordres donnés par l'autorité judiciaire (art. D56)](#265)
-          - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#266)
-            - [Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel (art. D58 à D59)](#267)
-            - [Paragraphe 2 : Dispenses dont bénéficient les prévenus (art. D62 à D63)](#268)
-            - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#269)
-            - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#270)
-        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70-2 à D114)](#271)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D70-2)](#272)
-          - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#273)
-          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D96)](#274)
-            - [Paragraphe 1er : Maisons d'arrêt (art. D83 à D93)](#275)
-              - [A : Etablissements cellulaires (art. D84 à D86)](#276)
-              - [B : Etablissements en commun (art. D88 à D89)](#277)
-              - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#278)
-            - [Paragraphe 2 : Etablissements pour peines (art. D96)](#279)
-          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#280)
-          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D120 à D147)](#281)
-            - [Paragraphe 1er : Dispositions communes (art. D120 à D123)](#282)
-            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#283)
-            - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#284)
-            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#285)
-            - [Paragraphe 4 : Permissions de sortir (art. D143 à D147)](#286)
-          - [Section 4 : Du travail des détenus (art. D99 à D109)](#287)
-            - [Paragraphe 1er : Principes (art. D99 à D100)](#288)
-            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#289)
-          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#290)
-        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D149 à D187)](#291)
-          - [Section 1 : Du greffe judiciaire des prisons (art. D149 à D166)](#292)
-            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D149 à D150)](#293)
-            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#294)
-            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D158 à D166)](#295)
-              - [A : Dossier spécial aux condamnés à une longue peine. (art. D158 à D164)](#296)
-              - [B : Dossiers des autres détenus. (art. D165 à D166)](#297)
-          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D171 à D175)](#298)
-            - [Paragraphe 2 : Mise à l'isolement (art. D171)](#299)
-            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#300)
-          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#301)
-          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#302)
-          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#303)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#304)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#305)
-          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#306)
-            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#307)
-          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#308)
-          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#309)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#310)
-          - [Section 1 : De la police intérieure (art. D241 à D247)](#311)
-          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D250-1 à D253)](#312)
-            - [Paragraphe 1er : Sanctions disciplinaires (art. D250-1 à D251-1)](#313)
-            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D253)](#314)
-          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#315)
-          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#316)
-          - [Section 5 : De la sécurité (art. D267 à D283)](#317)
-            - [Paragraphe 1er : Dispositions générales (art. D267 à D276)](#318)
-            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#319)
-            - [Paragraphe 3 : Incidents (art. D281 à D283)](#320)
-        - [Chapitre VI : Des mouvements de détenus (art. D286 à D315)](#321)
-          - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#322)
-          - [Section 2 : Des transfèrements et des extractions (art. D290 à D315)](#323)
-            - [Paragraphe 1er : Dispositions communes (art. D292 à D295)](#324)
-            - [Paragraphe 2 : Transfèrements (art. D298 à D312)](#325)
-              - [A : Translations judiciaires (art. D298 à D299)](#326)
-              - [B : Transfèrements administratifs (art. D301 à D303)](#327)
-              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#328)
-              - [D : Cas particuliers (art. D311 à D312)](#329)
-            - [Paragraphe 3 : Extractions (art. D314 à D315)](#330)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348-1)](#331)
-          - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#332)
-            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#333)
-            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#334)
-          - [Section 2 : De l'entretien des détenus (art. D342 à D348-1)](#335)
-        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#336)
-          - [Section 1 : De l'hygiène (art. D349 à D363)](#337)
-            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#338)
-            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#339)
-            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#340)
-            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#341)
-          - [Section 2 : Du service sanitaire (art. D364 à D400)](#342)
-            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#343)
-            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D377)](#344)
-            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#345)
-            - [Paragraphe 4 : Soins divers (art. D392 à D398)](#346)
-            - [Paragraphe 5 : Maternité (art. D399 à D400)](#347)
-        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#348)
-          - [Section 1 : Des visites (art. D404 à D412)](#349)
-          - [Section 2 : De la correspondance (art. D413 à D419)](#350)
-          - [Section 3 : Du maintien des liens familiaux (art. D420 à D422)](#351)
-          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D424-1)](#352)
-          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D430 à D431)](#353)
-        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D433 à D484)](#354)
-          - [Section 1 : De l'assistance spirituelle (art. D433 à D439)](#355)
-          - [Section 2 : De l'action socio-culturelle (art. D444 à D448)](#356)
-          - [Section 3 : De l'enseignement (art. D450 à D459)](#357)
-            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#358)
-          - [Section 4 : Du service socio-éducatif (art. D477)](#359)
-            - [Paragraphe 2 : Visiteurs de prison (art. D477)](#360)
-          - [Section 5 : De l'aide à la libération (art. D484)](#361)
-            - [Paragraphe 2 : Aide aux indigents (art. D484)](#362)
-        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#363)
-          - [Section 1 : Des condamnés de police (art. D488)](#364)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D491 à D504)](#365)
-          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#366)
-          - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#367)
-          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#368)
-      - [Titre III : De la libération conditionnelle (art. D525 à D543)](#369)
-        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#370)
-        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#371)
-        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#372)
-          - [Section 2 : Des conditions particulières (art. D537)](#373)
-        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#374)
-        - [Chapitre V : Dispositions diverses (art. D543)](#375)
-      - [Titre IV : Du sursis (art. D545 à D568)](#376)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#377)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#378)
-      - [Titre VI : De la contrainte par corps (art. D569)](#379)
-  - [Partie Arrêtés (art. A1 à A57)](#380)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#381)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#382)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#383)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#384)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#385)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#386)
-    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#387)
-      - [Titre II : De la détention (art. A39-1 à A43-1)](#388)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#389)
-          - [Section 5 (art. A39-1 à A39-2)](#390)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#391)
-          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#392)
-            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#393)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#394)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#395)
-      - [Titre IV : Du sursis (art. A45 à A52)](#396)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#397)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#398)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#399)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#400)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#401)
-        - [Disposition générale (art. A53)](#402)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#403)
+        - [Chapitre II : De l'exécution des peines privatives de liberté (art. 717 à 720-3)](#141)
+          - [Section 3 : De la période de sûreté (art. 720-3)](#142)
+        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. 724 à 728)](#143)
+      - [Titre III : De la libération conditionnelle (art. 729-2 à 733)](#144)
+      - [Titre IV : Du sursis (art. 734 à 747)](#145)
+        - [Chapitre Ier : Du sursis simple (art. 736 à 737)](#146)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. 738 à 747)](#147)
+      - [Titre V : De la reconnaissance de l'identité des individus condamnés (art. 748)](#148)
+      - [Titre VI : De la contrainte judiciaire (art. 753 à 762)](#149)
+      - [Titre VI : De la contrainte par corps (art. 755 à 757)](#150)
+      - [Titre VII : De la prescription de la peine (art. 763 à 767)](#151)
+      - [Titre VIII : Du casier judiciaire (art. 770 à 780)](#152)
+      - [Titre IX : De la réhabilitation des condamnés (art. 782 à 799)](#153)
+      - [Titre X : Des frais de justice (art. 800 à 802)](#154)
+        - [Dispositions générales (art. 801 à 802)](#155)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R250)](#156)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. R1 à R40-4)](#157)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. R1 à R15-16)](#158)
+        - [Chapitre Ier : De la police judiciaire (art. R1 à R15-16)](#159)
+          - [Section 1 : Dispositions générales (art. R1 à R2)](#160)
+          - [Section 2 : Des officiers de police judiciaire (art. R3 à R15-16)](#161)
+            - [Paragraphe 1er : Désignation des officiers de police judiciaire (art. R3 à R7)](#162)
+              - [A - Désignation des gendarmes officiers de police judiciaire (art. R3 à R7)](#163)
+            - [Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité (art. R13 à R15-6)](#164)
+              - [A : Habilitation des officiers de police judiciaire de la gendarmerie (art. R13 à R15-2)](#165)
+              - [B : Habilitation des officiers de police judiciaire de la police nationale (art. R15-3 à R15-6)](#166)
+            - [Paragraphe 3 : Fonctionnement de la commission prévue à l'article 16-2 (art. R15-7 à R15-16)](#167)
+      - [Titre III : Des juridictions d'instruction (art. R16-1 à R40-4)](#168)
+        - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. R16-1 à R40-4)](#169)
+          - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. R16-1 à R40-4)](#170)
+            - [Sous-section 1 : Du contrôle judiciaire (art. R16-1 à R25)](#171)
+              - [Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire (art. R16-1 à R16-2)](#172)
+              - [Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire (art. R17 à R18-1)](#173)
+              - [Paragraphe 3 : Du cautionnement (art. R22 à R25)](#174)
+            - [Sous-section 3 : De l'indemnisation à raison d'une détention provisoire (art. R26 à R40-4)](#175)
+    - [Livre II : Des juridictions de jugement (art. R41 à R48)](#176)
+      - [Titre Ier : De la cour d'assises (art. R41)](#177)
+        - [Chapitre II : De la tenue des assises (art. R41)](#178)
+      - [Titre III : Du jugement des contraventions (art. R42 à R48)](#179)
+        - [Chapitre II : Procédure simplifiée (art. R42 à R48)](#180)
+    - [Livre IV : De quelques procédures particulières (art. R50-4 à R50-28)](#181)
+      - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. R50-4 à R50-28)](#182)
+    - [Livre V : Des procédures d'exécution. (art. R53 à R248)](#183)
+      - [Titre IV : Du sursis (art. R53 à R61)](#184)
+        - [Chapitre II : Du sursis avec mise à l'épreuve. (art. R53 à R60)](#185)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R53)](#186)
+          - [Section 5 : Dispositions diverses (art. R60)](#187)
+        - [Chapitre II : De sursis avec mise à l'épreuve (art. R51 à R61)](#188)
+          - [Section 1 : Dispositions générales (art. R51 à R52)](#189)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. R55)](#190)
+          - [Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement (art. R59)](#191)
+          - [Section 5 : Dispositions diverses (art. R61)](#192)
+      - [Titre VIII : Du casier judiciaire (art. R66 à R90)](#193)
+        - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R66 à R72)](#194)
+        - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74)](#195)
+        - [Chapitre VII : Dispositions diverses (art. R85 à R90)](#196)
+      - [Titre X : Des frais de justice (art. R94 à R248)](#197)
+        - [Chapitre II : Tarif des frais (art. R94 à R213)](#198)
+          - [Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction (art. R94 à R104)](#199)
+          - [Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité (art. R106 à R121-1)](#200)
+            - [Paragraphe 1er : Des experts. (art. R106 à R115)](#201)
+              - [A : Règles générales (art. R106 à R115)](#202)
+            - [Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire (art. R121-1)](#203)
+          - [Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés (art. R123 à R145)](#204)
+            - [Paragraphe 1er : Des témoins (art. R123 à R138)](#205)
+              - [A : Règles générales (art. R123 à R128)](#206)
+              - [B : Indemnités de comparution (art. R129 à R132)](#207)
+              - [C : Frais de voyage et de séjour (art. R133 à R138)](#208)
+            - [Paragraphe 2 : Des membres du jury criminel (art. R139 à R145)](#209)
+          - [Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal (art. R148)](#210)
+          - [Section 5 : Des frais de copie (art. R154 à R178)](#211)
+            - [B : Expéditions (art. R154 à R166)](#212)
+              - [a) Délivrance des expéditions (art. R154 à R160)](#213)
+              - [c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt. (art. R166)](#214)
+            - [E : Indemnités (art. R176 à R178)](#215)
+          - [Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique (art. R179 à R199)](#216)
+            - [Paragraphe 1er : Service d'audience des huissiers de justice (art. R179 à R180)](#217)
+            - [Paragraphe 2 : Citations et significations (art. R183 à R187)](#218)
+            - [Paragraphe 3 : Exécution des mandats d'amener, de dépôt et d'arrêt et des mesures de contrainte exercées contre les témoins défaillants - Capture en exécution d'une ordonnance de prise de corps, d'un jugement ou d'un arrêt (art. R188 à R191)](#219)
+            - [Paragraphe 4 : Exécution des arrêts de contumace (art. R192 à R193)](#220)
+            - [Paragraphe 5 : Frais de voyage et de séjour (art. R194 à R195)](#221)
+            - [Paragraphe 6 : Dispositions générales (art. R196 à R199)](#222)
+          - [Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers (art. R202 à R207)](#223)
+          - [Section 8 : Du port des lettres et paquets (art. R208)](#224)
+          - [Section 9 : Des frais d'impression (art. R210 à R212)](#225)
+          - [Section 10 : Des frais d'exécution des arrêts (art. R213)](#226)
+        - [Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels (art. R215 à R221)](#227)
+          - [Section 1 : Règles générales (art. R215)](#228)
+          - [Section 2 : Règles spéciales (art. R220 à R221)](#229)
+            - [Paragraphe 5 : Recouvrement des amendes (art. R220)](#230)
+            - [Paragraphe 6 : Transport des registres et archives. (art. R221)](#231)
+        - [Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police (art. R222 à R248)](#232)
+          - [Section 1 : Du mode de paiement (art. R222 à R234)](#233)
+            - [Paragraphe 1er : Délivrance de l'ordonnance de taxe. (art. R222 à R231)](#234)
+            - [Paragraphe 2 : Paiement. (art. R234)](#235)
+          - [Section 2 : De la consignation par la partie civile pour frais de procédure (art. R236 à R238)](#236)
+          - [Section 3 : De la liquidation et du recouvrement des frais (art. R241 à R248)](#237)
+            - [Paragraphe 1er : Liquidation des frais (art. R241 à R244)](#238)
+            - [Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi (art. R245 à R247)](#239)
+            - [Paragraphe 3 : Régularisation des dépenses - Recouvrement (art. R248)](#240)
+    - [Dispositions générales (art. R250)](#241)
+  - [Partie réglementaire - Décrets simples (art. D1 à D569)](#242)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. D1 à D47)](#243)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. D1 à D15)](#244)
+        - [Chapitre Ier : De la police judiciaire (art. D1 à D15)](#245)
+          - [Section 1 : Dispositions générales (art. D1 à D8)](#246)
+          - [Section 2 : Des officiers de police judiciaire (art. D9 à D12)](#247)
+          - [Section 3 : Des agents de police judiciaire (art. D13 à D15)](#248)
+      - [Titre III : Des juridictions d'instruction (art. D16 à D47)](#249)
+        - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. D16 à D36)](#250)
+          - [Section 1 : Dispositions générales (art. D16 à D31)](#251)
+            - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D16 à D26)](#252)
+            - [Paragraphe 6 : Désignation du juge d'instruction. (art. D27 à D31)](#253)
+          - [Section 2 : De la constitution de partie civile et de ses effets (art. D32)](#254)
+          - [Section 8 : Des commissions rogatoires (art. D33 à D36)](#255)
+        - [Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré (art. D43)](#256)
+          - [Section 1 : Dispositions générales (art. D43)](#257)
+        - [Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré (art. D44 à D47)](#258)
+          - [Section 3 : Du contrôle de l'activité des officiers de police judiciaire (art. D44 à D47)](#259)
+    - [Livre IV : De quelques procédures particulières (art. D47-1)](#260)
+      - [Titre II : Du faux (art. D47-1)](#261)
+    - [Livre V : Des procédures d'exécution (art. D48 à D569)](#262)
+      - [Titre Ier : De l'exécution des sentences pénales (art. D48 à D49)](#263)
+      - [Titre II : De la détention (art. D52 à D519)](#264)
+        - [Chapitre Ier : De l'exécution de la détention provisoire (art. D56 à D69)](#265)
+          - [Section 2 : Des ordres donnés par l'autorité judiciaire (art. D56)](#266)
+          - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#267)
+            - [Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel (art. D58 à D59)](#268)
+            - [Paragraphe 2 : Dispenses dont bénéficient les prévenus (art. D62 à D63)](#269)
+            - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#270)
+            - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#271)
+        - [Chapitre II : De l'exécution des peines privatives de liberté (art. D70-2 à D114)](#272)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. D70-2)](#273)
+          - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#274)
+          - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D96)](#275)
+            - [Paragraphe 1er : Maisons d'arrêt (art. D83 à D93)](#276)
+              - [A : Etablissements cellulaires (art. D84 à D86)](#277)
+              - [B : Etablissements en commun (art. D88 à D89)](#278)
+              - [C : Répartition des détenus dans les établissements (art. D91 à D93)](#279)
+            - [Paragraphe 2 : Etablissements pour peines (art. D96)](#280)
+          - [Section 6 : Du juge de l'application des peines et de la commission de l'application des peines (art. D117)](#281)
+          - [Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir. (art. D120 à D147)](#282)
+            - [Paragraphe 1er : Dispositions communes (art. D120 à D123)](#283)
+            - [Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire (art. D128 à D132)](#284)
+            - [Paragraphe 3 : Régime de semi-liberté (art. D140 à D141)](#285)
+            - [Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire (art. D136)](#286)
+            - [Paragraphe 4 : Permissions de sortir (art. D143 à D147)](#287)
+          - [Section 4 : Du travail des détenus (art. D99 à D109)](#288)
+            - [Paragraphe 1er : Principes (art. D99 à D100)](#289)
+            - [Paragraphe 2 : Formes et modalités du travail (art. D102 à D109)](#290)
+          - [Section 5 : De la répartition du produit du travail (art. D111 à D114)](#291)
+        - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires (art. D149 à D187)](#292)
+          - [Section 1 : Du greffe judiciaire des prisons (art. D149 à D166)](#293)
+            - [Paragraphe 1 : Registre et formalités d'écrou. (art. D149 à D150)](#294)
+            - [Paragraphe 2 : Autres registres et écritures du greffe. (art. D154)](#295)
+            - [Paragraphe 3 : Dossiers individuels des détenus. (art. D158 à D166)](#296)
+              - [A : Dossier spécial aux condamnés à une longue peine. (art. D158 à D164)](#297)
+              - [B : Dossiers des autres détenus. (art. D165 à D166)](#298)
+          - [Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte (art. D171 à D175)](#299)
+            - [Paragraphe 2 : Mise à l'isolement (art. D171)](#300)
+            - [Paragraphe 3 : Moyens de contrainte (art. D172 à D175)](#301)
+          - [Section 3 : Des visites effectuées par les autorités judiciaires (art. D176 à D179)](#302)
+          - [Section 4 : De la commission de surveillance (art. D181 à D185)](#303)
+          - [Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus (art. D186 à D187)](#304)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. D188 à D240)](#305)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. D188 à D192)](#306)
+          - [Section 2 : Du personnel de l'administration pénitentiaire (art. D197 à D228)](#307)
+            - [Paragraphe 2 : Dispositions générales (art. D216 à D228)](#308)
+          - [Section 3 : Du contrôle des établissements pénitentiaires (art. D230 à D233)](#309)
+          - [Section 4 : Du conseil supérieur de l'administration pénitentiaire (art. D234 à D240)](#310)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. D241 à D283)](#311)
+          - [Section 1 : De la police intérieure (art. D241 à D247)](#312)
+          - [Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D250-1 à D253)](#313)
+            - [Paragraphe 1er : Sanctions disciplinaires (art. D250-1 à D251-1)](#314)
+            - [Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale (art. D252 à D253)](#315)
+          - [Section 3 : Du règlement intérieur de chaque prison (art. D256 à D258)](#316)
+          - [Section 4 : Des réclamations formulées par les détenus (art. D259 à D264)](#317)
+          - [Section 5 : De la sécurité (art. D267 à D283)](#318)
+            - [Paragraphe 1er : Dispositions générales (art. D267 à D276)](#319)
+            - [Paragraphe 2 : Conditions d'accès dans les lieux de détention (art. D277 à D279-1)](#320)
+            - [Paragraphe 3 : Incidents (art. D281 à D283)](#321)
+        - [Chapitre VI : Des mouvements de détenus (art. D286 à D315)](#322)
+          - [Section 1 : Des entrées et sorties des détenus (art. D286 à D289)](#323)
+          - [Section 2 : Des transfèrements et des extractions (art. D290 à D315)](#324)
+            - [Paragraphe 1er : Dispositions communes (art. D292 à D295)](#325)
+            - [Paragraphe 2 : Transfèrements (art. D298 à D312)](#326)
+              - [A : Translations judiciaires (art. D298 à D299)](#327)
+              - [B : Transfèrements administratifs (art. D301 à D303)](#328)
+              - [C : Exécution des transfèrements par l'administration pénitentiaire (art. D304 à D310)](#329)
+              - [D : Cas particuliers (art. D311 à D312)](#330)
+            - [Paragraphe 3 : Extractions (art. D314 à D315)](#331)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. D319 à D348-1)](#332)
+          - [Section 1 : De la gestion des biens des détenus (art. D319 à D341)](#333)
+            - [Paragraphe 1er : Valeurs pécuniaires. (art. D319 à D334)](#334)
+            - [Paragraphe 2 : Valeurs non pécuniaires. (art. D335 à D341)](#335)
+          - [Section 2 : De l'entretien des détenus (art. D342 à D348-1)](#336)
+        - [Chapitre VIII : De l'hygiène et du service sanitaire (art. D349 à D400)](#337)
+          - [Section 1 : De l'hygiène (art. D349 à D363)](#338)
+            - [Paragraphe 1er : Salubrité et propreté des locaux (art. D350 à D352)](#339)
+            - [Paragraphe 2 : Hygiène du travail et des services économiques (art. D353 à D356)](#340)
+            - [Paragraphe 3 : Hygiène personnelle (art. D357 à D359)](#341)
+            - [Paragraphe 4 : Exercices physiques (art. D360 à D363)](#342)
+          - [Section 2 : Du service sanitaire (art. D364 à D400)](#343)
+            - [Paragraphe 1 : Organisation sanitaire (art. D364 à D371)](#344)
+            - [Paragraphe 2 : Rôle du médecin de l'établissement (art. D373 à D377)](#345)
+            - [Paragraphe 3 : Traitement médical (art. D380 à D390)](#346)
+            - [Paragraphe 4 : Soins divers (art. D392 à D398)](#347)
+            - [Paragraphe 5 : Maternité (art. D399 à D400)](#348)
+        - [Chapitre IX : Des relations des détenus avec l'extérieur (art. D402 à D431)](#349)
+          - [Section 1 : Des visites (art. D404 à D412)](#350)
+          - [Section 2 : De la correspondance (art. D413 à D419)](#351)
+          - [Section 3 : Du maintien des liens familiaux (art. D420 à D422)](#352)
+          - [Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver (art. D424 à D424-1)](#353)
+          - [Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur (art. D430 à D431)](#354)
+        - [Chapitre X : Des actions de préparation à la réinsertion des détenus (art. D433 à D484)](#355)
+          - [Section 1 : De l'assistance spirituelle (art. D433 à D439)](#356)
+          - [Section 2 : De l'action socio-culturelle (art. D444 à D448)](#357)
+          - [Section 3 : De l'enseignement (art. D450 à D459)](#358)
+            - [Paragraphe 2 : Formation professionnelle (art. D457 à D459)](#359)
+          - [Section 4 : Du service socio-éducatif (art. D477)](#360)
+            - [Paragraphe 2 : Visiteurs de prison (art. D477)](#361)
+          - [Section 5 : De l'aide à la libération (art. D484)](#362)
+            - [Paragraphe 2 : Aide aux indigents (art. D484)](#363)
+        - [Chapitre XI : De différentes catégories de détenus (art. D487 à D519)](#364)
+          - [Section 1 : Des condamnés de police (art. D488)](#365)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. D491 à D504)](#366)
+          - [Section 3 : Des détenus de nationalité étrangère (art. D505 à D507)](#367)
+          - [Section 4 : Des détenus appartenant aux forces armées (art. D509 à D513)](#368)
+          - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#369)
+      - [Titre III : De la libération conditionnelle (art. D525 à D543)](#370)
+        - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#371)
+        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#372)
+        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#373)
+          - [Section 2 : Des conditions particulières (art. D537)](#374)
+        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#375)
+        - [Chapitre V : Dispositions diverses (art. D543)](#376)
+      - [Titre IV : Du sursis (art. D545 à D568)](#377)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#378)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#379)
+      - [Titre VI : De la contrainte par corps (art. D569)](#380)
+  - [Partie Arrêtés (art. A1 à A57)](#381)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#382)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#383)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#384)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#385)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#386)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#387)
+    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#388)
+      - [Titre II : De la détention (art. A39-1 à A43-1)](#389)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#390)
+          - [Section 5 (art. A39-1 à A39-2)](#391)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#392)
+          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#393)
+            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#394)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#395)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#396)
+      - [Titre IV : Du sursis (art. A45 à A52)](#397)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#398)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#399)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#400)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#401)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#402)
+        - [Disposition générale (art. A53)](#403)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#404)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -4777,6 +4778,30 @@ _Cité par_:
   - Code de procédure pénale - art. 627-9 (V)
   - Code de procédure pénale - art. 706-33 (V)
   - Code de procédure pénale - art. 706-36 (V)
+
+
+###### Article 148-5
+
+En toute matière et en tout état de la procédure, la juridiction d'instruction ou de jugement peut, à titre exceptionnel,
+accorder une autorisation de sortie sous escorte à l'inculpé, au prévenu ou à l'accusé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°78-1097 1978-11-22 art. 6 JORF 23 novembre 1978
+
+_Cité par_:
+
+  - Arrêté du 11 mars 2016 - art. 2 (Ab)
+  - Décret n°2019-508 du 24 mai 2019 (V)
+  - Arrêté du 21 mai 2019 - art. 3 (V)
+  - Code de procédure pénale - art. D147 (V)
+  - Code de procédure pénale - art. D426 (Ab)
 
 
 ##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=45></a>
@@ -17385,7 +17410,147 @@ _Cité par_:
   - Code de procédure pénale - art. 723-6-1 (V)
 
 
-#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=142></a>
+###### Article 723-3
+
+La permission de sortir autorise un condamné à s'absenter d'un établissement pénitentiaire pendant une période de temps
+déterminée qui s'impute sur la durée de la peine en cours d'exécution.
+
+Elle a pour objet de préparer la réinsertion professionnelle ou sociale du condamné, de maintenir ses liens familiaux ou de
+lui permettre d'accomplir une obligation exigeant sa présence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+_Cité par_:
+
+  - Décret n°2020-91 du 6 février 2020 (V)
+  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D570 (V)
+  - Code de procédure pénale - art. D118 (V)
+  - Code de procédure pénale - art. D123 (V)
+  - Code de procédure pénale - art. D124 (V)
+  - Code de procédure pénale - art. D125 (V)
+  - Code de procédure pénale - art. D365 (V)
+  - Code de procédure pénale - art. D425 (Ab)
+  - Code de procédure pénale - art. D508 (V)
+
+
+###### Article 723-4
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+_Modifié par_:
+
+  - Loi n°81-82 du 2 février 1981 - art. 37 () JORF 3 février 1981
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-466 1983-06-10 art. 43
+
+_Abrogé par_:
+
+  - Loi n°83-466 du 10 juin 1983 - art. 6 () JORF 11 juin 1983 en vigueur le 27 juin 1983
+
+_Cité par_:
+
+  - Code de la route. - art. R234-5 (V)
+  - Code de procédure pénale - art. 720 (Ab)
+  - Code de procédure pénale - art. 723-6-1 (V)
+
+
+###### Article 723-5
+
+Sans préjudice de l'application de l'article 245 du code pénal, en cas de condamnation pour un crime ou un délit volontaire
+commis à l'occasion d'une permission de sortir, la juridiction peut décider que le condamné perdra le bénéfice des réductions
+de peine qui lui ont été accordées antérieurement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 78-1097 1978-11-22 art. 4 JORF 23 novembre 1978
+
+_Cite_:
+
+  - Code pénal 245
+
+
+###### Article 723-6
+
+Tout condamné peut, dans les conditions de l'article 722, obtenir, à titre exceptionnel, une autorisation de sortie sous
+escorte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de procédure pénale art. 722
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 78-1097 1978-11-22 art. 5 JORF 23 novembre 1978
+
+_Cité par_:
+
+  - Arrêté du 11 mars 2016 - art. 2 (Ab)
+  - Arrêté du 21 mai 2019 - art. 3 (V)
+  - CODE DE PROCEDURE PENALE - art. 733-1 (M)
+  - CODE DE PROCEDURE PENALE - art. D116 (M)
+  - Code de procédure pénale - art. D147 (V)
+  - Code de procédure pénale - art. D426 (Ab)
+
+
+##### Section 3 : De la période de sûreté<a id=142></a>
+
+###### Article 720-3
+
+L'article 720-2 n'est pas applicable aux mineurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - loi 78-1097 1978-11-22 art. 1 JORF 23 novembre 1978
+
+_Abrogé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 84 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+
+
+#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=143></a>
 
 ###### Article 724
 
@@ -17524,7 +17689,46 @@ _Cité par_:
   - Code de procédure pénale - art. D189 (Ab)
 
 
-### Titre III : De la libération conditionnelle<a id=143></a>
+### Titre III : De la libération conditionnelle<a id=144></a>
+
+###### Article 729-2
+
+Dans les formes et conditions prévues par les articles 721, 721-1, et 729-1, mais dans la limite de quarante-cinq jours par
+année d'incarcération, des réductions du temps d'épreuve nécessaire à l'octroi de la libération conditionnelle peuvent être
+accordées aux condamnés à la réclusion criminelle à perpétuité. Elles ne sont, le cas échéant, imputables que sur la partie
+de la peine excédant la période de sûreté prévue à l'article 720-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°78-1097 1978-11-22 art. 7 JORF 23 novembre 1978
+
+_Abrogé par_:
+
+  - Loi n°86-1021 du 9 septembre 1986 - art. 3 () JORF 10 septembre 1986 en vigueur le 1er octobre 1986
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°86-1021 du 9 septembre 1986 - art. 5 (V)
+
+_Cité par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 109 (V)
+  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+  - Code de procédure pénale - art. D531 (V)
+  - Code de procédure pénale - art. D541 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+  - CODE DE PROCEDURE PENALE - art. 721 (M)
+  - CODE DE PROCEDURE PENALE - art. 721-1 (M)
+
 
 ###### Article 730
 
@@ -17733,7 +17937,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 732 (M)
 
 
-### Titre IV : Du sursis<a id=144></a>
+### Titre IV : Du sursis<a id=145></a>
 
 ###### Article 734
 
@@ -17761,7 +17965,7 @@ _Modifié par_:
   - Loi n°70-643 du 17 juillet 1970 - art. 29 () JORF 19 juillet 1970
 
 
-#### Chapitre Ier : Du sursis simple<a id=145></a>
+#### Chapitre Ier : Du sursis simple<a id=146></a>
 
 ###### Article 736
 
@@ -17818,7 +18022,7 @@ _Cite_:
   - Code pénal 57, 58
 
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=146></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=147></a>
 
 ###### Article 738
 
@@ -18416,7 +18620,7 @@ _Cite_:
   - Code pénal 57, 58
 
 
-### Titre V : De la reconnaissance de l'identité des individus condamnés<a id=147></a>
+### Titre V : De la reconnaissance de l'identité des individus condamnés<a id=148></a>
 
 ###### Article 748
 
@@ -18439,7 +18643,7 @@ _Codifié par_:
   - Ordonnance 58-1296 1958-12-23
 
 
-### Titre VI : De la contrainte judiciaire<a id=148></a>
+### Titre VI : De la contrainte judiciaire<a id=149></a>
 
 ###### Article 753
 
@@ -18558,7 +18762,7 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. 761-1 (V)
 
 
-### Titre VI : De la contrainte par corps<a id=149></a>
+### Titre VI : De la contrainte par corps<a id=150></a>
 
 ###### Article 755
 
@@ -18608,7 +18812,7 @@ _Abrogé par_:
   - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
-### Titre VII : De la prescription de la peine<a id=150></a>
+### Titre VII : De la prescription de la peine<a id=151></a>
 
 ###### Article 763
 
@@ -18750,7 +18954,7 @@ _Cite_:
   - Code civil
 
 
-### Titre VIII : Du casier judiciaire<a id=151></a>
+### Titre VIII : Du casier judiciaire<a id=152></a>
 
 ###### Article 770
 
@@ -19063,7 +19267,7 @@ _Cite_:
   - Code de procédure pénale 768 à 778
 
 
-### Titre IX : De la réhabilitation des condamnés<a id=152></a>
+### Titre IX : De la réhabilitation des condamnés<a id=153></a>
 
 ###### Article 782
 
@@ -19470,7 +19674,7 @@ _Abrogé par_:
   - Loi n°92-1336 du 16 décembre 1992 - art. 131 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
-### Titre X : Des frais de justice<a id=153></a>
+### Titre X : Des frais de justice<a id=154></a>
 
 ###### Article 800
 
@@ -19606,7 +19810,7 @@ _Cité par_:
   - Code de la route. - art. L325-1-2 (V)
 
 
-#### Dispositions générales<a id=154></a>
+#### Dispositions générales<a id=155></a>
 
 ###### Article 801
 
@@ -19659,15 +19863,15 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 105 (M)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=155></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=156></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=156></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=157></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=157></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=158></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=158></a>
+#### Chapitre Ier : De la police judiciaire<a id=159></a>
 
-##### Section 1 : Dispositions générales<a id=159></a>
+##### Section 1 : Dispositions générales<a id=160></a>
 
 ###### Article R1
 
@@ -19744,11 +19948,11 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. R2-16 (VD)
 
 
-##### Section 2 : Des officiers de police judiciaire<a id=160></a>
+##### Section 2 : Des officiers de police judiciaire<a id=161></a>
 
-##### Paragraphe 1er : Désignation des officiers de police judiciaire<a id=161></a>
+##### Paragraphe 1er : Désignation des officiers de police judiciaire<a id=162></a>
 
-##### A - Désignation des gendarmes officiers de police judiciaire<a id=162></a>
+##### A - Désignation des gendarmes officiers de police judiciaire<a id=163></a>
 
 ###### Article R3
 
@@ -19890,9 +20094,9 @@ _Cite_:
   - Code de procédure pénale R5 et R6
 
 
-##### Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité<a id=163></a>
+##### Paragraphe 2 : Habilitation des militaires de la gendarmerie et des fonctionnaires de la police nationale, ayant la qualité d'officier de police judiciaire, à exercer effectivement les attributions attachées à cette qualité<a id=164></a>
 
-##### A : Habilitation des officiers de police judiciaire de la gendarmerie<a id=164></a>
+##### A : Habilitation des officiers de police judiciaire de la gendarmerie<a id=165></a>
 
 ###### Article R13
 
@@ -20035,7 +20239,7 @@ _Cité par_:
   - Code de procédure pénale - art. R362 (Ab)
 
 
-##### B : Habilitation des officiers de police judiciaire de la police nationale<a id=165></a>
+##### B : Habilitation des officiers de police judiciaire de la police nationale<a id=166></a>
 
 ###### Article R15-3
 
@@ -20144,7 +20348,7 @@ _Créé par_:
   - Décret n°75-1138 1975-12-31 art. 2 JORF 3 janvier 1976
 
 
-##### Paragraphe 3 : Fonctionnement de la commission prévue à l'article 16-2<a id=166></a>
+##### Paragraphe 3 : Fonctionnement de la commission prévue à l'article 16-2<a id=167></a>
 
 ###### Article R15-7
 
@@ -20351,15 +20555,15 @@ _Créé par_:
   - Décret n°75-1138 1975-12-31 art. 3 JORF 3 janvier 1976
 
 
-### Titre III : Des juridictions d'instruction<a id=167></a>
+### Titre III : Des juridictions d'instruction<a id=168></a>
 
-#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=168></a>
+#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=169></a>
 
-##### Section 7 : Du contrôle judiciaire et de la détention provisoire<a id=169></a>
+##### Section 7 : Du contrôle judiciaire et de la détention provisoire<a id=170></a>
 
-##### Sous-section 1 : Du contrôle judiciaire<a id=170></a>
+##### Sous-section 1 : Du contrôle judiciaire<a id=171></a>
 
-##### Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire<a id=171></a>
+##### Paragraphe 1er : Des autorités ou personnes contribuant au contrôle judiciaire<a id=172></a>
 
 ###### Article R16-1
 
@@ -20410,7 +20614,7 @@ _Créé par_:
   - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
-##### Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire<a id=172></a>
+##### Paragraphe 2 : Des modalités d'exécution du contrôle judiciaire<a id=173></a>
 
 ###### Article R17
 
@@ -20586,7 +20790,7 @@ _Cite_:
   - Code de procédure pénale 138 al. 2 13°
 
 
-##### Paragraphe 3 : Du cautionnement<a id=173></a>
+##### Paragraphe 3 : Du cautionnement<a id=174></a>
 
 ###### Article R22
 
@@ -20676,7 +20880,7 @@ _Modifié par_:
   - Décret n°70-1223 1970-12-23 art. 1 JORF 25 décembre 1970
 
 
-##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=174></a>
+##### Sous-section 3 : De l'indemnisation à raison d'une détention provisoire<a id=175></a>
 
 ###### Article R26
 
@@ -21064,11 +21268,11 @@ _Créé par_:
   - Décret n°78-50 1958-01-09 art. 1 JORF 9 janvier 1978
 
 
-## Livre II : Des juridictions de jugement<a id=175></a>
+## Livre II : Des juridictions de jugement<a id=176></a>
 
-### Titre Ier : De la cour d'assises<a id=176></a>
+### Titre Ier : De la cour d'assises<a id=177></a>
 
-#### Chapitre II : De la tenue des assises<a id=177></a>
+#### Chapitre II : De la tenue des assises<a id=178></a>
 
 ###### Article R41
 
@@ -21122,9 +21326,9 @@ _Modifié par_:
   - Décret n°75-929 1975-10-07 art. 1 et art. 2 JORF 14 octobre 1975
 
 
-### Titre III : Du jugement des contraventions<a id=178></a>
+### Titre III : Du jugement des contraventions<a id=179></a>
 
-#### Chapitre II : Procédure simplifiée<a id=179></a>
+#### Chapitre II : Procédure simplifiée<a id=180></a>
 
 ###### Article R42
 
@@ -21364,9 +21568,9 @@ _Cite_:
   - Code de procédure pénale 527 al. 3 et al. 4
 
 
-## Livre IV : De quelques procédures particulières<a id=180></a>
+## Livre IV : De quelques procédures particulières<a id=181></a>
 
-### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction<a id=181></a>
+### Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction<a id=182></a>
 
 ###### Article R50-4
 
@@ -21694,13 +21898,13 @@ _Cite_:
   - Nouveau code de procédure civile 643 à 647
 
 
-## Livre V : Des procédures d'exécution.<a id=182></a>
+## Livre V : Des procédures d'exécution.<a id=183></a>
 
-### Titre IV : Du sursis<a id=183></a>
+### Titre IV : Du sursis<a id=184></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve.<a id=184></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve.<a id=185></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=185></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=186></a>
 
 ###### Article R53
 
@@ -21737,7 +21941,7 @@ _Cité par_:
   - Code de procédure pénale - art. R93 (V)
 
 
-##### Section 5 : Dispositions diverses<a id=186></a>
+##### Section 5 : Dispositions diverses<a id=187></a>
 
 ###### Article R60
 
@@ -21776,9 +21980,9 @@ _Cité par_:
   - Code de procédure pénale - art. R289 (V)
 
 
-#### Chapitre II : De sursis avec mise à l'épreuve<a id=187></a>
+#### Chapitre II : De sursis avec mise à l'épreuve<a id=188></a>
 
-##### Section 1 : Dispositions générales<a id=188></a>
+##### Section 1 : Dispositions générales<a id=189></a>
 
 ###### Article R51
 
@@ -21845,7 +22049,7 @@ _Abrogé par_:
   - Décret n°93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=189></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=190></a>
 
 ###### Article R55
 
@@ -21874,7 +22078,7 @@ _Cité par_:
   - Code de procédure pénale - art. D45-11 (V)
 
 
-##### Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement<a id=190></a>
+##### Section 4 : Des obligations imposées spécialement par l'arrêt ou le jugement<a id=191></a>
 
 ###### Article R59
 
@@ -21905,7 +22109,7 @@ _Cité par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 739 (M)
 
 
-##### Section 5 : Dispositions diverses<a id=191></a>
+##### Section 5 : Dispositions diverses<a id=192></a>
 
 ###### Article R61
 
@@ -21939,9 +22143,9 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R61-4 (V)
 
 
-### Titre VIII : Du casier judiciaire<a id=192></a>
+### Titre VIII : Du casier judiciaire<a id=193></a>
 
-#### Chapitre II : De l'établissement des fiches du casier judiciaire<a id=193></a>
+#### Chapitre II : De l'établissement des fiches du casier judiciaire<a id=194></a>
 
 ###### Article R66
 
@@ -22008,7 +22212,7 @@ _Cite_:
   - Code de procédure pénale - art. R71 (V)
 
 
-#### Chapitre III : Des copies des fiches du casier judiciaire<a id=194></a>
+#### Chapitre III : Des copies des fiches du casier judiciaire<a id=195></a>
 
 ###### Article R74
 
@@ -22040,7 +22244,7 @@ _Cité par_:
   - Code de procédure pénale - art. R385 (Ab)
 
 
-#### Chapitre VII : Dispositions diverses<a id=195></a>
+#### Chapitre VII : Dispositions diverses<a id=196></a>
 
 ###### Article R85
 
@@ -22144,11 +22348,11 @@ _Cité par_:
   - Code de procédure pénale - art. R309 (V)
 
 
-### Titre X : Des frais de justice<a id=196></a>
+### Titre X : Des frais de justice<a id=197></a>
 
-#### Chapitre II : Tarif des frais<a id=197></a>
+#### Chapitre II : Tarif des frais<a id=198></a>
 
-##### Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction<a id=198></a>
+##### Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction<a id=199></a>
 
 ###### Article R94
 
@@ -22493,11 +22697,11 @@ _Cite_:
   - Code de procédure pénale - art. 645 (V)
 
 
-##### Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité<a id=199></a>
+##### Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité<a id=200></a>
 
-##### Paragraphe 1er : Des experts.<a id=200></a>
+##### Paragraphe 1er : Des experts.<a id=201></a>
 
-##### A : Règles générales<a id=201></a>
+##### A : Règles générales<a id=202></a>
 
 ###### Article R106
 
@@ -22749,7 +22953,7 @@ _Modifié par_:
   - Décret n°74-88 1974-05-24 art. 1 JORF 28 mai 1974
 
 
-##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire<a id=202></a>
+##### Paragraphe 2 : Des personnes chargées des enquêtes sociales et de personnalité ou contribuant au contrôle judiciaire<a id=203></a>
 
 ###### Article R121-1
 
@@ -22797,11 +23001,11 @@ _Créé par_:
   - Décret n°70-1223 1970-12-23 art. 2 JORF 25 décembre 1970
 
 
-##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés<a id=203></a>
+##### Section 3 : Des indemnités qui peuvent être accordées aux témoins et aux jurés<a id=204></a>
 
-##### Paragraphe 1er : Des témoins<a id=204></a>
+##### Paragraphe 1er : Des témoins<a id=205></a>
 
-##### A : Règles générales<a id=205></a>
+##### A : Règles générales<a id=206></a>
 
 ###### Article R123
 
@@ -22936,7 +23140,7 @@ _Créé par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
-##### B : Indemnités de comparution<a id=206></a>
+##### B : Indemnités de comparution<a id=207></a>
 
 ###### Article R129
 
@@ -23072,7 +23276,7 @@ _Cite_:
   - Code de procédure pénale - art. R129 (V)
 
 
-##### C : Frais de voyage et de séjour<a id=207></a>
+##### C : Frais de voyage et de séjour<a id=208></a>
 
 ###### Article R133
 
@@ -23201,7 +23405,7 @@ _Cité par_:
   - Code de procédure pénale - art. R249-2 (VD)
 
 
-##### Paragraphe 2 : Des membres du jury criminel<a id=208></a>
+##### Paragraphe 2 : Des membres du jury criminel<a id=209></a>
 
 ###### Article R139
 
@@ -23443,7 +23647,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R412 (V)
 
 
-##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal<a id=209></a>
+##### Section 4 : Des frais de garde des scellés, de mise en fourrière et de l'immobilisation décidée en application de l'article 43-3-3° bis du code pénal<a id=210></a>
 
 ###### Article R148
 
@@ -23471,11 +23675,11 @@ _Créé par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
-##### Section 5 : Des frais de copie<a id=210></a>
+##### Section 5 : Des frais de copie<a id=211></a>
 
-##### B : Expéditions<a id=211></a>
+##### B : Expéditions<a id=212></a>
 
-##### a) Délivrance des expéditions<a id=212></a>
+##### a) Délivrance des expéditions<a id=213></a>
 
 ###### Article R154
 
@@ -23697,7 +23901,7 @@ _Créé par_:
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
 
 
-##### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.<a id=213></a>
+##### c) Expéditions délivrées par les surveillants chefs des maisons d'arrêt.<a id=214></a>
 
 ###### Article R166
 
@@ -23734,7 +23938,7 @@ _Cite_:
   - Loi n°1970-07-17
 
 
-##### E : Indemnités<a id=214></a>
+##### E : Indemnités<a id=215></a>
 
 ###### Article R176
 
@@ -23803,9 +24007,9 @@ _Cite_:
   - Code de procédure pénale 200 à 207
 
 
-##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique<a id=215></a>
+##### Section 6 : Des émoluments et indemnités alloués aux huissiers de justice et aux agents de la force publique<a id=216></a>
 
-##### Paragraphe 1er : Service d'audience des huissiers de justice<a id=216></a>
+##### Paragraphe 1er : Service d'audience des huissiers de justice<a id=217></a>
 
 ###### Article R179
 
@@ -23869,7 +24073,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R179 (M)
 
 
-##### Paragraphe 2 : Citations et significations<a id=217></a>
+##### Paragraphe 2 : Citations et significations<a id=218></a>
 
 ###### Article R183
 
@@ -23944,7 +24148,7 @@ _Cité par_:
   - Code de procédure pénale - art. R418 (V)
 
 
-##### Paragraphe 3 : Exécution des mandats d'amener, de dépôt et d'arrêt et des mesures de contrainte exercées contre les témoins défaillants - Capture en exécution d'une ordonnance de prise de corps, d'un jugement ou d'un arrêt<a id=218></a>
+##### Paragraphe 3 : Exécution des mandats d'amener, de dépôt et d'arrêt et des mesures de contrainte exercées contre les témoins défaillants - Capture en exécution d'une ordonnance de prise de corps, d'un jugement ou d'un arrêt<a id=219></a>
 
 ###### Article R188
 
@@ -24087,7 +24291,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R188 (V)
 
 
-##### Paragraphe 4 : Exécution des arrêts de contumace<a id=219></a>
+##### Paragraphe 4 : Exécution des arrêts de contumace<a id=220></a>
 
 ###### Article R192
 
@@ -24140,7 +24344,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 634 (M)
 
 
-##### Paragraphe 5 : Frais de voyage et de séjour<a id=220></a>
+##### Paragraphe 5 : Frais de voyage et de séjour<a id=221></a>
 
 ###### Article R194
 
@@ -24207,7 +24411,7 @@ _Cité par_:
   - Code de procédure pénale - art. R345 (V)
 
 
-##### Paragraphe 6 : Dispositions générales<a id=221></a>
+##### Paragraphe 6 : Dispositions générales<a id=222></a>
 
 ###### Article R196
 
@@ -24320,7 +24524,7 @@ _Cité par_:
   - Code de procédure pénale - art. R346 (V)
 
 
-##### Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers<a id=222></a>
+##### Section 7 : Indemnités de transport et de séjour accordées aux magistrats et aux greffiers<a id=223></a>
 
 ###### Article R202
 
@@ -24461,7 +24665,7 @@ _Abrogé par_:
   - Décret n°82-70 1982-01-21 art. 3 JORF 23 janvier 1982
 
 
-##### Section 8 : Du port des lettres et paquets<a id=223></a>
+##### Section 8 : Du port des lettres et paquets<a id=224></a>
 
 ###### Article R208
 
@@ -24479,7 +24683,7 @@ _Créé par_:
   - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
 
 
-##### Section 9 : Des frais d'impression<a id=224></a>
+##### Section 9 : Des frais d'impression<a id=225></a>
 
 ###### Article R210
 
@@ -24562,7 +24766,7 @@ _Cité par_:
   - Code de procédure pénale - art. R421 (Ab)
 
 
-##### Section 10 : Des frais d'exécution des arrêts<a id=225></a>
+##### Section 10 : Des frais d'exécution des arrêts<a id=226></a>
 
 ###### Article R213
 
@@ -24592,9 +24796,9 @@ _Abrogé par_:
   - Décret n°88-600 du 6 mai 1988 - art. 20 (V) JORF 8 mai 1988 en vigueur le 1er octobre 1988
 
 
-#### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels<a id=226></a>
+#### Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels<a id=227></a>
 
-##### Section 1 : Règles générales<a id=227></a>
+##### Section 1 : Règles générales<a id=228></a>
 
 ###### Article R215
 
@@ -24627,9 +24831,9 @@ _Cite_:
   - Code civil - art. 53 (V)
 
 
-##### Section 2 : Règles spéciales<a id=228></a>
+##### Section 2 : Règles spéciales<a id=229></a>
 
-##### Paragraphe 5 : Recouvrement des amendes<a id=229></a>
+##### Paragraphe 5 : Recouvrement des amendes<a id=230></a>
 
 ###### Article R220
 
@@ -24658,7 +24862,7 @@ _Cité par_:
   - Code de procédure pénale - art. R352 (V)
 
 
-##### Paragraphe 6 : Transport des registres et archives.<a id=230></a>
+##### Paragraphe 6 : Transport des registres et archives.<a id=231></a>
 
 ###### Article R221
 
@@ -24685,11 +24889,11 @@ _Créé par_:
   - SPEC_APPLI: Décret n°59-318 1959-02-23 art. 5
 
 
-#### Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police<a id=231></a>
+#### Chapitre IV : Du paiement et du recouvrement des frais de justice criminelle, correctionnelle et de police<a id=232></a>
 
-##### Section 1 : Du mode de paiement<a id=232></a>
+##### Section 1 : Du mode de paiement<a id=233></a>
 
-##### Paragraphe 1er : Délivrance de l'ordonnance de taxe.<a id=233></a>
+##### Paragraphe 1er : Délivrance de l'ordonnance de taxe.<a id=234></a>
 
 ###### Article R222
 
@@ -24962,7 +25166,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 710 (M)
 
 
-##### Paragraphe 2 : Paiement.<a id=234></a>
+##### Paragraphe 2 : Paiement.<a id=235></a>
 
 ###### Article R234
 
@@ -24988,7 +25192,7 @@ _Cité par_:
   - Code de procédure pénale - art. R427 (V)
 
 
-##### Section 2 : De la consignation par la partie civile pour frais de procédure<a id=235></a>
+##### Section 2 : De la consignation par la partie civile pour frais de procédure<a id=236></a>
 
 ###### Article R236
 
@@ -25063,9 +25267,9 @@ _Abrogé par_:
   - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 
-##### Section 3 : De la liquidation et du recouvrement des frais<a id=236></a>
+##### Section 3 : De la liquidation et du recouvrement des frais<a id=237></a>
 
-##### Paragraphe 1er : Liquidation des frais<a id=237></a>
+##### Paragraphe 1er : Liquidation des frais<a id=238></a>
 
 ###### Article R241
 
@@ -25193,7 +25397,7 @@ _Modifié par_:
   - Décret n°74-88 1974-02-04 art. 1 JORF 6 février 1974
 
 
-##### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi<a id=238></a>
+##### Paragraphe 2 : Personnes contre lesquelles le recouvrement des frais peut être poursuivi<a id=239></a>
 
 ###### Article R245
 
@@ -25297,7 +25501,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R199 (M)
 
 
-##### Paragraphe 3 : Régularisation des dépenses - Recouvrement<a id=239></a>
+##### Paragraphe 3 : Régularisation des dépenses - Recouvrement<a id=240></a>
 
 ###### Article R248
 
@@ -25318,7 +25522,7 @@ _Abrogé par_:
   - Décret n°83-455 1983-06-02 art. 2 JORF 8 juin 1983 en vigueur le 1er octobre 1983
 
 
-## Dispositions générales<a id=240></a>
+## Dispositions générales<a id=241></a>
 
 ###### Article R250
 
@@ -25342,15 +25546,15 @@ _Modifié par_:
   - Décret n°79-299 1979-04-02 art. 2 JORF 14 avril 1979
 
 
-# Partie réglementaire - Décrets simples<a id=241></a>
+# Partie réglementaire - Décrets simples<a id=242></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=242></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=243></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=243></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=244></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=244></a>
+#### Chapitre Ier : De la police judiciaire<a id=245></a>
 
-##### Section 1 : Dispositions générales<a id=245></a>
+##### Section 1 : Dispositions générales<a id=246></a>
 
 ###### Article D1
 
@@ -25615,7 +25819,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 12, 13, 14 et 15
 
 
-##### Section 2 : Des officiers de police judiciaire<a id=246></a>
+##### Section 2 : Des officiers de police judiciaire<a id=247></a>
 
 ###### Article D9
 
@@ -25744,7 +25948,7 @@ _Cite_:
   - Code de procédure pénale 18 al. 4 et al. 5
 
 
-##### Section 3 : Des agents de police judiciaire<a id=247></a>
+##### Section 3 : Des agents de police judiciaire<a id=248></a>
 
 ###### Article D13
 
@@ -25850,13 +26054,13 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 20 et 21
 
 
-### Titre III : Des juridictions d'instruction<a id=248></a>
+### Titre III : Des juridictions d'instruction<a id=249></a>
 
-#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=249></a>
+#### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=250></a>
 
-##### Section 1 : Dispositions générales<a id=250></a>
+##### Section 1 : Dispositions générales<a id=251></a>
 
-##### Paragraphe 5 : Examens médical et médico-psychologique.<a id=251></a>
+##### Paragraphe 5 : Examens médical et médico-psychologique.<a id=252></a>
 
 ###### Article D16
 
@@ -26119,7 +26323,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 81 al. 5 et al. 6
 
 
-##### Paragraphe 6 : Désignation du juge d'instruction.<a id=252></a>
+##### Paragraphe 6 : Désignation du juge d'instruction.<a id=253></a>
 
 ###### Article D27
 
@@ -26241,7 +26445,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
 
 
-##### Section 2 : De la constitution de partie civile et de ses effets<a id=253></a>
+##### Section 2 : De la constitution de partie civile et de ses effets<a id=254></a>
 
 ###### Article D32
 
@@ -26270,7 +26474,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R155 (M)
 
 
-##### Section 8 : Des commissions rogatoires<a id=254></a>
+##### Section 8 : Des commissions rogatoires<a id=255></a>
 
 ###### Article D33
 
@@ -26391,9 +26595,9 @@ _Cite_:
   - Code de procédure pénale 155 al. 2
 
 
-#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré<a id=255></a>
+#### Chapitre II : De la chambre d'accusation : juridiction d'instruction du second degré<a id=256></a>
 
-##### Section 1 : Dispositions générales<a id=256></a>
+##### Section 1 : Dispositions générales<a id=257></a>
 
 ###### Article D43
 
@@ -26429,9 +26633,9 @@ _Modifié par_:
   - Décret n°60-134 1960-02-02 art. 1 JORF 17 février 1960
 
 
-#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré<a id=257></a>
+#### Chapitre II : De la chambre de l'instruction : juridiction d'instruction du second degré<a id=258></a>
 
-##### Section 3 : Du contrôle de l'activité des officiers de police judiciaire<a id=258></a>
+##### Section 3 : Du contrôle de l'activité des officiers de police judiciaire<a id=259></a>
 
 ###### Article D44
 
@@ -26570,9 +26774,9 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. D46-1 (T)
 
 
-## Livre IV : De quelques procédures particulières<a id=259></a>
+## Livre IV : De quelques procédures particulières<a id=260></a>
 
-### Titre II : Du faux<a id=260></a>
+### Titre II : Du faux<a id=261></a>
 
 ###### Article D47-1
 
@@ -26587,9 +26791,9 @@ _Codifié par_:
   - Décret n°59-322 1959-02-23
 
 
-## Livre V : Des procédures d'exécution<a id=261></a>
+## Livre V : Des procédures d'exécution<a id=262></a>
 
-### Titre Ier : De l'exécution des sentences pénales<a id=262></a>
+### Titre Ier : De l'exécution des sentences pénales<a id=263></a>
 
 ###### Article D48
 
@@ -26659,7 +26863,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D48 (M)
 
 
-### Titre II : De la détention<a id=263></a>
+### Titre II : De la détention<a id=264></a>
 
 ###### Article D52
 
@@ -26679,9 +26883,9 @@ _Cité par_:
   - Code de procédure pénale - art. D53 (VD)
 
 
-#### Chapitre Ier : De l'exécution de la détention provisoire<a id=264></a>
+#### Chapitre Ier : De l'exécution de la détention provisoire<a id=265></a>
 
-##### Section 2 : Des ordres donnés par l'autorité judiciaire<a id=265></a>
+##### Section 2 : Des ordres donnés par l'autorité judiciaire<a id=266></a>
 
 ###### Article D56
 
@@ -26719,9 +26923,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du régime de la détention provisoire<a id=266></a>
+##### Section 3 : Du régime de la détention provisoire<a id=267></a>
 
-##### Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel<a id=267></a>
+##### Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel<a id=268></a>
 
 ###### Article D58
 
@@ -26783,7 +26987,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispenses dont bénéficient les prévenus<a id=268></a>
+##### Paragraphe 2 : Dispenses dont bénéficient les prévenus<a id=269></a>
 
 ###### Article D62
 
@@ -26833,7 +27037,7 @@ _Cite_:
   - Code de procédure pénale D328 et D329
 
 
-##### Paragraphe 3 : Visites et correspondance<a id=269></a>
+##### Paragraphe 3 : Visites et correspondance<a id=270></a>
 
 ###### Article D64
 
@@ -26896,7 +27100,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Paragraphe 4 : Exercice des droits de la défense<a id=270></a>
+##### Paragraphe 4 : Exercice des droits de la défense<a id=271></a>
 
 ###### Article D66
 
@@ -27015,9 +27219,9 @@ _Cité par_:
   - Code de procédure pénale - art. D419 (Ab)
 
 
-#### Chapitre II : De l'exécution des peines privatives de liberté<a id=271></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté<a id=272></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=272></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=273></a>
 
 ###### Article D70-2
 
@@ -27051,7 +27255,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'orientation des condamnés à une longue peine<a id=273></a>
+##### Section 2 : De l'orientation des condamnés à une longue peine<a id=274></a>
 
 ###### Article D79
 
@@ -27084,9 +27288,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D78 (M)
 
 
-##### Section 3 : Du régime auquel les condamnés sont soumis<a id=274></a>
+##### Section 3 : Du régime auquel les condamnés sont soumis<a id=275></a>
 
-##### Paragraphe 1er : Maisons d'arrêt<a id=275></a>
+##### Paragraphe 1er : Maisons d'arrêt<a id=276></a>
 
 ###### Article D83
 
@@ -27143,7 +27347,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### A : Etablissements cellulaires<a id=276></a>
+##### A : Etablissements cellulaires<a id=277></a>
 
 ###### Article D84
 
@@ -27218,7 +27422,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### B : Etablissements en commun<a id=277></a>
+##### B : Etablissements en commun<a id=278></a>
 
 ###### Article D88
 
@@ -27271,7 +27475,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### C : Répartition des détenus dans les établissements<a id=278></a>
+##### C : Répartition des détenus dans les établissements<a id=279></a>
 
 ###### Article D91
 
@@ -27317,7 +27521,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Etablissements pour peines<a id=279></a>
+##### Paragraphe 2 : Etablissements pour peines<a id=280></a>
 
 ###### Article D96
 
@@ -27342,7 +27546,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=280></a>
+##### Section 6 : Du juge de l'application des peines et de la commission de l'application des peines<a id=281></a>
 
 ###### Article D117
 
@@ -27367,9 +27571,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R200 (M)
 
 
-##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=281></a>
+##### Section VII : Du placement à l'extérieur, du régime de semi-liberté et des permissions de sortir.<a id=282></a>
 
-##### Paragraphe 1er : Dispositions communes<a id=282></a>
+##### Paragraphe 1er : Dispositions communes<a id=283></a>
 
 ###### Article D120
 
@@ -27449,7 +27653,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=283></a>
+##### Paragraphe 2 : Placement à l'extérieur sous surveillance du personnel pénitentiaire<a id=284></a>
 
 ###### Article D128
 
@@ -27557,7 +27761,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D131 (M)
 
 
-##### Paragraphe 3 : Régime de semi-liberté<a id=284></a>
+##### Paragraphe 3 : Régime de semi-liberté<a id=285></a>
 
 ###### Article D140
 
@@ -27609,7 +27813,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D110 (V)
 
 
-##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=285></a>
+##### Paragraphe 3 : Placement à l'extérieur sans surveillance du personnel pénitentiaire<a id=286></a>
 
 ###### Article D136
 
@@ -27654,7 +27858,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 4 : Permissions de sortir<a id=286></a>
+##### Paragraphe 4 : Permissions de sortir<a id=287></a>
 
 ###### Article D143
 
@@ -27797,9 +28001,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du travail des détenus<a id=287></a>
+##### Section 4 : Du travail des détenus<a id=288></a>
 
-##### Paragraphe 1er : Principes<a id=288></a>
+##### Paragraphe 1er : Principes<a id=289></a>
 
 ###### Article D99
 
@@ -27863,7 +28067,7 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D432-2 (M)
 
 
-##### Paragraphe 2 : Formes et modalités du travail<a id=289></a>
+##### Paragraphe 2 : Formes et modalités du travail<a id=290></a>
 
 ###### Article D102
 
@@ -27972,7 +28176,7 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D433-7 (V)
 
 
-##### Section 5 : De la répartition du produit du travail<a id=290></a>
+##### Section 5 : De la répartition du produit du travail<a id=291></a>
 
 ###### Article D111
 
@@ -28083,11 +28287,11 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=291></a>
+#### Chapitre III : Des dispositions communes aux différents établissements pénitentiaires<a id=292></a>
 
-##### Section 1 : Du greffe judiciaire des prisons<a id=292></a>
+##### Section 1 : Du greffe judiciaire des prisons<a id=293></a>
 
-##### Paragraphe 1 : Registre et formalités d'écrou.<a id=293></a>
+##### Paragraphe 1 : Registre et formalités d'écrou.<a id=294></a>
 
 ###### Article D149
 
@@ -28166,7 +28370,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=294></a>
+##### Paragraphe 2 : Autres registres et écritures du greffe.<a id=295></a>
 
 ###### Article D154
 
@@ -28187,9 +28391,9 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Dossiers individuels des détenus.<a id=295></a>
+##### Paragraphe 3 : Dossiers individuels des détenus.<a id=296></a>
 
-##### A : Dossier spécial aux condamnés à une longue peine.<a id=296></a>
+##### A : Dossier spécial aux condamnés à une longue peine.<a id=297></a>
 
 ###### Article D158
 
@@ -28328,7 +28532,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### B : Dossiers des autres détenus.<a id=297></a>
+##### B : Dossiers des autres détenus.<a id=298></a>
 
 ###### Article D165
 
@@ -28382,9 +28586,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D165. (M)
 
 
-##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=298></a>
+##### Section 2 : De la punition de cellule, de la mise à l'isolement et des moyens de contrainte<a id=299></a>
 
-##### Paragraphe 2 : Mise à l'isolement<a id=299></a>
+##### Paragraphe 2 : Mise à l'isolement<a id=300></a>
 
 ###### Article D171
 
@@ -28411,7 +28615,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Moyens de contrainte<a id=300></a>
+##### Paragraphe 3 : Moyens de contrainte<a id=301></a>
 
 ###### Article D172
 
@@ -28539,7 +28743,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=301></a>
+##### Section 3 : Des visites effectuées par les autorités judiciaires<a id=302></a>
 
 ###### Article D176
 
@@ -28589,7 +28793,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : De la commission de surveillance<a id=302></a>
+##### Section 4 : De la commission de surveillance<a id=303></a>
 
 ###### Article D181
 
@@ -28629,7 +28833,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=303></a>
+##### Section 5 : Des conditions dans lesquelles certaines personnes sont admises à visiter les détenus<a id=304></a>
 
 ###### Article D186
 
@@ -28685,9 +28889,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D473 (M)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=304></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=305></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=305></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=306></a>
 
 ###### Article D188
 
@@ -28810,7 +29014,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du personnel de l'administration pénitentiaire<a id=306></a>
+##### Section 2 : Du personnel de l'administration pénitentiaire<a id=307></a>
 
 ###### Article D197
 
@@ -28829,7 +29033,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Dispositions générales<a id=307></a>
+##### Paragraphe 2 : Dispositions générales<a id=308></a>
 
 ###### Article D216
 
@@ -29081,7 +29285,7 @@ _Codifié par_:
   - SPEC_APPLI: Décret n°59-322 1959-02-23 art. 6
 
 
-##### Section 3 : Du contrôle des établissements pénitentiaires<a id=308></a>
+##### Section 3 : Du contrôle des établissements pénitentiaires<a id=309></a>
 
 ###### Article D230
 
@@ -29165,7 +29369,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=309></a>
+##### Section 4 : Du conseil supérieur de l'administration pénitentiaire<a id=310></a>
 
 ###### Article D234
 
@@ -29327,9 +29531,9 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=310></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=311></a>
 
-##### Section 1 : De la police intérieure<a id=311></a>
+##### Section 1 : De la police intérieure<a id=312></a>
 
 ###### Article D241
 
@@ -29457,9 +29661,9 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=312></a>
+##### Section 2 : Des sanctions disciplinaires et des mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=313></a>
 
-##### Paragraphe 1er : Sanctions disciplinaires<a id=313></a>
+##### Paragraphe 1er : Sanctions disciplinaires<a id=314></a>
 
 ###### Article D250-1
 
@@ -29555,7 +29759,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=314></a>
+##### Paragraphe 2 : Mesures visant à encourager les efforts des détenus en vue de leur réadaptation sociale<a id=315></a>
 
 ###### Article D252
 
@@ -29613,7 +29817,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du règlement intérieur de chaque prison<a id=315></a>
+##### Section 3 : Du règlement intérieur de chaque prison<a id=316></a>
 
 ###### Article D256
 
@@ -29709,7 +29913,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=316></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=317></a>
 
 ###### Article D259
 
@@ -29870,9 +30074,9 @@ _Cite_:
   - Code de procédure pénale D406 et D416
 
 
-##### Section 5 : De la sécurité<a id=317></a>
+##### Section 5 : De la sécurité<a id=318></a>
 
-##### Paragraphe 1er : Dispositions générales<a id=318></a>
+##### Paragraphe 1er : Dispositions générales<a id=319></a>
 
 ###### Article D267
 
@@ -30051,7 +30255,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=319></a>
+##### Paragraphe 2 : Conditions d'accès dans les lieux de détention<a id=320></a>
 
 ###### Article D277
 
@@ -30142,7 +30346,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Incidents<a id=320></a>
+##### Paragraphe 3 : Incidents<a id=321></a>
 
 ###### Article D281
 
@@ -30225,9 +30429,9 @@ _Cité par_:
   - Code de procédure pénale - art. D125 (V)
 
 
-#### Chapitre VI : Des mouvements de détenus<a id=321></a>
+#### Chapitre VI : Des mouvements de détenus<a id=322></a>
 
-##### Section 1 : Des entrées et sorties des détenus<a id=322></a>
+##### Section 1 : Des entrées et sorties des détenus<a id=323></a>
 
 ###### Article D286
 
@@ -30296,7 +30500,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Des transfèrements et des extractions<a id=323></a>
+##### Section 2 : Des transfèrements et des extractions<a id=324></a>
 
 ###### Article D290
 
@@ -30345,7 +30549,7 @@ _Cité par_:
   - Arrêté du 21 mai 2019 - art. 3 (V)
 
 
-##### Paragraphe 1er : Dispositions communes<a id=324></a>
+##### Paragraphe 1er : Dispositions communes<a id=325></a>
 
 ###### Article D292
 
@@ -30430,9 +30634,9 @@ _Cité par_:
   - Code de procédure pénale - art. D296 (V)
 
 
-##### Paragraphe 2 : Transfèrements<a id=325></a>
+##### Paragraphe 2 : Transfèrements<a id=326></a>
 
-##### A : Translations judiciaires<a id=326></a>
+##### A : Translations judiciaires<a id=327></a>
 
 ###### Article D298
 
@@ -30498,7 +30702,7 @@ _Cite_:
   - Code de procédure pénale D298
 
 
-##### B : Transfèrements administratifs<a id=327></a>
+##### B : Transfèrements administratifs<a id=328></a>
 
 ###### Article D301
 
@@ -30585,7 +30789,7 @@ _Abrogé par_:
   - Décret n°98-1099 du 8 décembre 1998 - art. 197 (V) JORF 9 décembre 1998
 
 
-##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=328></a>
+##### C : Exécution des transfèrements par l'administration pénitentiaire<a id=329></a>
 
 ###### Article D304
 
@@ -30746,7 +30950,7 @@ _Cité par_:
   - Code de procédure pénale - art. D334 (V)
 
 
-##### D : Cas particuliers<a id=329></a>
+##### D : Cas particuliers<a id=330></a>
 
 ###### Article D311
 
@@ -30810,7 +31014,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Extractions<a id=330></a>
+##### Paragraphe 3 : Extractions<a id=331></a>
 
 ###### Article D314
 
@@ -30873,11 +31077,11 @@ _Cité par_:
   - Code de procédure pénale - art. D49-30 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=331></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=332></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=332></a>
+##### Section 1 : De la gestion des biens des détenus<a id=333></a>
 
-##### Paragraphe 1er : Valeurs pécuniaires.<a id=333></a>
+##### Paragraphe 1er : Valeurs pécuniaires.<a id=334></a>
 
 ###### Article D319
 
@@ -31306,7 +31510,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Valeurs non pécuniaires.<a id=334></a>
+##### Paragraphe 2 : Valeurs non pécuniaires.<a id=335></a>
 
 ###### Article D335
 
@@ -31402,7 +31606,7 @@ _Cité par_:
   - Arrêté du 23 février 2018 (V)
 
 
-##### Section 2 : De l'entretien des détenus<a id=335></a>
+##### Section 2 : De l'entretien des détenus<a id=336></a>
 
 ###### Article D342
 
@@ -31527,9 +31731,9 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=336></a>
+#### Chapitre VIII : De l'hygiène et du service sanitaire<a id=337></a>
 
-##### Section 1 : De l'hygiène<a id=337></a>
+##### Section 1 : De l'hygiène<a id=338></a>
 
 ###### Article D349
 
@@ -31549,7 +31753,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 1er : Salubrité et propreté des locaux<a id=338></a>
+##### Paragraphe 1er : Salubrité et propreté des locaux<a id=339></a>
 
 ###### Article D350
 
@@ -31612,7 +31816,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=339></a>
+##### Paragraphe 2 : Hygiène du travail et des services économiques<a id=340></a>
 
 ###### Article D353
 
@@ -31694,7 +31898,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 3 : Hygiène personnelle<a id=340></a>
+##### Paragraphe 3 : Hygiène personnelle<a id=341></a>
 
 ###### Article D357
 
@@ -31763,7 +31967,7 @@ _Cité par_:
   - Code de procédure pénale - art. D283-1-2 (Ab)
 
 
-##### Paragraphe 4 : Exercices physiques<a id=341></a>
+##### Paragraphe 4 : Exercices physiques<a id=342></a>
 
 ###### Article D360
 
@@ -31857,9 +32061,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : Du service sanitaire<a id=342></a>
+##### Section 2 : Du service sanitaire<a id=343></a>
 
-##### Paragraphe 1 : Organisation sanitaire<a id=343></a>
+##### Paragraphe 1 : Organisation sanitaire<a id=344></a>
 
 ###### Article D364
 
@@ -32071,7 +32275,7 @@ _Cité par_:
   - Code de procédure pénale - art. D384-1 (V)
 
 
-##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=344></a>
+##### Paragraphe 2 : Rôle du médecin de l'établissement<a id=345></a>
 
 ###### Article D373
 
@@ -32168,7 +32372,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D378 (V)
 
 
-##### Paragraphe 3 : Traitement médical<a id=345></a>
+##### Paragraphe 3 : Traitement médical<a id=346></a>
 
 ###### Article D380
 
@@ -32430,7 +32634,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D280. (M)
 
 
-##### Paragraphe 4 : Soins divers<a id=346></a>
+##### Paragraphe 4 : Soins divers<a id=347></a>
 
 ###### Article D392
 
@@ -32636,7 +32840,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D386 (M)
 
 
-##### Paragraphe 5 : Maternité<a id=347></a>
+##### Paragraphe 5 : Maternité<a id=348></a>
 
 ###### Article D399
 
@@ -32679,7 +32883,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=348></a>
+#### Chapitre IX : Des relations des détenus avec l'extérieur<a id=349></a>
 
 ###### Article D402
 
@@ -32703,7 +32907,7 @@ _Abrogé par_:
   - Décret n°2013-368 du 30 avril 2013 - art. 2
 
 
-##### Section 1 : Des visites<a id=349></a>
+##### Section 1 : Des visites<a id=350></a>
 
 ###### Article D404
 
@@ -32890,7 +33094,7 @@ _Cite_:
   - Code de procédure pénale
 
 
-##### Section 2 : De la correspondance<a id=350></a>
+##### Section 2 : De la correspondance<a id=351></a>
 
 ###### Article D413
 
@@ -33033,7 +33237,7 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : Du maintien des liens familiaux<a id=351></a>
+##### Section 3 : Du maintien des liens familiaux<a id=352></a>
 
 ###### Article D420
 
@@ -33087,7 +33291,7 @@ _Cite_:
   - Code de procédure pénale D326 et D329
 
 
-##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=352></a>
+##### Section 4 : Des événements familiaux et des sorties exceptionnelles qu'ils peuvent motiver<a id=353></a>
 
 ###### Article D424
 
@@ -33139,7 +33343,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=353></a>
+##### Section 5 : Des renseignements concernant les détenus et de leurs relations avec le monde extérieur<a id=354></a>
 
 ###### Article D430
 
@@ -33208,9 +33412,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=354></a>
+#### Chapitre X : Des actions de préparation à la réinsertion des détenus<a id=355></a>
 
-##### Section 1 : De l'assistance spirituelle<a id=355></a>
+##### Section 1 : De l'assistance spirituelle<a id=356></a>
 
 ###### Article D433
 
@@ -33435,7 +33639,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 2 : De l'action socio-culturelle<a id=356></a>
+##### Section 2 : De l'action socio-culturelle<a id=357></a>
 
 ###### Article D444
 
@@ -33523,7 +33727,7 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 3 : De l'enseignement<a id=357></a>
+##### Section 3 : De l'enseignement<a id=358></a>
 
 ###### Article D450
 
@@ -33601,7 +33805,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Paragraphe 2 : Formation professionnelle<a id=358></a>
+##### Paragraphe 2 : Formation professionnelle<a id=359></a>
 
 ###### Article D457
 
@@ -33666,9 +33870,9 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. D438-2 (M)
 
 
-##### Section 4 : Du service socio-éducatif<a id=359></a>
+##### Section 4 : Du service socio-éducatif<a id=360></a>
 
-##### Paragraphe 2 : Visiteurs de prison<a id=360></a>
+##### Paragraphe 2 : Visiteurs de prison<a id=361></a>
 
 ###### Article D477
 
@@ -33695,9 +33899,9 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : De l'aide à la libération<a id=361></a>
+##### Section 5 : De l'aide à la libération<a id=362></a>
 
-##### Paragraphe 2 : Aide aux indigents<a id=362></a>
+##### Paragraphe 2 : Aide aux indigents<a id=363></a>
 
 ###### Article D484
 
@@ -33721,7 +33925,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D490 (M)
 
 
-#### Chapitre XI : De différentes catégories de détenus<a id=363></a>
+#### Chapitre XI : De différentes catégories de détenus<a id=364></a>
 
 ###### Article D487
 
@@ -33745,7 +33949,7 @@ _Cite_:
   - Code de procédure pénale - art. D58 (V)
 
 
-##### Section 1 : Des condamnés de police<a id=364></a>
+##### Section 1 : Des condamnés de police<a id=365></a>
 
 ###### Article D488
 
@@ -33774,7 +33978,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 717 (M)
 
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=365></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=366></a>
 
 ###### Article D491
 
@@ -34043,7 +34247,7 @@ _Abrogé par_:
   - Décret n°83-48 1983-01-26 art. 2 JORF 28 janvier 1983
 
 
-##### Section 3 : Des détenus de nationalité étrangère<a id=366></a>
+##### Section 3 : Des détenus de nationalité étrangère<a id=367></a>
 
 ###### Article D505
 
@@ -34113,7 +34317,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 4 : Des détenus appartenant aux forces armées<a id=367></a>
+##### Section 4 : Des détenus appartenant aux forces armées<a id=368></a>
 
 ###### Article D509
 
@@ -34197,7 +34401,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=368></a>
+##### Section 5 : Des détenus âgés de moins de vingt et un ans<a id=369></a>
 
 ###### Article D514
 
@@ -34333,9 +34537,9 @@ _Cite_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
-### Titre III : De la libération conditionnelle<a id=369></a>
+### Titre III : De la libération conditionnelle<a id=370></a>
 
-#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=370></a>
+#### Chapitre Ier : Du comité consultatif de libération conditionnelle<a id=371></a>
 
 ###### Article D525
 
@@ -34362,7 +34566,7 @@ _Modifié par_:
   - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
 
 
-#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=371></a>
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=372></a>
 
 ###### Article D529
 
@@ -34384,7 +34588,7 @@ _Modifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=372></a>
+#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=373></a>
 
 ###### Article D531
 
@@ -34405,7 +34609,7 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-##### Section 2 : Des conditions particulières<a id=373></a>
+##### Section 2 : Des conditions particulières<a id=374></a>
 
 ###### Article D537
 
@@ -34430,7 +34634,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=374></a>
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=375></a>
 
 ###### Article D538
 
@@ -34478,7 +34682,7 @@ _Abrogé par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre V : Dispositions diverses<a id=375></a>
+#### Chapitre V : Dispositions diverses<a id=376></a>
 
 ###### Article D543
 
@@ -34500,11 +34704,11 @@ _Abrogé par_:
   - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 
-### Titre IV : Du sursis<a id=376></a>
+### Titre IV : Du sursis<a id=377></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=377></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=378></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=378></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=379></a>
 
 ###### Article D545
 
@@ -35028,7 +35232,7 @@ _Abrogé par_:
   - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
-### Titre VI : De la contrainte par corps<a id=379></a>
+### Titre VI : De la contrainte par corps<a id=380></a>
 
 ###### Article D569
 
@@ -35058,17 +35262,17 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-# Partie Arrêtés<a id=380></a>
+# Partie Arrêtés<a id=381></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=381></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=382></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=382></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=383></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=383></a>
+#### Chapitre Ier : De la police judiciaire<a id=384></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=384></a>
+##### Section 2 : Des officiers de police judiciaire<a id=385></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=385></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=386></a>
 
 ###### Article A1
 
@@ -35306,7 +35510,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=386></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=387></a>
 
 ###### Article A2
 
@@ -35431,13 +35635,13 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=387></a>
+## Livre V : Des procédures d'exécution<a id=388></a>
 
-### Titre II : De la détention<a id=388></a>
+### Titre II : De la détention<a id=389></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=389></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=390></a>
 
-##### Section 5<a id=390></a>
+##### Section 5<a id=391></a>
 
 ###### Article A39-1
 
@@ -35485,11 +35689,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=391></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=392></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=392></a>
+##### Section 1 : De la gestion des biens des détenus<a id=393></a>
 
-##### Paragraphe 1er : Pécule.<a id=393></a>
+##### Paragraphe 1er : Pécule.<a id=394></a>
 
 ###### Article A42-1
 
@@ -35552,9 +35756,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=394></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=395></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=395></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=396></a>
 
 ###### Article A43
 
@@ -35613,13 +35817,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=396></a>
+### Titre IV : Du sursis<a id=397></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=397></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=398></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=398></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=399></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=399></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=400></a>
 
 ###### Article A45
 
@@ -35680,7 +35884,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=400></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=401></a>
 
 ###### Article A48
 
@@ -35781,9 +35985,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=401></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=402></a>
 
-#### Disposition générale<a id=402></a>
+#### Disposition générale<a id=403></a>
 
 ###### Article A53
 
@@ -35801,7 +36005,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=403></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=404></a>
 
 ###### Article A54
 
