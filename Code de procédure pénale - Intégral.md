@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-12-23
+Version Consolidée au 2004-01-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -751,12 +751,10 @@ Toute association régulièrement déclarée depuis au moins cinq ans à la date
 lutte contre les violences sexuelles ou contre les violences exercées sur un membre de la famille, peut exercer les droits
 reconnus à la partie civile, en ce qui concerne les atteintes volontaires à la vie et à l'intégrité de la personne, les
 agressions et autres atteintes sexuelles, l'enlèvement et la séquestration et la violation de domicile réprimés par les
-articles 221-1 à 221-4, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4, 227-25, 227-26, 227-27 et 432-8 du code pénal.
-Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu l'accord de la victime ou, si
-celle-ci est mineure, celui du titulaire de l'autorité parentale ou du représentant légal ou, à défaut, celui du juge des
-tutelles saisi en application de l'article 389-3 du code civil. Cette condition n'est toutefois pas exigée lorsque les faits
-ont été commis à l'étranger et qu'il est fait application des dispositions du second alinéa de l'article 222-22 et de
-l'article 227-27-1 du code pénal.
+articles 221-1 à 221-4, 
+222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4 et 432-8 du code pénal, lorsque la victime de ces infractions était
+majeure à la date des faits. Toutefois, l'association ne sera recevable dans son action que si elle justifie avoir reçu
+l'accord de la victime. Si celle-ci est un majeur en tutelle, l'accord doit être donné par son représentant légal.
 
 **Liens relatifs à cet article**
 
@@ -766,28 +764,33 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 23 () JORF 18 juin 1998
+  - Loi n°2004-1 du 2 janvier 2004 - art. 14 () JORF 3 janvier 2004
 
 _Cite_:
 
-  - Code pénal - art. 222-22 (M)
-  - Code pénal - art. 226-4 (M)
-  - Code pénal - art. 227-25 (M)
-  - Code pénal - art. 227-26 (MMN)
-  - Code pénal - art. 227-27 (M)
-  - Code pénal - art. 227-27-1 (V)
-  - Code pénal - art. 432-8 (M)
-  - Code pénal 221-1 à 221-4, 222-1 à 222-18, 222-23 à 222-33, 224-1 à 224-5, 226-4, 227-25, 227-26, 227-27, 432-8, 222-22, 227-27-1
+  - Code pénal - art. 221-1 (V)
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 222-33 (V)
+  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 226-4 (V)
+  - Code pénal - art. 432-8 (V)
 
 
 ###### Article 2-3
 
-Toute association, régulièrement déclarée depuis au moins cinq ans à la date des faits, se proposant, par ses statuts, de
-défendre ou d'assister l'enfance martyrisée ou les mineurs victimes d'atteintes sexuelles, peut exercer les droits reconnus à
-la partie civile en ce qui concerne les tortures et actes de barbarie, les violences et agressions sexuelles commis sur la
-personne d'un mineur et les infractions de mise en péril des mineurs réprimés par les articles 222-3 à 222-6, 222-8, 222-10,
-222-12, 222-13, 222-14, 222-15, 222-24, 222-25, 222-26, 222-29, 222-30, 227-22, 227-25, 227-26 et 227-27 du code pénal,
-lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits et dont l'objet statutaire comporte la
+défense ou l'assistance de l'enfant en danger et victime de toutes formes de maltraitance peut exercer les droits reconnus à
+la partie civile en ce qui concerne les atteintes volontaires à la vie et à l'intégrité, les agressions et autres atteintes
+sexuelles commises sur la personne d'un mineur et les infractions de mise en péril des mineurs réprimées par les articles
+221-1 à 221-5, 222-1 à 222-18-1, 222-23 à 222-33-1, 223-1 à 223-10, 223-13, 224-1 à 224-5, 225-7 à 225-9, 225-12-1 à
+225-12-4, 
+227-1, 227-2, 227-15 à 227-27-1 du code pénal, lorsque l'action publique a été mise en mouvement par le ministère public ou
+la partie lésée. 
+
+Toute association, inscrite auprès du ministère de la justice dans des conditions fixées par décret en Conseil d'Etat, est
+recevable dans son action même si l'action publique n'a pas été mise en mouvement par le ministère public ou la partie lésée
+en ce qui concerne l'infraction mentionnée à l'article 227-23 du code pénal. Il en est de même lorsqu'il est fait application
+des dispositions du second alinéa de l'article 222-22 et de l'article 227-27-1 dudit code.
 
 **Liens relatifs à cet article**
 
@@ -797,26 +800,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 24 () JORF 18 juin 1998
+  - Loi n°2004-1 du 2 janvier 2004 - art. 15 () JORF 3 janvier 2004
 
 _Cite_:
 
-  - Code pénal - art. 222-10 (M)
-  - Code pénal - art. 222-12 (M)
-  - Code pénal - art. 222-13 (M)
-  - Code pénal - art. 222-14 (M)
-  - Code pénal - art. 222-15 (M)
-  - Code pénal - art. 222-24 (M)
-  - Code pénal - art. 222-25 (V)
-  - Code pénal - art. 222-26 (V)
-  - Code pénal - art. 222-29 (M)
-  - Code pénal - art. 222-30 (M)
-  - Code pénal - art. 222-8 (M)
-  - Code pénal - art. 227-22 (M)
-  - Code pénal - art. 227-25 (M)
-  - Code pénal - art. 227-26 (MMN)
-  - Code pénal - art. 227-27 (M)
-  - Code pénal 222-3 à 222-6, 222-8, 222-10, 222-12, 222-13, 222-14, 222-15, 222-24, 222-25, 222-26, 222-29, 222-30, 227-22, 227-25, 227-26, 227-27
+  - Code pénal - art. 221-1 (V)
+  - Code pénal - art. 222-1 (V)
+  - Code pénal - art. 222-22 (V)
+  - Code pénal - art. 222-23
+  - Code pénal - art. 223-1 (V)
+  - Code pénal - art. 223-13 (V)
+  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 225-12-1 (V)
+  - Code pénal - art. 225-7 (V)
+  - Code pénal - art. 227-1 (V)
+  - Code pénal - art. 227-15 (V)
+  - Code pénal - art. 227-23 (V)
+  - Code pénal - art. 227-27-1 (V)
 
 _Cité par_:
 
