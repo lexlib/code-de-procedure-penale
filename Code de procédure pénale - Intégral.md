@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-09-01
+Version Consolidée au 1985-09-08
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -49253,6 +49253,46 @@ _Abrogé par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 729 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D528
+
+La commission de l'application des peines prévue aux articles D. 116, D. 117-1 et D. 119 est chargée d'émettre un avis
+destiné à permettre au juge de l'application des peines, selon les distinctions de l'article 730, soit d'accorder la
+libération conditionnelle à un condamné, soit de proposer ce dernier au bénéfice de la mesure.
+
+Le chef d'établissement doit transmettre les propositions du juge de l'application des peines pour avis au commissaire de la
+République. Ce commissaire de la République est celui du département où le condamné doit résider ; toutefois, dans les
+hypothèses visées à l'article D. 535 (3° et 4°), le commissaire de la République consulté est celui du lieu de détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°72-852 1972-09-12 art. 1 JORF 20 septembre 1972 rectificatif JORF 14 octobre 1972
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+  - Décret n°83-48 1983-01-26 art. 1 JORF 28 janvier 1983
+  - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
+
+_Cité par_:
+
+  - Décret n°2000-1213 du 13 décembre 2000 - art. 18 (V)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 116 (M)
+  - CODE DE PROCEDURE PENALE - art. 730 (M)
+  - CODE DE PROCEDURE PENALE - art. D119 (M)
+  - CODE DE PROCEDURE PENALE - art. D535 (M)
+  - Code de procédure pénale 116, 117-1, 730, D119, D535
 
 **Liens**:
 
