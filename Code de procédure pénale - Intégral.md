@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1982-03-30
+Version Consolidée au 1982-06-16
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -132,7 +132,7 @@ Version Consolidée au 1982-03-30
       - [Titre V : Des règlements de juges (art. 659 à 661)](#129)
       - [Titre VI : Des renvois d'un tribunal à un autre (art. 662 à 667)](#130)
       - [Titre VII : De la récusation (art. 668 à 674-2)](#131)
-      - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux (art. 676 à 678)](#132)
+      - [Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux (art. 675 à 678)](#132)
       - [Titre IX : Des crimes et délits commis par des magistrats et certains fonctionnaires (art. 679 à 688)](#133)
       - [Titre X : Des infractions commises à l'étranger (art. 689 à 695)](#134)
       - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication (art. 703)](#135)
@@ -16877,6 +16877,29 @@ _Cité par_:
 
 ### Titre VIII : Du jugement des infractions commises à l'audience des cours et tribunaux<a id=132></a>
 
+###### Article 675
+
+Sous réserve des dispositions des articles 342, 457 et 681, alinéa 6, les infractions commises à l'audience sont jugées,
+d'office ou sur les réquisitions du ministère public, suivant les dispositions ci-après, nonobstant toutes règles spéciales
+de compétence ou de procédure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°82-506 1982-06-15 art. 7 JORF 16 juin 1982
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 342 (M)
+  - CODE DE PROCEDURE PENALE - art. 457 (M)
+  - Code de procédure pénale 342, 457, 681 al. 6
+
+
 ###### Article 676
 
 S'il se commet une contravention de police pendant la durée de l'audience, le tribunal ou la cour dresse procès-verbal du
@@ -17012,6 +17035,56 @@ _Cite_:
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. R200 (M)
+
+
+###### Article 681
+
+Lorsqu'une des personnes énumérées à l'article 679, ou un maire, ou l'élu municipal le suppléant, ou un président de
+communauté urbaine, de district ou de syndicat de communes, ou le président ou le vice-président d'une délégation spéciale,
+sont susceptibles d'être inculpés d'un crime ou d'un délit commis dans l'exercice de leurs fonctions, le procureur de la
+République saisi de l'affaire présente, sans délai, requête à la chambre criminelle de la Cour de cassation, qui statue comme
+en matière de règlement de juges et désigne la chambre de l'instruction qui pourra être chargée de l'instruction. 
+
+S'il estime qu'il y a lieu à poursuite, le procureur général près la cour d'appel désignée en application des dispositions de
+l'alinéa précédent requiert l'ouverture d'une information.
+
+L'information peut être également ouverte si la partie lésée adresse une plainte, assortie d'une constitution de partie
+civile, aux présidents et conseillers composant la chambre d'accusation. Dans ce cas, communication de cette plainte au
+procureur général est ordonnée pour que ce magistrat prenne ses réquisitions ainsi qu'il est dit à l'article 86.
+
+L'information est commune aux complices de la personne poursuivie et aux autres auteurs de l'infraction commise, lors même
+qu'ils n'exerçaient point de fonctions judiciaires ou administratives.
+
+Lorsque le crime ou le délit dénoncé a été commis à l'occasion d'une poursuite judiciaire et implique la violation d'une
+disposition de procédure pénale, l'action publique ne peut être exercée que si le caractère illégal de la poursuite ou de
+l'acte accompli à cette occasion a été constaté par une décision devenue définitive de la juridiction répressive saisie.
+
+La procédure prévue au présent article est également applicable lorsqu'un avocat est susceptible d'être inculpé de l'un des
+délits visés aux articles 222 et 223 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Ordonnance 60-529 1960-06-04 art. 1 JORF 8 juin 1960
+  - Loi n°74-646 1974-07-18 art. 1 JORF 19 juillet 1974
+  - Loi n°81-82 du 2 février 1981 - art. 67 () JORF 3 février 1981
+  - Loi n°82-506 1982-06-15 art. 6 JORF 16 juin 1982
+
+_Cite_:
+
+  - Code pénal 222, 223
+  - CODE DE PROCEDURE PENALE - art. 679 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 86 (M)
+
+_Cité par_:
+
+  - Code de justice militaire - art. 95 (Ab)
+  - Code du travail - art. L514-9 (Ab)
 
 
 ###### Article 682
