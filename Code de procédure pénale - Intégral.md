@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-03-16
+Version Consolidée au 1973-03-21
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -374,17 +374,19 @@ Version Consolidée au 1973-03-16
       - [Titre II : De la détention (art. A39-1 à A43-1)](#371)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#372)
           - [Section 5 (art. A39-1 à A39-2)](#373)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#374)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#375)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#376)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#377)
-      - [Titre IV : Du sursis (art. A50 à A51)](#378)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#379)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#380)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#381)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#382)
-        - [Disposition générale (art. A53)](#383)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#384)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A42-1 à A42-3)](#374)
+          - [Section 1 : De la gestion des biens des détenus (art. A42-1 à A42-3)](#375)
+            - [Paragraphe 1er : Pécule. (art. A42-1 à A42-3)](#376)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#377)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#378)
+      - [Titre IV : Du sursis (art. A45 à A52)](#379)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#380)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#381)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#382)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#383)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#384)
+        - [Disposition générale (art. A53)](#385)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#386)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -28709,13 +28711,18 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=374></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=374></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=375></a>
+##### Section 1 : De la gestion des biens des détenus<a id=375></a>
 
-###### Article A40
+##### Paragraphe 1er : Pécule.<a id=376></a>
 
-[Article abrogé].
+###### Article A42-1
+
+L'association régulièrement constituée auprès d'un établissement pénitentiaire aux fins visées à l'article D. 449-1 est
+agréée par le ministre de la justice si son statut est conforme à un type établi par une instruction de service. 
+
+Le trésorier de l'association est un fonctionnaire.
 
 **Liens relatifs à cet article**
 
@@ -28723,22 +28730,57 @@ _Codifié par_:
 
   - Arrêté 1959-02-27
 
-_Modifié par_:
+_Créé par_:
 
-  - Arrêté 1964-02-27 art. 3 JORF 19 mars 1964
+  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
-_Abrogé par_:
+_Cite_:
 
-  - Arrêté 1973-03-07 art. 3 JORF 21 mars 1973
-
-_Cité par_:
-
-  - Arrêté du 25 avril 2008 - art. 2 (V)
+  - Code de procédure pénale - art. D449-1 (Ab)
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=376></a>
+###### Article A42-2
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=377></a>
+Le contrôle du fonctionnement de l'association et de sa gestion financière est assuré, soit sur pièces par le ministre de la
+justice, soit sur place par ses représentants dûment habilités à cet effet.
+
+Ce contrôle doit comporter notamment la vérification de la comptabilité de l'association et de l'utilisation de ses
+ressources.
+
+Les fonctionnaires habilités par le ministre de la justice peuvent procéder à toutes vérifications de caisse et de
+comptabilité. Tous registres et dossiers, ainsi que tous documents relatifs au fonctionnement de l'association doivent leur
+être communiqués.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+
+###### Article A42-3
+
+Chaque année, le président de l'association adresse au ministre de la justice un compte rendu administratif technique et
+financier comprenant notamment un état de la situation financière et des comptes de l'exercice budgétaire écoulé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+
+#### Chapitre XI : Des différentes catégories de détenus.<a id=377></a>
+
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=378></a>
 
 ###### Article A43
 
@@ -28797,13 +28839,117 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=378></a>
+### Titre IV : Du sursis<a id=379></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=379></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=380></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=380></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=381></a>
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=381></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=382></a>
+
+###### Article A45
+
+Les délégués bénévoles visés à l'article D. 551 sont agréés par le juge de l'application des peines pour une période de deux
+ans renouvelable.
+
+Pour obtenir cet agrément, les requérants doivent être âgés de plus de vingt-et-un ans et satisfaire notamment aux conditions
+suivantes :
+
+1° Ne pas avoir été condamnés pour faits contraires à la probité, aux bonnes moeurs ou à l'honneur ;
+
+2° S'engager à respecter l'obligation au secret visée à l'article D. 562.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
+  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D551 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D562 (Ab)
+
+
+###### Article A46
+
+L'agrément des délégués bénévoles est subordonné à un stage probatoire de six mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+
+###### Article A47
+
+Le juge de l'application des peines délivre aux délégués bénévoles un document justifiant de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
+
+
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=383></a>
+
+###### Article A48
+
+L'association régulièrement constituée et instituée auprès du comité de probation et d'assistance aux libérés aux fins visées
+à l'article D. 567 peut être agréée, par le ministère de la justice si son statut satisfait en outre aux conditions fixées
+ci-après.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D567 (Ab)
+
+
+###### Article A49
+
+Le secrétaire général de l'association est un agent de probation ou un membre du comité désigné à cet effet par le juge de
+l'application des peines, président du comité.
+
+Ce magistrat est membre de droit du bureau de l'association.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+
+_Abrogé par_:
+
+  - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
+
 
 ###### Article A50
 
@@ -28844,9 +28990,26 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=382></a>
+###### Article A52
 
-#### Disposition générale<a id=383></a>
+Chaque année, le président de l'association adresse au ministère de la justice sous couvert du président du comité de
+probation et d'assistance aux libérés, un compte rendu administratif, technique et financier, comprenant notamment un état de
+la situation financière et des comptes de l'exercice budgétaire écoulé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=384></a>
+
+#### Disposition générale<a id=385></a>
 
 ###### Article A53
 
@@ -28864,7 +29027,69 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=384></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=386></a>
+
+###### Article A54
+
+Par dérogation aux dispositions du second alinéa de l'article D. 77, l'orientation des condamnés à une longue peine relève,
+dans les départements où est établie une maison centrale, de la commission de l'application des peines instituée à l'article
+D. 95. 
+
+Dans les autres départements visés au présent titre, l'orientation est effectuée, après avis du juge de l'application des
+peines, par le fonctionnaire de l'administration pénitentiaire exerçant pour ces départements les attributions dévolues aux
+directeurs régionaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+_Cité par_:
+
+  - Code de procédure pénale - art. A55 (V)
+  - Code de procédure pénale - art. A56 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. D77 (V)
+  - Code de procédure pénale - art. D95 (V)
+
+
+###### Article A55
+
+Le bulletin concernant chaque condamné ayant à subir une longue peine et visé à l'article D. 80 est adressé par le chef de
+l'établissement de détention au fonctionnaire de l'administration pénitentiaire exerçant les attributions dévolues au
+directeur régional. 
+
+L'examen du bulletin est effectué, selon les distinctions visées à l'article A. 54, par ce fonctionnaire ou par la commission
+de l'application des peines à laquelle le bulletin est alors transmis. Cet examen donne lieu : 
+
+Soit à une décision d'affectation dans un établissement pénitentiaire du département où est situé l'établissement de
+détention ; 
+
+Soit à une proposition d'affectation dans un des autres départements visés au présent titre. Cette proposition est soumise,
+pour décision, au ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
+
+_Cite_:
+
+  - Code de procédure pénale - art. A54 (V)
+  - Code de procédure pénale - art. D80 (V)
+
 
 ###### Article A56
 
