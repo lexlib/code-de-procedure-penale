@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1980-08-08
+Version Consolidée au 1980-12-20
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -405,9 +405,9 @@ Version Consolidée au 1980-08-08
       - [Titre II : De la détention (art. A39-1 à A43-1)](#402)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#403)
           - [Section 5 (art. A39-1 à A39-2)](#404)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41-1 à A42-3)](#405)
-          - [Section 1 : De la gestion des biens des détenus (art. A41-1 à A42-3)](#406)
-            - [Paragraphe 1er : Pécule. (art. A41-1 à A42-3)](#407)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#405)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#406)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#407)
         - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#408)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#409)
       - [Titre IV : Du sursis (art. A45 à A52)](#410)
@@ -37330,6 +37330,28 @@ _Cite_:
 ##### Section 1 : De la gestion des biens des détenus<a id=406></a>
 
 ##### Paragraphe 1er : Pécule.<a id=407></a>
+
+###### Article A41
+
+Le montant de la participation des détenus aux frais de leur entretien sur le produit de leur travail, prévu à l'article D.
+112 du code de procédure pénale est porté à 300 F par mois, soit 10 F par jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Modifié par_:
+
+  - Arrêté 1971-04-15 art. 2 JORF 16 avril 1971
+  - Arrêté 1975-03-21 art. 1 JORF 26 mars 1975
+  - Arrêté 1979-07-09 art. 1 JORF 21 juillet 1979
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+
 
 ###### Article A41-1
 
