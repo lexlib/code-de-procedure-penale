@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -31840,28 +31840,23 @@ _Modifié par_:
 
 Pour l'application de la convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et
 New York le 3 mars 1980, peut être poursuivie et jugée dans les conditions prévues à l'article 689-1 toute personne coupable
-de l'une des infractions suivantes :
+de l'une des infractions suivantes : 
 
-1° Délit prévu à l'article 6-1 de la loi n° 80-572 du 25 juillet 1980 sur la protection et le contrôle des matières
-nucléaires ;
+1° Délit prévu à l'article L. 1333-11 du code de la défense ; 
 
-2° Délit d'appropriation indue prévue par l'article 6 de la loi n° 80-572 du 25 juillet 1980 précitée, atteinte volontaire à
-la vie ou à l'intégrité de la personne, vol, extorsion, chantage, escroquerie, abus de confiance, recel, destruction,
-dégradation ou détérioration ou menace d'une atteinte aux personnes ou aux biens définis par les livres II et III du code
-pénal, dès lors que l'infraction a été commise au moyen des matières nucléaires entrant dans le champ d'application des
-articles 1er et 2 de la convention ou qu'elle a porté sur ces dernières.
+2° Délit d'appropriation indue prévue par l'article L. 1333-9 du code précité, atteinte volontaire à la vie ou à l'intégrité
+de la personne, vol, extorsion, chantage, escroquerie, abus de confiance, recel, destruction, dégradation ou détérioration ou
+menace d'une atteinte aux personnes ou aux biens définis par les livres II et III du code pénal, dès lors que l'infraction a
+été commise au moyen des matières nucléaires entrant dans le champ d'application des articles 1er et 2 de la convention ou
+qu'elle a porté sur ces dernières.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
 _Cite_:
 
-  - Loi n°80-572 du 25 juillet 1980 - art. 6, v. init.
-  - Loi n°80-572 du 25 juillet 1980 - art. 6-1 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 689-1 (M)
+  - Code de procédure pénale - art. 689-1 (V)
+  - Code de la défense. - art. L1333-11 (V)
+  - Code de la défense. - art. L1333-9 (V)
   - Convention 1980-03-03, ouverte à la signature à Vienne et New-York art. 1, art. 2
 
 _Cité par_:
@@ -31870,7 +31865,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-515 du 23 juin 1999 - art. 30 () JORF 24 juin 1999
+  - Ordonnance n°2004-1374 du 20 décembre 2004 - art. 3 (V)
 
 
 ###### Article 689-5
