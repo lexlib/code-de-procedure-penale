@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1993-06-29
+Version Consolidée au 1993-08-07
 ## Contenu: 
   - [Partie législative (art. 1 à 803)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -34086,7 +34086,7 @@ _Modifié par_:
 
 ###### Article R41-1
 
-La liste des jurés suppléants prévue par l'article 264 comprend.
+La liste des jurés suppléants prévue par l'article 264 comprend :
 
 1° Cinq cent cinquante jurés pour la cour d'assises de Paris ;
 
@@ -34095,9 +34095,9 @@ Hauts-de-Seine, du Nord, du Rhône, de Seine-et-Marne, de la Seine-Saint-Denis, 
 Yvelines ;
 
 3° Cent jurés pour les cours d'assises du Calvados, de la Corse-du-Sud, de la Haute-Corse, du Finistère, du Gard, de la
-Haute-Garonne, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle, de la Meuse, du
-Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, de la Seine-Maritime, de la Somme, du Var, de Vaucluse et des
-Vosges ;
+Guadeloupe, de la Haute-Garonne, de l'Hérault, d'Ille-et-Vilaine, de l'Isère, de la Loire-Atlantique, de Meurthe-et-Moselle,
+de la Meuse, du Pas-de-Calais, des Pyrénées-Atlantiques, de la Réunion, de la Seine-Maritime, de la Somme, du Var, de
+Vaucluse et des Vosges ;
 
 4° Cinquante jurés pour les autres cours d'assises.
 
@@ -34109,7 +34109,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-114 du 25 janvier 1993 - art. 1 () JORF 29 janvier 1993
+  - Décret n°93-983 du 2 août 1993 - art. 1 () JORF 7 août 1993
 
 _Cite_:
 
