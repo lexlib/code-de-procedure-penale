@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1978-11-23
+Version Consolidée au 1979-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -119,7 +119,7 @@ Version Consolidée au 1978-11-23
         - [Chapitre II : Des formes du pourvoi (art. 576 à 590)](#116)
         - [Chapitre III : Des ouvertures à cassation (art. 591 à 600)](#117)
         - [Chapitre IV : De l'instruction des recours et des audiences (art. 601 à 604)](#118)
-        - [Chapitre V : Des arrêts rendus par la Cour de cassation (art. 605 à 618)](#119)
+        - [Chapitre V : Des arrêts rendus par la Cour de cassation (art. 605 à 619)](#119)
         - [Chapitre VI : Du pourvoi dans l'intérêt de la loi (art. 620 à 621)](#120)
       - [Titre II : Des demandes en révision (art. 622 à 626)](#121)
     - [Livre IV : De quelques procédures particulières (art. 627 à 706-13)](#122)
@@ -14375,6 +14375,32 @@ même arrêt ou jugement, sous quelque prétexte et par quelque moyen que ce soi
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+
+###### Article 619
+
+Lorsque, après cassation d'un premier arrêt ou jugement rendu en dernier ressort, le deuxième arrêt ou jugement rendu dans la
+même affaire, entre les mêmes parties, procédant en la même qualité, est attaqué par les mêmes moyens, l'affaire est portée
+devant l'assemblée plénière dans les formes prévues par les articles L. 131-2 et L. 131-3 du code de l'organisation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°79-9 1979-01-03 art. 6, art. 8 JORF 4 janvier 1979 en vigueur le 1er janvier 1979
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°79-9 1979-01-03 art. 8 Loi rétroactive
+
+_Cite_:
+
+  - Code de l'organisation judiciaire - art. L131-2 (Ab)
 
 
 #### Chapitre VI : Du pourvoi dans l'intérêt de la loi<a id=120></a>
