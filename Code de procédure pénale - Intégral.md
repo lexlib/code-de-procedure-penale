@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-12-31
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -5545,6 +5545,37 @@ _Cité par_:
   - Code de procédure pénale - art. 627-9 (V)
   - Code de procédure pénale - art. 706-33 (V)
   - Code de procédure pénale - art. 706-36 (V)
+
+
+###### Article 148-3
+
+Préalablement à sa mise en liberté, l'inculpé doit faire, auprès du juge d'instruction ou du chef de l'établissement
+pénitentiaire, la déclaration d'adresse prévue par le sixième alinéa de l'article 114.
+
+L'inculpé est avisé qu'il doit signaler au juge d'instruction, jusqu'à la clôture de l'information, par nouvelle déclaration
+ou par lettre avec demande d'avis de réception, tout changement de l'adresse déclarée. Il est également avisé que toute
+notification ou signification faite à la dernière adresse déclarée sera réputée faite à sa personne.
+
+Mention de cet avis, ainsi que de la déclaration d'adresse, est portée soit au procès-verbal, soit dans le document qui est
+adressé sans délai, en original ou en copie, par le chef de l'établissement pénitentiaire au juge d'instruction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°70-643 du 17 juillet 1970 - art. 1 () JORF 19 juillet 1970 en vigueur le 1er janvier 1971
+
+_Modifié par_:
+
+  - Loi n°85-1407 1985-12-30 art. 20 JORF 31 décembre 1985
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 114 (M)
 
 
 ###### Article 148-5
