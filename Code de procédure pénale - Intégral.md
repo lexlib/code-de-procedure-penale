@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1981-02-03
+Version Consolidée au 1981-08-07
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -15136,6 +15136,23 @@ _Codifié par_:
   - Ordonnance 58-1296 1958-12-23
 
 
+###### Article 608
+
+L'arrêt d'irrecevabilité, de déchéance ou de rejet condamne le demandeur aux dépens.
+
+Sauf décision contraire de la Cour de cassation, l'arrêt donnant acte de désistement d'une partie est enregistré gratis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°81-759 1981-08-06 art. 3-II JORF 7 août 1981
+
+
 ###### Article 609
 
 Lorsque la Cour de cassation annule un arrêt ou un jugement rendu en matière correctionnelle ou de police, elle renvoie le
@@ -15273,21 +15290,6 @@ la décision est transmise au ministre de la justice.
 
   - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
   - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
-
-###### Article 616
-
-[*Article abrogé*].
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°81-759 1981-08-67 art. 3-I JORF 7 août 1981
 
 _Codifié par_:
 
