@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1973-01-01
+Version Consolidée au 1973-03-16
 ## Contenu: 
   - [Partie législative (art. 1 à 800)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 9)](#2)
@@ -262,7 +262,7 @@ Version Consolidée au 1973-01-01
           - [Section 3 : Du régime de la détention provisoire (art. D58 à D69)](#259)
             - [Paragraphe 1er : Hypothèses où il est dérogé au principe de l'emprisonnement individuel (art. D58 à D59)](#260)
             - [Paragraphe 3 : Visites et correspondance (art. D64 à D65)](#261)
-            - [Paragraphe 4 : Exercice des droits de la défense (art. D67 à D69)](#262)
+            - [Paragraphe 4 : Exercice des droits de la défense (art. D66 à D69)](#262)
         - [Chapitre II : De l'exécution des peines privatives de liberté (art. D79 à D109)](#263)
           - [Section 2 : De l'orientation des condamnés à une longue peine (art. D79)](#264)
           - [Section 3 : Du régime auquel les condamnés sont soumis (art. D83 à D93)](#265)
@@ -352,34 +352,37 @@ Version Consolidée au 1973-01-01
           - [Section 5 : Des détenus âgés de moins de vingt et un ans (art. D514 à D519)](#349)
       - [Titre III : De la libération conditionnelle (art. D525 à D543)](#350)
         - [Chapitre Ier : Du comité consultatif de libération conditionnelle (art. D525)](#351)
-        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531)](#352)
-        - [Chapitre V : Dispositions diverses (art. D543)](#353)
-      - [Titre IV : Du sursis (art. D545 à D568)](#354)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#355)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#356)
-      - [Titre VI : De la contrainte par corps (art. D569)](#357)
-  - [Partie Arrêtés (art. A1 à A57)](#358)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#359)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#360)
-        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#361)
-          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#362)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#363)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#364)
-    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#365)
-      - [Titre II : De la détention (art. A39-1 à A43-1)](#366)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#367)
-          - [Section 5 (art. A39-1 à A39-2)](#368)
-        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#369)
-          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#370)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#371)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#372)
-      - [Titre IV : Du sursis (art. A50 à A51)](#373)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#374)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#375)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#376)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#377)
-        - [Disposition générale (art. A53)](#378)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#379)
+        - [Chapitre II : De l'instruction des propositions de libération conditionnelle (art. D529)](#352)
+        - [Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels (art. D531 à D537)](#353)
+          - [Section 2 : Des conditions particulières (art. D537)](#354)
+        - [Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels (art. D538 à D539)](#355)
+        - [Chapitre V : Dispositions diverses (art. D543)](#356)
+      - [Titre IV : Du sursis (art. D545 à D568)](#357)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. D545 à D568)](#358)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. D545 à D568)](#359)
+      - [Titre VI : De la contrainte par corps (art. D569)](#360)
+  - [Partie Arrêtés (art. A1 à A57)](#361)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A11)](#362)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A11)](#363)
+        - [Chapitre Ier : De la police judiciaire (art. A1 à A11)](#364)
+          - [Section 2 : Des officiers de police judiciaire (art. A1 à A11)](#365)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1 à A12)](#366)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A2 à A11)](#367)
+    - [Livre V : Des procédures d'exécution (art. A39-1 à A53)](#368)
+      - [Titre II : De la détention (art. A39-1 à A43-1)](#369)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39-1 à A39-2)](#370)
+          - [Section 5 (art. A39-1 à A39-2)](#371)
+        - [Chapitre IV : De l'administration des établissements pénitentiaires (art. A40)](#372)
+          - [Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire (art. A40)](#373)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#374)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#375)
+      - [Titre IV : Du sursis (art. A50 à A51)](#376)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A50 à A51)](#377)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A50 à A51)](#378)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A50 à A51)](#379)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#380)
+        - [Disposition générale (art. A53)](#381)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A56 à A57)](#382)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -22082,6 +22085,30 @@ _Cite_:
 
 ##### Paragraphe 4 : Exercice des droits de la défense<a id=262></a>
 
+###### Article D66
+
+Il est interdit au personnel de l'administration pénitentiaire et à toute personne qui apporte sa collaboration à cette
+administration d'agir de façon directe ou indirecte auprès des détenus pour influer sur leurs moyens de défense et sur le
+choix de leur défenseur.
+
+Pour l'exercice de ce choix, le tableau des avocats inscrits dans les barreaux du département est affiché au greffe et tenu à
+la disposition des détenus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D67
 
 Conformément aux dispositions des articles 116 et 716, les prévenus peuvent communiquer librement avec leur conseil
@@ -26696,6 +26723,46 @@ _Cité par_:
   - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
+###### Article D411
+
+Les défenseurs communiquent, dans les conditions visées à l'article D. 68, avec les prévenus et avec les condamnés qu'ils ont
+assistés au cours de la procédure. Pour ces derniers, ils doivent justifier auprès du chef de l'établissement de ce qu'ils
+ont personnellement apporté cette assistance. En outre, dans les maisons centrales et centres de détention, la visite a lieu
+à l'heure et au jour convenus préalablement avec le chef de l'établissement.
+
+Les avocats n'ayant pas assisté le condamné au cours de la procédure, les officiers ministériels et les autres auxiliaires de
+justice peuvent être autorisés à communiquer avec les détenus dans les conditions fixées aux articles D. 403, D. 406 et D.
+410.
+
+Pour le cas où ils désirent bénéficier, en vue de leur entretien, des dispositions particulières prévues à l'article D. 68,
+ils doivent joindre à leur demande une attestation délivrée par le parquet de leur résidence selon laquelle le secret de la
+communication paraît justifié par la nature des intérêts en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D403 (M)
+  - CODE DE PROCEDURE PENALE - art. D68 (V)
+  - Code de procédure pénale D68, D403, D406 et D410
+
+_Cité par_:
+
+  - Code de procédure pénale - art. D321 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 714 à 728
+
+
 ###### Article D412
 
 Les autres personnes qui justifient d'un intérêt autre que familial pour s'entretenir avec un détenu, notamment les officiers
@@ -27782,7 +27849,29 @@ _Modifié par_:
   - Décret n°65-129 1965-02-19 art. 5 JORF 24 février 1965
 
 
-#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=352></a>
+#### Chapitre II : De l'instruction des propositions de libération conditionnelle<a id=352></a>
+
+###### Article D529
+
+L'instruction générale détermine les modalités de la procédure d'admission ou de révocation de la libération conditionnelle
+et d'exécution des décisions prises en cette matière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+#### Chapitre III : Des mesures et des obligations auxquelles peuvent être soumis les libérés conditionnels<a id=353></a>
 
 ###### Article D531
 
@@ -27803,7 +27892,80 @@ _Codifié par_:
   - TXT_SOURCE: Code de procédure pénale 729 à 733-1
 
 
-#### Chapitre V : Dispositions diverses<a id=353></a>
+##### Section 2 : Des conditions particulières<a id=354></a>
+
+###### Article D537
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+_Abrogé par_:
+
+  - Décret n°85-836 1985-08-06 art. 12 JORF 8 août 1985
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+#### Chapitre IV : Des comités chargés de la mise en oeuvre des mesures concernant les libérés conditionnels<a id=355></a>
+
+###### Article D538
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+_Abrogé par_:
+
+  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+###### Article D539
+
+[Article abrogé].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Modifié par_:
+
+  - Décret n°73-281 1973-03-07 art. 1 JORF 16 mars 1973 rectificatif JORF 7 avril 1973
+
+_Abrogé par_:
+
+  - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Code de procédure pénale 729 à 733-1
+
+
+#### Chapitre V : Dispositions diverses<a id=356></a>
 
 ###### Article D543
 
@@ -27825,11 +27987,11 @@ _Abrogé par_:
   - Décret n°85-836 1985-08-06 art. 1 JORF 8 août 1985
 
 
-### Titre IV : Du sursis<a id=354></a>
+### Titre IV : Du sursis<a id=357></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=355></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=358></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=356></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=359></a>
 
 ###### Article D545
 
@@ -28353,7 +28515,7 @@ _Abrogé par_:
   - Décret n°86-462 1986-03-14 art. 13 JORF 16 mars 1986
 
 
-### Titre VI : De la contrainte par corps<a id=357></a>
+### Titre VI : De la contrainte par corps<a id=360></a>
 
 ###### Article D569
 
@@ -28383,17 +28545,17 @@ _Cité par_:
   - Code de procédure pénale - art. D487 (V)
 
 
-# Partie Arrêtés<a id=358></a>
+# Partie Arrêtés<a id=361></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=359></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=362></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=360></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=363></a>
 
-#### Chapitre Ier : De la police judiciaire<a id=361></a>
+#### Chapitre Ier : De la police judiciaire<a id=364></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=362></a>
+##### Section 2 : Des officiers de police judiciaire<a id=365></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=363></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=366></a>
 
 ###### Article A1
 
@@ -28600,7 +28762,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=364></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=367></a>
 
 ###### Article A2
 
@@ -28725,13 +28887,13 @@ _Cité par_:
   - Code de procédure pénale - art. A10 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=365></a>
+## Livre V : Des procédures d'exécution<a id=368></a>
 
-### Titre II : De la détention<a id=366></a>
+### Titre II : De la détention<a id=369></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=367></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=370></a>
 
-##### Section 5<a id=368></a>
+##### Section 5<a id=371></a>
 
 ###### Article A39-1
 
@@ -28779,9 +28941,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D112 (Ab)
 
 
-#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=369></a>
+#### Chapitre IV : De l'administration des établissements pénitentiaires<a id=372></a>
 
-##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=370></a>
+##### Section 1 : Du rôle et de l'organisation générale de l'administration pénitentiaire<a id=373></a>
 
 ###### Article A40
 
@@ -28806,9 +28968,9 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=371></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=374></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=372></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=375></a>
 
 ###### Article A43
 
@@ -28867,13 +29029,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=373></a>
+### Titre IV : Du sursis<a id=376></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=374></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=377></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=375></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=378></a>
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=376></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=379></a>
 
 ###### Article A50
 
@@ -28914,9 +29076,9 @@ _Abrogé par_:
   - Arrêté 2001-04-18 art. 3 JORF 9 juin 2001
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=377></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=380></a>
 
-#### Disposition générale<a id=378></a>
+#### Disposition générale<a id=381></a>
 
 ###### Article A53
 
@@ -28934,7 +29096,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=379></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=382></a>
 
 ###### Article A56
 
