@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1987-07-31
+Version Consolidée au 1987-08-02
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -35185,26 +35185,15 @@ d'information en application de l'article 37 de la loi n° 83-1 du 3 janvier 198
 21° A la commission des marchés à terme de marchandises en ce qui concerne les personnes physiques ou les dirigeants des
 personnes morales qui sollicitent l'agrément ou l'inscription prévues par les articles 31, 32 et 34 de la loi n° 83-610 du 8
 juillet 1983, ainsi que les personnes qui font l'objet d'une procédure disciplinaire sur le fondement des articles 22, 29 ou
-41 de cette loi.
+41 de cette loi. 22° A l'administration pénitentiaire au titre des autorisations, agréments ou habilitations qu'elle est
+susceptible de délivrer aux personnes appelées à intervenir dans les établissements pénitentiaires ou pour le recrutement de
+ses personnels.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-318 1959-02-23
-
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
-_Modifié par_:
-
-  - Décret n°70-147 1970-02-19 art. 188 JORF 22 février 1970
-  - Décret n°81-512 1981-05-12 art. 29 JORF 14 mai 1981
-  - Décret n°81-1003 1981-11-06 art. 15 JORF 11 novembre 1981
-  - Décret n°81-1086 1981-12-08 art. 5 JORF 11 décembre 1981
-  - Décret n°85-913 1985-08-29 art. 3 I, art. 3 II et art. 10 JORF 30 août 1985 en vigueur le 1er septembre 1985
-  - Décret n°79-858 1979-10-01 art. 3 JORF 4 octobre 1979
 
 _Cite_:
 
