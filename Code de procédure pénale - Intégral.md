@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-06-13
+Version Consolidée au 2003-06-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -35458,12 +35458,25 @@ _Cité par_:
 ###### Article 716
 
 Les personnes mises en examen, prévenus et accusés soumis à la détention provisoire sont placés au régime de l'emprisonnement
-individuel de jour et de nuit. Il ne peut être dérogé à ce principe qu'en raison de la distribution intérieure des maisons
-d'arrêt ou de leur encombrement temporaire ou, si les intéressés ont demandé à travailler, en raison des nécessités
-d'organisation du travail.
+individuel de jour et de nuit. Il ne peut être dérogé à ce principe que dans les cas suivants :
+
+1° Si les intéressés en font la demande ;
+
+2° Si leur personnalité justifie, dans leur intérêt, qu'ils ne soient pas laissés seuls ;
+
+3° S'ils ont été autorisés à travailler, ou à suivre une formation professionnelle ou scolaire et que les nécessités
+d'organisation l'imposent ;
+
+4° Dans la limite de cinq ans à compter de la promulgation de la loi n° 2003-495  du 12 juin 2003 renforçant la lutte contre
+la violence routière, si la distribution intérieure des maisons d'arrêt ou le nombre de détenus présents ne permet pas un tel
+emprisonnement individuel.
 
 Toutes communications et toutes facilités compatibles avec les exigences de la discipline et de la sécurité de la prison sont
 accordées aux personnes mises en examen, prévenus et accusés pour l'exercice de leur défense.
+
+**Nota:**
+
+La date d'entrée en vigueur est celle prévue par le II de l'article 68 de la loi 2000-516.
 
 **Liens relatifs à cet article**
 
@@ -35471,9 +35484,17 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
+_Cite_:
+
+  - Loi n°2003-495 2003-06-12
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-495 2003-06-12 art. 42 : application à Mayotte
+
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 220 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+  - Loi n°2003-495 du 12 juin 2003 - art. 41 () JORF 13 juin 2003 en vigueur le 16 juin 2003
 
 _Cité par_:
 
