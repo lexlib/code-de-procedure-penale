@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-02-01
+Version Consolidée au 2000-03-15
 ## Contenu: 
   - [Partie législative (art. 1 à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -532,23 +532,22 @@ Version Consolidée au 2000-02-01
     - [Livre V : Des procédures d'exécution (art. A39 à A53)](#529)
       - [Titre II : De la détention (art. A39 à A43-1)](#530)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-2)](#531)
-          - [Section 1 : Des divers établissements pénitentiaires établis pour peines (art. A39)](#532)
-          - [Section 5 (art. A39-1 à A39-2)](#533)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#534)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#535)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#536)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#537)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#538)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#539)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#540)
-      - [Titre IV : Du sursis (art. A45 à A52)](#541)
-        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#542)
-          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#543)
-            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#544)
-            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#545)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#546)
-        - [Disposition générale (art. A53)](#547)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#548)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-2)](#532)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#533)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#534)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#535)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#536)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#537)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#538)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#539)
+      - [Titre IV : Du sursis (art. A45 à A52)](#540)
+        - [Chapitre II : Du sursis avec mise à l'épreuve (art. A45 à A52)](#541)
+          - [Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve (art. A45 à A52)](#542)
+            - [Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés. (art. A45 à A47)](#543)
+            - [Paragraphe 3 : Des associations placées auprès des comités (art. A48 à A52)](#544)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A53)](#545)
+        - [Disposition générale (art. A53)](#546)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#547)
 # Partie législative<a id=1></a>
 
 ## Titre préliminaire : De l'action publique et de l'action civile<a id=2></a>
@@ -69411,70 +69410,38 @@ _Cité par_:
 
 #### Chapitre II : De l'exécution des peines privatives de liberté.<a id=531></a>
 
-##### Section 1 : Des divers établissements pénitentiaires établis pour peines<a id=532></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=532></a>
 
 ###### Article A39
 
-La liste des établissements pénitentiaires classés dans la catégorie des centres de détention prévus aux articles D. 70 et D.
-70-2 est fixée conformément au tableau ci-dessous. Ce tableau contient la distinction entre les centres de détention fermés,
-les centres de détention à régime ouvert et les centres de détention pour jeunes condamnés.
-
-1° Centres de détention fermés :
-
-Centre de détention de Caen ;
-
-Centre de détention d'Eysses ;
-
-Centre de détention de Mauzac ;
-
-Centre de détention de Melun (à l'exception du quartier affecté à des condamnés bénéficiaires du régime spécial prévu aux
-articles D. 490 à D. 496) ;
-
-Centre de détention de Mulhouse ;
-
-Centre de détention de Muret ;
-
-Centre de détention de Riom ;
-
-Centre de détention de Toul ;
-
-Centre de formation professionnelle d'Ecrouves ;
-
-Centre sanitaire de Liancourt ;
-
-Centre pénitentiaire de Rennes (à l'exception du quartier affecté aux condamnés relevant du régime des maisons centrales) ;
-
-Centre pénitentiaire de Clairvaux (intitulé modifié par l'arrêté du 14 janvier 1980 publié au Journal officiel du 26 janvier
-1980) (à l'exception des quartiers affectés aux condamnés relevant du régime des maisons centrales) ;
-
-Il est aménagé un quartier Centre de détention aux prisons de Fresnes.
-
-2° Centres de détention à régime ouvert :
-
-Centre agricole de Casabianda ;
-
-Centre du fort de La Prée.
-
-3° Centres de détention pour jeunes condamnés :
-
-Centre de détention de Loos ;
-
-Centre ouvert d'Oermingen.
-
-**Nota:**
-
-(Nota : l'article 1er de l'arrêté du 17 avril 1986 publié au Journal officiel du 26 avril 1986 dispose :
-
-"La liste des établissements pénitentiaires classés dans la catégorie des centres de détention et centres de détention
-régionaux prévus aux articles D. 70, D. 70-2 et D. 73 et figurant à l'article A39 du code de procédure pénale est modifiée
+La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales prévue à l'article D. 71 est fixée
 comme suit :
 
-"Il est ouvert un centre de détention régional sur le domaine pénitentiaire de Bedenac.
+Maison centrale d'Arles (Bouches-du-Rhône) ;
 
-Il est aménagé un centre de détention dans les locaux des établissements pénitentiaires de Metz-Barrès et de Château-Thierry.
+Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne) ;
 
-Après fermeture de l'établissement pénitentiaire, le centre de détention de Fontevraud est radié de la liste des centres de
-détention").
+Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube) ;
+
+Quartier maison centrale du centre pénitentiaire de Ducos (Martinique) ;
+
+Maison centrale d'Ensisheim (Haut-Rhin) ;
+
+Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+
+Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+
+Maison centrale de Poissy (Yvelines) ;
+
+Quartier maison centrale du centre pénitentiaire du Port (Réunion) ;
+
+Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Maison centrale de Riom (Puy-de-Dôme) ;
+
+Maison centrale de Saint-Martin-de-Ré (Charente-Maritime) ;
+
+Maison centrale de Saint-Maur (Indre).
 
 **Liens relatifs à cet article**
 
@@ -69484,8 +69451,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
-  - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
+  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 _Cité par_:
 
@@ -69493,17 +69459,51 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D70 (M)
-  - CODE DE PROCEDURE PENALE - art. D70-2 (Ab)
-  - Code de procédure pénale D70, D70-2, D490 à D496
+  - CODE DE PROCEDURE PENALE - art. D71 (M)
 
-
-##### Section 5<a id=533></a>
 
 ###### Article A39-1
 
-La somme journalière prévue au second alinéa de l'article D. 111, au-dessous de laquelle les détenus perçoivent la totalité
-du produit de leur travail, est fixé à 4 F.
+La liste des établissements pénitentiaires classés dans la catégorie des centres de détention à vocation nationale prévue à
+l'article D. 71 est fixée comme suit :
+
+Quartier centre de détention national du centre pénitentiaire de Baie-Mahaut (Guadeloupe) ;
+
+Centre de détention national de Bapaume (quartier hommes, quartier femmes) (Pas-de-Calais) ;
+
+Quartier centre de détention national du centre pénitentiaire de Caen (Calvados) ;
+
+Centre de détention national de Casabianda (Haute-Corse) ;
+
+Quartier centre de détention national du centre pénitentiaire de Ducos (Martinique) ;
+
+Centre de détention national d'Ecrouves (Meurthe-et-Moselle) ;
+
+Centre de détention national d'Eysses (Lot-et-Garonne) ;
+
+Quartier centre de détention national du centre pénitentiaire de Joux-la-Ville (femmes) (Yonne) ;
+
+Centre de détention national de Liancourt (Oise) ;
+
+Centre de détention national de Mauzac (Dordogne) ;
+
+Centre de détention national de Melun (Seine-et-Marne) ;
+
+Centre de détention national de Montmédy (Meuse) ;
+
+Centre de détention national de Muret (Haute-Garonne) ;
+
+Quartier centre de détention national du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+
+Quartier centre de détention national du centre pénitentiaire du Port (Réunion) ;
+
+Quartier centre de détention national du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Quartier centre de détention national du centre pénitentiaire de Rennes (femmes) (Ille-et-Vilaine) ;
+
+Centre de détention national de Toul (Meurthe-et-Moselle) ;
+
+Centre de détention national de Val-de-Reuil (Eure).
 
 **Liens relatifs à cet article**
 
@@ -69511,20 +69511,86 @@ _Codifié par_:
 
   - Arrêté 1959-02-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 _Cite_:
 
-  - Code de procédure pénale D111 al. 2
+  - CODE DE PROCEDURE PENALE - art. D71 (M)
 
 
 ###### Article A39-2
 
-Le pourcentage du nombre de condamnés qui peuvent bénéficier des dixièmes supplémentaires prévus au premier alinéa de
-l'article D. 112 ne peut excéder 60 % de l'effectif des détenus incarcérés dans la même prison pour le premier dixième, 30 %
-pour le deuxième et 10 % pour le troisième.
+La liste des établissements pénitentiaires classés dans la catégorie des centres de détention à vocation régionale prévue à
+l'article D. 72 est fixée comme suit :
+
+Quartier centre de détention régional du centre pénitentiaire d'Aiton (Savoie) ;
+
+Centre de détention régional d'Argentan (Orne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Baie-Mahaut (Guadeloupe) ;
+
+Centre de détention régional de Bédenac (Charente-Maritime) ;
+
+Centre de détention régional de Châteaudun (Eure-et-Loir) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Châteauroux (Indre) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Château-Thierry (Aisne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Clairvaux (Aube) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Draguignan (Var) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Ducos (Martinique) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Joux-la-Ville (Yonne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Lannemezan (Hautes-Pyrénées) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Laon (Aisne) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Longuenesse (Pas-de-Calais) ;
+
+Centre de détention régional de Loos (Nord) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Lorient-Ploëmeur (Morbihan) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Marseille (femmes) (Bouches-du-Rhône) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Maubeuge (Nord) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+
+Centre de détention régional de Neuvic (Dordogne) ;
+
+Centre de détention régional d'Oermingen (Bas-Rhin) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
+
+Quartier centre de détention régional du centre pénitentiaire du Port (Réunion) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Centre de détention régional de Saint-Mihiel (Meuse) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Saint-Pierre (collectivité territoriale de Saint-Pierre-et-
+Miquelon) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Saint-Quentin-Fallavier (Isère) ;
+
+Centre de détention régional de Saint-Sulpice-la-Pointe (Tarn) ;
+
+Centre de détention régional de Salon-de-Provence (Bouches-du-Rhône) ;
+
+Centre de détention régional de Tarascon (Bouches-du-Rhône) ;
+
+Centre de détention régional d'Uzerche (Corrèze) ;
+
+Quartier centre de détention régional du centre pénitentiaire de Varennes-le-Grand (Saône-et-Loire) ;
+
+Centre de détention régional de Villenauxe-la-Grande (Aube).
 
 **Liens relatifs à cet article**
 
@@ -69532,9 +69598,9 @@ _Codifié par_:
 
   - Arrêté 1959-02-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 1971-04-15 art. 1 JORF 16 avril 1971
+  - Arrêté 2000-01-31 art. 1 JORF 15 mars 2000
 
 _Cité par_:
 
@@ -69543,12 +69609,12 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D112 (Ab)
+  - CODE DE PROCEDURE PENALE - art. D72 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=534></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=533></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=535></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=534></a>
 
 ###### Article A40
 
@@ -69699,11 +69765,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=536></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=535></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=537></a>
+##### Section 1 : De la gestion des biens des détenus<a id=536></a>
 
-##### Paragraphe 1er : Pécule.<a id=538></a>
+##### Paragraphe 1er : Pécule.<a id=537></a>
 
 ###### Article A41
 
@@ -69852,9 +69918,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=539></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=538></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=540></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=539></a>
 
 ###### Article A43
 
@@ -69913,13 +69979,13 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre IV : Du sursis<a id=541></a>
+### Titre IV : Du sursis<a id=540></a>
 
-#### Chapitre II : Du sursis avec mise à l'épreuve<a id=542></a>
+#### Chapitre II : Du sursis avec mise à l'épreuve<a id=541></a>
 
-##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=543></a>
+##### Section 2 : Des autorités chargées de contrôler le régime de la mise à l'épreuve<a id=542></a>
 
-##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=544></a>
+##### Paragraphe 1er : De la répartition et de la composition des comités de probation et d'assistance aux libérés.<a id=543></a>
 
 ###### Article A45
 
@@ -69980,7 +70046,7 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 1 et art. 2 JORF 21 mars 1973
 
 
-##### Paragraphe 3 : Des associations placées auprès des comités<a id=545></a>
+##### Paragraphe 3 : Des associations placées auprès des comités<a id=544></a>
 
 ###### Article A48
 
@@ -70081,9 +70147,9 @@ _Modifié par_:
   - Arrêté 1973-03-07 art. 2 JORF 21 mars 1973
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=546></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=545></a>
 
-#### Disposition générale<a id=547></a>
+#### Disposition générale<a id=546></a>
 
 ###### Article A53
 
@@ -70101,7 +70167,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=548></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=547></a>
 
 ###### Article A54
 
