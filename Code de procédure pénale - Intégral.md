@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2003-08-27
+Version Consolidée au 2003-09-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -50083,6 +50083,9 @@ d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 200
 l'environnement contre les émissions polluantes des moteurs à allumage par compression destinés à équiper les engins mobiles
 non routiers ;
 
+e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions constatées par la garderie du domaine du
+Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
+
 4° Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou
 tenus en captivité réprimées par :
 
@@ -50138,15 +50141,18 @@ _Cite_:
   - Décret n°99-752 du 30 août 1999 - art. 19 (M)
   - Décret n°99-1164 du 29 décembre 1999 - art. 8 (Ab)
   - Décret n°2000-1302 du 26 décembre 2000 - art. 10 (Ab)
+  - Décret n°2003-752 2003-08-01
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - CODE DE PROCEDURE PENALE R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9
+  - CODE DE PROCEDURE PENALE - art. 5 (V)
+  - CODE DE PROCEDURE PENALE R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
   - Code forestier - art. R133-1-1 (Ab)
   - Code forestier - art. R322-5 (M)
   - Code forestier - art. R331-3 (M)
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
+  - Code de l'environnement - art. L322-10-2 (V)
+  - Code de l'environnement L322-10-2, L322-20
 
 _Codifié par_:
 
@@ -50161,6 +50167,7 @@ _Cité par_:
   - Décret n°2019-725 du 9 juillet 2019 - art. 1
   - Décret n°2019-1114 du 30 octobre 2019 - art. 4 (V)
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -50173,7 +50180,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-752 du 1 août 2003 - art. 2 () JORF 6 août 2003
+  - Décret n°2003-839 du 29 août 2003 - art. 5 () JORF 3 septembre 2003
 
 **Liens**:
 
