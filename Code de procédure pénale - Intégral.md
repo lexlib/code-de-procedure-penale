@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1988-03-01
+Version Consolidée au 1988-07-21
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -28294,6 +28294,33 @@ _Cite_:
 
   - Code pénal 55-1 al. 2
   - CODE DE PROCEDURE PENALE - art. 703 (M)
+
+
+###### Article 775-2
+
+Les condamnés à une peine ne pouvant donner lieu à réhabilitation de plein droit bénéficient, sur simple requête, de
+l'exclusion de la mention de leur condamnation au bulletin n° 2, selon les règles de compétence fixées par l'article
+précédent, à l'expiration d'un délai de vingt années à compter de leur libération définitive ou de leur libération
+conditionnelle non suivie de révocation, s'ils n'ont pas, depuis cette libération, été condamnés à une peine criminelle ou
+correctionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°88-828 1988-07-20 art. 34 JORF 21 juillet 1988
+
+_Cité par_:
+
+  - Code civil - art. 21-27 (V)
+
+_Cite_:
+
+  - Code de procédure pénale L775-1
 
 
 ###### Article 776
