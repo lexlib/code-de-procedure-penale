@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 1986-06-19
+Version Consolidée au 1986-07-01
 ## Contenu: 
   - [Partie législative (art. 1 à 802)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -234,7 +234,7 @@ Version Consolidée au 1986-06-19
       - [Titre VIII : Du casier judiciaire (art. R62 à R90)](#231)
         - [Chapitre Ier : De l'organisation des services du casier judiciaire (art. R62 à R64)](#232)
         - [Chapitre II : De l'établissement des fiches du casier judiciaire (art. R65 à R72)](#233)
-        - [Chapitre III : Des copies des fiches du casier judiciaire (art. R74 à R75-1)](#234)
+        - [Chapitre III : Des copies des fiches du casier judiciaire (art. R73 à R75-1)](#234)
         - [Chapitre IV : De la délivrance des bulletins n° 1 du casier judiciaire (art. R76 à R78-1)](#235)
         - [Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire (art. R79 à R81)](#236)
         - [Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire (art. R82 à R84)](#237)
@@ -32612,6 +32612,85 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R379 (V)
 
 
+###### Article R69
+
+Le service du casier judiciaire national automatisé, dès qu'il est avisé, enregistre sur les fiches les mentions prescrites à
+l'article 769. 
+
+L'avis lui est adressé dans les plus brefs délais : 
+
+1° Pour les grâces, commutations ou réductions de peines, par le ministre de la justice ou par le directeur ou le surveillant
+chef de l'établissement pénitentiaire agissant par l'intermédiaire du procureur de la République de la résidence de
+l'intéressé ; 
+
+2° Pour les décisions qui suspendent ou qui ordonnent l'exécution d'une condamnation, par le greffe de la juridiction ou par
+l'autorité qui les a rendues ; 
+
+3° Pour les arrêts portant réhabilitation, par le greffier de la juridiction qui a statué ; 
+
+4° Pour les décisions rapportant les arrêtés d'expulsion, par le ministre de l'Intérieur ; 
+
+5° Pour les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire ainsi que pour les
+arrêtés de mise en liberté conditionnelle, par les directeurs et surveillants chefs des établissements pénitentiaires et par
+l'intermédiaire du procureur de la République de leur résidence ; pour les arrêtés supprimant les mesures d'assistance et de
+contrôle prévues par les arrêtés de libération conditionnelle et pour les arrêtés de révocation de liberté conditionnelle,
+par le ministre de la Justice ; 
+
+6° Pour le paiement de l'amende par les trésoriers-payeurs généraux, les receveurs particuliers des finances et les
+percepteurs 
+
+7° Pour les décisions prononçant une peine ou une dispense de peine après ajournement du prononcé de la peine, par le
+greffier de la juridiction qui a statué ; 
+
+8° Pour les décisions prises en application des articles 55-1 du Code pénal, 775-1 et 777-1 du Code de procédure pénale, par
+le greffier de la juridiction qui a statué. 
+
+Les homologations de concordat sont également enregistrées d'après l'avis qui en est donné par le greffier de la juridiction
+qui a prononcé. 
+
+Ces avis peuvent être adressés au service du casier judiciaire national automatisé sous la forme d'un support magnétique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Modifié par_:
+
+  - Décret n°77-193 1977-03-03 art. 5 JORF 5 mars 1977
+  - Décret n°67-195 1967-03-10 art. 1 JORF 16 mars 1967
+  - Décret n°81-1003 1981-06-11 art. 8 JORF 11 novembre 1981
+  - Décret n°86-750 1986-05-26 art. 1 et 3 JORF 30 mai 1986 en vigueur le 1er juillet 1986
+
+_Cite_:
+
+  - Code pénal 55-1
+  - CODE DE PROCEDURE PENALE - art. 769 (M)
+  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 777 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R380 (V)
+  - Code de procédure pénale - art. D115-14 (V)
+  - Code de procédure pénale - art. D287 (V)
+  - Code de procédure pénale - art. D49-26 (V)
+  - Code de procédure pénale - art. D544-1 (V)
+  - Code de procédure pénale - art. R294 (V)
+  - Code de procédure pénale - art. R297 (V)
+  - Code de procédure pénale - art. R383 (Ab)
+  - Code de procédure pénale - art. R72 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°81-1003 1981-06-11 art. 25
+
+
 ###### Article R70
 
 Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants :
@@ -32723,6 +32802,38 @@ _Cite_:
 
 
 #### Chapitre III : Des copies des fiches du casier judiciaire<a id=234></a>
+
+###### Article R73
+
+Lorsque la communication d'avis de condamnation est prévue par des conventions internationales, les copies des fiches sont
+établies et transmises par le service du casier judiciaire national automatisé aux autorités prévues par ces conventions.
+
+Dans les ressorts des tribunaux de grande instance pour lesquels ne sont pas intervenus les décrets prévus par l'article 10
+de la loi n° 80-2 du 4 janvier 1980, les copies des fiches sont adressées par le greffe au ministère de la justice en vue de
+leur transmission aux autorités compétentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
+
+_Cite_:
+
+  - Loi n°80-2 1980-01-04 art. 10
+
+_Modifié par_:
+
+  - Décret n°86-750 1986-05-26 art. 2 et art. 3 JORF 30 mai en vigueur le 1er juillet 1986
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. R384 (V)
+
 
 ###### Article R74
 
