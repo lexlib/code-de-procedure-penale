@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-07-27
 ## Contenu: 
   - [Partie législative (art. préliminaire à 902)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -70740,30 +70740,6 @@ _Modifié par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D324. (M)
-
-
-###### Article A41-2
-
-Le plafond des subsides pouvant être reçus chaque mois par les condamnés en application de l'article D 422 est fixé à 1 200
-F.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
-_Modifié par_:
-
-  - Arrêté 1989-11-29 art. 1 JORF 9 décembre 1989
-
-_Abrogé par_:
-
-  - Arrêté 2000-07-13 art. 1 JORF 27 juillet 2000
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. D422 (M)
 
 
 ###### Article A42
