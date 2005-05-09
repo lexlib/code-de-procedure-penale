@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-04-30
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -84382,7 +84382,7 @@ Le bâtonnier de l'ordre des avocats à la Cour d'appel de Paris ;
 
 Le directeur du service pénitentiaire d'insertion et de probation de Paris ;
 
-Le contrôleur financier au ministère de la justice ;
+Le membre du corps du contrôle général économique et financier au ministère de la justice ;
 
 Le vice-président du conseil d'administration du centre national d'études et recherches pénitentiaires ;
 
@@ -84447,7 +84447,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1213 du 13 décembre 2000 - art. 10 () JORF 14 décembre 2000 en vigueur le 1er janvier 2001
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 _Cite_:
 
