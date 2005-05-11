@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-12
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -672,7 +672,7 @@ Version Consolidée au 2005-05-10
         - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. D579 à D587)](#669)
       - [Titre XII : Dispositions générales (art. D599)](#670)
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#671)
-  - [Partie Arrêtés (art. A1 à A57)](#672)
+  - [Partie Arrêtés (art. A1 à A59)](#672)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-11)](#673)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-11)](#674)
         - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-11)](#675)
@@ -708,6 +708,8 @@ Version Consolidée au 2005-05-10
           - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#705)
         - [Disposition générale (art. A53)](#706)
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#707)
+    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A58)](#708)
+    - [Livre VIII : Dispositions applicables en Polynésie française (art. A59)](#709)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -98499,5 +98501,125 @@ _Codifié par_:
 _Modifié par_:
 
   - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
+
+
+## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=708></a>
+
+###### Article A58
+
+Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de
+la Nouvelle-Calédonie prévus par l'article D.N.C. 572 sont fixés conformément au tableau ci-dessous :
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ SPIP                │ SIÈGE   │ ANTENNE │ RESSORT DE COMPÉTENCE      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nouvelle-Calédonie. │ Nouméa. │ Nouméa. │ Camp est.                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │         │         │ Province sud.              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │         │         │ Province des îles Loyauté. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                     │         │ Koné.   │ Province nord.             ┃
+┗━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
+
+
+## Livre VIII : Dispositions applicables en Polynésie française<a id=709></a>
+
+###### Article A59
+
+Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de
+la Polynésie française prévus par l'article D.P. 572 sont fixés conformément au tableau ci-dessous :
+
+<table cellspacing="0" align="center" cellpadding="0" border="1" width="700">
+  <tbody>
+    <tr>
+      <td>
+
+SPIP
+
+</td>
+      <td>
+
+SIÈGE
+
+</td>
+      <td>
+
+ANTENNE
+
+</td>
+      <td>
+
+RESSORT DE COMPÉTENCE
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Polynésie française.
+
+</td>
+      <td valign="top">
+
+Papeete.
+
+</td>
+      <td valign="top">
+
+Néant.
+
+</td>
+      <td valign="top">
+
+Centre pénitentiaire de Faa'a-Nuutanie.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Centre de détention d'Uturoa (Raïatea).
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+
+Centre de détention de Taiohae (Marquises), Polynésie française.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
 
 
