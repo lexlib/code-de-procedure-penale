@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-12
+Version Consolidée au 2005-05-13
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -72939,7 +72939,10 @@ centrale de la police aux frontières ;
 judiciaire de la direction générale de la gendarmerie nationale ;
 
 13° Office central de lutte contre la délinquance itinérante, de la sous-direction de la police judiciaire de la direction
-générale de la gendarmerie nationale.
+générale de la gendarmerie nationale ;
+
+14° Office central de lutte contre le travail illégal, de la sous-direction de la police judiciaire de la direction générale
+de la gendarmerie nationale.
 
 **Liens relatifs à cet article**
 
@@ -72964,7 +72967,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-59 du 24 janvier 2005 - art. 6 () JORF 29 janvier 2005
+  - Décret n°2005-455 du 12 mai 2005 - art. 9 () JORF 13 mai 2005
 
 _Cite_:
 
