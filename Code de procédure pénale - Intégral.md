@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-05-13
+Version Consolidée au 2005-05-19
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -57729,8 +57729,8 @@ routier public interurbain de voyageurs.
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières, d'ordures ou de déchets dans les bois,
 forêts et terrains à boiser ;
 
-b) Les articles R. 241-61, R. 241-62 (2°), R. 241-63 (1° et 2°) du code rural relatifs aux parcs nationaux, ainsi que
-l'article R. 241-66 de ce même code en ce qu'il concerne les faits mentionnés par ces mêmes articles ;
+b) Les articles R. 241-61 à R. 241-64, l'article R. 241-66 du code de l'environnement relatifs aux parcs nationaux et les
+articles R. 242-68 à R. 242-71 du même code relatifs aux réserves naturelles ;
 
 c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du
 même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de
@@ -57772,34 +57772,15 @@ i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'applicati
 code rural, et relatifs à l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la déclaration en mairie,
 la vaccination, la stérilisation, l'assurance et les conditions de circulation de certains chiens.
 
-5° Contraventions réprimées par le code des postes et télécommunications prévues par les articles R. 10-1, R. 10-2, R. 10-4
-et R. 10-9.
+5° Contraventions réprimées par le code des postes et des communications électroniques prévues par les articles R. 10-1, R.
+10-2, R. 10-4 et R. 10-9.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Cité par_:
-
-  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
-  - Décret n°2011-348 du 29 mars 2011 - art. 2 (VD)
-  - Décret n°2012-343 du 9 mars 2012 (V)
-  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
-  - Code de l'environnement - art. R*242-78 (Ab)
-  - Code de l'environnement - art. R322-42 (V)
-  - Code de l'environnement - art. R331-72 (M)
-  - Code de l'environnement - art. R331-74 (V)
-  - Code de l'environnement - art. R332-79 (V)
-  - Code de procédure pénale - art. R251 (V)
-  - Code des postes et des communications électroni... - art. R10-11 (V)
-  - Code des postes et des communications électronique - art. R11 (T)
-
 _Cite_:
 
+  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16
+  - Décret n°42-730 1942-03-22 art. 80-1
   - Loi n°66-1005 1966-12-28
   - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
   - Décret n°80-791 du 1 octobre 1980 - art. 15 (M)
@@ -57824,21 +57805,40 @@ _Cite_:
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. 5 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - CODE DE PROCEDURE PENALE R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
+  - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
   - Code forestier - art. R133-1-1 (Ab)
   - Code forestier - art. R322-5 (M)
   - Code forestier - art. R331-3 (M)
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
-  - Code de l'environnement L322-10-2, L322-20
-  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16
-  - Décret n°42-730 1942-03-22 art. 80-1
+  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R241-61 à R241-64, R241-66
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Cité par_:
+
+  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+  - Décret n°2011-348 du 29 mars 2011 - art. 2 (VD)
+  - Décret n°2012-343 du 9 mars 2012 (V)
+  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
+  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
+  - Code de l'environnement - art. R*242-78 (Ab)
+  - Code de l'environnement - art. R322-42 (V)
+  - Code de l'environnement - art. R331-72 (M)
+  - Code de l'environnement - art. R331-74 (V)
+  - Code de l'environnement - art. R332-79 (V)
+  - Code de procédure pénale - art. R251 (V)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. R11 (T)
 
 _Modifié par_:
 
-  - Décret n°2004-1186 du 8 novembre 2004 - art. 28 () JORF 10 novembre 2004
+  - Décret n°2005-491 du 18 mai 2005 - art. 4 () JORF 19 mai 2005
 
 **Liens**:
 
