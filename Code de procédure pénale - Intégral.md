@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-08-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24852,8 +24852,13 @@ _Cite_:
 
 ###### Article 495
 
-Peuvent être soumis à la procédure simplifiée prévue à la présente section les délits prévus par le code de la route, les
-contraventions connexes prévues par ce code et les délits en matière de réglementations relatives aux transports terrestres.
+Peuvent être soumis à la procédure simplifiée prévue à la présente section  :
+
+1° Les délits prévus par le code de la route et les contraventions connexes prévues par ce code ;
+
+2° Les délits en matière de réglementations relatives aux transports terrestres ;
+
+3° Les délits prévus au titre IV du livre IV du code de commerce pour lesquels une peine d'emprisonnement n'est pas encourue.
 
 Cette procédure n'est pas applicable :
 
@@ -24877,7 +24882,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 135 () JORF 10 mars 2004
+  - Loi n°2005-882 du 2 août 2005 - art. 54 () JORF 3 août 2005
 
 _Cite_:
 
@@ -48273,7 +48278,7 @@ comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire pr
 peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
 décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ; 
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du code de justice militaire ; 
+6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du Code de justice militaire ; 
 
 7° et 8° (paragraphes abrogés) ; 
 
@@ -48292,7 +48297,10 @@ est supérieure à cinq ans, la condamnation demeure mentionnée au bulletin n°
 
 13° Les condamnations prononcées par des juridictions étrangères ; 
 
-14° Les compositions pénales mentionnées à l'article 768. 
+14° Les compositions pénales mentionnées à l'article 768 ; 
+
+15° Sauf décision contraire du juge, spécialement motivée, les condamnations prononcées pour les délits prévus au titre IV du
+livre IV du code de commerce. 
 
 Les bulletins n° 2 fournis en cas de contestation concernant l'inscription sur les listes électorales, ne comprennent que les
 décisions entraînant des incapacités en matière d'exercice du droit de vote. 
@@ -48302,26 +48310,19 @@ la mention Néant.
 
 **Nota:**
 
-NOTA : Le 7° a été abrogé par l'article 120 de la loi n° 92-1336 du 16 décembre 1992, en vigueur le 1er mars 1994, mais
-cependant modifié par l'article 93 de la loi n° 94-475 du 10 juin 1994, en vigueur le 1er octobre 1994 au plus tard.
+Loi n° 2007-297 du 5 mars 2007 art. 43 III : Les dispositions du présent article entrent en vigueur un an après la date de
+publication de la présente loi. Elles sont alors immédiatement applicables aux condamnations figurant toujours au casier
+judiciaire, quelle que soit la date de commission de l'infraction ; toutefois, le doublement des délais de réhabilitation en
+cas de récidive n'est applicable que pour des faits commis postérieurement à la date de publication de la présente loi.
+
+La présente version de cet article est en vigueur jusqu'au 1er mars 2008.  La présente version de cet article est en vigueur
+jusqu'au 7 mars 2008.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 16 bis (V)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 15-1 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 16 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 18 (V)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 2 (M)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 28 (V)
-  - Ordonnance n°45-174 du 2 février 1945 - art. 8 (M)
-  - Code pénal 131-5 à 131-11
-  - Code de justice militaire - art. 343 (M)
-  - CODE DE PROCEDURE PENALE - art. 768 (M)
-  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
-  - Code de procédure pénale 775-1, 131-10, 131-11, 131-36-1, 768
 
 _Cité par_:
 
@@ -48340,7 +48341,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 15 () JORF 10 septembre 2002
+  - Loi n°2005-882 du 2 août 2005 - art. 43 () JORF 3 août 2005
 
 
 ###### Article 775-1
@@ -101186,7 +101187,9 @@ Les directeurs d'établissement de santé ;
 
 Le président de la Commission nationale de l'informatique et des libertés ;
 
-Le Défenseur des enfants.
+Le Défenseur des enfants ;
+
+Le président de la Commission nationale de déontologie de la sécurité.
 
 II. - En ce qui concerne les détenus militaires ou relevant d'une autorité militaire :
 
@@ -101230,13 +101233,9 @@ Tous membres du Comité des droits de l'homme, Genève.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
 _Modifié par_:
 
-  - Décret n°2001-709 du 31 juillet 2001 - art. 5 () JORF 3 août 2001
+  - Arrêté 2005-07-11 art. 1 JORF 3 août 2005
 
 **Liens**:
 
