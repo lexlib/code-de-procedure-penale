@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-05
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -58500,8 +58500,8 @@ routier public interurbain de voyageurs.
 a) L'article R. 632-1 du code pénal relatif au dépôt ou à l'abandon de matières, d'ordures ou de déchets dans les bois,
 forêts et terrains à boiser ;
 
-b) Les articles R. 241-61 à R. 241-64, l'article R. 241-66 du code de l'environnement relatifs aux parcs nationaux et les
-articles R. 242-68 à R. 242-71 du même code relatifs aux réserves naturelles ;
+b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de l'environnement relatifs aux parcs nationaux et les
+articles R332-69 à R332-72 du même code relatifs aux réserves naturelles ;
 
 c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du
 même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de
@@ -58534,14 +58534,11 @@ f) L'article 16 du décret n° 91-823 du 28 août 1991 relatif à l'identificati
 domestiques et à la tenue des locaux où se pratiquent de façon habituelle l'élevage en vue de la vente, la commercialisation,
 le toilettage, le transit ou la garde de ces animaux pris pour l'application des articles 276, 276-2 et 276-3 du code rural ;
 
-g) Les articles 12 et 13 du décret n° 95-1285 du 13 décembre 1995 relatif à la protection des animaux en cours de transport ;
+g) Les articles R. 215-6 et R. 215-7 du code rural ;
 
-h) L'article 21 (b et c) du décret n° 97-903 du 1er octobre 1997 relatif à la protection des animaux au moment de leur
-abattage ou de leur mise à mort ;
+h) L'article R. 215-8 du code rural ;
 
-i) L'article 8 du décret n° 99-1164 du 29 décembre 1999 pris pour l'application du chapitre III du titre II du livre II du
-code rural, et relatifs à l'application des articles L. 211-14 et L. 211-16 du code rural prévoyant la déclaration en mairie,
-la vaccination, la stérilisation, l'assurance et les conditions de circulation de certains chiens.
+i) L'article R. 215-2 du code rural ;
 
 5° Contraventions réprimées par le code des postes et des communications électroniques prévues par les articles R. 10-1, R.
 10-2, R. 10-4 et R. 10-9.
@@ -58550,7 +58547,7 @@ la vaccination, la stérilisation, l'assurance et les conditions de circulation 
 
 _Cite_:
 
-  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16
+  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
   - Décret n°42-730 1942-03-22 art. 80-1
   - Loi n°66-1005 1966-12-28
   - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
@@ -58560,15 +58557,11 @@ _Cite_:
   - Décret n°87-848 du 19 octobre 1987 - art. 26 (M)
   - Décret n°90-200 1990-03-05 art. 22-2
   - Décret n°91-823 1991-08-28 art. 16
-  - Décret n°95-1285 du 13 décembre 1995 - art. 12 (M)
-  - Décret n°95-1285 du 13 décembre 1995 - art. 13 (Ab)
   - Décret n°97-608 du 31 mai 1997 - art. 12 (V)
   - Décret n°97-608 du 31 mai 1997 - art. 13 (M)
-  - Décret n°97-903 du 1 octobre 1997 - art. 21 (Ab)
   - Décret n°98-1039 du 18 novembre 1998 - art. 11 (V)
   - Décret n°98-1039 du 18 novembre 1998 - art. 12 (M)
   - Décret n°99-752 du 30 août 1999 - art. 19 (M)
-  - Décret n°99-1164 du 29 décembre 1999 - art. 8 (Ab)
   - Décret n°2000-1302 du 26 décembre 2000 - art. 10 (Ab)
   - Décret n°2002-747 2002-05-02 art. 16, art. 17
   - Décret n°2003-752 2003-08-01
@@ -58576,6 +58569,7 @@ _Cite_:
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. 5 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
   - Code forestier - art. R133-1-1 (Ab)
   - Code forestier - art. R322-5 (M)
@@ -58583,7 +58577,8 @@ _Cite_:
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
-  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R241-61 à R241-64, R241-66
+  - Code de l'environnement - art. R331-68 (M)
+  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66, R331-68
 
 _Codifié par_:
 
@@ -58596,7 +58591,6 @@ _Cité par_:
   - Décret n°2012-343 du 9 mars 2012 (V)
   - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -58609,7 +58603,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-491 du 18 mai 2005 - art. 4 () JORF 19 mai 2005
+  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
 
 **Liens**:
 
