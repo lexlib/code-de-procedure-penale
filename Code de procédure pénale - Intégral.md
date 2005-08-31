@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-09-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -64353,10 +64353,13 @@ _Cite_:
 
 La fiche constatant l'une des décisions visées par les articles 768 (1° à 6°) et 768-1 (1° à 3°) est dressée par le greffier
 de la juridiction qui a statué dans les quinze jours qui suivent celui où la décision est devenue définitive si elle a été
-rendue contradictoirement.
+rendue contradictoirement. Celle établie pour une composition pénale prévue par le 9° de l'article 768 est dressée à la
+diligence du procureur de la République dans les quinze jours suivant la constatation de l'exécution de la mesure. Elle
+n'intéresse que les délits ou contraventions de la cinquième classe. 
 
-En cas de décision par défaut, le délai de quinzaine court du jour de la signification ; pour les arrêts de contumace, il
-court du jour de l'arrêt.
+En cas de décision par défaut le délai de quinzaine court du jour de la signification. Il en est de même dans les cas prévus
+par l'article 498-1 et le dernier alinéa de l'article 568. En cas de défaut criminel, le délai de quinzaine court à compter
+du jour où la décision est rendue. 
 
 Lorsque les cours et tribunaux ont ordonné qu'il sera sursis à l'exécution de la peine, avec ou sans mise à l'épreuve, cette
 décision est mentionnée sur la fiche constatant la condamnation.
@@ -64369,18 +64372,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-167 du 25 février 1994 - art. 4 () JORF 26 février 1994 en vigueur le 1er mars 1994
+  - Décret n°2005-627 du 30 mai 2005 - art. 4 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 768 (M)
-  - CODE DE PROCEDURE PENALE - art. 768-1 (V)
+  - Code de procédure pénale - art. 498-1 (V)
+  - Code de procédure pénale - art. 568 (V)
+  - Code de procédure pénale - art. 768 (V)
+  - Code de procédure pénale - art. 768-1 (V)
 
 
 ###### Article R66-1
 
 Les fiches sont adressées au service du casier judiciaire national automatisé soit sur un support papier, soit sous la forme
-d'un enregistrement magnétique, soit par téléinformatique.
+d'un enregistrement magnétique, soit par téléinformatique, y compris lorsque la communication d'avis de condamnation est
+prévue par les conventions internationales.
 
 **Liens relatifs à cet article**
 
@@ -64395,7 +64401,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°94-167 du 25 février 1994 - art. 5 () JORF 26 février 1994 en vigueur le 1er mars 1994
+  - Décret n°2005-627 du 30 mai 2005 - art. 5 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 
 ###### Article R67
@@ -64464,41 +64470,49 @@ _Cité par_:
 ###### Article R69
 
 Le service du casier judiciaire national automatisé, dès qu'il est avisé, enregistre sur les fiches les mentions prescrites
-aux articles 769 et 769-1.
+aux articles 769 et 769-1. 
 
-L'avis lui est adressé dans les plus brefs délais :
+L'avis destiné au service du casier judiciaire national automatisé est rédigé et, sous réserve des dispositions du dernier
+alinéa, adressé : 
 
-1° Pour les grâces, commutations ou réductions de peines, par le ministre de la justice ou par le directeur ou le surveillant
-chef de l'établissement pénitentiaire agissant par l'intermédiaire du procureur de la République de la résidence de
-l'intéressé ;
+1° Pour les grâces, commutations ou réductions de peines résultant d'un décret de grâce individuelle, par le ministre de la
+justice ; pour celles résultant d'un décret de grâces collectives, par le procureur de la République lorsqu'il s'agit de
+condamnés non incarcérés ; 
 
 2° Pour les décisions qui suspendent ou qui ordonnent l'exécution d'une condamnation, par le greffe de la juridiction ou par
-l'autorité qui les a rendues ;
+l'autorité qui les a rendues ; 
 
-3° Pour les arrêts portant réhabilitation, par le greffier de la juridiction qui a statué ;
+3° Pour les arrêts portant réhabilitation, par le greffier de la juridiction qui a statué ; 
 
-4° Pour les décisions rapportant les arrêtés d'expulsion, par le ministre de l'Intérieur ;
+4° Pour les décisions rapportant les arrêtés d'expulsion, par le ministre de l'Intérieur ; 
 
-5° Pour les dates de l'expiration des peines corporelles et l'exécution de la contrainte judiciaire ainsi que pour les
-arrêtés de mise en liberté conditionnelle, par les directeurs et surveillants chefs des établissements pénitentiaires et par
-l'intermédiaire du procureur de la République de leur résidence ; pour les arrêtés supprimant les mesures d'assistance et de
-contrôle prévues par les arrêtés de libération conditionnelle et pour les arrêtés de révocation de liberté conditionnelle,
-par le ministre de la Justice ;
+5° Pour les dates de l'expiration des peines privatives de liberté et d'exécution des contraintes judiciaires, par les chefs
+des établissements pénitentiaires ; 
 
 6° Pour le paiement de l'amende par les trésoriers-payeurs généraux, les receveurs particuliers des finances et les
-percepteurs ;
+percepteurs ; 
 
 7° Pour les décisions prononçant une peine ou une dispense de peine après ajournement du prononcé de la peine, par le
-greffier de la juridiction qui a statué ;
+greffier de la juridiction qui a statué ; 
 
-8° Pour les décisions prises en application des articles 132-21 du code pénal, 702-1, 775-1 et 777-1 du code de procédure
-pénale, par le greffier de la juridiction qui a statué ;
+8° Pour les décisions prises en application des articles 132-21 du code pénal, 702-1,775-1 et 777-1 du code de procédure
+pénale, par le greffier de la juridiction qui a statué ; 
 
 9° Pour les décisions visées à l'article 768 5°, par le greffier de la juridiction qui a statué après visa du ministère
-public.
+public ; 
 
-Ces avis peuvent être adressés au service du casier judiciaire national automatisé sous la forme d'un support magnétique ou
-par téléinformatique.
+10° Pour les décisions de libération conditionnelle ou de révocation d'une libération conditionnelle, par le greffe de la
+juridiction de l'application des peines ayant rendu la décision. 
+
+Ces avis sont adressés dans les plus brefs délais au service du casier judiciaire national automatisé. Ils peuvent être
+adressés sous la forme d'un support magnétique ou par téléinformatique. Les avis mentionnés aux 2°, 3°, 7°, 8°, 9° et 10°
+sont adressés par l'intermédiaire du ministère public.
+
+**Nota:**
+
+Décret 2005-627 du 31 mai 2005 art. 10 : Outre son application de plein droit à Mayotte en vertu du 5° du I de l'article 3 de
+la loi du 11 juillet 2001, le présent décret est applicable en Polynésie française, dans les îles Wallis et Futuna et en
+Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -64508,17 +64522,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 30 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2005-627 du 30 mai 2005 - art. 6 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 _Cite_:
 
-  - Code pénal 55-1
-  - CODE DE PROCEDURE PENALE - art. 702-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 768 (M)
-  - CODE DE PROCEDURE PENALE - art. 769 (M)
-  - CODE DE PROCEDURE PENALE - art. 769-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 775-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 777-1 (V)
+  - Code pénal - art. 132-21 (V)
+  - Code de procédure pénale - art. 702-1 (V)
+  - Code de procédure pénale - art. 768 (V)
+  - Code de procédure pénale - art. 769 (V)
+  - Code de procédure pénale - art. 775-1 (V)
+  - Code de procédure pénale - art. 777-1 (V)
 
 _Cité par_:
 
@@ -64538,21 +64551,39 @@ _Cité par_:
 Les fiches du casier judiciaire national automatisé sont effacées dans les cas suivants :
 
 1° Au décès du titulaire de la fiche, établi notamment par la mention portée au registre de l'état civil des naissances en
-applicaton de l'article 79 du code civil ou, lorsque le décès ne serait pas parvenu à la connaissance du service du casier
+application de l'article 79 du code civil ou, lorsque le décès ne serait pas parvenu à la connaissance du service du casier
 judiciaire national automatisé, quand le titulaire aurait atteint l'âge de cent ans ;
 
-2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par l'amnistie, la réhabilitation ou lorsque les
-délais prévus à l'article 769 (alinéas 2 et 3) sont expirés ;
+2° Lorsque la condamnation mentionnée sur la fiche a été entièrement effacée par l'amnistie, la réhabilitation ou lorsque
+sont expirés le délai de quarante ans prévu par le deuxième alinéa de l'article 769 ou les délais prévus par les 1°, 3°, 4°
+et 5° de cet article ;
 
 3° Lorsque l'intéressé a obtenu une décision de rectification du casier judiciaire, le retrait se fait, selon le cas, à la
 diligence du procureur général ou du procureur de la République près la juridiction qui a statué ;
 
-4° Lorsque le condamné purge sa contumace ou lorsqu'il a fait opposition à un jugement ou arrêt par défaut ou lorsque la Cour
-de cassation annule la décision par application des articles 620 ou 625, le retrait se fait sur ordre du procureur général ou
-du procureur de la République près la juridiction qui a rendu la décision devenue caduque ;
+4° Lorsque le condamné fait opposition ou lorsque la Cour de cassation annule la décision par application des articles 620 ou
+625, le retrait se fait sur ordre du procureur général ou du procureur de la République près la juridiction qui a rendu la
+décision devenue caduque ; il en est de même dans le cas prévu par l'article 498-1. ;
 
-5° Lorsque le tribunal pour enfants a décidé la suppression de la fiche en application de l'article 770, le retrait se fait à
+5° Pour les fiches relatives aux compositions pénales visées au 6° de l'article 769, à l'expiration d'un délai de trois ans,
+si l'intéressé n'a pas pendant ce délai, subi de condamnation à une peine criminelle ou correctionnelle ou exécuté une
+composition pénale ; dans le cas contraire, la fiche n'est retirée qu'à l'effacement de la fiche relative à cette
+condamnation ou la nouvelle composition pénale ;
+
+6° Pour les fiches prévues par le 7° de l'article 769, à l'expiration d'un délai de trois ans, si l'intéressé n'a pas,
+pendant ce délai, soit subi de condamnation à une peine criminelle ou correctionnelle ou exécuté une composition pénale, soit
+fait l'objet d'une nouvelle mesure prononcée en application des dispositions précitées de ladite ordonnance ; dans le cas
+contraire, la fiche n'est retirée qu'à l'effacement de la fiche relative à cette condamnation ou à la nouvelle composition
+pénale ;
+
+7° Lorsque le tribunal pour enfants a décidé la suppression de la fiche en application de l'article 770, le retrait se fait à
 la diligence du ministère public près le tribunal pour enfants qui a rendu cette décision.
+
+**Nota:**
+
+Décret 2005-627 du 31 mai 2005 art. 10 : Outre son application de plein droit à Mayotte en vertu du 5° du I de l'article 3 de
+la loi du 11 juillet 2001, le présent décret est applicable en Polynésie française, dans les îles Wallis et Futuna et en
+Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -64562,14 +64593,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-167 du 25 février 1994 - art. 7 () JORF 26 février 1994 en vigueur le 1er mars 1994
+  - Décret n°2005-627 du 30 mai 2005 - art. 7 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 _Cite_:
 
   - Code civil - art. 79 (V)
+  - CODE DE PROCEDURE PENALE - art. 498-1 (M)
   - CODE DE PROCEDURE PENALE - art. 620 (V)
+  - CODE DE PROCEDURE PENALE - art. 625 (M)
   - CODE DE PROCEDURE PENALE - art. 769 (M)
-  - Code de procédure pénale 769, 620, 625 et 770
+  - CODE DE PROCEDURE PENALE - art. 770 (V)
 
 _Cité par_:
 
@@ -64579,7 +64612,7 @@ _Cité par_:
 ###### Article R71
 
 Le service du casier judiciaire national automatisé enregistre les avis provenant des autorités étrangères concernant les
-personnes condamnées par une juridiction étrangère.
+personnes condamnées par une juridiction étrangère. Ces avis peuvent être reçus par lettre, télécopie ou téléinformatique.
 
 **Liens relatifs à cet article**
 
@@ -64587,13 +64620,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Modifié par_:
 
-  - Décret n°81-1003 1981-11-06 art. 10 JORF 11 novembre 1981
+  - Décret n°2005-627 du 30 mai 2005 - art. 8 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 _Cité par_:
 
@@ -64642,7 +64671,8 @@ _Cite_:
 ###### Article R73
 
 Lorsque la communication d'avis de condamnation est prévue par des conventions internationales, les copies des fiches sont
-établies et transmises par le service du casier judiciaire national automatisé aux autorités prévues par ces conventions.
+établies et transmises, par lettre, télécopie ou téléinformatique, par le service du casier judiciaire national automatisé
+aux autorités prévues par ces conventions. 
 
 Dans les ressorts des tribunaux de grande instance pour lesquels ne sont pas intervenus les décrets prévus par l'article 10
 de la loi n° 80-2 du 4 janvier 1980, les copies des fiches sont adressées par le greffe au ministère de la justice en vue de
@@ -64654,17 +64684,13 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
-
-  - Décret n°59-318 1959-02-23 JORF 25 février 1959 en vigueur le 2 mars 1959 rectificatif JORF 13 juin 1959
-
 _Cite_:
 
-  - Loi n°80-2 1980-01-04 art. 10
+  - Loi n°80-2 du 4 janvier 1980 - art. 10 (V)
 
 _Modifié par_:
 
-  - Décret n°86-750 1986-05-26 art. 2 et art. 3 JORF 30 mai en vigueur le 1er juillet 1986
+  - Décret n°2005-627 du 30 mai 2005 - art. 8 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 _Cité par_:
 
@@ -64886,7 +64912,8 @@ _Cite_:
 
 ###### Article R78-1
 
-Le bulletin n° 1 du casier judiciaire est adressé par lettre à l'autorité judiciaire requérante.
+Le bulletin n° 1 du casier judiciaire est adressé par lettre à l'autorité judiciaire requérante. La délivrance du bulletin n°
+1 peut également s'opérer par téléinformatique, y compris lorsqu'elle est prévue par des conventions internationales.
 
 En cas d'urgence, cet envoi peut être effectué par télécopie.
 
@@ -64896,9 +64923,9 @@ _Codifié par_:
 
   - Décret n°59-318 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-1003 1981-11-06 art. 14 JORF 11 novembre 1981
+  - Décret n°2005-627 du 30 mai 2005 - art. 9 () JORF 31 mai 2005 en vigueur le  1er septembre 2005
 
 **Liens**:
 
