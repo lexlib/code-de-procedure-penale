@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-09-04
+Version Consolidée au 2005-09-06
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -52945,10 +52945,10 @@ avocats généraux près la Cour de cassation, président ;
 
 2° Le général de gendarmerie, inspecteur général des armées, ou son représentant ;
 
-3° Des magistrats du ministère public, dont quatre au plus peuvent être des magistrats honoraires, et des officiers
-supérieurs de la gendarmerie dont quatre au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de
-huit et au plus de quinze, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de
-la défense en fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
+3° Des magistrats du ministère public, dont six au plus peuvent être des magistrats honoraires, et des officiers supérieurs
+de la gendarmerie dont six au plus peuvent être en retraite, en nombre égal. Ce nombre, qui est au moins de huit et au plus
+de vingt-deux, est déterminé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de la défense en
+fonction du nombre de candidats à l'examen technique prévu à l'article R. 5.
 
 Le secrétariat de la commission est assuré par la gendarmerie nationale.
 
@@ -52969,7 +52969,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+  - Décret n°2005-1111 du 30 août 2005 - art. 1 () JORF 6 septembre 2005
 
 _Cite_:
 
