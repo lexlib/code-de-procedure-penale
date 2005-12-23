@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -100357,7 +100357,7 @@ _Créé par_:
 La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales ou comportant un quartier maison
 centrale prévue à l'article D. 71 est fixée comme suit :
 
-Maison centrale d'Arles (Bouches-du-Rhône).
+Quartier maison centrale du centre pénitentiaire d'Arles (Bouches-du-Rhône).
 
 Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
 
@@ -100389,7 +100389,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-09-17 art. 1 JORF 30 octobre 2003
+  - Arrêté 2005-12-13 art. 1 JORF 24 décembre 2005
 
 _Cité par_:
 
@@ -100408,6 +100408,8 @@ centre de détention prévue à l'article D. 72 est fixée comme suit :
 Quartier centre de détention du centre pénitentiaire d'Aiton (Savoie).
 
 Centre de détention d'Argentan (Orne).
+
+Quartier centre de détention pénitentiaire d'Arles (Bouche-du-Rhône).
 
 Quartier centre de détention du centre pénitentiaire d'Avignon-Le Pontet (Vaucluse).
 
@@ -100520,7 +100522,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2005-03-30 art. 1 JORF 7 avril 2005
+  - Arrêté 2005-12-13 art. 2 JORF 24 décembre 2005
 
 _Cite_:
 
@@ -100556,8 +100558,6 @@ Centre de semi-liberté de Souffelweyersheim (hommes, femmes) (Bas-Rhin).
 
 Centre de semi-liberté de Toulouse (Haute-Garonne).
 
-Centre de semi-liberté de Villejuif (Val-de-Marne).
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -100566,7 +100566,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2003-09-17 art. 3 JORF 30 octobre 2003
+  - Arrêté 2005-12-13 art. 3 JORF 24 décembre 2005
 
 _Cité par_:
 
@@ -100587,15 +100587,17 @@ Quartier pour peines aménagées du centre pénitentiaire de Marseille (Bouches-
 
 Quartier pour peines aménagées du centre pénitentiaire de Metz (Moselle).
 
+Centre pour peines aménagées de Villejuif (Val-de-Marne).
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1959-02-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2003-09-17 art. 4 JORF 30 octobre 2003
+  - Arrêté 2005-12-13 art. 4 JORF 24 décembre 2005
 
 _Cite_:
 
