@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-24
+Version Consolidée au 2005-12-29
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -54866,7 +54866,9 @@ de-Marne et de la Seine-Saint-Denis ;
 Marne et de la Seine-Saint-Denis ;
 
 7° Les circonscriptions de sécurité publique dont la compétence couvre un département ainsi qu'une partie d'un ou plusieurs
-départements limitrophes.
+départements limitrophes ;
+
+8° Les services interdépartementaux de sécurisation des réseaux de transports en commun de voyageurs.
 
 **Liens relatifs à cet article**
 
@@ -54876,7 +54878,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-530 du 10 juin 2004 - art. 6 () JORF 13 juin 2004
+  - Décret n°2005-1664 du 28 décembre 2005 - art. 2 () JORF 29 décembre 2005
 
 _Cité par_:
 
@@ -55291,14 +55293,16 @@ _Cité par_:
 
 ###### Article R15-30
 
-Les officiers et agents de police judiciaire appartenant aux sûretés départementales de sécurité publique ou aux services de
-police urbaine des circonscriptions de sécurité publique sont compétents pour opérer sur l'ensemble des lignes, stations,
-gares, arrêts et couloirs affectés aux transports collectifs de voyageurs dans leur département d'affectation et dans les
-départements limitrophes.
+Les officiers et agents de police judiciaire appartenant aux sûretés départementales ou aux circonscriptions de sécurité
+publique sont compétents sur l'ensemble des réseaux, lignes, stations, gares, arrêts et couloirs affectés aux transports
+collectifs de voyageurs dans leur département d'affectation et dans les départements limitrophes.
 
-Toutefois, les officiers et agents de police judiciaire affectés au service de police déconcentré chargé, en coordination
-avec les exploitants, de la sécurité des personnes et des biens sur les réseaux de transport en commun de voyageurs par voie
-ferrée sont compétents pour opérer sur toute l'étendue de la région d'Ile-de-France.
+Toutefois, ceux affectés dans un service interdépartemental de sécurisation des réseaux de transport en commun de voyageurs
+sont compétents dans l'ensemble des départements couverts par ce service ainsi que dans les départements limitrophes du
+département de rattachement de ce dernier.
+
+Les officiers et agents de police judiciaire affectés au service de police intervenant sur les réseaux de transport en commun
+de voyageurs par voie ferrée de la région d'Ile-de-France sont compétents sur toute l'étendue de cette région.
 
 **Liens relatifs à cet article**
 
@@ -55308,7 +55312,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-932 du 1 octobre 2003 - art. 2 () JORF 2 octobre 2003
+  - Décret n°2005-1664 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005
 
 _Cité par_:
 
