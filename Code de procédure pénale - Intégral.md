@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-29
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -530,11 +530,11 @@ Version Consolidée au 2005-12-29
             - [Paragraphe 1 : Du juge de l'application des peines (art. D49 à D49-1)](#527)
             - [Paragraphe 2 : Du tribunal de l'application des peines (art. D49-2 à D49-7)](#528)
             - [Paragraphe 3 : De la chambre de l'application des peines de la cour d'appel. (art. D49-8 à D49-10)](#529)
-          - [Section 2 : Règles de compétence et de procédure (art. D49-11 à D49-44)](#530)
+          - [Section 2 : Règles de compétence et de procédure (art. D49-11 à D49-44-1)](#530)
             - [Paragraphe 1 : Dispositions communes aux différentes juridictions de l'application des peines (art. D49-11 à D49-26)](#531)
             - [Paragraphe 2 : Dispositions relatives au juge de l'application des peines (art. D49-27 à D49-35)](#532)
             - [Paragraphe 3 : Dispositions relatives au tribunal de l'application des peines (art. D49-36 à D49-38)](#533)
-            - [Paragraphe 4 : Dispositions applicables en cas d'appel (art. D49-39 à D49-44)](#534)
+            - [Paragraphe 4 : Dispositions applicables en cas d'appel (art. D49-39 à D49-44-1)](#534)
           - [Section 3 : Dispositions applicables aux mineurs (art. D49-45 à D49-63)](#535)
             - [Paragraphe 1 : Dispositions générales (art. D49-45 à D49-53)](#536)
             - [Paragraphe 2 : Dispositions relatives aux services du secteur public de la protection judiciaire de la jeunesse (art. D49-54 à D49-63)](#537)
@@ -79199,6 +79199,54 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D49-29 (M)
 
 
+###### Article D49-41-1
+
+En cas d'appel d'une ordonnance rendue par le juge de l'application des peines en application des dispositions de l'article
+712-5, la copie du dossier individuel du condamné adressé au président de la chambre de l'application des peines de la cour
+d'appel ne comporte que les éléments nécessaires à l'examen de l'appel. En cas d'appel contre une ordonnance de retrait d'un
+crédit de réduction de peine, peut ne figurer au dossier que le rapport d'incident à l'origine du retrait. Le président de la
+chambre de l'application des peines peut demander des pièces supplémentaires s'il l'estime utile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2005-1632 du 26 décembre 2005 - art. 2 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 712-5 (V)
+
+
+###### Article D49-41-2
+
+S'il confirme une ordonnance refusant l'octroi d'une permission de sortir, d'une autorisation de sortir sous escorte ou d'une
+réduction de peine supplémentaire, le président de la chambre de l'application des peines de la cour d'appel peut, par une
+décision motivée, décider que le condamné n'est pas recevable à déposer une demande similaire pendant un délai d'un an.
+
+En cas d'appel d'une ordonnance de retrait d'un crédit de réduction de peine, le président peut, sur appel incident du
+parquet ou sur réquisition du procureur général, ordonner un retrait d'une durée plus importante que celle fixée par le juge
+de l'application des peines, dans la limite résultant des dispositions de l'article 721.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2005-1632 du 26 décembre 2005 - art. 2 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 721 (M)
+
+
 ###### Article D49-42
 
 La chambre de l'application des peines de la cour d'appel statue, au vu du dossier, à la suite d'un débat contradictoire tenu
@@ -79263,6 +79311,28 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2004-1364 du 13 décembre 2004 - art. 3 () JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article D49-44-1
+
+Les dispositions du présent code applicables devant la chambre des appels correctionnels et son président, et notamment
+celles relatives aux désistements d'appel ou aux appels tardifs ou devenus sans objet, sont applicables devant la chambre de
+l'application des peines de la cour d'appel et son président, sous réserve des dispositions particulières prévues par le
+présent chapitre ou par les articles 712-11 à 712-22.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2005-1632 du 26 décembre 2005 - art. 3 () JORF 27 décembre 2005 en vigueur le 31 décembre 2005
+
+_Cite_:
+
+  - Code de procédure pénale 712-11 à 712-22
 
 
 ##### Section 3 : Dispositions applicables aux mineurs<a id=535></a>
@@ -84561,8 +84631,7 @@ L'appel de l'ordonnance, qui est porté devant le président de la chambre de l'
 formé conformément aux dispositions de l'article D. 49-39.
 
 Le condamné peut faire appel de l'ordonnance refusant d'homologuer la proposition d'aménagement de peine dans le délai de
-vingt-quatre heures à compter de la notification. Il ne peut faire appel d'une ordonnance refusant d'homologuer une
-proposition de permission de sortir.
+vingt-quatre heures à compter de la notification.
 
 Le procureur de la République peut faire appel des ordonnances d'homologation ou de refus d'homologation dans le délai de
 vingt-quatre heures de leur notification. Il en informe sans délai le juge de l'application des peines, le directeur du
@@ -84584,7 +84653,7 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2004-1364 du 13 décembre 2004 - art. 35 (V) JORF 15 décembre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2004-1364 du 13 décembre 2004 - art. 13 () JORF 15 décembre 2004 en vigueur le 31 décembre 2005
 
 _Cite_:
 
