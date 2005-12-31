@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -66661,7 +66661,7 @@ est partie principale en application de l'article 696 du nouveau code de procéd
 loi n° 67-563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
 
 7° Des avances faites par le Trésor public en matière de redressement et de liquidation judiciaire des entreprises, en
-application de l'article L. 627-3 du code de commerce.
+application de l'article L. 663-1 du code de commerce.
 
 8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute
 procédure pour la délivrance des pièces à l'autorité judiciaire.
@@ -66749,7 +66749,7 @@ _Cite_:
   - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
   - Loi n°2002-305 2002-03-04 art. 17
   - Décret n°2003-841 2003-09-02
-  - Code de commerce. - art. L627-3 (M)
+  - Code de commerce. - art. L663-1 (V)
   - Code de la consommation - art. L332-2 (M)
   - Code pénal - art. 131-14 (M)
   - Code pénal - art. 131-35 (M)
@@ -66764,12 +66764,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000
-  - Décret n°2004-836 du 20 août 2004 - art. 45 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-**Liens**:
-
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 800 (M)
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article R93-1
