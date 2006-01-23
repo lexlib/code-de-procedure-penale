@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -194,7 +194,7 @@ Version Consolidée au 2006-01-01
       - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. 706-3 à 706-15)](#191)
       - [Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme (art. 706-16 à 706-25-1)](#192)
         - [Section 1 : Compétence (art. 706-17 à 706-22)](#193)
-        - [Section 2 : Procédure (art. 706-24-3 à 706-25-1)](#194)
+        - [Section 2 : Procédure (art. 706-24 à 706-25-1)](#194)
       - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants (art. 706-26 à 706-33)](#195)
       - [Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs (art. 706-34 à 706-40)](#196)
       - [Titre XVIII : De la poursuite, de l'instruction et du jugement des infractions commises par les personnes morales (art. 706-41 à 706-46)](#197)
@@ -2119,16 +2119,14 @@ Ont la qualité d'officier de police judiciaire :
 2° Les officiers et les gradés de la gendarmerie, les gendarmes comptant au moins trois ans de service dans la gendarmerie,
 nominativement désignés par arrêté des ministres de la justice et de la défense, après avis conforme d'une commission ;
 
-3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police ; les
-fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale, et les fonctionnaires stagiaires
-du corps de commandement et d'encadrement déjà titulaires de cette qualité nominativement désignés par arrêté des ministres
-de la justice et de l'intérieur, après avis conforme d'une commission ;
+3° Les inspecteurs généraux, les sous-directeurs de police active, les contrôleurs généraux, les commissaires de police et
+les officiers de police ;
 
-4° Les fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins trois ans de services
-dans ce corps, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme de la
-commission mentionnée au 3°.
+4° Les fonctionnaires du corps d'encadrement et d'application de la police nationale comptant au moins trois ans de services
+dans ce corps, nominativement désignés par arrêté des ministres de la justice et de l'intérieur, après avis conforme d'une
+commission.
 
-La composition des commissions prévues aux 2° à 4° sera déterminée par un décret en Conseil d'Etat pris sur le rapport du
+La composition des commissions prévues aux 2° et 4° sera déterminé par un décret en Conseil d'Etat pris sur le rapport du
 ministre de la justice et des ministres intéressés.
 
 Ont également la qualité d'officier de police judiciaire les personnes exerçant des fonctions de directeur ou sous-directeur
@@ -2222,7 +2220,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 8 () JORF 19 mars 2003
+  - Loi n°2006-64 du 23 janvier 2006 - art. 16 () JORF 24 janvier 2006
 
 _Cite_:
 
@@ -2473,41 +2471,39 @@ _Cité par_:
 
 ###### Article 20
 
-Sont agents de police judiciaire :
+Sont agents de police judiciaire : 
 
-1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ;
+1° Les gendarmes n'ayant pas la qualité d'officier de police judiciaire ; 
 
-2° Les fonctionnaires titulaires du corps de commandement et d'encadrement de la police nationale n'ayant pas la qualité
-d'officier de police judiciaire ainsi que les fonctionnaires stagiaires de ce même corps, et les élèves lieutenants de
-police ;
+2° Les fonctionnaires titulaires du corps d'encadrement et d'application de la police nationale n'ayant pas la qualité
+d'officier de police judiciaire, sous réserve des dispositions concernant les fonctionnaires visés aux 4° et 5° ci-après ; 
 
-3° Les fonctionnaires titulaires du corps de maîtrise et d'application de la police nationale n'ayant pas la qualité
-d'officier de police judiciaire, sous réserve des dispositions concernant les fonctionnaires visés au 4° et au 5° ci-après ;
+3° (Abrogé) 
 
 4° Les gardiens de la paix issus de l'ancien corps des gradés et gardiens de la police nationale nommés stagiaires avant le
 31 décembre 1985, lorsqu'ils comptent au moins deux ans de services en qualité de titulaires et ont satisfait aux épreuves
 d'un examen technique dans des conditions fixées par décret en Conseil d'Etat ou détiennent les qualifications
-professionnelles permettant l'accès au grade supérieur ;
+professionnelles permettant l'accès au grade supérieur ; 
 
 5° Les gardiens de la paix issus de l'ancien corps des enquêteurs de police, nommés stagiaires avant le 1er mars 1979,
 lorsqu'ils comptent au moins deux ans de services en qualité de titulaires et remplissent les conditions d'aptitude prévues
 par la loi n° 78-788 du 28 juillet 1978 portant réforme de la procédure pénale sur la police judiciaire et le jury d'assises
 ou ont satisfait aux épreuves d'un examen technique dans des conditions fixées par décret en Conseil d'Etat ou détiennent les
-qualifications professionnelles permettant l'accès au grade supérieur.
+qualifications professionnelles permettant l'accès au grade supérieur. 
 
 Toutefois, les fonctionnaires mentionnés aux 1° à 5° ci-dessus ne peuvent exercer effectivement les attributions attachées à
 leur qualité d'agent de police judiciaire et se prévaloir de cette qualité que s'ils sont affectés à un emploi comportant cet
 exercice ; l'exercice de ces attributions est momentanément suspendu pendant le temps où ils participent, en unité
-constituée, à une opération de maintien de l'ordre.
+constituée, à une opération de maintien de l'ordre. 
 
-Les agents de police judiciaire ont pour mission :
+Les agents de police judiciaire ont pour mission : 
 
-De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ;
+De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire ; 
 
-De constater les crimes, délits ou contraventions et d'en dresser procès-verbal ;
+De constater les crimes, délits ou contraventions et d'en dresser procès-verbal ; 
 
 De recevoir par procès-verbal les déclarations qui leur sont faites par toutes personnes susceptibles de leur fournir des
-indices, preuves et renseignements sur les auteurs et complices de ces infractions.
+indices, preuves et renseignements sur les auteurs et complices de ces infractions. 
 
 Les agents de police judiciaire n'ont pas qualité pour décider des mesures de garde à vue.
 
@@ -2589,16 +2585,11 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°78-788 1978-07-28
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°85-1196 1985-11-18 art. 8 Loi 96-647 1996-07-22 art. 27
-  - SPEC_APPLI: Loi n°2001-1062 du 15 novembre 2001 - art. 71 (M)
+  - Loi n°78-788 du 28 juillet 1978, v. init.
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 13 () JORF 16 novembre 2001
+  - Loi n°2006-64 du 23 janvier 2006 - art. 16 () JORF 24 janvier 2006
 
 
 ###### Article 20-1
@@ -6874,16 +6865,22 @@ L'identité de toute personne, quel que soit son comportement, peut également �
 premier alinéa, pour prévenir une atteinte à l'ordre public, notamment à la sécurité des personnes ou des biens.
 
 Dans une zone comprise entre la frontière terrestre de la France avec les Etats parties à la convention signée à Schengen le
-19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, ainsi que dans les zones accessibles au public des ports, aéroports
-et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées non
-conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute personne
-peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des obligations
-de détention, de port et de présentation des titres et documents prévues par la loi. Lorsqu'il existe une section
-autoroutière démarrant dans la zone mentionnée ci-dessus et que le premier péage autoroutier se situe au-delà de la ligne des
-20 kilomètres, le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le
-lieu de ce péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par
-arrêté. Le fait que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne
-constitue pas une cause de nullité des procédures incidentes.
+19 juin 1990 et une ligne tracée à 20 kilomètres en deçà, (Dispositions déclarées non conformes à la Constitution par
+décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) ainsi que dans les zones accessibles au public des ports,
+aéroports et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté (Dispositions déclarées
+non conformes à la Constitution par décision du Conseil constitutionnel n° 93-323 DC du 5 août 1993) l'identité de toute
+personne peut également être contrôlée, selon les modalités prévues au premier alinéa, en vue de vérifier le respect des
+obligations de détention, de port et de présentation des titres et documents prévues par la loi. Lorsque ce contrôle a lieu à
+bord d'un train effectuant une liaison internationale, il peut être opéré sur la portion du trajet entre la frontière et le
+premier arrêt qui se situe au-delà des vingt kilomètres de la frontière. Toutefois, sur celles des lignes ferroviaires
+effectuant une liaison internationale et présentant des caractéristiques particulières de desserte, le contrôle peut
+également être opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres suivants. Ces lignes et ces
+arrêts sont désignés par arrêté ministériel(1). Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à
+la première phrase du présent alinéa (1) et que le premier péage autoroutier se situe au-delà de la ligne des 20 kilomètres,
+le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le lieu de ce
+péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par arrêté. Le fait
+que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas
+une cause de nullité des procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt
 kilomètres en-deçà, et sur une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route nationale 2 sur le
@@ -6891,14 +6888,14 @@ territoire de la commune de Régina, l'identité de toute personne peut être co
 alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus
 par la loi.
 
+**Nota:**
+
+(1) : Loi 2006-64 du 23 janvier 2006 art. 32 : Les dispositions de l'article 3 sont applicables jusqu'au 31 décembre 2008.
+
+Loi n° 2008-1245 du 1er décembre 2008 : les dispositions de l'article 32 de la loi n° 2006-64 du 23 janvier 2006 sont
+prorogées jusqu'au 31 décembre 2012.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Arrêté 93-323 1993-08-05
-  - Convention Schengen 1990-06-19
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
 
 _Cité par_:
 
@@ -6943,7 +6940,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1119 du 26 novembre 2003 - art. 81 () JORF 27 novembre 2003
+  - Loi n°2006-64 du 23 janvier 2006 - art. 3 () JORF 24 janvier 2006
+
+_Cite_:
+
+  - Convention Schengen 1990-06-19
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
 
 
 ###### Article 78-2-1
@@ -7000,7 +7003,7 @@ _Cite_:
 ###### Article 78-2-2
 
 Sur réquisitions écrites du procureur de la République aux fins de recherche et de poursuite des actes de terrorisme visés
-par les articles 421-1 à 421-5 du code pénal, des infractions en matière d'armes et d'explosifs visées par les articles L.
+par les articles 421-1 à 421-6 du code pénal, des infractions en matière d'armes et d'explosifs visées par les articles L.
 2339-8, L. 2339-9 et L. 2353-4 du code de la défense, des infractions de vol visées par les articles 311-3 à 311-11 du code
 pénal, de recel visées par les articles 321-1 et 321-2 du même code ou des faits de trafic de stupéfiants visés par les
 articles 222-34 à 222-38 dudit code, les officiers de police judiciaire, assistés, le cas échéant, des agents de police
@@ -7008,22 +7011,22 @@ judiciaire et des agents de police judiciaire adjoints mentionnés aux 1°, 1° 
 lieux et pour la période de temps que ce magistrat détermine et qui ne peut excéder vingt-quatre heures, renouvelables sur
 décision expresse et motivée selon la même procédure, procéder non seulement aux contrôles d'identité prévus au sixième
 alinéa de l'article 78-2 mais aussi à la visite des véhicules circulant, arrêtés ou stationnant sur la voie publique ou dans
-des lieux accessibles au public.
+des lieux accessibles au public. 
 
 Pour l'application des dispositions du présent article, les véhicules en circulation ne peuvent être immobilisés que le temps
 strictement nécessaire au déroulement de la visite qui doit avoir lieu en présence du conducteur. Lorsqu'elle porte sur un
 véhicule à l'arrêt ou en stationnement, la visite se déroule en présence du conducteur ou du propriétaire du véhicule ou, à
 défaut, d'une personne requise à cet effet par l'officier ou l'agent de police judiciaire et qui ne relève pas de son
 autorité administrative. La présence d'une personne extérieure n'est toutefois pas requise si la visite comporte des risques
-graves pour la sécurité des personnes et des biens.
+graves pour la sécurité des personnes et des biens. 
 
 En cas de découverte d'une infraction ou si le conducteur ou le propriétaire du véhicule le demande ainsi que dans le cas où
 la visite se déroule en leur absence, il est établi un procès-verbal mentionnant le lieu et les dates et heures du début et
 de la fin de ces opérations. Un exemplaire en est remis à l'intéressé et un autre est transmis sans délai au procureur de la
-République.
+République. 
 
 Toutefois, la visite des véhicules spécialement aménagés à usage d'habitation et effectivement utilisés comme résidence ne
-peut être faite que conformément aux dispositions relatives aux perquisitions et visites domiciliaires.
+peut être faite que conformément aux dispositions relatives aux perquisitions et visites domiciliaires. 
 
 Le fait que ces opérations révèlent des infractions autres que celles visées dans les réquisitions du procureur de la
 République ne constitue pas une cause de nullité des procédures incidentes.
@@ -7042,18 +7045,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005
+  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
 
 _Cite_:
 
-  - Code pénal - art. 321-1 (M)
-  - Code pénal - art. 321-2 (M)
-  - Code pénal 421-1 à 421-5, 311-3 à 311-11, 321-1, 321-2, 222-34 à 222-38
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
-  - CODE DE PROCEDURE PENALE - art. 78-2 (M)
-  - Code de la défense. - art. L2339-8 (V)
-  - Code de la défense. - art. L2339-9 (V)
-  - Code de la défense. - art. L2353-4 (M)
+  - Code pénal - art. 421-1 (V)
+  - Code de la défense. - art. L2339-8
+  - Code de la défense. - art. L2353-4 (V)
 
 
 ###### Article 78-2-3
@@ -37386,7 +37384,7 @@ prévues par le présent titre pour l'enquête, la poursuite, l'instruction et, 
 infractions suivantes dans les affaires qui sont ou apparaîtraient d'une grande complexité :
 
 1° Délits prévus par les articles 222-38, 223-15-2, 313-1 et 313-2, 313-6, 314-1 et 314-2, 323-1 à 323-4, 324-1 et 324-2,
-432-10 à 432-15, 433-1 et 433-2, 434-9, 435-1 et 435-2, 442-1 à 442-8 et 450-2-1 du code pénal ;
+432-10 à 432-15, 433-1 et 433-2, 434-9, 435-1 et 435-2, 442-1 à 442-8 et 321-6-1 du code pénal ;
 
 2° Délits prévus par le code de commerce ;
 
@@ -37442,6 +37440,7 @@ _Cite_:
   - Code pénal - art. 313-6 (M)
   - Code pénal - art. 314-1 (M)
   - Code pénal - art. 314-2 (M)
+  - Code pénal - art. 321-6-1 (V)
   - Code pénal - art. 324-1 (M)
   - Code pénal - art. 324-2 (M)
   - Code pénal - art. 433-1 (M)
@@ -37449,8 +37448,7 @@ _Cite_:
   - Code pénal - art. 434-9 (M)
   - Code pénal - art. 435-1 (M)
   - Code pénal - art. 435-2 (M)
-  - Code pénal - art. 450-2-1 (M)
-  - Code pénal 222-38, 223-15-2, 313-1, 313-2, 313-6, 314-1, 314-2, 323-1 à 323-4, 324-1, 324-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 435-1, 435-2, 442-1 à 442-8, 450-2-1
+  - Code pénal 222-38, 223-15-2, 313-1, 313-2, 313-6, 314-1, 314-2, 323-1 à 323-4, 324-1, 324-2, 432-10 à 432-15, 433-1, 433-2, 434-9, 435-1, 435-2, 442-1 à 442-8, 321-6-1
   - Loi n°1885-03-28
 
 _Codifié par_:
@@ -37492,8 +37490,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 2004-03-09 art. 21 I, II JORF 10 mars 2004 en vigueur le 1er octobre 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 21 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 
 ###### Article 704-1
@@ -38449,7 +38446,7 @@ _Cite_:
 
 ###### Article 706-16
 
-Les actes de terrorisme incriminés par les articles 421-1 à 421-5 du code pénal, ainsi que les infractions connexes sont
+Les actes de terrorisme incriminés par les articles 421-1 à 421-6 du code pénal, ainsi que les infractions connexes sont
 poursuivis, instruits et jugés selon les règles du présent code sous réserve des dispositions du présent titre.
 
 Ces dispositions sont également applicables à la poursuite, à l'instruction et au jugement des actes de terrorisme commis à
@@ -38498,19 +38495,17 @@ _Cité par_:
   - Code pénal - art. 133-2 (V)
   - Code pénal - art. 133-3 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°96-647 du 22 juillet 1996 - art. 27 (M)
-  - TXT_ASSOCIE: Décret n°1939-04-18 du 18 avril 1939 - art. 31 (M)
-
 _Modifié par_:
 
-  - Loi n°96-647 du 22 juillet 1996 - art. 8 () JORF 23 juillet 1996
-  - Loi n°96-647 du 22 juillet 1996 - art. 9 () JORF 23 juillet 1996
+  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
 
 _Cite_:
 
-  - Code pénal 421-1 à 421-5
+  - Code pénal 421-1 à 421-6
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°1939-04-18 du 18 avril 1939 - art. 31 (M)
 
 
 #### Section 1 : Compétence<a id=193></a>
@@ -38773,6 +38768,48 @@ _Cite_:
 
 #### Section 2 : Procédure<a id=194></a>
 
+###### Article 706-24
+
+Les officiers et agents de police judiciaire, affectés dans les services de police judiciaire spécialement chargés de la
+lutte contre le terrorisme, peuvent être nominativement autorisés par le procureur général près la cour d'appel de Paris à
+procéder aux investigations relatives aux infractions entrant dans le champ d'application de l'article 706-16, en
+s'identifiant par leur numéro d'immatriculation administrative. Ils peuvent être autorisés à déposer ou à comparaître comme
+témoins sous ce même numéro. 
+
+L'état civil des officiers et agents de police judiciaire visés au premier alinéa ne peut être communiqué que sur décision du
+procureur général près la cour d'appel de Paris. Il est également communiqué, à sa demande, au président de la juridiction de
+jugement saisie des faits. 
+
+Les dispositions de l'article 706-84 sont applicables en cas de révélation de l'identité de ces officiers ou agents de police
+judiciaire, hors les cas prévus à l'alinéa précédent. 
+
+Aucune condamnation ne peut être prononcée sur le seul fondement d'actes de procédure effectués par des enquêteurs ayant
+bénéficié des dispositions du présent article et dont l'état civil n'aurait pas été communiqué, à sa demande, au président de
+la juridiction saisie des faits. 
+
+Les modalités d'application du présent article sont, en tant que de besoin, précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 12 () JORF 24 janvier 2006
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-24-1 (Ab)
+  - Code de procédure pénale - art. R50-29 (VD)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 706-16 (V)
+  - Code de procédure pénale - art. 706-84 (V)
+
+
 ###### Article 706-24-3
 
 Pour l'instruction du délit d'association de malfaiteurs prévu par l'article 421-5 du code pénal, la durée totale de la
@@ -38801,12 +38838,22 @@ _Cité par_:
 ###### Article 706-25
 
 Pour le jugement des accusés majeurs, les règles relatives à la composition et au fonctionnement de la cour d'assises sont
-fixées par les dispositions de l'article 698-6.
+fixées par les dispositions de l'article 698-6. Pour le jugement des accusés mineurs âgés de seize ans au moins, les règles
+relatives à la composition et au fonctionnement de la cour d'assises des mineurs sont également fixées par ces dispositions,
+deux des assesseurs étant pris parmi les juges des enfants du ressort de la cour d'appel, conformément aux dispositions de
+l'article 20 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dont les huitième à quatorzième
+alinéas sont applicables.
 
 Pour l'application de l'alinéa précédent, le juge d'instruction ou la chambre de l'instruction qui prononce la mise en
 accusation constate que les faits entrent dans le champ d'application de l'article 706-16.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
 
 _Codifié par_:
 
@@ -38818,12 +38865,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+  - Loi n°2006-64 du 23 janvier 2006 - art. 15 () JORF 24 janvier 2006
 
 
 ###### Article 706-25-1
@@ -41105,7 +41147,7 @@ pénal ;
 
 10° Crimes en matière de fausse monnaie prévus par les articles 442-1 et 442-2 du code pénal ; 
 
-11° Crimes et délits constituant des actes de terrorisme prévus par les articles 421-1 à 421-5 du code pénal ; 
+11° Crimes et délits constituant des actes de terrorisme prévus par les articles 421-1 à 421-6 du code pénal ; 
 
 12° Délits en matière d'armes et de produits explosifs commis en bande organisée, prévus par les articles L. 2339-2, L.
 2339-8, L. 2339-10, L. 2341-4, L. 2353-4 et L. 2353-5 du code de la défense ; 
@@ -41117,7 +41159,10 @@ prévus par l'article L622-1 du code de l'entrée et du séjour des étrangers e
 321-2 du même code, du produit, des revenus, des choses provenant des infractions mentionnées aux 1° à 13° ; 
 
 15° Délits d'association de malfaiteurs prévus par l'article 450-1 du code pénal, lorsqu'ils ont pour objet la préparation de
-l'une des infractions mentionnées aux 1° à 14°. 
+l'une des infractions mentionnées aux 1° à 14° ; 
+
+16° Délit de non-justification de ressources correspondant au train de vie, prévu par l'article 321-6-1 du code pénal,
+lorsqu'il est en relation avec l'une des infractions mentionnées aux 1° à 15°. 
 
 Pour les infractions visées aux 3°, 6° et 11°, sont applicables, sauf précision contraire, les dispositions du présent titre
 ainsi que celles des titres XV, XVI et XVII.
@@ -41135,12 +41180,14 @@ _Cite_:
   - Code pénal - art. 312-6 (M)
   - Code pénal - art. 312-7 (M)
   - Code pénal - art. 321-1 (M)
+  - Code pénal - art. 321-2 (M)
+  - Code pénal - art. 321-6-1 (V)
   - Code pénal - art. 322-8 (M)
   - Code pénal - art. 324-1 (M)
   - Code pénal - art. 324-2 (M)
   - Code pénal - art. 442-1 (M)
   - Code pénal - art. 442-2 (M)
-  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-5, 324-1, 324-2, 321-1, 321-2 450-1
+  - Code pénal 221-4, 222-4, 222-34 à 222-40, 224-5-2, 225-4-2 à 225-4-7, 225-7 à 225-12, 311-9, 312-6, 312-7, 322-8, 442-1, 442-2, 421-1 à 421-6, 324-1, 324-2, 321-1, 321-2, 420-1, 321-6-1
   - Code de la défense. - art. L2339-10 (V)
   - Code de la défense. - art. L2339-2 (V)
   - Code de la défense. - art. L2339-8 (V)
@@ -41214,7 +41261,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005
+  - Loi n°2006-64 du 23 janvier 2006 - art. 11 () JORF 24 janvier 2006
+  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
 
 
 ###### Article 706-74
@@ -41749,6 +41797,26 @@ est portée au procès-verbal et émargée par la personne intéressée ; en cas
 Toutefois, lorsque l'enquête porte sur une infraction entrant dans le champ d'application des 3° et 11° de l'article 706-73,
 l'entretien avec un avocat ne peut intervenir qu'à l'issue de la soixante-douzième heure.
 
+S'il ressort des premiers éléments de l'enquête ou de la garde à vue elle-même qu'il existe un risque sérieux de l'imminence
+d'une action terroriste en France ou à l'étranger ou que les nécessités de la coopération internationale le requièrent
+impérativement, le juge des libertés peut, à titre exceptionnel et selon les modalités prévues au deuxième alinéa, décider
+que la garde à vue en cours d'une personne, se fondant sur l'une des infractions visées au 11° de l'article 706-73, fera
+l'objet d'une prolongation supplémentaire de vingt-quatre heures, renouvelable une fois.
+
+A l'expiration de la quatre-vingt-seizième heure et de la cent-vingtième heure, la personne dont la prolongation de la garde
+à vue est ainsi décidée peut demander à s'entretenir avec un avocat, selon les modalités prévues par l'article 63-4. La
+personne gardée à vue est avisée de ce droit dès la notification de la prolongation prévue au présent article.
+
+Outre la possibilité d'examen médical effectué à l'initiative du gardé à vue, dès le début de chacune des deux prolongations
+supplémentaires, il est obligatoirement examiné par un médecin désigné par le procureur de la République, le juge
+d'instruction ou l'officier de police judiciaire. Le médecin requis devra se prononcer sur la compatibilité de la
+prolongation de la mesure avec l'état de santé de l'intéressé.
+
+S'il n'a pas été fait droit à la demande de la personne gardée à vue de faire prévenir, par téléphone, une personne avec
+laquelle elle vit habituellement ou l'un de ses parents en ligne directe, l'un de ses frères et soeurs ou son employeur, de
+la mesure dont elle est l'objet, dans les conditions prévues aux articles 63-1 et 63-2, elle peut réitérer cette demande à
+compter de la quatre-vingt-seizième heure.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -41771,14 +41839,16 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 1 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2006-64 du 23 janvier 2006 - art. 17 () JORF 24 janvier 2006
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 154 (M)
   - CODE DE PROCEDURE PENALE - art. 63 (M)
+  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
   - CODE DE PROCEDURE PENALE - art. 706-73 (M)
   - CODE DE PROCEDURE PENALE - art. 77 (M)
@@ -50019,20 +50089,42 @@ _Cité par_:
 ###### Article 800
 
 Un décret en Conseil d'Etat détermine les frais qui doivent être compris sous la dénomination de frais de justice criminelle,
-correctionnelle et de police ; il en établit le tarif, en règle le paiement et le recouvrement, détermine les voies de
-recours, fixe les conditions que doivent remplir les parties prenantes et, d'une façon générale, règle tout ce qui touche aux
-frais de justice en matière criminelle, correctionnelle et de police.
+correctionnelle et de police ; il en établit le tarif ou fixe les modalités selon lesquelles ce tarif est établi, en règle le
+paiement et le recouvrement, détermine les voies de recours, fixe les conditions que doivent remplir les parties prenantes
+et, d'une façon générale, règle tout ce qui touche aux frais de justice en matière criminelle, correctionnelle et de police.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Cité par_:
+
+  - Décret n°59-1095 du 21 septembre 1959 - art. 1 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 11 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 12 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 3 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 4 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 5 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 7 (M)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
+  - Décret n°59-1095 du 21 septembre 1959 - art. 9 (Ab)
+  - Loi n°83-520 du 27 juin 1983 - art. 65 (V)
+  - Loi n°88-82 du 22 janvier 1988 - art. 145 (V)
+  - Loi n°94-89 du 1 février 1994 - art. 23 (V)
+  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+  - Code de la route. - art. L325-1-2 (V)
+
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
   - TXT_SOURCE: Décret n°88-600 du 6 mai 1988
   - TXT_SOURCE: Décret n°88-600 du 6 mai 1988 - art. 20 (V)
   - TXT_SOURCE: Décret n°88-600 du 6 mai 1988 - art. 21 (V)
-  - SPEC_APPLI: Loi n°94-89 du 1 février 1994 - art. 23 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R100 (Ab)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R101 (V)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R102 (Ab)
@@ -50124,30 +50216,9 @@ frais de justice en matière criminelle, correctionnelle et de police.
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R98 (Ab)
   - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. R99 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 58-1296 1958-12-23
-
-_Cité par_:
-
-  - Décret n°59-1095 du 21 septembre 1959 - art. 1 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 10 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 11 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 12 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 13 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 2 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 3 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 4 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 5 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 6 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 7 (M)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 8 (Ab)
-  - Décret n°59-1095 du 21 septembre 1959 - art. 9 (Ab)
-  - Loi n°83-520 du 27 juin 1983 - art. 65 (V)
-  - Loi n°88-82 du 22 janvier 1988 - art. 145 (V)
-  - Loi n°94-89 du 1 février 1994 - art. 23 (V)
-  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
-  - Code de la route. - art. L325-1-2 (V)
+  - Loi n°2006-64 du 23 janvier 2006 - art. 18 () JORF 24 janvier 2006
 
 
 ###### Article 800-1
