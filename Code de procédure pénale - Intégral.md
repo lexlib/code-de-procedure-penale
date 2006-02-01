@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-01-24
+Version Consolidée au 2006-02-02
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -55460,26 +55460,26 @@ _Cite_:
 
 La commission prévue à l'article 28-1 dont l'avis conforme est requis pour la désignation des agents des douanes des
 catégories A et B habilités à effectuer des enquêtes judiciaires sur réquisition du procureur de la République ou sur
-commission rogatoire du juge d'instruction est composée comme suit :
+commission rogatoire du juge d'instruction est composée comme suit : 
 
 1° Le procureur général près la Cour de cassation ou son délégué choisi par lui parmi le premier avocat général ou les
-avocats généraux à la Cour de cassation, président ;
+avocats généraux à la Cour de cassation, président ; 
 
-2° Quatre magistrats du ministère public dont deux au plus peuvent être des magistrats honoraires ;
+2° Deux magistrats du ministère public dont un au plus peut être magistrat honoraire ; 
 
-3° Le directeur général des douanes et droits indirects ou son représentant ;
+3° Le directeur général des douanes et droits indirects ou son représentant ; 
 
 4° Le fonctionnaire chargé de la sous-direction du personnel et du budget de la direction générale des douanes et droits
-indirects ou son représentant ;
+indirects ou son représentant ; 
 
 5° Le fonctionnaire chargé de la sous-direction des affaires juridiques, contentieuses et de la lutte contre la fraude de la
-direction générale des douanes et droits indirects ou son représentant ;
+direction générale des douanes et droits indirects ou son représentant ; 
 
-6° Un fonctionnaire de l'administration des douanes et droits indirects ayant au moins le grade de directeur adjoint ;
+6° Un fonctionnaire de l'administration des douanes et droits indirects ayant au moins le grade d'inspecteur principal ; 
 
-7° Le magistrat délégué aux missions judiciaires de la douane, mentionné au VII de l'article 28-1, ou son représentant.
+7° Le magistrat délégué aux missions judiciaires de la douane, mentionné au VII de l'article 28-1, ou son représentant. 
 
-Les membres de la commission désignés ci-dessus aux 2° et 6° ont chacun un suppléant.
+Les membres de la commission désignés ci-dessus aux 2° et 6° ont chacun un suppléant. 
 
 Le secrétariat de la commission est assuré par la direction générale des douanes et droits indirects.
 
@@ -55489,10 +55489,6 @@ _Codifié par_:
 
   - Décret n°58-358 1958-04-02
 
-_Modifié par_:
-
-  - Décret n°2000-1072 du 2 novembre 2000 - art. 2 () JORF 4 novembre 2000
-
 _Cité par_:
 
   - Arrêté du 30 avril 2002 - art. 4 (VT)
@@ -55500,13 +55496,17 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-4 (V)
   - Code de procédure pénale - art. R15-33-5 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+  - Décret n°2006-94 du 30 janvier 2006 - art. 1 () JORF 2 février 2006
 
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. R15-33-24 (Ab)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 28-1 (V)
 
 
 ###### Article R15-33-2
