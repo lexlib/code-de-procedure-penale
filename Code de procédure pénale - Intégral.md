@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-03-31
+Version Consolidée au 2006-04-02
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -17,7 +17,7 @@ Version Consolidée au 2006-03-31
         - [Chapitre II : Du ministère public (art. 31 à 48-1)](#14)
           - [Section 1 : Dispositions générales (art. 31 à 33)](#15)
           - [Section 2 : Des attributions du procureur général près la cour d'appel (art. 34 à 38)](#16)
-          - [Section 3 : Des attributions du procureur de la République (art. 39 à 44)](#17)
+          - [Section 3 : Des attributions du procureur de la République (art. 39 à 44-1)](#17)
           - [Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité (art. 45 à 48)](#18)
           - [Section 5 : Du bureau d'ordre national automatisé des procédures judiciaires (art. 48-1)](#19)
         - [Chapitre III : Du juge d'instruction (art. 49 à 52)](#20)
@@ -4252,6 +4252,60 @@ _Cité par_:
   - Code de procédure pénale - art. 33 (V)
   - Code de procédure pénale - art. 79 (V)
   - Code forestier (nouveau) - art. L161-22 (VD)
+
+
+###### Article 44-1
+
+Pour les contraventions que les agents de la police municipale sont habilités à constater par procès-verbal conformément aux
+dispositions de l'article L. 2212-5 du code général des collectivités territoriales et qui sont commises au préjudice de la
+commune au titre de l'un de ses biens, le maire peut, tant que l'action publique n'a pas été mise en mouvement, proposer au
+contrevenant une transaction consistant en la réparation de ce préjudice.
+
+La transaction proposée par le maire et acceptée par le contrevenant doit être homologuée par le procureur de la République.
+
+Les actes tendant à la mise en oeuvre ou à l'exécution de la transaction sont interruptifs de la prescription de l'action
+publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour
+lui de l'acceptation de la transaction.
+
+La transaction peut également consister en l'exécution, au profit de la commune, d'un travail non rémunéré pendant une durée
+maximale de trente heures. Elle doit alors être homologuée, selon la nature de la contravention, par le juge du tribunal de
+police ou par le juge de la juridiction de proximité.
+
+Lorsqu'une de ces contraventions n'a pas été commise au préjudice de la commune mais a été commise sur le territoire de
+celle-ci, le maire peut proposer au procureur de la République de procéder à une des mesures prévues par les articles 41-1 ou
+41-3 du présent code. Il est avisé par le procureur de la République de la suite réservée à sa proposition.
+
+Les dispositions du présent article s'appliquent aux contraventions de même nature que les agents de la ville de Paris
+chargés d'un service de police et les agents de surveillance de Paris sont habilités à constater par procès-verbal
+conformément aux dispositions des articles L. 2512-16 et L. 2512-16-1 du code général des collectivités territoriales.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2006-396 du 31 mars 2006 - art. 51 () JORF 2 avril 2006
+
+_Cité par_:
+
+  - Arrêté du 14 avril 2009 - art. 6 (V)
+  - CODE DE PROCEDURE PENALE - art. 809-3 (V)
+  - Code de procédure pénale - art. R15-33-61 (VD)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2212-5 (M)
+  - Code général des collectivités territoriales - art. L2512-16 (M)
+  - Code général des collectivités territoriales - art. L2512-16-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
+  - CODE DE PROCEDURE PENALE - art. 41-3 (M)
 
 
 ##### Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité<a id=18></a>
