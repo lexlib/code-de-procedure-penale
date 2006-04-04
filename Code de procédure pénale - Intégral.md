@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-04-02
+Version Consolidée au 2006-04-05
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -201,7 +201,7 @@ Version Consolidée au 2006-04-02
       - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes (art. 706-47 à 706-53-12)](#198)
         - [Chapitre Ier : Dispositions générales (art. 706-47-1 à 706-53)](#199)
         - [Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes (art. 706-53-1 à 706-53-12)](#200)
-      - [Titre XX : Du fichier national automatisé des empreintes génétiques (art. 706-54 à 706-56)](#201)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques (art. 706-54 à 706-56-1)](#201)
       - [Titre XXI : De la protection des témoins (art. 706-57 à 706-63)](#202)
       - [Titre XXI bis : Protection des personnes bénéficiant d'exemptions ou de réductions de peines pour avoir permis d'éviter la réalisation d'infractions, de faire cesser ou d'atténuer le dommage causé par une infraction, ou d'identifier les auteurs ou complices d'infractions (art. 706-63-1)](#203)
       - [Titre XXII : Saisine pour avis de la Cour de cassation (art. 706-64 à 706-70)](#204)
@@ -1676,10 +1676,11 @@ années révolues à compter du jour où le crime a été commis si, dans cet in
 ou de poursuite.
 
 S'il en a été effectué dans cet intervalle, elle ne se prescrit qu'après dix années révolues à compter du dernier acte. Il en
-est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite.
+est ainsi même à l'égard des personnes qui ne seraient pas impliquées dans cet acte d'instruction ou de poursuite. 
 
-Le délai de prescription de l'action publique des crimes mentionnés à l'article 706-47 et commis contre des mineurs est de
-vingt ans et ne commence à courir qu'à partir de la majorité de ces derniers.
+Le délai de prescription de l'action publique des crimes mentionnés à l'article 706-47 du présent code et le crime prévu par
+l'article 222-10 du code pénal, lorsqu'ils sont commis sur des mineurs, est de vingt ans et ne commence à courir qu'à partir
+de la majorité de ces derniers.
 
 **Liens relatifs à cet article**
 
@@ -1699,22 +1700,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 72 () JORF 10 mars 2004
+  - Loi n°2006-399 du 4 avril 2006 - art. 14 () JORF 5 avril 2006
 
 _Cite_:
 
-  - Code pénal - art. 213-5 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - Code pénal - art. 213-5 (V)
+  - Code pénal - art. 222-10 (V)
+  - Code de procédure pénale - art. 706-47 (V)
 
 
 ###### Article 8
 
 En matière de délit, la prescription de l'action publique est de trois années révolues ; elle s'accomplit selon les
-distinctions spécifiées à l'article précédent.
+distinctions spécifiées à l'article précédent. 
 
 Le délai de prescription de l'action publique des délits mentionnés à l'article 706-47 et commis contre des mineurs est de
-dix ans ; celui des délits prévus par les articles 222-30 et 227-26 est de vingt ans ; ces délais ne commencent à courir qu'à
-partir de la majorité de la victime.
+dix ans ; celui des délits prévus par les articles 222-12, 
+222-30 et 227-26 du code pénal est de vingt ans ; ces délais ne commencent à courir qu'à partir de la majorité de la victime.
 
 **Liens relatifs à cet article**
 
@@ -1731,12 +1733,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 72 () JORF 10 mars 2004
+  - Loi n°2006-399 du 4 avril 2006 - art. 14 () JORF 5 avril 2006
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
-  - Code de procédure pénale 706-47, 222-30, 227-26
+  - Code pénal - art. 222-12 (V)
+  - Code pénal - art. 222-30 (V)
+  - Code pénal - art. 227-26 (V)
+  - Code de procédure pénale - art. 706-47 (V)
 
 
 ###### Article 9
@@ -3880,10 +3884,13 @@ verbal, qui est signé par lui-même et par les parties, et dont une copie leur 
 à verser des dommages et intérêts à la victime, celle-ci peut, au vu de ce procès-verbal, en demander le recouvrement suivant
 la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile.
 
-6° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce
-dernier, demander à l'auteur des faits de résider hors du domicile ou de la résidence du couple et, le cas échéant, de
-s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, de
-faire l'objet d'une prise en charge sanitaire, sociale ou psychologique.
+6° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité,
+soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, demander à l'auteur des faits de résider hors du
+domicile ou de la résidence du couple et, le cas échéant, de s'abstenir de paraître dans ce domicile ou cette résidence ou
+aux abords immédiats de celui-ci, ainsi que, si nécessaire, de faire l'objet d'une prise en charge sanitaire, sociale ou
+psychologique ; les dispositions du présent 6° sont également applicables lorsque l'infraction est commise par l'ancien
+conjoint ou concubin de la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile
+concerné étant alors celui de la victime.
 
 La procédure prévue au présent article suspend la prescription de l'action publique. 
 
@@ -3925,7 +3932,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 35 () JORF 13 décembre 2005
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 
 ###### Article 41-2
@@ -3973,10 +3980,13 @@ désignés par le procureur de la République ou ne pas entrer en relation avec 
 
 13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté ;
 
-14° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce
-dernier, résider hors du domicile ou de la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce domicile
-ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge
-sanitaire, sociale ou psychologique.
+14° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
+solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
+résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de
+celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
+dispositions du présent 14° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
+la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
+de la victime.
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur
 de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne
@@ -4081,7 +4091,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 35 () JORF 13 décembre 2005
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 
 ###### Article 41-3
@@ -10948,10 +10958,13 @@ de la détention, des sûretés personnelles ou réelles ;
 conformément aux décisions judiciaires et aux conventions judiciairement homologuées portant obligation de verser des
 prestations, subsides ou contributions aux charges du mariage ;
 
-17° En cas d'infraction commise soit contre son conjoint ou son concubin, soit contre ses enfants ou les enfants de ce
-dernier, résider hors du domicile ou de la résidence du couple, et, le cas échéant, s'abstenir de paraître dans ce domicile
-ou cette résidence ou aux abords immédiats de celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge
-sanitaire, sociale ou psychologique.
+17° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
+solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
+résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domicile ou cette résidence ou aux abords immédiats de
+celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
+dispositions du présent 17° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
+la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
+de la victime.
 
 L'obligation prévue au 2° peut être exécutée, avec l'accord de l'intéressé recueilli en présence de son avocat, sous le
 régime du placement sous surveillance électronique, à l'aide du procédé prévu par l'article 723-8. Les articles 723-9 et
@@ -11022,7 +11035,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 35 () JORF 13 décembre 2005
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 
 ###### Article 138-1
@@ -21636,7 +21649,8 @@ plusieurs obligations du contrôle judiciaire, il le traduit sur-le-champ devant
 statuant en chambre du conseil avec l'assistance d'un greffier. Ce magistrat peut, après audition du prévenu, son avocat
 ayant été avisé et entendu en ses observations, s'il le demande, prononcer cette mesure dans les conditions et suivant les
 modalités prévues par les articles 138 et 139. Cette décision est notifiée verbalement au prévenu et mentionnée au procès-
-verbal dont copie lui est remise sur-le-champ.
+verbal dont copie lui est remise sur-le-champ. Si le prévenu placé sous contrôle judiciaire se soustrait aux obligations qui
+lui sont imposées, les dispositions du deuxième alinéa de l'article 141-2 sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -21660,12 +21674,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 197 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 138 (M)
   - CODE DE PROCEDURE PENALE - art. 139 (M)
+  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
 
 
 ###### Article 395
@@ -21724,7 +21739,9 @@ tard le troisième jour ouvrable suivant. A défaut, il est mis d'office en libe
 
 Si le juge estime que la détention provisoire n'est pas nécessaire, il peut soumettre le prévenu, jusqu'à sa comparution
 devant le tribunal, à une ou plusieurs obligations du contrôle judiciaire. Le procureur de la République notifie alors à
-l'intéressé la date et l'heure de l'audience selon les modalités prévues au premier alinéa de l'article 394.
+l'intéressé la date et l'heure de l'audience selon les modalités prévues au premier alinéa de l'article 394. Si le prévenu
+placé sous contrôle judiciaire se soustrait aux obligations qui lui sont imposées, les dispositions du deuxième alinéa de
+l'article 141-2 sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -21734,7 +21751,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 128 () JORF 10 mars 2004
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 _Cité par_:
 
@@ -21748,6 +21765,7 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 137-3 (V)
+  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
   - CODE DE PROCEDURE PENALE - art. 144 (M)
   - CODE DE PROCEDURE PENALE - art. 394 (M)
   - CODE DE PROCEDURE PENALE - art. 41 (M)
@@ -21844,7 +21862,9 @@ _Cite_:
 ###### Article 397-3
 
 Dans tous les cas prévus par le présent paragraphe, le tribunal peut, conformément aux dispositions de l'article 141-1,
-placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est exécutoire par provision.
+placer ou maintenir le prévenu sous contrôle judiciaire. Cette décision est exécutoire par provision. Si le prévenu placé
+sous contrôle judiciaire se soustrait aux obligations qui lui sont imposées, les dispositions du deuxième alinéa de l'article
+141-2 sont applicables.
 
 Dans les cas prévus par les articles 395 et suivants, le tribunal peut également placer ou maintenir le prévenu en détention
 provisoire par décision spécialement motivée. La décision prescrivant la détention est rendue suivant les modalités prévues
@@ -21866,13 +21886,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 40 () JORF 10 septembre 2002 rectificatif JORF 24 décembre 2002
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 135 (M)
   - CODE DE PROCEDURE PENALE - art. 137-3 (V)
   - CODE DE PROCEDURE PENALE - art. 141-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
   - CODE DE PROCEDURE PENALE - art. 144 (M)
   - CODE DE PROCEDURE PENALE - art. 395 (M)
   - CODE DE PROCEDURE PENALE - art. 397-1 (M)
@@ -24346,8 +24367,14 @@ Le contrôle judiciaire prend fin sauf si le tribunal en décide autrement lorsq
 l'emprisonnement sans sursis ou assorti du sursis avec mise à l'épreuve. Si un cautionnement a été fourni, les dispositions
 des premier et deuxième alinéas de l'article 142-2 et du deuxième alinéa de l'article 142-3 sont applicables.
 
-Les sanctions pénales prononcées en application des articles 131-6 à 131-11 du Code pénal peuvent être déclarées exécutoires
+Les sanctions pénales prononcées en application des articles 131-6 à 131-11 du code pénal peuvent être déclarées exécutoires
 par provision.
+
+Si le tribunal a ordonné le maintien du contrôle judiciaire et que la personne se soustrait aux obligations qui lui sont
+imposées, les dispositions du deuxième alinéa de l'article 141-2 sont applicables. Lorsque le jugement est exécutoire et que
+le condamné est placé sous le régime de la mise à l'épreuve, le juge de l'application des peines peut désigner, pour veiller
+au respect des obligations, la personne physique ou morale qui était chargée de suivre l'intéressé dans le cadre du contrôle
+judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -24357,13 +24384,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 37 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2006-399 du 4 avril 2006 - art. 12 () JORF 5 avril 2006
 
 _Cite_:
 
   - Code pénal 131-6 à 131-11
+  - CODE DE PROCEDURE PENALE - art. 141-2 (M)
   - CODE DE PROCEDURE PENALE - art. 142-2 (M)
   - CODE DE PROCEDURE PENALE - art. 142-3 (M)
+  - CODE DE PROCEDURE PENALE - art. 464-1 (V)
   - CODE DE PROCEDURE PENALE - art. 465 (M)
 
 _Cité par_:
@@ -39566,8 +39595,8 @@ _Créé par_:
 
 Les dispositions du présent titre sont applicables aux procédures concernant les infractions de meurtre ou d'assassinat d'un
 mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie ou pour les infractions d'agression ou d'atteintes
-sexuelles ou de recours à la prostitution d'un mineur prévues par les articles 222-23 à 222-31, 225-12-1 et 227-22 à 227-27
-du code pénal.
+sexuelles ou de proxénétisme à l'égard d'un mineur, ou de recours à la prostitution d'un mineur prévues par les articles
+222-23 à 222-31,225-7 (1°), 225-7-1,225-12-1,225-12-2 et 227-22 à 227-27 du code pénal. 
 
 Ces dispositions sont également applicables aux procédures concernant les crimes de meurtre ou assassinat commis avec
 tortures ou actes de barbarie, les crimes de tortures ou d'actes de barbarie et les meurtres ou assassinats commis en état de
@@ -39614,12 +39643,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 28 (V) JORF 13 décembre 2005
+  - Loi n°2006-399 du 4 avril 2006 - art. 16 () JORF 5 avril 2006
 
 _Cite_:
 
-  - Code pénal - art. 225-12-1 (M)
-  - Code pénal 222-23 à 222-31, 225-12-1, 227-22 à 227-27
+  - Code pénal - art. 222-23 (V)
+  - Code pénal - art. 225-12-1 (V)
+  - Code pénal - art. 225-7 (V)
+  - Code pénal - art. 227-22 (V)
 
 _Nouveaux textes_:
 
@@ -40575,6 +40606,32 @@ _Cite_:
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. 706-65 (V)
+
+
+###### Article 706-56-1
+
+Sur instruction du procureur de la République du lieu de résidence ou de détention de l'intéressé, sont inscrites, dans le
+fichier prévu par le présent titre, les empreintes génétiques des personnes de nationalité française, ou de nationalité
+étrangère résidant de façon habituelle sur le territoire national, et qui ont été condamnées par une juridiction pénale
+étrangère pour une infraction de même nature que celles mentionnées aux 1° et 2° de l'article 706-55, lorsque ces
+condamnations, en application d'une convention ou d'un accord international, ont fait l'objet d'un avis aux autorités
+françaises ou ont été exécutées en France à la suite du transfèrement des personnes condamnées. Les dispositions de l'article
+706-56 sont applicables à ces personnes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2006-399 du 4 avril 2006 - art. 17 () JORF 5 avril 2006
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-55 (MMN)
+  - CODE DE PROCEDURE PENALE - art. 706-56 (MMN)
 
 
 ### Titre XXI : De la protection des témoins<a id=202></a>
