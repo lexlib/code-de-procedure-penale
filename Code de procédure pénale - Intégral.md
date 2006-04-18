@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-04-05
+Version Consolidée au 2006-04-19
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -2641,6 +2641,9 @@ programmation relative à la sécurité ;
 
 1° quater Les agents de surveillance de Paris ;
 
+1° quinquies Les militaires servant au titre de la réserve opérationnelle de la gendarmerie nationale ne remplissant pas les
+conditions prévues par l'article 20-1 ;
+
 2° Les agents de police municipale.
 
 Ils ont pour mission :
@@ -2765,6 +2768,7 @@ _Cite_:
 
   - Loi n°95-73 du 21 janvier 1995 - art. 36 (M)
   - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 20-1 (V)
 
 **Liens**:
 
@@ -2774,7 +2778,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 90 () JORF 19 mars 2003
+  - Loi n°2006-449 du 18 avril 2006 - art. 23 () JORF 19 avril 2006
 
 
 ###### Article 21-1
