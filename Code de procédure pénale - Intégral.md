@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-02
+Version Consolidée au 2006-06-03
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -48930,8 +48930,8 @@ _Créé par_:
 Le bulletin n° 2 est le relevé des fiches du casier judiciaire applicables à la même personne, à l'exclusion de celles
 concernant les décisions suivantes : 
 
-1° Les décisions prononcées en vertu des articles 2, 8, 15, 15-1, 16,16 bis, 18 et 28 de l'ordonnance n° 45-174 du 2 février
-1945 modifiée, relative à l'enfance délinquante ; 
+1° Les décisions prononcées en vertu des articles 2,8,15,15-1,16,16 bis, 18 et 28 de l'ordonnance n° 45-174 du 2 février 1945
+modifiée, relative à l'enfance délinquante ; 
 
 2° Les condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 775-1 ; 
 
@@ -48942,7 +48942,7 @@ comme non avenues ; toutefois, si a été prononcé le suivi socio-judiciaire pr
 peine d'interdiction d'exercer une activité professionnelle ou bénévole impliquant un contact habituel avec des mineurs, la
 décision continue de figurer au bulletin n° 2 pendant la durée de la mesure ; 
 
-6° Les condamnations auxquelles sont applicables les dispositions de l'article 361 du Code de justice militaire ; 
+6° Les condamnations auxquelles sont applicables les dispositions de l'article L263-4 du Code de justice militaire ; 
 
 7° et 8° (paragraphes abrogés) ; 
 
@@ -48987,6 +48987,7 @@ jusqu'au 7 mars 2008.
 _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 16 bis (V)
+  - Code de justice militaire. - art. L263-4 (V)
 
 _Cité par_:
 
@@ -48999,13 +49000,9 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis B (V)
   - Code pénal - art. 131-26-2 (V)
 
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
-
 _Modifié par_:
 
-  - Loi n°2005-882 du 2 août 2005 - art. 43 () JORF 3 août 2005
+  - Ordonnance n°2006-637 du 1 juin 2006 - art. 2 (V)
 
 
 ###### Article 775-1
