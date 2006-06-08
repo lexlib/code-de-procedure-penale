@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-03
+Version Consolidée au 2006-06-09
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -4565,15 +4565,17 @@ Le juge d'instruction est chargé de procéder aux informations, ainsi qu'il est
 Il ne peut, à peine de nullité, participer au jugement des affaires pénales dont il a connu en sa qualité de juge
 d'instruction.
 
+Le juge d'instruction exerce ses fonctions au siège du tribunal de grande instance auquel il appartient.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31 art. 18
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
 
 
 ###### Article 50
@@ -10791,6 +10793,33 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 93 (M)
 
 
+###### Article 137-1-1
+
+Pour l'organisation du service de fin de semaine ou du service allégé pendant la période au cours de laquelle les magistrats
+bénéficient de leurs congés annuels, un magistrat ayant rang de président, de premier vice-président ou de vice-président
+exerçant les fonctions de juge des libertés et de la détention dans un tribunal de grande instance peut être désigné afin
+d'exercer concurremment ces fonctions dans, au plus, deux autres tribunaux de grande instance du ressort de la cour d'appel ;
+cette désignation est décidée par ordonnance du premier président prise à la demande des présidents de ces juridictions et
+après avis du président du tribunal de grande instance concerné ; elle en précise le motif et la durée, ainsi que les
+tribunaux pour lesquels elle s'applique ; la durée totale d'exercice concurrent des fonctions de juge des libertés et de la
+détention dans plusieurs tribunaux de grande instance ne peut excéder quarante jours au cours de l'année judiciaire.
+
+La désignation prévue à l'alinéa précédent peut également être ordonnée, selon les mêmes modalités et pour une durée totale,
+intermittente ou continue, qui ne peut excéder quarante jours, lorsque, pour cause de vacance d'emploi ou d'empêchement,
+aucun magistrat n'est susceptible, au sein d'une juridiction, d'exercer les fonctions de juge des libertés et de la
+détention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
+
+
 ###### Article 137-2
 
 Le contrôle judiciaire est ordonné par le juge d'instruction, qui statue après avoir recueilli les réquisitions du procureur
@@ -12341,25 +12370,21 @@ _Cité par_:
 
 ###### Article 149
 
-Sans préjudice de l'application des dispositions des deuxième et troisième alinéas de l'article L. 781-1 du code de
-l'organisation judiciaire, la personne qui a fait l'objet d'une détention provisoire au cours d'une procédure terminée à son
-égard par une décision de non-lieu, de relaxe ou d'acquittement devenue définitive a droit, à sa demande, à réparation
-intégrale du préjudice moral et matériel que lui a causé cette détention. Toutefois, aucune réparation n'est due lorsque
-cette décision a pour seul fondement la reconnaissance de son irresponsabilité au sens de l'article 122-1 du code pénal, une
-amnistie postérieure à la mise en détention provisoire, ou la prescription de l'action publique intervenue après la
-libération de la personne, lorsque la personne était dans le même temps détenue pour une autre cause, ou lorsque la personne
-a fait l'objet d'une détention provisoire pour s'être librement et volontairement accusée ou laissé accuser à tort en vue de
-faire échapper l'auteur des faits aux poursuites. A la demande de l'intéressé, le préjudice est évalué par expertise
-contradictoire réalisée dans les conditions des articles 156 et suivants.
+Sans préjudice de l'application des dispositions des articles L. 141-2 et L. 141-3 du code de l'organisation judiciaire, la
+personne qui a fait l'objet d'une détention provisoire au cours d'une procédure terminée à son égard par une décision de non-
+lieu, de relaxe ou d'acquittement devenue définitive a droit, à sa demande, à réparation intégrale du préjudice moral et
+matériel que lui a causé cette détention. Toutefois, aucune réparation n'est due lorsque cette décision a pour seul fondement
+la reconnaissance de son irresponsabilité au sens de l'article 122-1 du code pénal, une amnistie postérieure à la mise en
+détention provisoire, ou la prescription de l'action publique intervenue après la libération de la personne, lorsque la
+personne était dans le même temps détenue pour une autre cause, ou lorsque la personne a fait l'objet d'une détention
+provisoire pour s'être librement et volontairement accusée ou laissé accuser à tort en vue de faire échapper l'auteur des
+faits aux poursuites.A la demande de l'intéressé, le préjudice est évalué par expertise contradictoire réalisée dans les
+conditions des articles 156 et suivants. 
 
 Lorsque la décision de non-lieu, de relaxe ou d'acquittement lui est notifiée, la personne est avisée de son droit de
 demander réparation, ainsi que des dispositions des articles 149-1 à 149-3 (premier alinéa).
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
 
 _Cité par_:
 
@@ -12377,15 +12402,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 103 () JORF 10 mars 2004
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 6, v. init.
 
 _Cite_:
 
-  - Code de procédure civile - art. 505 (V)
   - Code pénal - art. 122-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 156 (M)
-  - Code de procédure pénale 156, 149-1 à 149-3
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L781-1 (Ab)
+  - Code de l'organisation judiciaire - art. L141-2 (V)
 
 _Nouveaux textes_:
 
@@ -22019,6 +22041,13 @@ La désignation des magistrats du tribunal correctionnel appelés à statuer dan
 par le président du tribunal de grande instance selon les modalités fixées pour la répartition des juges entre les diverses
 chambres de ce tribunal ; s'il y a lieu, le président du tribunal correctionnel répartit les affaires entre ces magistrats.
 
+Avant le début de l'année judiciaire, le président du tribunal de grande instance établit par ordonnance la liste des juges
+de proximité de son ressort susceptibles de siéger en qualité d'assesseur au sein de la formation collégiale du tribunal
+correctionnel. Cette ordonnance peut être modifiée en cours d'année pour prendre en compte une modification de la composition
+de la juridiction ou pour prévoir un service allégé pendant la période au cours de laquelle les magistrats, les
+fonctionnaires et les auxiliaires de justice bénéficient de leurs congés annuels. Cette formation ne peut comprendre plus
+d'un juge non professionnel.
+
 Les décisions prévues au présent article sont des mesures d'administration non susceptibles de recours.
 
 **Liens relatifs à cet article**
@@ -22043,7 +22072,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
 
 
 ###### Article 398-1
@@ -28658,6 +28687,31 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 636 (M)
   - Code de procédure pénale 148-8 al. 2, 186 al. 8, 186-1 al. 3, 636, 706 et 706-2
+
+
+###### Article 567-1-1
+
+Lorsque la solution d'une affaire soumise à la chambre criminelle lui paraît s'imposer, le premier président ou le président
+de la chambre criminelle peut décider de faire juger l'affaire par une formation de trois magistrats. Cette formation peut
+renvoyer l'examen de l'affaire à l'audience de la chambre à la demande de l'une des parties ; le renvoi est de droit si l'un
+des magistrats composant la formation restreinte le demande. La formation déclare non admis les pourvois irrecevables ou non
+fondés sur un moyen sérieux de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
+
+_Cité par_:
+
+  - Décret n°2019-213 du 20 mars 2019 - art. 1
+  - Code de l'organisation judiciaire - art. R*461-1 (V)
+  - Code de l'organisation judiciaire - art. R421-3 (V)
 
 
 ###### Article 567-2
@@ -37493,6 +37547,15 @@ La compétence des juridictions mentionnées au premier alinéa et à l'alinéa 
 Un décret fixe la liste et le ressort de ces juridictions, qui comprennent une section du parquet et des formations
 d'instruction et de jugement spécialisées pour connaître de ces infractions.
 
+Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
+d'appel, le premier président, après avis du président du tribunal de grande instance, désigne un ou plusieurs juges
+d'instruction et magistrats du siège chargés spécialement de l'instruction et, s'il s'agit de délits, du jugement des
+infractions entrant dans le champ d'application du présent article.
+
+"Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel, le
+premier président et le procureur général désignent respectivement des magistrats du siège et du parquet général chargés
+spécialement du jugement des délits et du traitement des affaires entrant dans le champ d'application du présent article.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -37557,7 +37620,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 24 () JORF 24 janvier 2006
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
 
 
 ###### Article 704-1
@@ -41467,6 +41530,44 @@ _Créé par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 706-73 (M)
+
+
+###### Article 706-75-1
+
+Au sein de chaque tribunal de grande instance dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours
+d'appel, le procureur général et le premier président, après avis du procureur de la République et du président du tribunal
+de grande instance, désignent respectivement un ou plusieurs magistrats du parquet, juges d'instruction et magistrats du
+siège chargés spécialement de l'enquête, la poursuite, l'instruction et, s'il s'agit de délits, du jugement des infractions
+entrant dans le champ d'application des articles 706-73, à l'exception du 11°, ou 706-74.
+
+Au sein de chaque cour d'assises dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel, le
+premier président désigne des magistrats du siège, conformément aux dispositions des articles 244 à 253, chargés spécialement
+du jugement des crimes entrant dans le champ d'application de ces infractions.
+
+Au sein de chaque cour d'appel dont la compétence territoriale est étendue au ressort d'une ou plusieurs cours d'appel, le
+premier président et le procureur général désignent respectivement des magistrats du siège et du parquet général chargés
+spécialement du jugement des délits et du traitement des affaires entrant dans le champ d'application des articles 706-73, à
+l'exception du 11°, ou 706-74.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 706-73 (M)
+  - Code de procédure pénale 706-73, 244 à 253
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 52-1 (MMN)
+  - Code de procédure pénale - art. D15-4-5 (VD)
 
 
 ###### Article 706-76
@@ -50571,9 +50672,9 @@ _Créé par_:
 
 ###### Article 804
 
-A l'exception des articles 529-3 à 529-9, 717 à 719, le présent code (Dispositions législatives) est applicable en Nouvelle-
-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-Futuna, sous réserve des adaptations
-prévues au présent titre.
+A l'exception du cinquième alinéa de l'article 398 et des articles 529-3 à 529-9, 717 à 719, le présent code (Dispositions
+législatives) est applicable en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-
+Futuna, sous réserve des adaptations prévues au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -50583,11 +50684,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
 
 _Cite_:
 
-  - Code de procédure pénale 529-3 à 529-9, 717 à 719
+  - CODE DE PROCEDURE PENALE - art. 398 (M)
+  - Code de procédure pénale 398, 529-3 à 529-9, 717 à 719
 
 
 ###### Article 805
