@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2006-06-21
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -710,14 +710,14 @@ Version Consolidée au 2006-06-14
       - [Titre XII : Dispositions générales (art. D599)](#707)
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#708)
   - [Partie Arrêtés (art. A1 à A59)](#709)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-11)](#710)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-11)](#711)
-        - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-11)](#712)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-10)](#710)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-10)](#711)
+        - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-10)](#712)
           - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#713)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1-1 à A12)](#714)
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#715)
             - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#716)
-          - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-11)](#717)
+          - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-10)](#717)
     - [Livre II : Des juridictions de jugement (art. A36-12 à A37-10)](#718)
       - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#719)
         - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#720)
@@ -103104,43 +103104,6 @@ _Codifié par_:
 _Créé par_:
 
   - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
-
-
-###### Article A36-11
-
-La liste des agents qui, en raison de leurs responsabilités et de leurs compétences, sont dispensés de l'examen technique
-mentionné à l'article R. 15-33-3 est fixée comme suit, conformément à l'article R. 15-33-6 :
-
-- le chef de la direction nationale du renseignement et des enquêtes douanières (DNRED) ;
-
-- le directeur des enquêtes douanières ;
-
-- le directeur du renseignement et de la documentation ;
-
-- l'adjoint opérationnel du chef de la DNRED ;
-
-- les responsables des divisions d'enquête et de recherche de la DNRED ;
-
-- les responsables des échelons de la DNRED.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Créé par_:
-
-  - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
-
-_Abrogé par_:
-
-  - Arrêté 2006-06-13 art. 1 JORF 21 juin 2006
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R15-33-3 (M)
-  - CODE DE PROCEDURE PENALE - art. R15-33-6 (V)
 
 
 ## Livre II : Des juridictions de jugement<a id=718></a>
