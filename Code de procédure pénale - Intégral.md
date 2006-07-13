@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-06-21
+Version Consolidée au 2006-07-14
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -59907,10 +59907,11 @@ forêts et terrains à boiser ;
 b) Les articles R. 331-63 à R. 331-66, l'article R. 331-68 du code de l'environnement relatifs aux parcs nationaux et les
 articles R332-69 à R332-72 du même code relatifs aux réserves naturelles ;
 
-c) L'article R. 322-5 du code forestier relatif à la protection contre l'incendie, l'alinéa premier de l'article R. 331-3 du
-même code relatif à l'introduction dans les bois, forêts et terrains à boiser de véhicules, bestiaux, animaux de charge ou de
-monture et l'article R. 133-1-1 du même code relatif à l'aménagement prescrit par l'article L. 133-1 des bois et forêts du
-domaine de l'Etat ;
+c) L'article R. 322-5 et le second alinéa de l'article R. 322-5-1 du code forestier relatif à la protection contre
+l'incendie, l'alinéa premier de l'article R. 331-3 du même code relatif à l'introduction dans les bois, forêts et terrains à
+boiser de véhicules, bestiaux, animaux de charge ou de monture et l'article R. 133-5 du même code relatif à l'aménagement
+prescrit par l'article L. 133-1 des bois et forêts du domaine de l'Etat, les articles R. 137-4, R. 138-20, R. 331-1 et 331-2
+du code forestier relatifs aux prélèvements de produits de la forêt sans autorisation du propriétaire ;
 
 d) L'article 10 (deuxième alinéa) du décret n° 2000-1302 du 26 décembre 2000 relatif aux mesures de protection de
 l'environnement contre les émissions polluantes des moteurs à allumage par compression destinés à équiper les engins mobiles
@@ -59952,6 +59953,7 @@ i) L'article R. 215-2 du code rural ;
 _Cite_:
 
   - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
+  - Décret n°42-730 1942-03-22 art. 80-1
   - Loi n°66-1005 1966-12-28
   - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
   - Décret n°80-791 du 1 octobre 1980 - art. 15 (M)
@@ -59969,20 +59971,22 @@ _Cite_:
   - Décret n°2002-747 2002-05-02 art. 16, art. 17
   - Décret n°2003-752 2003-08-01
   - Décret n°2004-1186 2004-11-08 art. 25, art. 26
-  - Décret n°42-730 1942-03-22 art. 80-1
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. 5 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
-  - Code forestier - art. R133-1-1 (Ab)
+  - Code forestier - art. R133-5 (M)
+  - Code forestier - art. R137-4 (M)
+  - Code forestier - art. R138-20 (M)
   - Code forestier - art. R322-5 (M)
+  - Code forestier - art. R322-5-1 (M)
+  - Code forestier - art. R331-1 (M)
+  - Code forestier - art. R331-2 (M)
   - Code forestier - art. R331-3 (M)
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
   - Code de l'environnement - art. R331-68 (M)
-  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66, R331-68
 
 _Codifié par_:
 
@@ -59997,6 +60001,7 @@ _Cité par_:
   - Décret n°2019-725 du 9 juillet 2019 - art. 1
   - Décret n°2019-1114 du 30 octobre 2019 - art. 4 (V)
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -60009,7 +60014,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+  - Décret n°2006-871 du 12 juillet 2006 - art. 14 () JORF 14 juillet 2006
 
 **Liens**:
 
