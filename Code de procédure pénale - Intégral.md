@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-07-14
+Version Consolidée au 2006-07-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -6910,12 +6910,12 @@ bord d'un train effectuant une liaison internationale, il peut être opéré sur
 premier arrêt qui se situe au-delà des vingt kilomètres de la frontière. Toutefois, sur celles des lignes ferroviaires
 effectuant une liaison internationale et présentant des caractéristiques particulières de desserte, le contrôle peut
 également être opéré entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres suivants. Ces lignes et ces
-arrêts sont désignés par arrêté ministériel(1). Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée à
-la première phrase du présent alinéa (1) et que le premier péage autoroutier se situe au-delà de la ligne des 20 kilomètres,
-le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le lieu de ce
-péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par arrêté. Le fait
-que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne constitue pas
-une cause de nullité des procédures incidentes.
+arrêts sont désignés par arrêté ministériel (1). Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée
+à la première phrase du présent alinéa (1) et que le premier péage autoroutier se situe au-delà de la ligne des 20
+kilomètres, le contrôle peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur le
+lieu de ce péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par
+arrêté. Le fait que le contrôle d'identité révèle une infraction autre que celle de non-respect des obligations susvisées ne
+constitue pas une cause de nullité des procédures incidentes.
 
 Dans une zone comprise entre les frontières terrestres ou le littoral du département de la Guyane et une ligne tracée à vingt
 kilomètres en-deçà, et sur une ligne tracée à cinq kilomètres de part et d'autre, ainsi que sur la route nationale 2 sur le
@@ -6923,14 +6923,35 @@ territoire de la commune de Régina, l'identité de toute personne peut être co
 alinéa, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et documents prévus
 par la loi.
 
+Pendant cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006  relative à l'immigration et à
+l'intégration, l'identité de toute personne peut également être contrôlée, selon les modalités prévues au premier alinéa du
+présent article, en vue de vérifier le respect des obligations de détention, de port et de présentation des titres et
+documents prévus par la loi :
+
+1° En Guadeloupe, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà, ainsi que dans une
+zone d'un kilomètre de part et d'autre, d'une part, de la route nationale 1 sur le territoire des communes de Basse-Terre,
+Gourbeyre et Trois-Rivières et, d'autre part, de la route nationale 4 sur le territoire des communes du Gosier et de Sainte-
+Anne et Saint-François ;
+
+2° A Mayotte, dans une zone comprise entre le littoral et une ligne tracée à un kilomètre en deçà.
+
 **Nota:**
 
-(1) : Loi 2006-64 du 23 janvier 2006 art. 32 : Les dispositions de l'article 3 sont applicables jusqu'au 31 décembre 2008.
+(1) Loi 2006-64 du 23 janvier 2006 art. 32 : Les dispositions induites par l'article 3 sont applicables jusqu'au 31 décembre
+2008.
 
 Loi n° 2008-1245 du 1er décembre 2008 : les dispositions de l'article 32 de la loi n° 2006-64 du 23 janvier 2006 sont
 prorogées jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Arrêté 93-323 1993-08-05
+  - Convention Schengen 1990-06-19
+  - Loi n°2006-911 2006-07-24
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
+  - CODE DE PROCEDURE PENALE - art. 21 (M)
 
 _Cité par_:
 
@@ -6975,13 +6996,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 3 () JORF 24 janvier 2006
-
-_Cite_:
-
-  - Convention Schengen 1990-06-19
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 21 (M)
+  - Loi n°2006-911 du 24 juillet 2006 - art. 113 () JORF 25 juillet 2006
 
 
 ###### Article 78-2-1
@@ -7157,41 +7172,41 @@ est présenté immédiatement à un officier de police judiciaire qui le met en 
 permettant d'établir son identité et qui procède, s'il y a lieu, aux opérations de vérification nécessaires. Il est aussitôt
 informé par celui-ci de son droit de faire aviser le procureur de la République de la vérification dont il fait l'objet et de
 prévenir à tout moment sa famille ou toute personne de son choix. Si des circonstances particulières l'exigent, l'officier de
-police judiciaire prévient lui-même la famille ou la personne choisie.
+police judiciaire prévient lui-même la famille ou la personne choisie. 
 
 Lorsqu'il s'agit d'un mineur de dix-huit ans, le procureur de la République doit être informé dès le début de la rétention.
-Sauf impossibilité, le mineur doit être assisté de son représentant légal.
+Sauf impossibilité, le mineur doit être assisté de son représentant légal. 
 
 La personne qui fait l'objet d'une vérification ne peut être retenue que pendant le temps strictement exigé par
-l'établissement de son identité. La rétention ne peut excéder quatre heures à compter du contrôle effectué en application de
-l'article 78-2 et le procureur de la République peut y mettre fin à tout moment.
+l'établissement de son identité. La rétention ne peut excéder quatre heures, ou huit heures à Mayotte, à compter du contrôle
+effectué en application de l'article 78-2 et le procureur de la République peut y mettre fin à tout moment. 
 
 Si la personne interpellée maintient son refus de justifier de son identité ou fournit des éléments d'identité manifestement
 inexacts, les opérations de vérification peuvent donner lieu, après autorisation du procureur de la République ou du juge
 d'instruction, à la prise d'empreintes digitales ou de photographies lorsque celle-ci constitue l'unique moyen d'établir
-l'identité de l'intéressé.
+l'identité de l'intéressé. 
 
 La prise d'empreintes ou de photographies doit être mentionnée et spécialement motivée dans le procès-verbal prévu ci-après.
 
 L'officier de police judiciaire mentionne, dans un procès-verbal, les motifs qui justifient le contrôle ainsi que la
 vérification d'identité, et les conditions dans lesquelles la personne a été présentée devant lui, informée de ses droits et
 mise en mesure de les exercer. Il précise le jour et l'heure à partir desquels le contrôle a été effectué, le jour et l'heure
-de la fin de la rétention et la durée de celle-ci.
+de la fin de la rétention et la durée de celle-ci. 
 
 Ce procès-verbal est présenté à la signature de l'intéressé. Si ce dernier refuse de le signer, mention est faite du refus et
-des motifs de celui-ci.
+des motifs de celui-ci. 
 
 Le procès-verbal est transmis au procureur de la République, copie en ayant été remise à l'intéressé dans le cas prévu par
-l'alinéa suivant.
+l'alinéa suivant. 
 
 Si elle n'est suivie à l'égard de la personne qui a été retenue d'aucune procédure d'enquête ou d'exécution adressée à
 l'autorité judiciaire, la vérification d'identité ne peut donner lieu à une mise en mémoire sur fichiers et le procès-verbal
 ainsi que toutes les pièces se rapportant à la vérification sont détruits dans un délai de six mois sous le contrôle du
-procureur de la République.
+procureur de la République. 
 
 Dans le cas où il y a lieu à procédure d'enquête ou d'exécution adressée à l'autorité judiciaire et assortie du maintien en
 garde à vue, la personne retenue doit être aussitôt informée de son droit de faire aviser le procureur de la République de la
-mesure dont elle fait l'objet.
+mesure dont elle fait l'objet. 
 
 Les prescriptions énumérées au présent article sont imposées à peine de nullité.
 
@@ -7232,11 +7247,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-291 du 15 avril 1999 - art. 15 () JORF 16 avril 1999
+  - Loi n°2006-911 du 24 juillet 2006 - art. 114 () JORF 25 juillet 2006
 
 _Cite_:
 
-  - Code de procédure pénale 62 et 78-2
+  - Code de procédure pénale - art. 78-2 (V)
 
 
 ###### Article 78-4
