@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-07-26
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -100513,23 +100513,28 @@ Le directeur du bureau d'enquêtes techniques et administratives après accident
 
 Le directeur du bureau d'enquêtes sur les accidents de transport terrestre (BEA TT).
 
+3° En application de l'article 40 de la loi n° 2003-495 du 12 juin 2003 renforçant la lutte contre la violence routière :
+
+Le directeur du bureau enquêtes accidents défense air (BEAD-air).
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Arrêté 1958-12-23
 
+_Modifié par_:
+
+  - Arrêté 2006-07-19 art. 1 JORF 26 juillet 2006
+
 _Cite_:
 
   - Loi n°2002-3 2002-01-03 art. 19
+  - Loi n°2003-495 2003-06-12 art. 40
   - CODE DE PROCEDURE PENALE - art. 11-1 (V)
   - Code de l'aviation civile - art. L721-3 (M)
   - Code de l'aviation civile - art. L721-5 (M)
   - Code de l'aviation civile - art. L721-6 (M)
-
-_Modifié par_:
-
-  - Loi n°2006-686 du 13 juin 2006 - art. 61 (V) JORF 14 juin 2006
 
 _Cité par_:
 
