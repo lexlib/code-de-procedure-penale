@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-31
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -66741,7 +66741,7 @@ demandes d'inscription ou de poursuites disciplinaires ;
 13° A l'administration fiscale à l'occasion de la délivrance des certificats prévus à l'article 6 du décret n° 75-911 du 6
 octobre 1975 relatif aux centres de gestion agréés ;
 
-14° Aux institutions mentionnées à l'article L. 351-2 du Code du travail ;
+14° Aux institutions mentionnées à l'article L. 351-2 du code du travail ;
 
 15° Aux administrations publiques saisies de candidatures à un embarquement sur un navire français et chargées du contrôle
 des conditions d'exercice de la profession de marin ;
@@ -66750,12 +66750,12 @@ des conditions d'exercice de la profession de marin ;
 délivrer l'autorisation d'exercer les activités de gardiennage, de surveillance de transport de fonds ou de protection des
 personnes ;
 
-17° A l'administration auprès de laquelle est institué le comité prévu par l'article 46 du Code pénal (article abrogé) ;
+17° A l'administration auprès de laquelle est institué le comité prévu par l'article 46 du code pénal (article abrogé) ;
 
 18° Aux administrations publiques de l'Etat chargées d'instruire les procédures de changement de nom, d'acquisition, de perte
 ou de déchéance de la nationalité française ;
 
-19° Aux établissements mentionnés à l'article L. 792 du Code de la santé publique lorsqu'ils sont saisis d'une demande
+19° Aux établissements mentionnés à l'article L. 792 du code de la santé publique lorsqu'ils sont saisis d'une demande
 d'emploi ;
 
 20° A l'Autorité des marchés financiers, en ce qui concerne les dirigeants d'entreprises faisant appel public à l'épargne
@@ -66774,19 +66774,13 @@ personnels ;
 23° Aux juges des enfants à l'occasion de l'instruction des procédures d'habilitation des personnes physiques,
 établissements, services ou organismes publics ou privés auxquels l'autorité judiciaire confie habituellement des mineurs
 ainsi que dans le cadre du contrôle que les juges des enfants exercent sur les mêmes personnes, établissements, services ou
-organismes lorsqu'ils sont habilités.
+organismes lorsqu'ils sont habilités ;
 
 24° Au directeur général de l'Institut national de la propriété industrielle pour l'inscription sur la liste des personnes
-qualifiées en propriété industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26 novembre 1990 (2).
+qualifiées en propriété industrielle et sur la liste prévue à l'article 43 de la loi précitée du 26 novembre 1990 ;
 
-**Nota:**
-
-NOTA (1) : Le décret n° 92-360 du 1er avril 1992 a été abrogé par l'article 5 du décret n° 95-385 du 10 avril 1995 relatif à
-la partie réglementaire du code de la propriété intellectuelle, voir cependant l'article R. 421-3 dudit code dans sa
-rédaction issue du décret du 10 avril 1995.
-
-NOTA (2) : L'article 43 de la loi 90-1052 du 26 novembre 1990 est devenu après codification par l'article 2 du décret 95-385
-du 10 avril 1995 l'article L. 422-5 du code de la propriété intellectuelle.
+25° Au Commissaire du Gouvernement de l'organisme du registre des intermédiaires en assurance mentionné à l'article L. 512-1
+du code des assurances.
 
 **Liens relatifs à cet article**
 
@@ -66798,15 +66792,19 @@ _Cite_:
 
   - Décret n°75-911 du 6 octobre 1975 - art. 6 (V)
   - Loi n°83-1 1983-01-03 art. 37
-  - Loi n°83-610 1983-07-08 art. 31, art. 32, art. 34, art. 22, art. 29 et art. 41
+  - Loi n°83-610 1983-07-08 art. 31, art. 32, art. 34, art. 22, art. 29, art. 41
   - Loi n°83-610 du 8 juillet 1983 - art. 22, v. init.
+  - Loi n°83-610 du 8 juillet 1983 - art. 29, v. init.
+  - Loi n°83-610 du 8 juillet 1983 - art. 41, v. init.
   - Loi n°90-1052 1990-11-26 art. 43
+  - Décret n°92-360 1992-04-01
+  - Décret n°95-385 du 10 avril 1995 - art. 2 (V)
+  - Décret n°95-385 du 10 avril 1995 - art. 5 (V)
   - Code pénal 46
   - CODE DE PROCEDURE PENALE - art. 776 (M)
   - Code de procédure pénale 776, 1°, 2° et 4°
   - Code du travail - art. L351-2 (M)
   - Code de la santé publique - art. L792 (M)
-  - Loi n°1980-07-25 art. 1
 
 **Liens**:
 
@@ -66819,7 +66817,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Décret n°2006-1091 du 30 août 2006 - art. 3 () JORF 31 août 2006
 
 _Cité par_:
 
