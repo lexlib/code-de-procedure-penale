@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-09-01
+Version Consolidée au 2006-09-13
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -103243,6 +103243,8 @@ Centre de semi-liberté de Lyon (hommes, femmes) (Rhône).
 
 Centre de semi-liberté de Maxeville (hommes, femmes) (Meurthe-et-Moselle).
 
+Centre de semi-liberté de Melun (Seine-et-Marne).
+
 Centre de semi-liberté de Montargis (Loiret).
 
 Centre de semi-liberté de Montpellier (hommes, femmes) (Hérault).
@@ -103259,7 +103261,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2005-12-13 art. 3 JORF 24 décembre 2005
+  - Arrêté 2006-08-29 art. 1 JORF 13 septembre 2006
 
 _Cité par_:
 
