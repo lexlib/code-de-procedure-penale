@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-11-03
+Version Consolidée au 2006-11-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -71067,38 +71067,24 @@ _Cite_:
 
 ###### Article R224-2
 
-La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 :
+La procédure de certification est applicable aux frais suivants énumérés à l'article R. 93 : 
 
-1. Indemnités accordées aux témoins ;
+1. Indemnités accordées aux témoins ; 
 
-2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle ;
+2. Part contributive de l'Etat à la rétribution des auxiliaires de justice en matière d'aide juridictionnelle ; 
 
 3. Indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
-judiciaire ;
+judiciaire ; 
 
-4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ;
+4. Frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ; 
 
-5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession ;
-
-6° Indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone
-d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés
-conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
+5. Frais tarifés des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Cite_:
-
-  - Loi n°2002-305 2002-03-04 art. 17
-  - Décret n°2003-841 2003-09-02
-  - CODE DE PROCEDURE PENALE - art. R93 (M)
-
 _Modifié par_:
 
-  - Décret n°2003-841 du 2 septembre 2003 - art. 13 () JORF 4 septembre 2003
+  - Décret n°2006-1378 du 14 novembre 2006 - art. 4 (V)
 
 _Cité par_:
 
@@ -71106,6 +71092,11 @@ _Cité par_:
   - Code de procédure pénale - art. R214 (V)
   - Code de procédure pénale - art. R353 (V)
   - Code de procédure pénale - art. R423 (Ab)
+
+_Cite_:
+
+  - Code de procédure pénale - art. R217-1
+  - Code de procédure pénale - art. R93
 
 
 ###### Article R225
