@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-11-16
+Version Consolidée au 2006-11-30
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -103524,91 +103524,297 @@ _Cité par_:
 
 ###### Article A38
 
-Les segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figure dans le tableau ci-après :
+Les segments d'ADN sur lesquels portent les analyses destinées à l'identification génétique figurent dans le tableau ci-
+après : 
 
-SEGMENTS D'ADN OU loci
+<table width="378" align="center" border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="227">
+
+Segment d'ADN ou " Locus "
 
 selon la nomenclature internationale
 
-LOCALISATION
+</td>
+      <td width="151">
+
+Localisation
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 D3S1358
 
-Chromosome n° 3 
+</td>
+      <td width="151" valign="top">
+
+Chromosome 3
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 VWA
 
-Chromosome n° 12 
+</td>
+      <td valign="top" width="151">
+
+Chromosome 12
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 D8S1179
 
-Chromosome n° 8 
+</td>
+      <td width="151" valign="top">
+
+Chromosome 8
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 D21S11
 
-Chromosome n° 21 
+</td>
+      <td valign="top" width="151">
+
+Chromosome 21
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 D18S51
 
-Chromosome n° 18 
+</td>
+      <td width="151" valign="top">
 
-THO1
+Chromosome 18
 
-Chromosome n° 11 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
-FGA
+TH01
 
-Chromosome n° 4 
+</td>
+      <td width="151" valign="top">
 
-Amélogénine
+Chromosome 11
 
-Chromosomes X et Y
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
-Les analyses peuvent également porter sur les segments d'ADN suivants :
+FGA 
 
-SEGMENTS D'ADN OU loci
+</td>
+      <td valign="top" width="151">
 
-selon la nomenclature internationale
+Chromosome 4
 
-LOCALISATION
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 D16S539
 
-Chromosome n° 16
+</td>
+      <td width="151" valign="top">
 
-D2S1338
+Chromosome 16
 
-Chromosome n° 2
-
-D19S433
-
-Chromosome n° 19
-
-PentaE Chromosome n° 15
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 D5S818
 
-Chromosome n° 5
+</td>
+      <td valign="top" width="151">
+
+Chromosome 5
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 D13S317
 
-Chromosome n° 13
+</td>
+      <td valign="top" width="151">
 
-D7S820
+Chromosome 13
 
-Chromosome n° 7
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+D7S820 
+
+</td>
+      <td valign="top" width="151">
+
+Chromosome 7
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 CSF1PO
 
-Chromosome n° 5
+</td>
+      <td valign="top" width="151">
 
-PentaD
+Chromosome 5
 
-Chromosome n° 21
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 TPOX
 
-Chromosome n° 2
+</td>
+      <td valign="top" width="151">
+
+Chromosome 2
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Amélogénine
+
+</td>
+      <td valign="top" width="151">
+
+Chromosomes X et Y
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les analyses portent également sur deux au moins des quatre segments d'ADN suivants :
+
+<table border="1" width="378" cellpadding="0" align="center" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="227">
+
+Segment d'ADN ou " Locus "
+
+selon la nomenclature internationale
+
+</td>
+      <td width="151">
+
+Localisation
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+D2S1338 
+
+</td>
+      <td valign="top" width="151">
+
+Chromosome 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+D19S433
+
+</td>
+      <td width="151" valign="top">
+
+Chromosome 19
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Penta E
+
+</td>
+      <td width="151" valign="top">
+
+Chromosome 15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Penta D
+
+</td>
+      <td width="151" valign="top">
+
+Chromosome 21
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les analyses peuvent également porter sur le segment d'ADN suivant :
+
+<table cellpadding="0" align="center" cellspacing="0" width="378" border="1">
+  <tbody>
+    <tr>
+      <td width="227">
+
+Segment d'ADN ou " Locus "
+
+selon la nomenclature internationale
+
+</td>
+      <td width="151">
+
+Localisation
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+SE33 (ACTBP2)
+
+</td>
+      <td width="151" valign="top">
+
+Chromosome 6
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -103616,9 +103822,9 @@ _Codifié par_:
 
   - Arrêté 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2002-02-14 art. 1 II JORF 6 mars 2002
+  - Arrêté du 23 octobre 2006 - art. 1, v. init.
 
 
 ### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=725></a>
