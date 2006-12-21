@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2006-12-01
+Version Consolidée au 2006-12-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -24541,15 +24541,13 @@ payés par l'Etat et exposés par celle-ci. Le tribunal tient compte de l'équit
 condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette
 condamnation.
 
+Les dispositions du présent article sont également applicables aux organismes tiers payeurs intervenant à l'instance.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
-
-_Modifié par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 129 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
 
 _Cité par_:
 
@@ -24561,6 +24559,10 @@ _Cité par_:
   - Code des assurances - art. L422-7 (V)
   - Code des assurances - art. L422-8 (V)
   - Code des assurances - art. L422-9 (VD)
+
+_Modifié par_:
+
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 25 () JORF 22 décembre 2006
 
 
 ###### Article 478
