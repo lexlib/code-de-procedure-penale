@@ -1,10 +1,10 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-03-06
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
     - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. 11 à 230-5)](#3)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. 11 à 52)](#4)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. 11 à 52-1)](#4)
         - [Chapitre Ier : De la police judiciaire (art. 12 à 29-1)](#5)
           - [Section 1 : Dispositions générales (art. 12 à 15-3)](#6)
           - [Section 2 : Des officiers de police judiciaire (art. 16 à 19-1)](#7)
@@ -20,7 +20,7 @@ Version Consolidée au 2007-02-01
           - [Section 3 : Des attributions du procureur de la République (art. 39 à 44-1)](#17)
           - [Section 4 : Du ministère public près le tribunal de police et la juridiction de proximité (art. 45 à 48)](#18)
           - [Section 5 : Du bureau d'ordre national automatisé des procédures judiciaires (art. 48-1)](#19)
-        - [Chapitre III : Du juge d'instruction (art. 49 à 52)](#20)
+        - [Chapitre III : Du juge d'instruction (art. 49 à 52-1)](#20)
       - [Titre II : Des enquêtes et des contrôles d'identité (art. 53 à 78-6)](#21)
         - [Chapitre Ier : Des crimes et des délits flagrants (art. 53 à 74-2)](#22)
         - [Chapitre II : De l'enquête préliminaire (art. 75 à 78)](#23)
@@ -87,10 +87,10 @@ Version Consolidée au 2007-02-01
           - [Section 3 : Désignation de la cour d'assises statuant en appel (art. 380-14 à 380-15)](#84)
       - [Titre II : Du jugement des délits (art. 381 à 520-1)](#85)
         - [Chapitre Ier : Du tribunal correctionnel (art. 381 à 495-16)](#86)
-          - [Section 1 : De la compétence et de la saisine du tribunal correctionnel (art. 381 à 397-6)](#87)
+          - [Section 1 : De la compétence et de la saisine du tribunal correctionnel (art. 381 à 397-7)](#87)
             - [Paragraphe 1er : Dispositions générales (art. 381 à 388-3)](#88)
             - [Paragraphe 2 : De la comparution volontaire et de la citation (art. 389 à 392-1)](#89)
-            - [Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate (art. 393 à 397-6)](#90)
+            - [Paragraphe 3 : De la convocation par procès-verbal et de la comparution immédiate (art. 393 à 397-7)](#90)
           - [Section 2 : De la composition du tribunal et de la tenue des audiences (art. 398 à 399)](#91)
           - [Section 3 : De la publicité et de la police de l'audience (art. 400 à 405)](#92)
           - [Section 4 : Des débats (art. 406 à 461)](#93)
@@ -287,7 +287,7 @@ Version Consolidée au 2007-02-01
         - [Chapitre IX : Des procédures d'exécution (art. 901 à 902)](#284)
       - [Titre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. 902-1 à 934)](#285)
         - [Chapitre Ier : Dispositions générales (art. 903 à 905)](#286)
-        - [Chapitre II : De l'exercice de l'action publique (art. 906 à 907-1)](#287)
+        - [Chapitre II : De l'exercice de l'action publique (art. 905-1 à 907-1)](#287)
         - [Chapitre III : Des juridictions de jugement (art. 908 à 934)](#288)
           - [Section 1 : Du jugement des crimes (art. 908 à 923)](#289)
           - [Section 2 : Du jugement des délits (art. 924 à 929)](#290)
@@ -1534,16 +1534,17 @@ _Cité par_:
 
 ###### Article 4
 
-L'action civile peut être aussi exercée séparément de l'action publique.
+L'action civile en réparation du dommage causé par l'infraction prévue par l'article 2 peut être exercée devant une
+juridiction civile, séparément de l'action publique.
 
-Toutefois, il est sursis au jugement de cette action exercée devant la juridiction civile tant qu'il n'a pas été prononcé
-définitivement sur l'action publique lorsque celle-ci a été mise en mouvement.
+Toutefois, il est sursis au jugement de cette action tant qu'il n'a pas été prononcé définitivement sur l'action publique
+lorsque celle-ci a été mise en mouvement.
+
+La mise en mouvement de l'action publique n'impose pas la suspension du jugement des autres actions exercées devant la
+juridiction civile, de quelque nature qu'elles soient, même si la décision à intervenir au pénal est susceptible d'exercer,
+directement ou indirectement, une influence sur la solution du procès civil.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°57-1426 1957-12-31
 
 _Codifié par_:
 
@@ -1552,6 +1553,14 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°95-1 du 2 janvier 1995 - art. 6 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 20 () JORF 6 mars 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 2 (V)
 
 
 ###### Article 4-1
@@ -3796,21 +3805,23 @@ _Cite_:
 Le procureur de la République procède ou fait procéder à tous les actes nécessaires à la recherche et à la poursuite des
 infractions à la loi pénale.
 
-A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal.
+A cette fin, il dirige l'activité des officiers et agents de la police judiciaire dans le ressort de son tribunal. 
 
 Le procureur de la République contrôle les mesures de garde à vue. Il visite les locaux de garde à vue chaque fois qu'il
 l'estime nécessaire et au moins une fois par an ; il tient à cet effet un registre répertoriant le nombre et la fréquence des
-contrôles effectués dans ces différents locaux.
+contrôles effectués dans ces différents locaux. Il adresse au procureur général un rapport concernant les mesures de garde à
+vue et l'état des locaux de garde à vue de son ressort ; ce rapport est transmis au garde des sceaux. Le garde des sceaux
+rend compte de l'ensemble des informations ainsi recueillies dans un rapport annuel qui est rendu public. 
 
 Il a tous les pouvoirs et prérogatives attachés à la qualité d'officier de police judiciaire prévus par la section II du
-chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales.
+chapitre Ier du titre Ier du présent livre, ainsi que par des lois spéciales. 
 
-En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68.
+En cas d'infractions flagrantes, il exerce les pouvoirs qui lui sont attribués par l'article 68. 
 
 Le procureur de la République peut également requérir, suivant les cas, le service pénitentiaire d'insertion et de probation,
 le service compétent de l'éducation surveillée ou toute personne habilitée dans les conditions prévues par l'article 81,
 sixième alinéa, de vérifier la situation matérielle, familiale et sociale d'une personne faisant l'objet d'une enquête et de
-l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé.
+l'informer sur les mesures propres à favoriser l'insertion sociale de l'intéressé. 
 
 Ces diligences doivent être prescrites avant toute réquisition de placement en détention provisoire, en cas de poursuites
 contre un majeur âgé de moins de vingt et un ans au moment de la commission de l'infraction, lorsque la peine encourue
@@ -3825,7 +3836,7 @@ la juridiction compétente, se trouver dans l'une des situations prévues par le
 le procureur de la République ne peut prendre aucune réquisition d'interdiction du territoire français s'il n'a préalablement
 requis, suivant les cas, l'officier de police judiciaire compétent, le service pénitentiaire d'insertion et de probation, le
 service compétent de la protection judiciaire de la jeunesse, ou toute personne habilitée dans les conditions de l'article
-81, sixième alinéa, afin de vérifier le bien-fondé de cette déclaration.
+81, sixième alinéa, afin de vérifier le bien-fondé de cette déclaration. 
 
 Le procureur de la République peut également recourir à une association d'aide aux victimes ayant fait l'objet d'un
 conventionnement de la part des chefs de la cour d'appel, afin qu'il soit porté aide à la victime de l'infraction.
@@ -3834,13 +3845,12 @@ conventionnement de la part des chefs de la cour d'appel, afin qu'il soit porté
 
 _Cite_:
 
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 19 (M)
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
-  - Code pénal - art. 131-30-1 (M)
-  - Code pénal - art. 131-30-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 68 (V)
-  - CODE DE PROCEDURE PENALE - art. 81 (M)
-  - Code de procédure pénale 68, 81, 395 à 397-6, 495-7 à 495-13
+  - Ordonnance n°45-2658 du 2 novembre 1945 (V)
+  - Code pénal - art. 131-30-1 (V)
+  - Code de procédure pénale - art. 395 (V)
+  - Code de procédure pénale - art. 495-7 (V)
+  - Code de procédure pénale - art. 68 (V)
+  - Code de procédure pénale - art. 81 (V)
 
 _Codifié par_:
 
@@ -3867,7 +3877,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 128 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2007-291 du 5 mars 2007 - art. 13 () JORF 6 mars 2007
 
 
 ###### Article 41-1
@@ -4477,46 +4487,46 @@ contrôle d'un magistrat, contenant les informations nominatives relatives aux p
 procureurs de la République ou les juges d'instruction et aux suites qui leur ont été réservées, et qui est destinée à
 faciliter la gestion et le suivi des procédures judiciaires par les juridictions compétentes, l'information des victimes et
 la connaissance réciproque entre les juridictions des procédures concernant les mêmes faits ou mettant en cause les mêmes
-personnes, afin notamment d'éviter les doubles poursuites.
+personnes, afin notamment d'éviter les doubles poursuites. 
 
-Cette application a également pour objet l'exploitation des informations recueillies à des fins de recherches statistiques.
+Cette application a également pour objet l'exploitation des informations recueillies à des fins de recherches statistiques. 
 
-Les données enregistrées dans le bureau d'ordre national automatisé portent notamment sur :
+Les données enregistrées dans le bureau d'ordre national automatisé portent notamment sur : 
 
-1° Les date, lieu et qualification juridique des faits ;
+1° Les date, lieu et qualification juridique des faits ; 
 
 2° Lorsqu'ils sont connus, les nom, prénoms, date et lieu de naissance ou la raison sociale des personnes mises en cause et
-des victimes ;
+des victimes ; 
 
 3° Les informations relatives aux décisions sur l'action publique, au déroulement de l'instruction, à la procédure de
-jugement et aux modalités d'exécution des peines ;
+jugement et aux modalités d'exécution des peines ; 
 
 4° Les informations relatives à la situation judiciaire, au cours de la procédure, de la personne mise en cause, poursuivie
-ou condamnée.
+ou condamnée. 
 
 Les informations contenues dans le bureau d'ordre national automatisé sont conservées, à compter de leur dernière mise à jour
 enregistrée, pendant une durée de dix ans ou, si elle est supérieure, pendant une durée égale au délai de la prescription de
-l'action publique ou, lorsqu'une condamnation a été prononcée, au délai de la prescription de la peine.
+l'action publique ou, lorsqu'une condamnation a été prononcée, au délai de la prescription de la peine. 
 
 Les informations relatives aux procédures suivies par chaque juridiction sont enregistrées sous la responsabilité, selon les
-cas, du procureur de la République, du juge d'instruction, du juge des enfants ou du juge de l'application des peines de la
-juridiction territorialement compétente, par les greffiers ou les personnes habilitées qui assistent ces magistrats.
+cas, du procureur de la République ou des magistrats du siège exerçant des fonctions pénales de la juridiction
+territorialement compétente, par les greffiers ou les personnes habilitées qui assistent ces magistrats. 
 
 Ces informations sont directement accessibles, pour les nécessités liées au seul traitement des infractions ou des procédures
-dont ils sont saisis, par les procureurs de la République, les juges d'instruction, les juges des enfants et les juges de
-l'application des peines de l'ensemble des juridictions ainsi que leur greffier ou les personnes habilitées qui assistent ces
-magistrats.
+dont ils sont saisis, par les procureurs de la République et les magistrats du siège exerçant des fonctions pénales de
+l'ensemble des juridictions ainsi que leur greffier ou les personnes habilitées qui assistent ces magistrats. 
 
-Elles sont également directement accessibles aux procureurs de la République et aux juges d'instruction des juridictions
-mentionnées aux articles 704, 706-2, 706-17, 706-75, 706-107 et 706-108 pour le traitement de l'ensemble des procédures
-susceptibles de relever de leur compétence territoriale élargie.
+Elles sont également directement accessibles aux procureurs de la République et aux magistrats du siège exerçant des
+fonctions pénales des juridictions mentionnées aux articles 704, 706-2, 
+706-17, 706-75, 706-107 et 706-108 pour le traitement de l'ensemble des procédures susceptibles de relever de leur compétence
+territoriale élargie. 
 
 Elles sont de même directement accessibles aux procureurs généraux pour le traitement des procédures dont sont saisies les
-cours d'appel et pour l'application des dispositions des articles 35 et 37.
+cours d'appel et pour l'application des dispositions des articles 35 et 37. 
 
 Sauf lorsqu'il s'agit de données non nominatives exploitées à des fins statistiques ou d'informations relevant de l'article
 11-1, les informations figurant dans le bureau d'ordre national automatisé ne sont accessibles qu'aux autorités judiciaires.
-Lorsqu'elles concernent une enquête ou une instruction en cours, les dispositions de l'article 11 sont applicables.
+Lorsqu'elles concernent une enquête ou une instruction en cours, les dispositions de l'article 11 sont applicables. 
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
 modalités d'application du présent article et précise notamment les conditions dans lesquelles les personnes intéressées
@@ -4528,22 +4538,20 @@ _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 75 () JORF 10 mars 2004
+  - Loi n°2007-291 du 5 mars 2007 - art. 25 () JORF 6 mars 2007
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 11 (M)
-  - CODE DE PROCEDURE PENALE - art. 11-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 35 (M)
-  - CODE DE PROCEDURE PENALE - art. 37 (M)
-  - CODE DE PROCEDURE PENALE - art. 704 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-107 (AbD)
-  - CODE DE PROCEDURE PENALE - art. 706-108 (V)
-  - CODE DE PROCEDURE PENALE - art. 706-17 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-75 (V)
+  - Code de procédure pénale - art. 11-1 (V)
+  - Code de procédure pénale - art. 35 (V)
+  - Code de procédure pénale - art. 37 (V)
+  - Code de procédure pénale - art. 704 (VT)
+  - Code de procédure pénale - art. 706-107 (VT)
+  - Code de procédure pénale - art. 706-17 (VT)
+  - Code de procédure pénale - art. 706-2 (VT)
+  - Code de procédure pénale - art. 706-75 (V)
 
 _Cité par_:
 
@@ -4682,6 +4690,51 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°2004-204 du 9 mars 2004 - art. 111 () JORF 10 mars 2004
+
+
+###### Article 52-1
+
+Dans certains tribunaux de grande instance, les juges d'instruction sont regroupés au sein d'un pôle de l'instruction.
+
+Les juges d'instruction composant un pôle de l'instruction sont seuls compétents pour connaître des informations en matière
+de crime. Ils demeurent compétents en cas de requalification des faits en cours d'information ou lors du règlement de celle-
+ci.
+
+Ils sont également seuls compétents pour connaître des informations donnant lieu à une cosaisine conformément aux articles
+83-1 et 83-2.
+
+La liste des tribunaux dans lesquels existe un pôle de l'instruction et la compétence territoriale des juges d'instruction
+qui le composent sont déterminées par décret. Cette compétence peut recouvrir le ressort de plusieurs tribunaux de grande
+instance. Un ou plusieurs juges d'instruction peuvent être chargés, en tenant compte s'il y a lieu des spécialisations
+prévues par les articles 704, 706-2, 706-17, 706-75-1 et 706-107, de coordonner l'activité des juges d'instruction au sein du
+pôle, dans des conditions fixées par décret.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
+
+_Cité par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+  - CODE DE PROCEDURE PENALE - art. 85 (M)
+  - CODE DE PROCEDURE PENALE - art. D15-4-5 (VD)
+  - Code de procédure pénale - art. 706 (V)
+  - Code de procédure pénale - art. 804 (VT)
+  - Code de procédure pénale - art. 877 (V)
+  - Code de procédure pénale - art. 905-1 (MMN)
+  - Code de procédure pénale - art. D15-4-4 (V)
+  - Code de procédure pénale - art. D47-4 (V)
+  - Code de procédure pénale - art. R50 quinquies (V)
 
 
 ### Titre II : Des enquêtes et des contrôles d'identité<a id=21></a>
@@ -7411,9 +7464,9 @@ _Cite_:
 
 ###### Article 80
 
-Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procureur de la République.
+I.-Le juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procureur de la République. 
 
-Le réquisitoire peut être pris contre personne dénommée ou non dénommée.
+Le réquisitoire peut être pris contre personne dénommée ou non dénommée. 
 
 Lorsque des faits, non visés au réquisitoire, sont portés à la connaissance du juge d'instruction, celui-ci doit
 immédiatement communiquer au procureur de la République les plaintes ou les procès-verbaux qui les constatent. Le procureur
@@ -7422,11 +7475,35 @@ faits, soit requérir l'ouverture d'une information distincte, soit saisir la ju
 enquête, soit décider d'un classement sans suite ou de procéder à l'une des mesures prévues aux articles 41-1 à 41-3, soit
 transmettre les plaintes ou les procès-verbaux au procureur de la République territorialement compétent. Si le procureur de
 la République requiert l'ouverture d'une information distincte, celle-ci peut être confiée au même juge d'instruction,
-désigné dans les conditions prévues au premier alinéa de l'article 83.
+désigné dans les conditions prévues au premier alinéa de l'article 83. 
 
 En cas de plainte avec constitution de partie civile, il est procédé comme il est dit à l'article 86. Toutefois, lorsque de
 nouveaux faits sont dénoncés au juge d'instruction par la partie civile en cours d'information, il est fait application des
-dispositions de l'alinéa qui précède.
+dispositions de l'alinéa qui précède. 
+
+II.-En matière criminelle, ainsi que lorsqu'il requiert une cosaisine, le procureur de la République près le tribunal de
+grande instance au sein duquel il n'y a pas de pôle de l'instruction est compétent pour requérir l'ouverture d'une
+information devant les magistrats du pôle territorialement compétents pour les infractions relevant de sa compétence en
+application de l'article 43, y compris en faisant déférer devant eux les personnes concernées. 
+
+Dans les cas prévus au premier alinéa, le réquisitoire introductif peut également être pris par le procureur de la République
+près le tribunal de grande instance au sein duquel se trouve le pôle, qui est à cette fin territorialement compétent sur
+l'ensemble du ressort de compétence de ce pôle, y compris pour diriger et contrôler les enquêtes de police judiciaire. 
+
+Le procureur de la République près ce tribunal de grande instance est seul compétent pour suivre le déroulement des
+informations visées aux alinéas précédents jusqu'à leur règlement. 
+
+En cas de renvoi devant la juridiction de jugement, l'affaire est renvoyée, selon le cas, devant la juridiction de proximité,
+le tribunal de police, le tribunal correctionnel, le tribunal pour enfants ou la cour d'assises initialement compétents. 
+
+III.-Si le procureur de la République près le tribunal de grande instance dans lequel il y a un pôle de l'instruction
+constate qu'une personne est déférée devant lui en vue de l'ouverture d'une information en application du deuxième alinéa du
+II et qu'il estime qu'aucune information relevant de la compétence du pôle ne doit être ouverte, il peut, avant de
+transmettre le dossier de la procédure au procureur de la République territorialement compétent, requérir le placement sous
+contrôle judiciaire ou en détention provisoire de la personne selon les modalités prévues par le troisième alinéa de
+l'article 394 et l'article 396. Si la personne est placée en détention provisoire, elle doit comparaître devant le procureur
+de la République territorialement compétent au plus tard le troisième jour ouvrable suivant. A défaut, elle est mise d'office
+en liberté.
 
 **Liens relatifs à cet article**
 
@@ -7436,7 +7513,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-515 du 23 juin 1999 - art. 14 () JORF 24 juin 1999
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
 
 _Cité par_:
 
@@ -7448,9 +7525,11 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 83 (M)
-  - CODE DE PROCEDURE PENALE - art. 86 (M)
-  - Code de procédure pénale 86, 41-1 à 41-3, 83
+  - Code de procédure pénale - art. 394 (V)
+  - Code de procédure pénale - art. 396 (V)
+  - Code de procédure pénale - art. 41-1 (V)
+  - Code de procédure pénale - art. 43 (V)
+  - Code de procédure pénale - art. 86 (V)
 
 
 ###### Article 80-1
@@ -8043,7 +8122,7 @@ _Cité par_:
 ###### Article 85
 
 Toute personne qui se prétend lésée par un crime ou un délit peut en portant plainte se constituer partie civile devant le
-juge d'instruction compétent en application des dispositions des articles 52 et 706-42.
+juge d'instruction compétent en application des dispositions des articles 52, 52-1 et 706-42.
 
 **Liens relatifs à cet article**
 
@@ -8066,11 +8145,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 14 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 52 (M)
+  - CODE DE PROCEDURE PENALE - art. 52-1 (AbD)
   - CODE DE PROCEDURE PENALE - art. 706-42 (V)
 
 
@@ -9945,15 +10025,19 @@ criminelle, les délais prévus pour la prolongation de la mesure étant calcul�
 Lors de la notification prévue au premier alinéa, le juge d'instruction peut faire connaître à la personne un nouveau délai
 prévisible d'achèvement de l'information, conformément aux dispositions du huitième alinéa de l'article 116.
 
+Si l'information a été ouverte au sein d'une juridiction dépourvue de pôle de l'instruction, le juge d'instruction, aussitôt
+après avoir procédé aux formalités prévues par le présent article, se dessaisit au profit d'un juge du pôle de l'instruction
+compétent, désigné par le président du tribunal de grande instance dans lequel se trouve ce pôle.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°57-1426 1957-12-31
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 118 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
 
 _Cité par_:
 
@@ -9963,11 +10047,6 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 170 (M)
   - CODE DE PROCEDURE PENALE - art. D31-2 (VD)
   - Code de justice militaire - art. 116 (Ab)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 116 (M)
-  - CODE DE PROCEDURE PENALE - art. 181 (M)
 
 
 ###### Article 119
@@ -13560,9 +13639,10 @@ _Cité par_:
 
 ###### Article 174
 
-Lorsque la chambre de l'instruction est saisie sur le fondement de l'article 173, tous moyens pris de nullité de la procédure
-qui lui est transmise doivent, sans préjudice du droit qui lui appartient de les relever d'office, lui être proposés. A
-défaut, les parties ne sont plus recevables à en faire état, sauf le cas où elles n'auraient pu les connaître.
+Lorsque la chambre de l'instruction est saisie sur le fondement de l'article 173 ou de l'article 221-3, tous moyens pris de
+nullité de la procédure qui lui est transmise doivent, sans préjudice du droit qui lui appartient de les relever d'office,
+lui être proposés. A défaut, les parties ne sont plus recevables à en faire état, sauf le cas où elles n'auraient pu les
+connaître.
 
 La chambre de l'instruction décide si l'annulation doit être limitée à tout ou partie des actes ou pièces de la procédure
 viciée ou s'étendre à tout ou partie de la procédure ultérieure et procède comme il est dit au troisième alinéa de l'article
@@ -13591,7 +13671,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+  - Loi n°2007-291 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
 
 
 ###### Article 174-1
@@ -14961,8 +15041,19 @@ personne ou aux intérêts d'un tiers. La chambre de l'instruction statue sur ce
 observations du procureur général et, le cas échéant, des avocats des autres parties, par un arrêt rendu en chambre du
 conseil qui n'est susceptible de pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale.
 
-Après le rapport du conseiller, le procureur général et les avocats des parties qui en ont fait la demande présentent des
-observations sommaires.
+En matière de détention provisoire, et par dérogation aux dispositions du premier alinéa, si la personne mise en examen est
+majeure, les débats se déroulent et l'arrêt est rendu en audience publique. Toutefois, le ministère public, la personne mise
+en examen ou la partie civile ou leurs avocats peuvent, avant l'ouverture des débats, s'opposer à cette publicité si celle-ci
+est de nature à entraver les investigations spécifiques nécessitées par l'instruction, à porter atteinte à la présomption
+d'innocence ou à la sérénité des débats ou à nuire à la dignité de la personne ou aux intérêts d'un tiers, ou si l'enquête
+porte sur des faits visés à l'article 706-73. La chambre statue sur cette opposition après avoir recueilli les observations
+du ministère public et des parties, par un arrêt rendu en chambre du conseil qui n'est susceptible de pourvoi en cassation
+qu'en même temps que l'arrêt portant sur la demande principale. Si la chambre fait droit à cette opposition ou si la personne
+mise en examen est mineure, les débats ont lieu et l'arrêt est rendu en chambre du conseil. Il en est de même si la partie
+civile s'oppose à la publicité, dans les seuls cas où celle-ci est en droit de demander le huis-clos lors de l'audience de
+jugement.
+
+Après le rapport du conseiller, le procureur général et les avocats des parties sont entendus.
 
 La chambre de l'instruction peut ordonner la comparution personnelle des parties ainsi que l'apport des pièces à conviction.
 
@@ -14987,7 +15078,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-1138 du 9 septembre 2002 - art. 38 (V) JORF 10 septembre 2002
+  - Loi n°2007-291 2007-03-05 art. 12 I, II JORF 6 mars 2007
+  - Loi n°2007-291 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
 
 _Cité par_:
 
@@ -15005,6 +15097,7 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 194 (M)
+  - CODE DE PROCEDURE PENALE - art. 706-73 (M)
 
 
 ###### Article 199-1
@@ -15862,6 +15955,106 @@ _Cité par_:
   - Code de procédure pénale - art. D153 (V)
 
 
+###### Article 221-3
+
+I.-Lorsqu'un délai de trois mois s'est écoulé depuis le placement en détention provisoire de la personne mise en examen, que
+cette détention est toujours en cours et que l'avis de fin d'information prévu par l'article 175 n'a pas été délivré, le
+président de la chambre de l'instruction peut, d'office ou à la demande du ministère public ou de la personne mise en examen,
+décider de saisir cette juridiction afin que celle-ci examine l'ensemble de la procédure. En cas de demande du ministère
+public ou d'une partie, il statue dans les huit jours de la réception de cette demande. Cette décision n'est pas susceptible
+de recours. 
+
+La chambre de l'instruction statue après une audience à laquelle les avocats de l'ensemble des parties et des témoins
+assistés sont convoqués. La chambre de l'instruction ou son président peut ordonner la comparution des personnes mises en
+examen et des témoins assistés, d'office ou à la demande des parties. Si un mis en examen placé en détention provisoire
+demande à comparaître, le président ne peut refuser sa comparution que par une décision motivée. La comparution peut être
+réalisée selon les modalités prévues à l'article 706-71. 
+
+Si la personne mise en examen est majeure, les débats se déroulent et l'arrêt est rendu en audience publique. Toutefois, le
+ministère public, la personne mise en examen ou la partie civile ou leurs avocats peuvent, avant l'ouverture des débats,
+s'opposer à cette publicité si celle-ci est de nature à entraver les investigations spécifiques nécessitées par
+l'instruction, à porter atteinte à la présomption d'innocence ou à la sérénité des débats ou à nuire à la dignité de la
+personne ou aux intérêts d'un tiers, ou si l'enquête porte sur des faits visés à l'article 706-73. La chambre statue sur
+cette opposition, après avoir recueilli les observations du ministère public et des parties, par un arrêt rendu en chambre du
+conseil qui n'est susceptible d'un pourvoi en cassation qu'en même temps que l'arrêt portant sur la demande principale. Si la
+chambre fait droit à cette opposition ou si la personne mise en examen est mineure, les débats ont lieu et l'arrêt est rendu
+en chambre du conseil. Il en est de même si la partie civile s'oppose à la publicité, dans les seuls cas où celle-ci est en
+droit de demander le huis-clos lors de l'audience de jugement. 
+
+Le président de la chambre de l'instruction peut également ordonner d'office, après avoir recueilli les observations du
+ministère public et des parties, que les débats se déroulent en chambre du conseil si la publicité est de nature à entraver
+les investigations spécifiques nécessitées par l'instruction ou à nuire à la dignité de la personne ou aux intérêts d'un
+tiers. Le président de la chambre de l'instruction statue par une ordonnance rendue en chambre du conseil qui n'est
+susceptible de pourvoi en cassation qu'en même temps que l'arrêt rendu à l'issue des débats. 
+
+Deux jours ouvrables au moins avant la date prévue pour l'audience, les parties peuvent déposer des mémoires consistant soit
+en des demandes de mise en liberté, soit en des demandes d'actes, y compris s'il s'agit d'une demande ayant été précédemment
+rejetée en application de l'article 186-1, soit en des requêtes en annulation, sous réserve des articles 173-1 et 174, soit
+en des demandes tendant à constater la prescription de l'action publique. 
+
+II.-La chambre de l'instruction, après avoir le cas échéant statué sur ces demandes, peut : 
+
+1° Ordonner la mise en liberté, assortie ou non du contrôle judiciaire, d'une ou plusieurs des personnes mises en examen,
+même en l'absence de demande en ce sens ; 
+
+2° Prononcer la nullité d'un ou plusieurs actes dans les conditions prévues par l'article 206 ; 
+
+3° Evoquer et procéder dans les conditions prévues par les articles 201,202,204 et 205 ; 
+
+4° Procéder à une évocation partielle du dossier en ne procédant qu'à certains actes avant de renvoyer le dossier au juge
+d'instruction ; 
+
+5° Renvoyer le dossier au juge d'instruction afin de poursuivre l'information, en lui prescrivant le cas échéant de procéder
+à un ou plusieurs actes autres que ceux relatifs à la détention provisoire ou au contrôle judiciaire, dans un délai qu'elle
+détermine ; 
+
+6° Désigner un ou plusieurs autres juges d'instruction pour suivre la procédure avec le juge ou les juges d'instruction déjà
+saisis, conformément à l'article 83-1 ; 
+
+7° Lorsque cette décision est indispensable à la manifestation de la vérité et à la bonne administration de la justice et
+qu'il n'est pas possible de procéder aux désignations prévues au 6°, procéder au dessaisissement du juge d'instruction et à
+la désignation, aux fins de poursuite de la procédure, d'un ou plusieurs juges d'instruction de la juridiction d'origine ou
+d'une autre juridiction du ressort ; 
+
+8° Ordonner le règlement, y compris partiel, de la procédure, notamment en prononçant un ou plusieurs non-lieux à l'égard
+d'une ou plusieurs personnes. 
+
+L'arrêt de la chambre de l'instruction doit être rendu au plus tard trois mois après la saisine par le président, à défaut de
+quoi les personnes placées en détention sont remises en liberté. 
+
+Six mois après que l'arrêt est devenu définitif, si une détention provisoire est toujours en cours, et sauf si l'avis de fin
+d'information prévu par l'article 175 a été délivré, le président de la chambre de l'instruction peut à nouveau saisir cette
+juridiction dans les conditions prévues par le présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 12 () JORF 6 mars 2007
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. 174 (V)
+  - Code de procédure pénale - art. 142-12 (V)
+  - Code de procédure pénale - art. D43-2 (V)
+  - Code de procédure pénale - art. D43-4 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 173-1 (V)
+  - Code de procédure pénale - art. 175 (VT)
+  - Code de procédure pénale - art. 186-1 (V)
+  - Code de procédure pénale - art. 201 (V)
+  - Code de procédure pénale - art. 204 (V)
+  - Code de procédure pénale - art. 206 (VT)
+  - Code de procédure pénale - art. 706-71 (VT)
+  - Code de procédure pénale - art. 83-1 (Ab)
+
+
 ###### Article 222
 
 Le président, chaque fois qu'il l'estime nécessaire et au moins une fois par trimestre, visite les maisons d'arrêt du ressort
@@ -16406,15 +16599,10 @@ _Cité par_:
 
 La tenue des assises a lieu tous les trois mois.
 
-Cependant, le premier président de la cour d'appel peut, après avis du procureur général, ordonner qu'il soit tenu, au cours
-d'un même trimestre, une ou plusieurs sessions supplémentaires.
+Cependant, le premier président de la cour d'appel peut, sur proposition du procureur général, ordonner qu'il soit tenu, au
+cours d'un même trimestre, une ou plusieurs sessions supplémentaires.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
@@ -16426,46 +16614,53 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. 909 (V)
   - Code de procédure pénale - art. 825 (VT)
 
+_Modifié par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
 
 ###### Article 237
 
-La date de l'ouverture de chaque session d'assises ordinaire ou supplémentaire est fixée, après avis du procureur général,
-par ordonnance du premier président de la cour d'appel ou, dans le cas prévu par l'article 235, par l'arrêt de la cour
-d'appel.
+La date de l'ouverture de chaque session d'assises ordinaire ou supplémentaire est fixée, sur proposition du procureur
+général, par ordonnance du premier président de la cour d'appel ou, dans le cas prévu par l'article 235, par l'arrêt de la
+cour d'appel.
 
 Cette ordonnance ou cet arrêt est porté à la connaissance du tribunal, siège de la cour d'assises, par les soins du procureur
-général, quinze jours au moins avant l'ouverture de la session *délai*.
+général, quinze jours au moins avant l'ouverture de la session.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
+_Modifié par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
+
+_Abrogé par_:
+
+  - Loi n°2011-939 du 10 août 2011 - art. 13
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 235 (V)
+  - Code de procédure pénale - art. 235
 
 
 ###### Article 238
 
-Le rôle de chaque session est arrêté par le président de la cour d'assises, sur proposition du ministère public.
+Sur proposition du ministère public, le rôle de chaque session est arrêté par le président de la cour d'assises ou, à la
+demande du procureur général, par le premier président de la cour d'appel.
 
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 58-1273 1958-12-22 art. 18
-  - SPEC_APPLI: Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.
 
 _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
+
+_Modifié par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 22 () JORF 6 mars 2007
 
 
 ###### Article 239
@@ -20819,6 +21014,9 @@ L'accusé peut se désister de son appel jusqu'à son interrogatoire par le pré
 
 Ce désistement rend caducs les appels incidents formés par le ministère public ou les autres parties.
 
+Dans tous les cas, le ministère public peut toujours se désister de son appel formé après celui de l'accusé en cas de
+désistement de celui-ci.
+
 Le désistement d'appel est constaté par ordonnance du président de la chambre criminelle de la Cour de cassation lorsque
 celle-ci est saisie en application de l'article 380-1 ou par ordonnance du président de la cour d'assises.
 
@@ -20833,12 +21031,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 2004-03-09 art. 138 2° JORF 10 mars 2004 en vigueur le 1er octobre 2004
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 272 (M)
-  - CODE DE PROCEDURE PENALE - art. 380-1 (M)
+  - Loi n°2007-291 du 5 mars 2007 - art. 23 () JORF 6 mars 2007
 
 _Cité par_:
 
@@ -21806,13 +21999,16 @@ _Cité par_:
 
 A la demande des parties ou d'office, le tribunal peut commettre par jugement l'un de ses membres ou l'un des juges
 d'instruction de la juridiction désigné dans les conditions de l'article 83, alinéa premier, pour procéder à un supplément
-d'information ; les dispositions de l'article 463 sont applicables.
+d'information ; les dispositions de l'article 463 sont applicables. 
 
 Le tribunal peut, dans les mêmes conditions, s'il estime que la complexité de l'affaire nécessite des investigations
-supplémentaires approfondies, renvoyer le dossier au procureur de la République.
+supplémentaires approfondies, renvoyer le dossier au procureur de la République. 
 
 Le tribunal statue au préalable sur le maintien du prévenu en détention provisoire jusqu'à sa comparution devant un juge
 d'instruction. Cette comparution doit avoir lieu le jour même, à défaut de quoi le prévenu est remis en liberté d'office.
+Toutefois, si les faits relèvent de la compétence d'un pôle de l'instruction et qu'il n'existe pas de pôle au sein du
+tribunal de grande instance, cette comparution doit intervenir devant le juge d'instruction du pôle territorialement
+compétent dans un délai de trois jours ouvrables, à défaut de quoi le prévenu est remis en liberté d'office.
 
 **Liens relatifs à cet article**
 
@@ -21827,12 +22023,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-2 du 4 janvier 1993 - art. 205 () JORF 5 janvier 1993 en vigueur le 1er mars 1993
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007 rectificatif JORF 14 avril 2007
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 463 (M)
-  - CODE DE PROCEDURE PENALE - art. 83 (M)
+  - Code de procédure pénale - art. 463 (V)
+  - Code de procédure pénale - art. 83 (VT)
 
 
 ###### Article 397-3
@@ -21977,6 +22173,38 @@ _Modifié par_:
 _Cite_:
 
   - Code de procédure pénale - art. 393 (V)
+
+
+###### Article 397-7
+
+Si le procureur de la République estime que les faits pour lesquels la personne est déférée devant lui en application de
+l'article 393 doivent faire l'objet d'une information relevant de la compétence d'un pôle de l'instruction alors qu'il
+n'existe pas de tel pôle au sein du tribunal de grande instance et que les éléments de l'espèce lui paraissent exiger une
+mesure de détention provisoire, il peut requérir le placement sous contrôle judiciaire ou en détention provisoire de cette
+personne jusqu'à sa comparution devant le juge d'instruction compétent en faisant application du troisième alinéa de
+l'article 394 ou de l'article 396. Si la personne est placée en détention provisoire, elle doit comparaître devant le juge
+d'instruction du pôle de l'instruction au plus tard le troisième jour ouvrable suivant. A défaut, elle est mise d'office en
+liberté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 6 () JORF 6 mars 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 393 (M)
+  - CODE DE PROCEDURE PENALE - art. 394 (M)
+  - CODE DE PROCEDURE PENALE - art. 396 (M)
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D15-4-2 (VD)
 
 
 ##### Section 2 : De la composition du tribunal et de la tenue des audiences<a id=91></a>
@@ -29300,6 +29528,27 @@ _Créé par_:
 
 _Cité par_:
 
+  - Code de procédure pénale - art. 590-1 (V)
+
+
+###### Article 585-2
+
+Sauf dérogation accordée par le président de la chambre criminelle, le mémoire du ministère public, lorsque ce dernier se
+pourvoit en cassation, doit parvenir au greffe de la Cour de cassation au plus tard un mois après la date du pourvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 24 () JORF 6 mars 2007
+
+_Cité par_:
+
+  - Décret n°2012-125 du 30 janvier 2012 - art. 3 (V)
   - Code de procédure pénale - art. 590-1 (V)
 
 
@@ -49365,7 +49614,10 @@ professionnelle ou sociale lorsque cet exercice fait l'objet de restrictions exp
 condamnations pénales.
 
 4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi
-qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre .
+qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre ;
+
+5° Aux présidents de conseils généraux saisis d'une demande d'agrément en vue d'adoption prévu à l'article L. 225-2 du code
+de l'action sociale et des familles.
 
 Les dirigeants de personnes morales de droit public ou privé exerçant auprès des mineurs une activité culturelle, éducative
 ou sociale au sens de l'article L. 312-1 du code de l'action sociale et des familles peuvent obtenir la délivrance du
@@ -49375,7 +49627,7 @@ et du ou des ministres intéressés.
 
 **Nota:**
 
-NOTA (1) : L'article 194 de la loi n° 85-98 du 25 janvier 1985 a été abrogé par l'article 4 de l'ordonnance n° 2000-912 du 18
+(1) L'article 194 de la loi n° 85-98 du 25 janvier 1985 a été abrogé par l'article 4 de l'ordonnance n° 2000-912 du 18
 septembre 2000.
 
 **Liens relatifs à cet article**
@@ -49404,16 +49656,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Cite_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 194 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 779 (M)
-  - Code de l'action sociale et des familles - art. L312-1 (M)
-
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 203 () JORF 10 mars 2004
-  - Loi n°2004-204 du 9 mars 2004 - art. 204 () JORF 10 mars 2004
+  - Loi n°2007-293 du 5 mars 2007 - art. 10 () JORF 6 mars 2007
 
 **Liens**:
 
@@ -50594,7 +50839,12 @@ _Créé par_:
 
 A l'exception du cinquième alinéa de l'article 398 et des articles 529-3 à 529-9, 717 à 719, le présent code (Dispositions
 législatives) est applicable en Nouvelle-Calédonie et dans les territoires de la Polynésie française et des îles Wallis-et-
-Futuna, sous réserve des adaptations prévues au présent titre.
+Futuna, sous réserve des adaptations prévues au présent titre. Les dispositions des articles 52-1, 83-1 et 83-2 ne sont pas
+applicables dans les îles Wallis et Futuna.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -50604,12 +50854,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2006-673 du 8 juin 2006 - art. 8 () JORF 9 juin 2006
+  - Loi n°2007-291 du 5 mars 2007 - art. 31 (V)
 
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 398 (M)
-  - Code de procédure pénale 398, 529-3 à 529-9, 717 à 719
+  - CODE DE PROCEDURE PENALE - art. 52-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 83-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 83-2 (VD)
+  - Code de procédure pénale 398, 529-3 à 529-9, 717 à 719, 52-1, 83-1, 83-2
 
 
 ###### Article 805
@@ -52465,8 +52718,12 @@ _Cite_:
 
 ###### Article 877
 
-A l'exception des articles 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719, le présent code
-(Dispositions législatives) est applicable à Mayotte sous réserve des adaptations prévues au présent titre.
+A l'exception des articles 52-1, 83-1, 83-2, 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719,
+le présent code (Dispositions législatives) est applicable à Mayotte sous réserve des adaptations prévues au présent titre.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -52476,7 +52733,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2007-291 du 5 mars 2007 - art. 31 (V)
 
 _Cite_:
 
@@ -52487,7 +52744,10 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 305 (V)
   - CODE DE PROCEDURE PENALE - art. 399 (M)
   - CODE DE PROCEDURE PENALE - art. 510 (V)
-  - Code de procédure pénale 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719
+  - CODE DE PROCEDURE PENALE - art. 52-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 83-1 (AbD)
+  - CODE DE PROCEDURE PENALE - art. 83-2 (VD)
+  - Code de procédure pénale 52-1, 83-1, 83-2, 191, 232, 235, 240, 243 à 267, 288 à 303, 305, 398 à 398-2, 399, 510, 717 à 719
 
 
 ###### Article 878
@@ -52502,10 +52762,12 @@ termes : "tribunal de première instance" ;
 
 Les termes : "cour d'assises" ou : "la cour et le jury" sont remplacés par les termes : "cour criminelle" ;
 
-Le terme : "département" est remplacé par les termes : "collectivité territoriale" ;
+Le terme : "département" est remplacé par les termes :  "collectivité territoriale" ;
 
 Le terme : "préfet" est remplacé par les termes : "représentant du Gouvernement" et les termes : "arrêté préfectoral" par les
 termes : "arrêté du représentant du Gouvernement".
+
+Les termes : "pôle de l'instruction" et "collège de l'instruction" sont remplacés par les termes : "juge d'instruction".
 
 De même, les références à des dispositions non applicables dans la collectivité territoriale sont remplacées par les
 références aux dispositions applicables localement ayant le même objet.
@@ -52520,16 +52782,15 @@ _Codifié par_:
 
   - Ordonnance 96-268 1996-03-28
 
-_Modifié par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
 _Cité par_:
 
   - Loi n°2004-204 du 9 mars 2004 - art. 220 (V)
   - Décret n°2005-163 du 23 février 2005 - art. 2 (V)
   - Décret n°2006-385 du 30 mars 2006 - art. 23 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 31 (V) JORF 6 mars 2007
 
 
 ###### Article 879
@@ -53247,6 +53508,32 @@ _Cité par_:
 
 
 #### Chapitre II : De l'exercice de l'action publique<a id=287></a>
+
+###### Article 905-1
+
+Pour l'application du présent code, les termes : " pôle de l'instruction " sont remplacés par les termes : " juge
+d'instruction ". Les articles 52-1,83-1 et 83-2 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 96-268 1996-03-28
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 31 (V) JORF 6 mars 2007
+
+_Modifié par_:
+
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 112 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 52-1 (V)
+  - Code de procédure pénale - art. 83-1 (Ab)
+
 
 ###### Article 906
 
