@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -707,51 +707,52 @@ Version Consolidée au 2007-03-07
         - [Chapitre III : Dispositions diverses (art. D542 à D544)](#704)
       - [Titre VI : De la contrainte judiciaire (art. D570)](#705)
       - [Titre VII : De l'interdiction de séjour (art. D571 à D571-3)](#706)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. D572 à D587)](#707)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. D572 à D575)](#708)
-        - [Chapitre II : Les attributions du juge de l'application des peines et des autres magistrats mandants (art. D576 à D578)](#709)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. D579 à D587)](#710)
-      - [Titre XII : Dispositions générales (art. D599)](#711)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#712)
-  - [Partie Arrêtés (art. A1 à A59)](#713)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-10)](#714)
-      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-10)](#715)
-        - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-10)](#716)
-          - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#717)
-            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1-1 à A12)](#718)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#719)
-            - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#720)
-          - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-10)](#721)
-    - [Livre II : Des juridictions de jugement (art. A36-12 à A37-10)](#722)
-      - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#723)
-        - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#724)
-      - [Titre III : Du jugement des contraventions (art. A37 à A37-10)](#725)
-        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-10)](#726)
-    - [Livre IV (art. A38 à A38-1)](#727)
-      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#728)
-      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#729)
-    - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#730)
-      - [Titre Ier (art. A38-2)](#731)
-        - [Chapitre Ier : Dispositions générales. (art. A38-2)](#732)
-      - [Titre II : De la détention (art. A39 à A43-1)](#733)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#734)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#735)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#736)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#737)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#738)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#739)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#740)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#741)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#742)
-      - [Titre X : Des frais de justice (art. A43-2)](#743)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#744)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#745)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#746)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#747)
-        - [Disposition générale (art. A53)](#748)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#749)
-    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A58)](#750)
-    - [Livre VIII : Dispositions applicables en Polynésie française (art. A59)](#751)
+      - [Titre VIII : Du casier judiciaire (art. D571-4 à D571-7)](#707)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. D572 à D587)](#708)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. D572 à D575)](#709)
+        - [Chapitre II : Les attributions du juge de l'application des peines et des autres magistrats mandants (art. D576 à D578)](#710)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. D579 à D587)](#711)
+      - [Titre XII : Dispositions générales (art. D599)](#712)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#713)
+  - [Partie Arrêtés (art. A1 à A59)](#714)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-10)](#715)
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-10)](#716)
+        - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-10)](#717)
+          - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#718)
+            - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1-1 à A12)](#719)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#720)
+            - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#721)
+          - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-10)](#722)
+    - [Livre II : Des juridictions de jugement (art. A36-12 à A37-10)](#723)
+      - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#724)
+        - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#725)
+      - [Titre III : Du jugement des contraventions (art. A37 à A37-10)](#726)
+        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-10)](#727)
+    - [Livre IV (art. A38 à A38-1)](#728)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#729)
+      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#730)
+    - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#731)
+      - [Titre Ier (art. A38-2)](#732)
+        - [Chapitre Ier : Dispositions générales. (art. A38-2)](#733)
+      - [Titre II : De la détention (art. A39 à A43-1)](#734)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#735)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#736)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#737)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#738)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#739)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#740)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#741)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#742)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#743)
+      - [Titre X : Des frais de justice (art. A43-2)](#744)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#745)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#746)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#747)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#748)
+        - [Disposition générale (art. A53)](#749)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#750)
+    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A58)](#751)
+    - [Livre VIII : Dispositions applicables en Polynésie française (art. A59)](#752)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -101681,9 +101682,144 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 762-5 (M)
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=707></a>
+### Titre VIII : Du casier judiciaire<a id=707></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=708></a>
+###### Article D571-4
+
+En application des dispositions du dernier alinéa de l'article 776, peuvent obtenir la délivrance du bulletin n° 2 du casier
+judiciaire d'une personne, lorsque celui-ci ne porte la mention d'aucune condamnation, et pour les seules nécessités liées au
+recrutement de la personne, les dirigeants des personnes morales de droit public ou privé gestionnaires des établissements,
+services ou lieux de vie et d'accueil ainsi que les organisateurs d'accueil suivants :
+
+1° Les accueils mentionnés à l'article L. 227-4 du code de l'action sociale et des familles.
+
+2° Les établissements ou services mettant en oeuvre les mesures éducatives ordonnées par l'autorité judiciaire en application
+de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375-8 du code civil ou
+concernant des majeurs de moins de vingt et un ans ou les mesures d'investigation préalables aux mesures d'assistances
+éducatives prévues par le nouveau code de procédure civile et par l'ordonnance précitée du 2 février 1945.
+
+3° Les lieux de vie et d'accueil mentionnés aux articles D. 316-1 et suivants du code de l'action sociale et des familles qui
+accueillent des mineurs mentionnés au 2° du I de l'article D. 316-2 de ce même code.
+
+4° Les lieux de vie et d'accueil mentionnés aux articles D. 316-1 et suivants du code de l'action sociale et des familles
+ayant été autorisés par le représentant de l'Etat, seul ou conjointement avec le président du conseil général, qui
+accueillent des mineurs mentionnés aux 1°, 3° et 4° du I de l'article D. 316-2 de ce même code.
+
+5° Les établissements ou services d'enseignement et d'éducation spéciale qui assurent, à titre principal, une éducation
+adaptée et un accompagnement social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés
+d'adaptation, prévus par le 2° du I de l'article L. 312-1 du code de l'action sociale et des familles.
+
+6° Les centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2007-417 du 23 mars 2007 - art. 2 () JORF 25 mars 2007
+
+_Cité par_:
+
+  - CODE DE PROCEDURE PENALE - art. D571-7 (V)
+  - Code de procédure pénale - art. D571-5 (V)
+
+
+###### Article D571-5
+
+La demande de délivrance du bulletin et la réponse du casier judiciaire se font par l'intermédiaire des autorités
+administratives suivantes :
+
+1° La direction départementale de la jeunesse et des sports du département dans lequel est situé le siège social de
+l'organisateur de l'accueil en ce qui concerne les accueils mentionnés au 1° de l'article D. 571-4.
+
+2° Le directeur régional de la protection judiciaire de la jeunesse ou, dans les départements d'outre-mer, le directeur
+départemental de la protection judiciaire de la jeunesse, territorialement compétent dans le département où est situé
+l'établissement, le service ou lieu de vie et d'accueil, en ce qui concerne :
+
+a) Les établissements et services mentionnés au 2° de l'article D. 571-4 ;
+
+b) Les lieux de vie et d'accueil mentionnés au 3° de l'article D. 571-4.
+
+3° Le service déconcentré chargé des affaires sanitaires et sociales dans le département où est situé l'établissement, le
+service ou lieu de vie et d'accueil, en ce qui concerne :
+
+a) Les lieux de vie et d'accueil mentionnés au 4° de l'article D. 571-4 ;
+
+b) Les établissements et des services mentionnés aux 5° et 6° de l'article D. 571-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2007-417 du 23 mars 2007 - art. 2 () JORF 25 mars 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+
+
+###### Article D571-6
+
+L'autorité administrative compétente interroge à cette fin le casier judiciaire national informatisé par un moyen de
+télécommunication sécurisé.
+
+A peine d'irrecevabilité, la demande de délivrance adressée à l'autorité administrative compétente doit mentionner l'identité
+du dirigeant de la personne morale en indiquant ses fonctions, être signée de ce dernier et préciser l'identité de la
+personne dont le recrutement est envisagé, ainsi que la nature de l'emploi concerné, en utilisant un formulaire dont le
+modèle est élaboré par le ministère de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2007-417 du 23 mars 2007 - art. 2 () JORF 25 mars 2007
+
+
+###### Article D571-7
+
+Lorsque le bulletin transmis par le casier judiciaire à l'autorité administrative compétente est revêtu de la mention néant,
+il est remis ou adressé par celle-ci au dirigeant de la personne morale.
+
+Dans le cas contraire, l'autorité administrative compétente informe le dirigeant de la personne morale que le bulletin ne
+peut lui être délivré car il comporte une ou plusieurs condamnations, en précisant, selon le cas :
+
+- que le bulletin ne comporte aucune des condamnations prévues par les articles L. 133-6 du code de l'action sociale et des
+familles ;
+
+- que le bulletin comporte une ou plusieurs condamnations prévues à l'article L. 133-6 du code de l'action sociale et des
+familles, et que la personne dont le bulletin n° 2 a été sollicité ne peut en conséquence être recrutée dans les hypothèses
+visées à l'article D. 571-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-322 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2007-417 du 23 mars 2007 - art. 2 () JORF 25 mars 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. D571-4 (V)
+  - Code de l'action sociale et des familles - art. L133-6 (T)
+
+
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=708></a>
+
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=709></a>
 
 ###### Article D572
 
@@ -101841,7 +101977,7 @@ _Cité par_:
   - Décret n°2014-442 du 29 avril 2014 (V)
 
 
-#### Chapitre II : Les attributions du juge de l'application des peines et des autres magistrats mandants<a id=709></a>
+#### Chapitre II : Les attributions du juge de l'application des peines et des autres magistrats mandants<a id=710></a>
 
 ###### Article D576
 
@@ -101919,7 +102055,7 @@ _Cite_:
   - Code de procédure pénale - art. D574 (V)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=710></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=711></a>
 
 ###### Article D579
 
@@ -102170,7 +102306,7 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. D593 (Ab)
 
 
-### Titre XII : Dispositions générales<a id=711></a>
+### Titre XII : Dispositions générales<a id=712></a>
 
 ###### Article D599
 
@@ -102193,7 +102329,7 @@ _Anciens textes_:
   - Code de procédure pénale D572 (1ère version)
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=712></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=713></a>
 
 ###### Article D600
 
@@ -102220,11 +102356,11 @@ _Anciens textes_:
   - Code de procédure pénale - art. D573 (M)
 
 
-# Partie Arrêtés<a id=713></a>
+# Partie Arrêtés<a id=714></a>
 
-## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=714></a>
+## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=715></a>
 
-### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=715></a>
+### Titre Ier : Des autorités chargées de l'action publique et de l'instruction<a id=716></a>
 
 ###### Article A1
 
@@ -102325,11 +102461,11 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. A1-1 (V)
 
 
-#### Chapitre Ier : De la police judiciaire<a id=716></a>
+#### Chapitre Ier : De la police judiciaire<a id=717></a>
 
-##### Section 2 : Des officiers de police judiciaire<a id=717></a>
+##### Section 2 : Des officiers de police judiciaire<a id=718></a>
 
-##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=718></a>
+##### Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire<a id=719></a>
 
 ###### Article A1-1
 
@@ -102704,7 +102840,7 @@ _Modifié par_:
   - Arrêté 1960-08-24 art. 1 JORF 25 août 1960
 
 
-##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=719></a>
+##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=720></a>
 
 ###### Article A13
 
@@ -103613,7 +103749,7 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. A23 (V)
 
 
-##### Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°).<a id=720></a>
+##### Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°).<a id=721></a>
 
 ###### Article A34
 
@@ -103734,7 +103870,7 @@ _Modifié par_:
   - Arrêté 2004-06-18 art. 2 JORF 14 juillet 2004
 
 
-##### Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire<a id=721></a>
+##### Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire<a id=722></a>
 
 ###### Article A36
 
@@ -104033,11 +104169,11 @@ _Créé par_:
   - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
 
 
-## Livre II : Des juridictions de jugement<a id=722></a>
+## Livre II : Des juridictions de jugement<a id=723></a>
 
-### Titre Ier : De la cour d'assises<a id=723></a>
+### Titre Ier : De la cour d'assises<a id=724></a>
 
-#### Chapitre III : De la composition de la cour d'assises<a id=724></a>
+#### Chapitre III : De la composition de la cour d'assises<a id=725></a>
 
 ###### Article A36-12
 
@@ -104176,9 +104312,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 264 (M)
 
 
-### Titre III : Du jugement des contraventions<a id=725></a>
+### Titre III : Du jugement des contraventions<a id=726></a>
 
-#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=726></a>
+#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=727></a>
 
 ###### Article A37
 
@@ -104561,9 +104697,9 @@ _Cité par_:
   - Code de procédure pénale - art. A37-14 (VD)
 
 
-## Livre IV<a id=727></a>
+## Livre IV<a id=728></a>
 
-### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=728></a>
+### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=729></a>
 
 ###### Article A38
 
@@ -104870,7 +105006,7 @@ _Modifié par_:
   - Arrêté du 23 octobre 2006 - art. 1, v. init.
 
 
-### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=729></a>
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=730></a>
 
 ###### Article A38-1
 
@@ -104901,11 +105037,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 706-71 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=730></a>
+## Livre V : Des procédures d'exécution<a id=731></a>
 
-### Titre Ier<a id=731></a>
+### Titre Ier<a id=732></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=732></a>
+#### Chapitre Ier : Dispositions générales.<a id=733></a>
 
 ###### Article A38-2
 
@@ -104960,11 +105096,11 @@ _Créé par_:
   - Arrêté du 17 février 2005 - art. 1, v. init.
 
 
-### Titre II : De la détention<a id=733></a>
+### Titre II : De la détention<a id=734></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=734></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=735></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=735></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=736></a>
 
 ###### Article A39
 
@@ -105220,9 +105356,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D72-1 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=736></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=737></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=737></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=738></a>
 
 ###### Article A40
 
@@ -105379,11 +105515,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=738></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=739></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=739></a>
+##### Section 1 : De la gestion des biens des détenus<a id=740></a>
 
-##### Paragraphe 1er : Pécule.<a id=740></a>
+##### Paragraphe 1er : Pécule.<a id=741></a>
 
 ###### Article A41
 
@@ -105470,9 +105606,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=741></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=742></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=742></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=743></a>
 
 ###### Article A43
 
@@ -105531,7 +105667,7 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre X : Des frais de justice<a id=743></a>
+### Titre X : Des frais de justice<a id=744></a>
 
 ###### Article A43-2
 
@@ -105568,9 +105704,9 @@ _Nouveaux textes_:
   - CODE DE PROCEDURE PENALE - art. A43-4 (M)
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=744></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=745></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=745></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=746></a>
 
 ###### Article A44
 
@@ -106036,9 +106172,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=746></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=747></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=747></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=748></a>
 
 ###### Article A45
 
@@ -106113,7 +106249,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=748></a>
+#### Disposition générale<a id=749></a>
 
 ###### Article A53
 
@@ -106131,7 +106267,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=749></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=750></a>
 
 ###### Article A54
 
@@ -106229,7 +106365,7 @@ _Modifié par_:
   - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
 
 
-## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=750></a>
+## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=751></a>
 
 ###### Article A58
 
@@ -106262,7 +106398,7 @@ _Créé par_:
   - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
 
 
-## Livre VIII : Dispositions applicables en Polynésie française<a id=751></a>
+## Livre VIII : Dispositions applicables en Polynésie française<a id=752></a>
 
 ###### Article A59
 
