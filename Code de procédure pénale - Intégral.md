@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-03-25
+Version Consolidée au 2007-04-08
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -60861,7 +60861,10 @@ l'environnement contre les émissions polluantes des moteurs à allumage par com
 non routiers ;
 
 e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions constatées par la garderie du domaine du
-Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code.
+Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code ;
+
+f) Les dispositions du chapitre VIII et de la section 4 du chapitre IX du titre II du livre IV du code de l'environnement
+(partie réglementaire), relatives au droit de chasse.
 
 4° Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou
 tenus en captivité réprimées par :
@@ -60920,7 +60923,6 @@ _Cite_:
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. 5 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
   - Code forestier - art. R133-5 (M)
   - Code forestier - art. R137-4 (M)
@@ -60935,7 +60937,6 @@ _Cite_:
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
-  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66
 
 _Codifié par_:
 
@@ -60949,6 +60950,7 @@ _Cité par_:
   - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
   - Décret n°2019-725 du 9 juillet 2019 - art. 1
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -60961,7 +60963,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1386 du 15 novembre 2006 - art. 4 () JORF 16 novembre 2006 en vigueur le 1er février 2007
+  - Décret n°2007-533 du 6 avril 2007 - art. 3 () JORF 8 avril 2007
 
 **Liens**:
 
