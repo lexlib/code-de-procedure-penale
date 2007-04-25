@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-04-08
+Version Consolidée au 2007-04-26
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -60801,7 +60801,10 @@ e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions c
 Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code ;
 
 f) Les dispositions du chapitre VIII et de la section 4 du chapitre IX du titre II du livre IV du code de l'environnement
-(partie réglementaire), relatives au droit de chasse.
+(partie réglementaire), relatives au droit de chasse ;
+
+g) Le titre Ier du livre II et le titre III du livre IV du code de l'environnement (partie réglementaire), relatifs au droit
+de l'eau et des milieux aquatiques et de la pêche en eau douce et de la gestion des ressources piscicoles.
 
 4° Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou
 tenus en captivité réprimées par :
@@ -60832,34 +60835,13 @@ i) L'article R. 215-2 du code rural ;
 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues par les articles R. 3512-1 et le 1° et le 2° de
-l'article R$ 3512-2.
+l'article R. 3512-2.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
-_Cité par_:
-
-  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
-  - Décret n°2011-348 du 29 mars 2011 - art. 2 (VD)
-  - Décret n°2012-343 du 9 mars 2012 (V)
-  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
-  - Code de l'environnement - art. R*242-78 (Ab)
-  - Code de l'environnement - art. R322-42 (V)
-  - Code de l'environnement - art. R331-72 (M)
-  - Code de l'environnement - art. R331-74 (V)
-  - Code de l'environnement - art. R332-79 (V)
-  - Code de procédure pénale - art. R251 (VD)
-  - Code des postes et des communications électroni... - art. R10-11 (V)
-  - Code des postes et des communications électronique - art. R11 (T)
-
 _Cite_:
 
+  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
   - Loi n°66-1005 1966-12-28
   - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
   - Décret n°80-791 du 1 octobre 1980 - art. 15 (M)
@@ -60894,12 +60876,34 @@ _Cite_:
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
-  - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
+  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66
   - Décret n°42-730 1942-03-22 art. 80-1
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Cité par_:
+
+  - Décret n°64-1333 du 22 décembre 1964 - art. 2 (M)
+  - Décret n°2011-348 du 29 mars 2011 - art. 2 (VD)
+  - Décret n°2012-343 du 9 mars 2012 (V)
+  - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
+  - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
+  - Code de l'environnement - art. R*242-78 (Ab)
+  - Code de l'environnement - art. R322-42 (V)
+  - Code de l'environnement - art. R331-72 (M)
+  - Code de l'environnement - art. R331-74 (V)
+  - Code de l'environnement - art. R332-79 (V)
+  - Code de procédure pénale - art. R251 (VD)
+  - Code des postes et des communications électroni... - art. R10-11 (V)
+  - Code des postes et des communications électronique - art. R11 (T)
 
 _Modifié par_:
 
-  - Décret n°2007-533 du 6 avril 2007 - art. 3 () JORF 8 avril 2007
+  - Décret n°2007-598 du 24 avril 2007 - art. 3 () JORF 26 avril 2007
 
 **Liens**:
 
@@ -101687,7 +101691,10 @@ concernant des accidents ou des types d'accidents déterminés ;
 territoriaux et d'études de sécurité d'itinéraires ;
 
 10° Le délégué général de l'Association des sociétés françaises d'autoroutes et d'ouvrages à péage, pour la réalisation d'un
-rapport annuel sur les accidents mortels.
+rapport annuel sur les accidents mortels ;
+
+11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère de l'intérieur, pour la réalisation
+d'enquêtes techniques destinées à prévenir des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
 
 II. - L'autorisation accordée par le procureur de la République peut être délivrée sans limitation de temps sous réserve de
 la possibilité d'y mettre fin à tout moment, ou pendant une période de temps déterminée, pour des catégories de procédures
@@ -101728,7 +101735,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2006-07-19 art. 1 JORF 26 juillet 2006
+  - Arrêté 2007-03-29 art. 1 JORF 26 avril 2007
 
 _Cite_:
 
