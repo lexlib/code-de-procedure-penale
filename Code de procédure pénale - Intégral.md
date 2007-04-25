@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-04-08
+Version Consolidée au 2007-04-26
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -60864,7 +60864,10 @@ e) L'article L. 322-10-2 du code de l'environnement relatif aux contraventions c
 Conservatoire de l'espace littoral et des rivages lacustres et les agents visés à l'article L. 322-20 du même code ;
 
 f) Les dispositions du chapitre VIII et de la section 4 du chapitre IX du titre II du livre IV du code de l'environnement
-(partie réglementaire), relatives au droit de chasse.
+(partie réglementaire), relatives au droit de chasse ;
+
+g) Le titre Ier du livre II et le titre III du livre IV du code de l'environnement (partie réglementaire), relatifs au droit
+de l'eau et des milieux aquatiques et de la pêche en eau douce et de la gestion des ressources piscicoles.
 
 4° Contraventions en matière de protection ou de contrôle des animaux domestiques et des animaux sauvages, apprivoisés ou
 tenus en captivité réprimées par :
@@ -60895,7 +60898,7 @@ i) L'article R. 215-2 du code rural ;
 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues par les articles R. 3512-1 et le 1° et le 2° de
-l'article R$ 3512-2.
+l'article R. 3512-2.
 
 **Liens relatifs à cet article**
 
@@ -60937,6 +60940,7 @@ _Cite_:
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
+  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66
 
 _Codifié par_:
 
@@ -60963,7 +60967,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-533 du 6 avril 2007 - art. 3 () JORF 8 avril 2007
+  - Décret n°2007-598 du 24 avril 2007 - art. 3 () JORF 26 avril 2007
 
 **Liens**:
 
@@ -102148,7 +102152,10 @@ concernant des accidents ou des types d'accidents déterminés ;
 territoriaux et d'études de sécurité d'itinéraires ;
 
 10° Le délégué général de l'Association des sociétés françaises d'autoroutes et d'ouvrages à péage, pour la réalisation d'un
-rapport annuel sur les accidents mortels.
+rapport annuel sur les accidents mortels ;
+
+11° Le chef de l'inspection de la défense et de la sécurité civiles du ministère de l'intérieur, pour la réalisation
+d'enquêtes techniques destinées à prévenir des accidents mettant en cause des sapeurs-pompiers civils ou militaires.
 
 II. - L'autorisation accordée par le procureur de la République peut être délivrée sans limitation de temps sous réserve de
 la possibilité d'y mettre fin à tout moment, ou pendant une période de temps déterminée, pour des catégories de procédures
@@ -102189,7 +102196,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté 2006-07-19 art. 1 JORF 26 juillet 2006
+  - Arrêté 2007-03-29 art. 1 JORF 26 avril 2007
 
 _Cite_:
 
