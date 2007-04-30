@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-04-26
+Version Consolidée au 2007-05-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -68436,6 +68436,9 @@ mesure d'instruction à la demande d'une juridiction étrangère en application 
 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en
 matière civile et commerciale.
 
+25° Des frais de la notification prévue à l'article 30-3 de l'annexe du nouveau code de procédure civile relative à son
+application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -68468,27 +68471,9 @@ _Cité par_:
   - Code de procédure pénale - art. R93-3 (V)
   - Code des procédures civiles d'exécution - art. R213-7 (V)
 
-_Cite_:
-
-  - Loi n°67-563 du 13 juillet 1967 - art. 94 (Ab)
-  - Loi n°2002-305 2002-03-04 art. 17
-  - Décret n°2003-841 2003-09-02
-  - Code de commerce. - art. L663-1 (V)
-  - Code de la consommation - art. L332-2 (M)
-  - Code pénal - art. 131-14 (M)
-  - Code pénal - art. 131-35 (M)
-  - Code civil - art. 388-2 (AbD)
-  - Code civil - art. 389-3 (M)
-  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-  - CODE DE PROCEDURE PENALE - art. R53 (M)
-  - CODE DE PROCEDURE PENALE - art. R92 (M)
-  - Code de procédure pénale 16-2, R92, 131-6, R53
-  - Nouveau code de procédure civile 696
-  - Règlement CE 1206/2001 2001-05-28
-
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Décret n°2006-1477 du 29 novembre 2006 - art. 2 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
 ###### Article R93-1
