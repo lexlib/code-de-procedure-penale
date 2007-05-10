@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-05-11
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -60767,6 +60767,8 @@ i) L'article R. 215-2 du code rural ;
 6° Contraventions réprimées par le code de la santé publique prévues par les articles R. 3512-1 et le 1° et le 2° de
 l'article R. 3512-2.
 
+Contraventions en matière de vente de boissons alcoolisées réprimées par l'article R. 3353-5-1 du code la santé publique.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -60780,7 +60782,6 @@ _Cité par_:
   - Décret n°2012-343 du 9 mars 2012 (V)
   - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -60813,6 +60814,7 @@ _Cite_:
   - Code pénal - art. R622-2 (V)
   - Code pénal - art. R632-1 (M)
   - CODE DE PROCEDURE PENALE - art. 5 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - Code de procédure pénale R49-8-5, L133-1, R10-1, R10-2, R10-4, R10-9, 5
   - Code forestier - art. R133-5 (M)
   - Code forestier - art. R137-4 (M)
@@ -60822,18 +60824,18 @@ _Cite_:
   - Code forestier - art. R331-1 (M)
   - Code forestier - art. R331-2 (M)
   - Code forestier - art. R331-3 (M)
+  - Code de la santé publique - art. R3353-5-1 (V)
   - Code de la santé publique - art. R3512-1 (M)
   - Code de la santé publique - art. R3512-2 (M)
   - Code des assurances - art. R*211-14 (M)
   - Code des assurances - art. R211-21-5 (V)
   - Code de l'environnement - art. L322-10-2 (V)
-  - Code de l'environnement L322-10-2, L322-20, R242-68 à R242-7, R331-63 à R331-66
   - Code rural R241-61, R241-62, R241-63, 276, 276-2, 276-3, L211-14, L211-16, R215-6 à R215-8, R215-2
   - Décret n°42-730 1942-03-22 art. 80-1
 
 _Modifié par_:
 
-  - Décret n°2007-598 du 24 avril 2007 - art. 3 () JORF 26 avril 2007
+  - Décret n°2007-794 du 10 mai 2007 - art. 2 () JORF 11 mai 2007
 
 **Liens**:
 
