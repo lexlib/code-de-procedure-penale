@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-05-15
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -750,7 +750,7 @@ Version Consolidée au 2007-05-11
     - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#747)
       - [Titre Ier (art. A38-2)](#748)
         - [Chapitre Ier : Dispositions générales. (art. A38-2)](#749)
-      - [Titre II : De la détention (art. A39 à A43-1)](#750)
+      - [Titre II : De la détention (art. A39 à A43-3)](#750)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#751)
           - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#752)
         - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#753)
@@ -758,17 +758,17 @@ Version Consolidée au 2007-05-11
         - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#755)
           - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#756)
             - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#757)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-1)](#758)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-3)](#758)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#759)
-      - [Titre X : Des frais de justice (art. A43-2)](#760)
+          - [Section 7 : Des mineurs détenus (art. A43-2 à A43-3)](#760)
       - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#761)
         - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#762)
         - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#763)
           - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#764)
         - [Disposition générale (art. A53)](#765)
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#766)
-    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A58)](#767)
-    - [Livre VIII : Dispositions applicables en Polynésie française (art. A59)](#768)
+    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A57-1 à A58)](#767)
+    - [Livre VIII : Dispositions applicables en Polynésie française (art. A58-1 à A59)](#768)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -95744,22 +95744,17 @@ _Cité par_:
 La première part, affectée à l'indemnisation des parties civiles et créanciers d'aliments, est déterminée en appliquant à la
 fraction des sommes qui échoient aux détenus les taux de :
 
-- 20 %, pour la fraction supérieure à 200 Euros et inférieure ou égale à 400 Euros ;
+- 20 %, pour la fraction supérieure à 200 euros et inférieure ou égale à 400 euros ;
 
-- 25 %, pour la fraction supérieure à 400 Euros et inférieure ou égale à 600 Euros ;
+- 25 %, pour la fraction supérieure à 400 euros et inférieure ou égale à 600 euros ;
 
-- 30 %, pour la fraction supérieure à 600 Euros.
+- 30 %, pour la fraction supérieure à 600 euros.
 
-Lorsque, d'une part, les sommes inscrites sur cette part atteignent le montant de 1 000 Euros, que, d'autre part, les parties
+Lorsque, d'une part, les sommes inscrites sur cette part atteignent le montant de 1 000 euros, que, d'autre part, les parties
 civiles ont été entièrement indemnisées ou qu'il ressort de la décision définitive sur l'action publique et les intérêts
 civils qu'il n'y a pas de parties civiles ou qu'aucun dommage et intérêt n'a été accordé et que, enfin, aucun créancier
 d'aliments ne s'est prévalu de sa créance sur le fondement d'un titre exécutoire, la répartition opérée au titre de cette
-part a lieu au profit de la part affectée à la constitution du pécule de libération à concurrence de la limite déterminée
-pour cette part et, pour le surplus, au profit de la part disponible.
-
-Si aucune condamnation à des dommages et intérêts n'a été prononcée, les sommes prélevées au-delà du plafond de 1 000 Euros
-sont reversées sur la part affectée à la constitution du pécule de libération à concurrence de la limite déterminée pour
-cette part et, pour le surplus, au profit de la part disponible.
+part a lieu au profit de la part disponible.
 
 Toutefois, le prélèvement au titre de la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments est
 opéré à nouveau, y compris au-delà du plafond précité, dès qu'un créancier d'aliments vient à se prévaloir de sa créance sur
@@ -95772,9 +95767,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+  - Décret n°2007-861 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
 
 _Cité par_:
 
@@ -95786,32 +95781,19 @@ _Cité par_:
 La deuxième part, affectée à la constitution du pécule de libération, est déterminée en appliquant à la fraction des sommes
 qui échoient aux détenus le taux de 10 %, sous réserve de la dispense prévue par l'article D. 121-1.
 
-Lorsque les sommes inscrites atteignent un montant égal à 1 000 Euros, sauf lorsque ce montant a été atteint ou dépassé par
-application des dispositions du troisième alinéa de l'article D. 324, les sommes prélevées au titre de cette part sont
-intégralement versées à la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments.
-
-Si les prélèvements au titre de la part réservée à l'indemnisation des parties civiles et des créanciers d'aliments ont
-cessé, les sommes qui viennent à échoir au détenu sont intégralement versées à la part disponible.
-
-**Nota:**
-
-Le Conseil d'Etat, par décision n° 274997, en date du 15 février 2006, dispose que L'article D. 320-2 du code de procédure
-pénale est annulé en tant qu'il limite à 1 000 euros le montant du pécule de libération.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+  - Décret n°2007-861 du 14 mai 2007 - art. 2 () JORF 15 mai 2007
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D121-1 (V)
-  - CODE DE PROCEDURE PENALE - art. D324. (M)
+  - Code de procédure pénale - art. D121-1 (V)
 
 
 ###### Article D320-3
@@ -95931,8 +95913,7 @@ par arrêté du garde des sceaux, ministre de la justice, elles sont versées à
 Une instruction de service détermine les modalités d'application de ces dispositions.
 
 Le capital représentatif des rentes d'accidents du travail dont la conversion a été rendue obligatoire par le décret n°
-59-734 du 15 juin 1959 est intégralement versé au pécule de libération et y sont maintenues même si ce versement a pour effet
-de porter le montant des sommes inscrites sur cette part au-delà de 1 000 Euros.
+59-734 du 15 juin 1959 est intégralement versé au pécule de libération.
 
 Pendant l'incarcération, le pécule de libération est indisponible et ne peut faire l'objet d'aucune voie d'exécution.
 
@@ -95948,7 +95929,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-1072 du 5 octobre 2004 - art. 1 () JORF 12 octobre 2004 en vigueur le 1er novembre 2004
+  - Décret n°2007-861 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
 
 _Cité par_:
 
@@ -97916,8 +97897,8 @@ _Créé par_:
 Dans le cadre de la prise en charge globale des personnes présentant une dépendance à un produit licite ou illicite, les
 secteurs de psychiatrie générale et les secteurs de psychiatrie en milieu pénitentiaire favorisent et coordonnent, en
 collaboration avec les unités de consultations et de soins ambulatoires, les interventions, au sein de l'établissement
-pénitentiaire, des équipes des structures spécialisées de soins, notamment des centres spécialisés de soins aux toxicomanes
-et des centres d'hygiène alimentaire et d'alcoologie.
+pénitentiaire, des équipes des structures spécialisées de soins, notamment des centres de soins d'accompagnement et de
+prévention en addictologie.
 
 Dans les établissements visés à l'article D. 371, cette coordination est assurée par les médecins psychiatres du service
 médical.
@@ -97930,7 +97911,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 90 () JORF 9 décembre 1998
+  - Décret n°2007-877 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
 
 _Cité par_:
 
@@ -97939,10 +97920,6 @@ _Cité par_:
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. D371 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 714 à 728
 
 
 ##### Paragraphe 6 : L'habilitation des personnels hospitaliers<a id=685></a>
@@ -98105,8 +98082,7 @@ _Modifié par_:
 
 Dans le cadre de la prise en charge globale des personnes présentant une dépendance à un produit licite ou illicite,
 l'autorisation d'accès à l'établissement pénitentiaire est accordée, par le chef d'établissement, aux personnels des
-structures spécialisées de soins, notamment des centres spécialisés de soins aux toxicomanes et des centres d'hygiène
-alimentaire et d'alcoologie.
+structures spécialisées de soins, notamment des centres de soins d'accompagnement et de prévention en addictologie.
 
 **Liens relatifs à cet article**
 
@@ -98114,9 +98090,9 @@ _Codifié par_:
 
   - Décret n°59-322 1959-02-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-1099 du 8 décembre 1998 - art. 96 () JORF 9 décembre 1998
+  - Décret n°2007-877 du 14 mai 2007 - art. 3 () JORF 15 mai 2007
 
 _Cité par_:
 
@@ -106490,18 +106466,24 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-### Titre X : Des frais de justice<a id=760></a>
+##### Section 7 : Des mineurs détenus<a id=760></a>
 
 ###### Article A43-2
 
-I. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
-code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
-communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
-justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
-fixés dans les tableaux annexés au présent article (tableaux non reproduits, voir fac-similé).
+La liste des établissements pénitentiaires spécialisés pour mineurs prévue à l'article R. 57-9-11 est fixée comme suit :
 
-II. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu au I est déterminé
-sur devis.
+- établissement spécialisé pour mineurs de Lavaur (Tarn) ;
+
+- établissement spécialisé pour mineurs de Marseille (Bouches-du-Rhône) ;
+
+- établissement spécialisé pour mineurs de Quiévrechain (Nord) ;
+
+- établissement spécialisé pour mineurs du Rhône (Meyzieu, Rhône).
+
+**Nota:**
+
+L'arrêté du 22 octobre 2007 publié au Journal officiel du 25 octobre 2007 modifie par erreur l'article A43-2 (au lieu de
+l'article A43-4).
 
 **Liens relatifs à cet article**
 
@@ -106511,20 +106493,153 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Arrêté 2006-08-22 art. 1 JORF 1er septembre 2006
-
-_Transféré par_:
-
-  - Arrêté 2007-06-29 art. 2 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. R10-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R213-1 (Ab)
+  - Arrêté 2007-05-09 art. 1 JORF 15 mai 2007
 
 _Nouveaux textes_:
 
   - CODE DE PROCEDURE PENALE - art. A43-4 (M)
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R57-9-11 (V)
+
+
+###### Article A43-3
+
+La liste des quartiers des mineurs des maisons d'arrêt ou des établissements pour peines prévue à l'article R. 57-9-11 est
+fixée comme suit :
+
+Quartier des mineurs de la maison d'arrêt d'Aix-Luynes (Bouches-du-Rhône) ;
+
+Quartier des mineurs de la maison d'arrêt d'Amiens (Somme) ;
+
+Quartier des mineurs de la maison d'arrêt d'Angers (Maine-et-Loire) ;
+
+Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;
+
+Quartier des mineurs du centre pénitentiaire d'Avignon-le-Pontet (Vaucluse) ;
+
+Quartier des mineurs du centre pénitentiaire de Baie-Mahault (Guadeloupe) ;
+
+Quartier des mineurs de la maison d'arrêt de Besançon (Doubs) ;
+
+Quartier des mineurs de la maison d'arrêt de Bois-d'Arcy (Yvelines) ;
+
+Quartier des mineurs de la maison d'arrêt de Bonneville (Haute-Savoie) ;
+
+Quartier des mineurs de la maison d'arrêt de Bordeaux-Gradignan (Gironde) ;
+
+Quartier des mineurs du centre pénitentiaire de Borgo (Haute-Corse) ;
+
+Quartier des mineurs de la maison d'arrêt de Bourges (Cher) ;
+
+Quartier des mineurs de la maison d'arrêt de Brest (Finistère) ;
+
+Quartier des mineurs du centre pénitentiaire de Caen (Calvados) ;
+
+Quartier des mineurs de la maison d'arrêt de Chambéry (Savoie) ;
+
+Quartier des mineurs de la maison d'arrêt de Chaumont (Haute-Marne) ;
+
+Quartier des mineurs de la maison d'arrêt de Dijon (Côte-d'Or) ;
+
+Quartier des mineurs du centre pénitentiaire de Ducos (Martinique) ;
+
+Quartier des mineurs de la maison d'arrêt d'Epinal (Vosges) ;
+
+Quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
+
+Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
+
+Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
+
+Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ;
+
+Quartier des mineurs du centre pénitentiaire du Port (Réunion) ;
+
+Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ;
+
+Quartier des mineurs de la maison d'arrêt du centre pénitentiaire de Lille-Loos-Sequedin (Nord) ;
+
+Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ;
+
+Quartier des mineurs de la maison d'arrêt de Longuenesse (Pas-de-Calais) ;
+
+Quartier des mineurs du centre pénitentiaire de Lorient-Plömeur (Morbihan) ;
+
+Quartier des mineurs de la maison d'arrêt de Lyon-Perrache (Rhône) ;
+
+Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ;
+
+Quartier des mineurs du centre de semi-liberté de Maxéville (Meurthe-et-Moselle) ;
+
+Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ;
+
+Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+
+Quartier des mineurs de la maison d'arrêt de Mulhouse (Bas-Rhin) ;
+
+Quartier des mineurs de la maison d'arrêt de Nancy (Meurthe-et-Moselle) ;
+
+Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
+
+Quartier des mineurs du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+
+Quartier des mineurs de la maison d'arrêt de Nîmes (Gard) ;
+
+Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
+
+Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ;
+
+Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
+
+Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
+
+Quartier des mineurs de la maison d'arrêt de Poitiers (Vienne) ;
+
+Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
+
+Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+
+Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ;
+
+Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ;
+
+Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
+
+Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ;
+
+Quartier des mineurs de la maison d'arrêt de Strasbourg (Haut-Rhin) ;
+
+Quartier des mineurs du centre pénitentiaire de Toulon-La Farlède (Var) ;
+
+Quartier des mineurs de la maison d'arrêt de Toulouse-Seysses (Haute-Garonne) ;
+
+Quartier des mineurs de la maison d'arrêt de Tours (Indre-et-Loire) ;
+
+Quartier des mineurs de la maison d'arrêt de Valenciennes (Nord) ;
+
+Quartier des mineurs de la maison d'arrêt de Varennes-le-Grand (Saône-et-Loire) ;
+
+Quartier des mineurs de la maison d'arrêt de Villefranche-sur-Saône (Rhône) ;
+
+Quartier des mineurs de la maison d'arrêt de Villeneuve-lès-Maguelone (Hérault) ;
+
+Quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2007-05-09 art. 1 JORF 15 mai 2007
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. R57-9-11 (V)
 
 
 ### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=761></a>
@@ -107190,6 +107305,24 @@ _Modifié par_:
 
 ## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=767></a>
 
+###### Article A57-1
+
+La liste des établissements spécialisés pour mineurs ou des quartiers des mineurs des établissements pénitentiaires de
+Nouvelle-Calédonie est fixée comme suit :
+
+Quartier des mineurs du Camp-Est (Nouméa).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2007-05-09 art. 2 JORF 15 mai 2007
+
+
 ###### Article A58
 
 Le siège du service pénitentiaire d'insertion et de probation et la liste des antennes locales d'insertion et de probation de
@@ -107222,6 +107355,24 @@ _Créé par_:
 
 
 ## Livre VIII : Dispositions applicables en Polynésie française<a id=768></a>
+
+###### Article A58-1
+
+La liste des établissements spécialisés pour mineurs ou des quartiers des mineurs des établissements pénitentiaires de
+Polynésie française est fixée comme suit :
+
+Quartier des mineurs du centre pénitentiaire de Faa'a-Nuutania (Papeete).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2007-05-09 art. 3 JORF 15 mai 2007
+
 
 ###### Article A59
 
