@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-07-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -772,14 +772,15 @@ Version Consolidée au 2007-07-01
         - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-3)](#769)
           - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#770)
           - [Section 7 : Des mineurs détenus (art. A43-2 à A43-3)](#771)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#772)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#773)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#774)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#775)
-        - [Disposition générale (art. A53)](#776)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#777)
-    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A57-1 à A58)](#778)
-    - [Livre VIII : Dispositions applicables en Polynésie française (art. A58-1 à A59)](#779)
+      - [Titre X : Des frais de justice (art. A43-4)](#772)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#773)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#774)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#775)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#776)
+        - [Disposition générale (art. A53)](#777)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#778)
+    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A57-1 à A58)](#779)
+    - [Livre VIII : Dispositions applicables en Polynésie française (art. A58-1 à A59)](#780)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -107122,9 +107123,42 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R57-9-11 (V)
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=772></a>
+### Titre X : Des frais de justice<a id=772></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=773></a>
+###### Article A43-4
+
+I. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
+code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
+communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
+justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
+fixés dans les tableaux annexés au présent article (tableaux non reproduits, voir fac-similé).
+
+II. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu au I est déterminé
+sur devis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Arrêté 1959-02-27
+
+_Créé par_:
+
+  - Arrêté 2007-06-29 art. 2 JORF 25 juillet 2007
+
+_Cite_:
+
+  - Code des postes et des communications électronique - art. R10-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R213-1 (Ab)
+
+_Anciens textes_:
+
+  - CODE DE PROCEDURE PENALE - art. A43-2 (T)
+
+
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=773></a>
+
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=774></a>
 
 ###### Article A44
 
@@ -107590,9 +107624,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=774></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=775></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=775></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=776></a>
 
 ###### Article A45
 
@@ -107667,7 +107701,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=776></a>
+#### Disposition générale<a id=777></a>
 
 ###### Article A53
 
@@ -107685,7 +107719,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=777></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=778></a>
 
 ###### Article A54
 
@@ -107783,7 +107817,7 @@ _Modifié par_:
   - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
 
 
-## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=778></a>
+## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=779></a>
 
 ###### Article A57-1
 
@@ -107834,7 +107868,7 @@ _Créé par_:
   - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
 
 
-## Livre VIII : Dispositions applicables en Polynésie française<a id=779></a>
+## Livre VIII : Dispositions applicables en Polynésie française<a id=780></a>
 
 ###### Article A58-1
 
