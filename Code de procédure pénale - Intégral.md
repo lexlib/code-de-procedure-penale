@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-08-09
+Version Consolidée au 2007-08-11
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -20555,8 +20555,9 @@ _Cité par_:
 ###### Article 362
 
 En cas de réponse affirmative sur la culpabilité, le président donne lecture aux jurés des dispositions des articles 132-18
-et 132-24 du code pénal. La cour d'assises délibère alors sans désemparer sur l'application de la peine. Le vote a lieu
-ensuite au scrutin secret, et séparément pour chaque accusé.
+et 132-24 du code pénal, ainsi que, si les faits ont été commis en état de récidive légale, de l'article 132-18-1 et, le cas
+échéant, de l'article 132-19-1 du même code. La cour d'assises délibère alors sans désemparer sur l'application de la peine.
+Le vote a lieu ensuite au scrutin secret, et séparément pour chaque accusé.
 
 La décision sur la peine se forme à la majorité absolue des votants. Toutefois, le maximum de la peine privative de liberté
 encourue ne peut être prononcé qu'à la majorité de huit voix au moins lorsque la cour d'assises statue en premier ressort et
@@ -20583,7 +20584,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 79 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+  - Loi n°2007-1198 du 10 août 2007 - art. 6 () JORF 11 août 2007
 
 _Cité par_:
 
@@ -20592,11 +20593,6 @@ _Cité par_:
   - Code de procédure pénale - art. 698-6 (VD)
   - Code de procédure pénale - art. 888 (VD)
   - Code pénal - art. 131-36-11 (V)
-
-_Cite_:
-
-  - Code pénal - art. 132-18 (M)
-  - Code pénal - art. 132-24 (M)
 
 
 ###### Article 363
@@ -39677,8 +39673,8 @@ Pour le jugement des accusés majeurs, les règles relatives à la composition e
 fixées par les dispositions de l'article 698-6. Pour le jugement des accusés mineurs âgés de seize ans au moins, les règles
 relatives à la composition et au fonctionnement de la cour d'assises des mineurs sont également fixées par ces dispositions,
 deux des assesseurs étant pris parmi les juges des enfants du ressort de la cour d'appel, conformément aux dispositions de
-l'article 20 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dont les huitième à quatorzième
-alinéas sont applicables.
+l'article 20 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante, dont les huitième à seizième
+alinéas sont applicables. 
 
 Pour l'application de l'alinéa précédent, le juge d'instruction ou la chambre de l'instruction qui prononce la mise en
 accusation constate que les faits entrent dans le champ d'application de l'article 706-16.
@@ -39687,9 +39683,9 @@ accusation constate que les faits entrent dans le champ d'application de l'artic
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (M)
-  - CODE DE PROCEDURE PENALE - art. 698-6 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-16 (M)
+  - Ordonnance n°45-174 du 2 février 1945 - art. 20 (V)
+  - Code de procédure pénale - art. 698-6 (V)
+  - Code de procédure pénale - art. 706-16 (V)
 
 _Codifié par_:
 
@@ -39701,7 +39697,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 15 () JORF 24 janvier 2006
+  - Loi n°2007-1198 du 10 août 2007 - art. 5 () JORF 11 août 2007
 
 
 ###### Article 706-25-1
@@ -45175,8 +45171,11 @@ _Cite_:
 
 Les mesures mentionnées aux articles 712-5, 712-6 et 712-7, à l'exception des réductions de peines n'entraînant pas de
 libération immédiate et des autorisations de sortie sous escortes, ne peuvent être accordées sans une expertise psychiatrique
-préalable à une personne condamnée pour une infraction mentionnée à l'article 706-47. Cette expertise est réalisée par deux
-experts lorsque la personne a été condamnée pour le meurtre, l'assassinat ou le viol d'un mineur de quinze ans.
+préalable à une personne condamnée pour une infraction pour laquelle le suivi socio-judiciaire est encouru. Cette expertise
+est réalisée par deux experts lorsque la personne a été condamnée pour le meurtre, l'assassinat ou le viol d'un mineur de
+quinze ans.
+
+Cette expertise détermine si le condamné est susceptible de faire l'objet d'un traitement.
 
 **Liens relatifs à cet article**
 
@@ -45184,9 +45183,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 161 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+  - Loi n°2007-1198 du 10 août 2007 - art. 11 () JORF 11 août 2007
 
 _Cité par_:
 
@@ -45212,7 +45211,6 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
   - CODE DE PROCEDURE PENALE - art. 712-5 (V)
   - CODE DE PROCEDURE PENALE - art. 712-6 (V)
   - CODE DE PROCEDURE PENALE - art. 712-7 (M)
@@ -46081,10 +46079,10 @@ _Cité par_:
 Une réduction supplémentaire de la peine peut être accordée aux condamnés qui manifestent des efforts sérieux de réadaptation
 sociale, notamment en passant avec succès un examen scolaire, universitaire ou professionnel traduisant l'acquisition de
 connaissances nouvelles, en justifiant de progrès réels dans le cadre d'un enseignement ou d'une formation, en suivant une
-thérapie destinée à limiter les risques de récidive ou en s'efforçant d'indemniser leurs victimes. Sauf décision du juge de
-l'application des peines, prise après avis de la commission de l'application des peines, les personnes condamnées pour une
-infraction pour laquelle le suivi socio-judiciaire est encouru et qui refusent de suivre le traitement qui leur est proposé
-pendant leur incarcération, ne sont pas considérées comme manifestant des efforts sérieux de réadaptation sociale.
+thérapie destinée à limiter les risques de récidive ou en s'efforçant d'indemniser leurs victimes. Sauf décision contraire du
+juge de l'application des peines, aucune réduction supplémentaire de la peine ne peut être accordée à une personne condamnée
+pour un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, qui refuse pendant son incarcération de suivre
+le traitement qui lui est proposé par le juge de l'application des peines en application des articles 717-1 et 763-7.
 
 Cette réduction, accordée par le juge de l'application des peines après avis de la commission de l'application des peines, ne
 peut excéder, si le condamné est en état de récidive légale, deux mois par année d'incarcération ou quatre jours par mois
@@ -46099,6 +46097,11 @@ dispositions du présent article ne sont pas applicables aux personnes condamné
 l'article 706-47 si, lorsque leur condamnation est devenue définitive, le casier judiciaire faisait mention d'une telle
 condamnation.
 
+**Nota:**
+
+Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
+personnes exécutant une peine privative de liberté.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -46107,11 +46110,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 8 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 706-47 (T)
+  - Loi n°2007-1198 du 10 août 2007 - art. 10 () JORF 11 août 2007
 
 _Cité par_:
 
@@ -46187,8 +46186,8 @@ Une réduction de peine exceptionnelle, dont le quantum peut aller jusqu'au tier
 aux condamnés dont les déclarations faites à l'autorité administrative ou judiciaire antérieurement ou postérieurement à leur
 condamnation ont permis de faire cesser ou d'éviter la commission d'une infraction mentionnée aux articles 706-73 et 706-74.
 Lorsque ces déclarations ont été faites par des condamnés à la réclusion criminelle à perpétuité, une réduction
-exceptionnelle du temps d'épreuve prévu au dernier alinéa de l'article 729, pouvant aller jusqu'à cinq années, peut leur être
-accordée.
+exceptionnelle du temps d'épreuve prévu à l'avant-dernier alinéa de l'article 729, pouvant aller jusqu'à cinq années, peut
+leur être accordée.
 
 Ces réductions exceptionnelles sont accordées par le tribunal de l'application des peines selon les modalités prévues à
 l'article 712-7.
@@ -46201,7 +46200,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 39 () JORF 13 décembre 2005
+  - Loi n°2007-1198 du 10 août 2007 - art. 11 () JORF 11 août 2007
 
 _Cite_:
 
@@ -47278,9 +47277,13 @@ La surveillance judiciaire peut comporter les obligations suivantes :
 1° Obligations prévues par l'article 132-44 et par les 2°, 3°, 8°, 9°, 11°, 12°, 13° et 14° de l'article 132-45 du code
 pénal ;
 
-2° Obligations prévues par les articles 131-36-2 (1°, 2° et 3°) et 131-36-4 du même code ;
+2° Obligations prévues par l'article 131-36-2 (1°, 2° et 3°) du même code ;
 
 3° Obligation prévue par l'article 131-36-12 du même code.
+
+Sauf décision contraire du juge de l'application des peines, le condamné placé sous surveillance judiciaire est soumis à une
+injonction de soins, dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique, lorsqu'il
+est établi, après expertise médicale prévue à l'article 723-31, qu'il est susceptible de faire l'objet d'un traitement.
 
 **Liens relatifs à cet article**
 
@@ -47299,24 +47302,17 @@ _Cité par_:
   - Code de procédure pénale - art. 706-53-19 (VD)
   - Code de procédure pénale - art. 763-3 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 13 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - Code pénal - art. 131-36-12 (V)
-  - Code pénal - art. 131-36-2 (V)
-  - Code pénal - art. 131-36-4 (AbD)
-  - Code pénal - art. 132-45 (M)
-  - Code de procédure pénale 132-44
+  - Loi n°2007-1198 du 10 août 2007 - art. 9 () JORF 11 août 2007
 
 
 ###### Article 723-31
 
 Le risque de récidive mentionné à l'article 723-29 doit être constaté par une expertise médicale ordonnée par le juge de
 l'application des peines conformément aux dispositions de l'article 712-16, et dont la conclusion fait apparaître la
-dangerosité du condamné. Cette expertise peut être également ordonnée par le procureur de la République.
+dangerosité du condamné et détermine si le condamné est susceptible de faire l'objet d'un traitement. Cette expertise peut
+être également ordonnée par le procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -47324,14 +47320,9 @@ _Codifié par_:
 
   - Ordonnance 58-1296 1958-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 13 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 712-16 (V)
-  - CODE DE PROCEDURE PENALE - art. 723-29 (V)
+  - Loi n°2007-1198 du 10 août 2007 - art. 9 () JORF 11 août 2007
 
 _Cité par_:
 
@@ -47343,6 +47334,11 @@ _Cité par_:
   - Code de procédure pénale - art. D147-35 (V)
   - Code de procédure pénale - art. D147-37 (V)
   - Code de procédure pénale - art. D49-24 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 712-16 (V)
+  - Code de procédure pénale - art. 723-29 (V)
 
 
 ###### Article 723-32
@@ -47983,6 +47979,17 @@ est en état de récidive légale, vingt années.
 Pour les condamnés à la réclusion à perpétuité, le temps d'épreuve est de dix-huit années ; il est de vingt-deux années si le
 condamné est en état de récidive légale.
 
+Lorsque la personne a été condamnée pour un crime ou un délit pour lequel le suivi socio-judiciaire est encouru, une
+libération conditionnelle ne peut lui être accordée si elle refuse pendant son incarcération de suivre le traitement qui lui
+est proposé par le juge de l'application des peines en application des articles 717-1 et 763-7. Elle ne peut non plus être
+accordée au condamné qui ne s'engage pas à suivre, après sa libération, le traitement qui lui est proposé en application de
+l'article 731-1.
+
+**Nota:**
+
+Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
+personnes exécutant une peine privative de liberté.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -47991,14 +47998,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 14 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - Code pénal - art. 132-10 (V)
-  - Code pénal - art. 132-23 (M)
-  - Code pénal - art. 132-8 (V)
-  - Code pénal - art. 132-9 (V)
+  - Loi n°2007-1198 du 10 août 2007 - art. 11 () JORF 11 août 2007
 
 _Cité par_:
 
@@ -48195,9 +48195,11 @@ _Cite_:
 
 ###### Article 731-1
 
-La personne faisant l'objet d'une libération conditionnelle peut être soumise aux obligations qui sont celles du suivi socio-
-judiciaire, y compris l'injonction de soins, si elle a été condamnée pour un crime ou un délit pour lequel cette mesure était
-encourue.
+La personne faisant l'objet d'une libération conditionnelle peut être soumise aux obligations prévues pour le suivi socio-
+judiciaire si elle a été condamnée pour un crime ou un délit pour lequel cette mesure est encourue. Sauf décision contraire
+du juge de l'application des peines ou du tribunal de l'application des peines, cette personne est soumise à une injonction
+de soins dans les conditions prévues aux articles L. 3711-1 et suivants du code de la santé publique s'il est établi, après
+l'expertise prévue à l'article 712-21 du présent code, qu'elle est susceptible de faire l'objet d'un traitement.
 
 Cette personne peut alors être également placée sous surveillance électronique mobile dans les conditions et selon les
 modalités prévues par les articles 763-10 à 763-14.
@@ -48223,13 +48225,14 @@ _Cité par_:
   - Code de procédure pénale - art. D539 (V)
   - Code de procédure pénale - art. R61-21 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 22 () JORF 13 décembre 2005
+  - Loi n°2007-1198 du 10 août 2007 - art. 11 () JORF 11 août 2007
 
 _Cite_:
 
-  - Code de procédure pénale 763-10 à 763-14
+  - CODE DE PROCEDURE PENALE - art. 712-21 (M)
+  - Code de procédure pénale 712-21, 763-10 à 763-14
 
 
 ###### Article 732
@@ -49460,19 +49463,24 @@ procureur de la République, modifier ou compléter les mesures prévues aux art
 Sa décision est exécutoire par provision. Elle peut être attaquée par la voie de l'appel par le condamné, le procureur de la
 République et le procureur général, à compter de sa notification selon les modalités prévues au l° de l'article 712-11.
 
-Le juge de l'application des peines peut également, s'il est établi après une expertise médicale ordonnée postérieurement à
-la décision de condamnation que la personne astreinte à un suivi socio-judiciaire est susceptible de faire l'objet d'un
-traitement, prononcer une injonction de soins. Cette expertise est réalisée par deux experts en cas de condamnation pour
-meurtre ou assassinat d'un mineur précédé ou accompagné d'un viol, de tortures ou d'actes de barbarie. Le juge de
-l'application des peines avertit le condamné qu'aucun traitement ne pourra être entrepris sans son consentement, mais que,
-s'il refuse les soins qui lui seront proposés, l'emprisonnement prononcé en application du troisième alinéa de l'article
-131-36-1 du code pénal pourra être mis à exécution. Les dispositions de l'alinéa précédent sont alors applicables.
+Si la personne condamnée à un suivi socio-judiciaire n'a pas été soumise à une injonction de soins, le juge de l'application
+des peines ordonne en vue de sa libération une expertise médicale afin de déterminer si elle est susceptible de faire l'objet
+d'un traitement. S'il est établi à la suite de cette expertise la possibilité d'un traitement, la personne condamnée est
+soumise à une injonction de soins, sauf décision contraire du juge de l'application des peines. Le juge de l'application des
+peines avertit le condamné qu'aucun traitement ne pourra être entrepris sans son consentement, mais que, s'il refuse les
+soins qui lui seront proposés, l'emprisonnement prononcé en application du troisième alinéa de l'article 131-36-1 du code
+pénal pourra être mis à exécution. Les dispositions des deux alinéas précédents sont alors applicables.
 
 Le juge de l'application des peines peut également, après avoir procédé à l'examen prévu à l'article 763-10, ordonner le
 placement sous surveillance électronique mobile du condamné. Le juge de l'application des peines avertit le condamné que le
 placement sous surveillance électronique mobile ne pourra être mis en oeuvre sans son consentement mais que, à défaut ou s'il
 manque à ses obligations, l'emprisonnement prononcé en application du troisième alinéa de l'article 131-36-1 du code pénal
-pourra être mis à exécution. Les dispositions du deuxième alinéa du présent article sont applicables.
+pourra être mis à exécution. Les dispositions des deux premiers alinéas du présent article sont applicables.
+
+**Nota:**
+
+Loi 2007-1198 du 10 août 2007 art. 12 : Le II de l'article 7 et les articles 9 à 11 sont immédiatement applicables aux
+personnes exécutant une peine privative de liberté.
 
 **Liens relatifs à cet article**
 
@@ -49482,15 +49490,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1549 du 12 décembre 2005 - art. 21 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - Code pénal - art. 131-36-1 (M)
-  - Code pénal - art. 131-36-2 (V)
-  - Code pénal - art. 131-36-3 (V)
-  - CODE DE PROCEDURE PENALE - art. 712-11 (V)
-  - CODE DE PROCEDURE PENALE - art. 763-10 (V)
+  - Loi n°2007-1198 du 10 août 2007 - art. 7 () JORF 11 août 2007
 
 _Cité par_:
 
