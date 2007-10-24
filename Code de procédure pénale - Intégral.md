@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-10-03
+Version Consolidée au 2007-10-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -448,7 +448,7 @@ Version Consolidée au 2007-10-03
         - [Chapitre VII : Dispositions diverses (art. R85 à R90)](#445)
       - [Titre X : Des frais de justice (art. R91 à R249-8)](#446)
         - [Chapitre Ier : Dispositions préliminaires (art. R91 à R93-1)](#447)
-        - [Chapitre II : Tarif des frais (art. R94 à R213-1)](#448)
+        - [Chapitre II : Tarif des frais (art. R94 à R213-2)](#448)
           - [Section 1 : Des frais de translation des personnes, de transport des procédures et des pièces à conviction (art. R94 à R105)](#449)
           - [Section 2 : Honoraires et indemnités des experts, des interprètes et des personnes chargées des enquêtes sociales et de personnalité (art. R106 à R122-1)](#450)
             - [Paragraphe 1er : Des experts. (art. R106 à R120-2)](#451)
@@ -487,7 +487,7 @@ Version Consolidée au 2007-10-03
           - [Section 8 : Des frais de mise en oeuvre des conventions secrètes de cryptologie (art. R208)](#484)
           - [Section 9 : Des frais d'impression (art. R210 à R212)](#485)
           - [Section 10 : Des frais de recherche et de délivrance de reproductions des documents imprimés (art. R213)](#486)
-          - [Section 11 : Des frais des opérateurs de communications électroniques (art. R213-1)](#487)
+          - [Section 11 : Des frais des opérateurs de communications électroniques (art. R213-1 à R213-2)](#487)
         - [Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels (art. R214 à R221)](#488)
           - [Section 1 : Règles générales (art. R214 à R215)](#489)
           - [Section 2 : Règles spéciales (art. R216 à R221)](#490)
@@ -70271,85 +70271,87 @@ _Cite_:
 
 ###### Article R92
 
-Les frais de justice criminelle, correctionnelle et de police sont :
+Les frais de justice criminelle, correctionnelle et de police sont : 
 
 1° Les frais de translation des prévenus ou accusés, les frais de translation des condamnés pour se rendre au lieu où ils
 sont appelés en témoignage lorsque cette translation ne peut être effectuée par les voitures cellulaires du service
-pénitentiaire, les frais de transport des procédures et des pièces à conviction.
+pénitentiaire, les frais de transport des procédures et des pièces à conviction ; 
 
 2° Les frais d'extradition des prévenus, accusés ou condamnés ; les frais de commission rogatoire et autres frais de
-procédure pénale en matière internationale.
+procédure pénale en matière internationale ; 
 
-3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après :
+3° Les honoraires et indemnités qui peuvent être accordés aux personnes ci-après : 
 
-a) Experts et traducteurs interprètes ;
+a) Experts et traducteurs interprètes ; 
 
-b) Personnes chargées des enquêtes sociales ou de personnalité ;
+b) Personnes chargées des enquêtes sociales ou de personnalité ; 
 
 c) Personnes contribuant au contrôle judiciaire ou, dans le cas prévu par le cinquième alinéa de l'article 471, au sursis
-avec mise à l'épreuve (1) ;
+avec mise à l'épreuve (1) ; 
 
 d) Médiateurs du procureur de la République chargés d'une mission de médiation en application des dispositions du 5° de
-l'article 41-1 ;
+l'article 41-1 ; 
 
 e) Délégués du procureur de la République chargés d'une des missions prévues par les 1°, 2°, 3°, 4° et 6° de l'article 41-1
-ou intervenant au cours d'une composition pénale (1).
+ou intervenant au cours d'une composition pénale (1) ; 
 
 4° Les indemnités qui peuvent être accordées aux témoins, aux jurés par application des articles R. 123 à R. 146 et aux
-parties civiles par application des articles 375-1 et 422.
+parties civiles par application des articles 375-1 et 422 ; 
 
-5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés.
+5° Les frais de saisie ou de mise sous séquestre ou en fourrière, ainsi que les frais en matière de scellés ; 
 
 6° Les frais d'enquête sociale et d'expertise engagés en matière d'exécution ou d'application des peines et en matière de
-grâces.
+grâces ; 
 
-7° Les émoluments et indemnités alloués aux huissiers de justice.
+7° Les émoluments et indemnités alloués aux huissiers de justice ; 
 
-8° Les frais de capture.
+8° Les frais de capture ; 
 
 9° Les dépenses diverses de reconstitution, d'exhumation ou de travaux techniques exposés pour l'instruction d'une affaire
-particulière et pour une enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de fonctionnement.
+particulière et pour une enquête préliminaire ou de flagrant délit, à l'exclusion des dépenses de fonctionnement ; 
 
 10° Les indemnités allouées aux magistrats et greffiers au cas de transport pour exercer un acte de leur fonction dans les
-cas prévus par la section VII du chapitre II du présent titre.
+cas prévus par la section VII du chapitre II du présent titre ; 
 
-11° Les frais postaux et télégraphiques, le port des paquets pour une procédure pénale.
+11° Les frais postaux et télégraphiques, le port des paquets pour une procédure pénale ; 
 
-12° Les frais des procédures suivies en application des lois concernant l'enfance délinquante.
+12° Les frais des procédures suivies en application des lois concernant l'enfance délinquante ; 
 
 13° Les indemnités accordées aux victimes d'erreurs judiciaires ainsi que les frais de révision et les secours aux individus
-relaxés ou acquittés.
+relaxés ou acquittés ; 
 
-14° Les indemnités accordées en application des articles 149 et 150.
+14° Les indemnités accordées en application des articles 149 et 150 ; 
 
-15° Les frais exposés devant les commissions prévues par l'article 706-4.
+15° Les frais exposés devant les commissions prévues par l'article 706-4 ; 
 
 16° Les frais de copie, droits, redevances et émoluments, dus aux greffiers des tribunaux de commerce pour la délivrance des
-pièces à l'autorité judiciaire dans le cadre d'une procédure pénale.
+pièces à l'autorité judiciaire dans le cadre d'une procédure pénale ; 
 
 17° Les frais et dépens mis à la charge du Trésor public en cas de décision juridictionnelle rectifiant ou interprétant une
-précédente décision en matière pénale.
+précédente décision en matière pénale ; 
 
-18° Les frais de recherche et de délivrance de reproductions de tous documents imprimés ;
+18° Les frais de recherche et de délivrance de reproductions de tous documents imprimés ; 
 
 19° Les frais de remise ou de mise en oeuvre des conventions secrètes de moyens ou prestations de cryptologie engagés à la
 demande des autorités judiciaires par les organismes agréés mentionnés à l'article 28 de la loi n° 90-1170 du 29 décembre
-1990 sur la réglementation des télécommunications ;
+1990 sur la réglementation des télécommunications ; 
 
 20° Les indemnités et vacations qui peuvent être accordées aux membres titulaires et suppléants de la formation de jugement
-de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ;
+de la Cour de justice de la République selon les modalités prévues au décret n° 95-692 du 9 mai 1995 ; 
 
 21° Les frais des administrateurs ad hoc lorsqu'ils figurent sur la liste prévue à l'article R. 53 ou qu'il a été fait
-application des dispositions de l'article R. 53-6 ;
+application des dispositions de l'article R. 53-6 ; 
 
-22° Les indemnités accordées en application de l'article 800-2 ;
+22° Les indemnités accordées en application de l'article 800-2 ; 
 
 23° Les frais correspondant à la fourniture des données conservées en application du II de l'article L. 34-1 du code des
-postes et des communications électroniques.
+postes et des communications électroniques ; 
+
+24° les coûts liés au traitement des demandes d'interception de communication électronique.
 
 **Nota:**
 
-NOTA (1) : Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entrent en vigueur à la date
+(1) Décret 2007-1388 du 26 septembre 2007 art. 16 V : Les dispositions du présent article entreront en vigueur à la date
 fixée par l'arrêté prévu par l'article R121 du code de procédure pénale.
 
 **Liens relatifs à cet article**
@@ -70360,22 +70362,18 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°90-1170 1990-12-29 art. 28
-  - Décret n°95-692 1995-05-09
-  - Décret n°2007-1388 2007-09-26
-  - CODE DE PROCEDURE PENALE - art. 149 (M)
-  - CODE DE PROCEDURE PENALE - art. 150 (M)
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 375-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 41-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 422 (V)
-  - CODE DE PROCEDURE PENALE - art. 471 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-4 (M)
-  - CODE DE PROCEDURE PENALE - art. 800-2 (V)
-  - CODE DE PROCEDURE PENALE - art. R121 (M)
-  - CODE DE PROCEDURE PENALE - art. R53 (M)
-  - CODE DE PROCEDURE PENALE - art. R53-6 (M)
-  - Code de procédure pénale 471, 41-1, R123 à R146, 375-1, 422, 149, 150, 706-4, R53, R53-6, 800-2, R121, 16
+  - Décret n°95-692 du 9 mai 1995 (V)
+  - Code des postes et des communications électroni... - art. L34-1 (V)
+  - Code de procédure pénale - art. 149 (V)
+  - Code de procédure pénale - art. 375-1 (V)
+  - Code de procédure pénale - art. 41-1 (V)
+  - Code de procédure pénale - art. 422 (V)
+  - Code de procédure pénale - art. 471 (V)
+  - Code de procédure pénale - art. 706-4 (V)
+  - Code de procédure pénale - art. 800-2 (V)
+  - Code de procédure pénale - art. R123 (V)
+  - Code de procédure pénale - art. R53 (V)
+  - Code de procédure pénale - art. R53-6 (V)
 
 _Cité par_:
 
@@ -70402,7 +70400,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1388 du 26 septembre 2007 - art. 16 () JORF 28 septembre 2007
+  - Décret n°2007-1520 du 22 octobre 2007 - art. 1 () JORF 25 octobre 2007
 
 
 ###### Article R93
@@ -73871,6 +73869,31 @@ _Cité par_:
 _Cite_:
 
   - Code des postes et des communications électronique - art. L34-1 (M)
+  - CODE DE PROCEDURE PENALE - art. R92 (M)
+
+
+###### Article R213-2
+
+Les tarifs relatifs aux frais mentionnés au 24° de l'article R. 92 correspondant au traitement des demandes d'interceptions
+sont fixés par arrêté du ministre de la justice et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°59-318 1959-02-23
+
+_Créé par_:
+
+  - Décret n°2007-1520 du 22 octobre 2007 - art. 1 () JORF 25 octobre 2007
+
+_Cité par_:
+
+  - Arrêté du 14 novembre 2016 (V)
+  - Code de procédure pénale - art. A43-9 (V)
+
+_Cite_:
+
   - CODE DE PROCEDURE PENALE - art. R92 (M)
 
 
@@ -108916,14 +108939,136 @@ _Cite_:
 
 ###### Article A43-4
 
-I. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
+I. - Conformément aux dispositions de l'article R. 213-2, les réquisitions adressées dans les conditions prévues au présent
+code ayant pour objet les interceptions de communications de téléphonie donnent lieu à remboursement aux opérateurs de
+communications électroniques, sur facture et justificatifs, en appliquant à ces demandes, pour chacune des prestations
+demandées, le montant hors taxes des tarifs fixés dans le tableau annexé au présent arrêté (1).
+
+II. - Conformément aux dispositions de l'article R. 213-1, les réquisitions adressées dans les conditions prévues au présent
 code ayant pour objet la production et la fourniture des données mentionnées à l'article R. 10-13 du code des postes et des
 communications électroniques donnent lieu à remboursement aux opérateurs de communications électroniques, sur facture et
 justificatifs, en appliquant à ces réquisitions, pour chacune des prestations demandées, le montant hors taxe des tarifs
-fixés dans les tableaux annexés au présent article (tableaux non reproduits, voir fac-similé).
+fixés dans les tableaux annexés au présent article.
 
-II. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu au I est déterminé
-sur devis.
+III. - Pour les prestations ne figurant pas dans les tableaux annexés, le montant du remboursement prévu aux I et II est
+déterminé sur devis. 
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┓
+┃ CATÉGORIES DE DONNÉES   │ PRESTATIONS REQUISES                                                        │ TARIFS (en euros) ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Informations permettant │ Identification en nombre d'abonnés, à partir de leur numéro d'appel ou du   │ 0,65              ┃
+┃ d'identifier l'utilisa- │ numéro de leur carte SIM (avec ou sans coordonnées bancaires), demande co-  │                   ┃
+┃ teur.                   │ piable sous format électronique. Prix par numéro d'appel avec un minimum de │                   ┃
+┃                         │ perception de 20 numéros.                                                   │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Identification d'un abonné à partir de son numéro d'appel ou du numéro de   │ 6,50              ┃
+┃                         │ sa carte SIM (avec ou sans coordonnées bancaires), demande reçue sous forme │                   ┃
+┃                         │ papier, par fax ou sous forme électronique non copiable.                    │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Historique d'attribution d'un numéro d'appel, d'un numéro de carte SIM ou   │ 6,50              ┃
+┃                         │ d'un identifiant d'abonné (numéro IMSI).                                    │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Identification d'abonnés à partir du patronyme ou de la raison sociale.     │ 13,00             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Identification des numéros d'appel et des abonnés associés à partir des     │ 17,50             ┃
+┃                         │ moyens de paiement utilisés. Le coût de l'identification de l'abonné est    │                   ┃
+┃                         │ inclus dans le tarif.                                                       │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Identification d'un abonné et de ses moyens de paiement à partir d'un nu-   │ 17,50             ┃
+┃                         │ méro d'appel ou de carte SIM. Le coût de l'identification de l'abonné est   │                   ┃
+┃                         │ inclus dans le tarif.                                                       │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Recherche de numéros d'appel ou identification d'un abonné à partir d'un    │ 13,00             ┃
+┃                         │ numéro IMEI. Le coût de l'identification de l'abonné est inclus dans le ta- │                   ┃
+┃                         │ rif.                                                                        │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Recherche d'identifiants de téléphone mobile et identification d'abonné à   │ 13,00             ┃
+┃                         │ partir d'un numéro d'appel ou d'un numéro de carte SIM. Le coût de l'iden-  │                   ┃
+┃                         │ tification de l'abonné est inclus dans le tarif.                            │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Copie du contrat d'abonnement (fournie sous un mois).                       │ Tarif prévu par   ┃
+┃                         │                                                                             │ l'article R. 213  ┃
+┃                         │                                                                             │ du code de procé- ┃
+┃                         │                                                                             │ dure pénale       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Copie des documents annexés au contrat d'abonnement (fournie sous un mois). │ Tarif prévu par   ┃
+┃                         │                                                                             │ l'article R. 213  ┃
+┃                         │                                                                             │ du code de procé- ┃
+┃                         │                                                                             │ dure pénale       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Copie de factures (fournie sous un mois).                                   │ Tarif prévu par   ┃
+┃                         │                                                                             │ l'article R. 213  ┃
+┃                         │                                                                             │ du code de procé- ┃
+┃                         │                                                                             │ dure pénale       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Données relatives aux   │ Fourniture du code de déblocage (code PUK) d'une carte SIM bloquée suite à  │ 6,50              ┃
+┃ équipements terminaux   │ trois tentatives infructueuses de mise en service.                          │                   ┃
+┃ de communications uti-  │                                                                             │                   ┃
+┃ lisés.                  │                                                                             │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Caractéristiques tech-  │ Détail des trafics d'un abonné sur une période indivisible d'un mois.       │ 17,50             ┃
+┃ niques ainsi que la     │ L'identification de l'abonné est en sus.                                    │                   ┃
+┃ date, l'horaire et la   │                                                                             │                   ┃
+┃ durée de chaque commu-  │                                                                             │                   ┃
+┃ nication.               │                                                                             │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détails des trafics à partir d'un numéro d'appel étranger ou vers un numéro │ 17,50             ┃
+┃                         │ d'appel étranger en itinérance sur le réseau de l'opérateur, sur une pé-    │                   ┃
+┃                         │ riode indivisible d'un mois. L'identification des abonnés est en sus.       │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détail géolocalisé des trafics d'un abonné sur une période indivisible d'un │ 35,00             ┃
+┃                         │ mois accompagné de l'adresse du relais téléphonique (cellule) par lequel    │                   ┃
+┃                         │ les communications ont débuté, sur une période d'un mois. Le coût inclut    │                   ┃
+┃                         │ l'identification de la totalité des cellules, l'identification des abonnés  │                   ┃
+┃                         │ est en sus.                                                                 │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détails géolocalisé des trafics en relation avec un abonné d'un opérateur   │ 35,00             ┃
+┃                         │ étranger sur une période indivisible d'un mois accompagné de l'adresse du   │                   ┃
+┃                         │ relais téléphonique (cellule) par lequel les communications ont débuté, sur │                   ┃
+┃                         │ une période d'un mois. Le coût inclut l'identification de la totalité des   │                   ┃
+┃                         │ cellules, l'identification des abonnés est en sus.                          │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détail des trafics vers un abonné étranger sur une période indivisible d'un │ 17,50             ┃
+┃                         │ mois, l'identification de l'abonné est en sus.                              │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détail des trafics écoulés dans un relais téléphonique (cellule) sur une    │ 17,50             ┃
+┃                         │ période de 4 heures au cours des douze derniers mois. L'identification des  │                   ┃
+┃                         │ abonnés est en sus.                                                         │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Détail des trafics écoulés dans un relais téléphonique (cellule) avec iden- │ 17,50 + 0,65 par  ┃
+┃                         │ tification des abonnés sur une période de 4 heures au cours des douze der-  │ abonné identifié  ┃
+┃                         │ niers mois.                                                                 │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Données relatives aux   │ Identification d'un prestataire de services à partir d'un numéro court.     │ 6,50              ┃
+┃ services complémen-     │                                                                             │                   ┃
+┃ taires demandés ou uti- │                                                                             │                   ┃
+┃ lisés par les fournis-  │                                                                             │                   ┃
+┃ seurs.                  │                                                                             │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Recherche de l'adresse d'un relais téléphonique (cellule) à partir de son   │ 6,50              ┃
+┃                         │ numéro d'identification.                                                    │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Carte de couverture optimale d'une cellule.                                 │ 17,50             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Carte de couverture secondaire d'une cellule.                               │ 17,50             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                         │ Recherche de cellule à partir d'un lieu géographique (couverture optimale   │ 17,50             ┃
+┃                         │ théorique).                                                                 │                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Données permettant      │ Recherche d'un point de vente à partir d'un numéro d'appel, d'un numéro de  │ 17,50             ┃
+┃ d'identifier le ou les  │ carte SIM, d'un identifiant d'abonné (IMSI) ou d'un identifiant de télé-    │                   ┃
+┃ destinataires de la     │ phone (IMEI).                                                               │                   ┃
+┃ communication.          │                                                                             │                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Nota:**
+
+Une erreur matérielle s'est glissée dans l'arrêté du 22 octobre 2007 : 
+
+il faut lire article A. 43-4 au lieu de A. 43-2 et il est inséré un I et non un II.
 
 **Liens relatifs à cet article**
 
@@ -108931,14 +109076,9 @@ _Codifié par_:
 
   - Arrêté 1959-02-27
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté 2007-06-29 art. 2 JORF 25 juillet 2007
-
-_Cite_:
-
-  - Code des postes et des communications électronique - art. R10-13 (V)
-  - CODE DE PROCEDURE PENALE - art. R213-1 (Ab)
+  - Arrêté 2007-10-22 art. 1 JORF 25 octobre 2007
 
 _Anciens textes_:
 
