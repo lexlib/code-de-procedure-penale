@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-10-25
+Version Consolidée au 2007-10-30
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -189,7 +189,7 @@ Version Consolidée au 2007-10-25
         - [Chapitre II : Des juridictions compétentes en cas de guerre, de mobilisation, d'état de siège ou d'état d'urgence (art. 699 à 700)](#186)
         - [Chapitre III : Des crimes et délits contre les intérêts fondamentaux de la Nation (art. 701 à 702)](#187)
       - [Titre XII : Des demandes présentées en vue d'être relevé des interdictions, déchéances, incapacités ou mesures de publication (art. 702-1 à 703)](#188)
-      - [Titre XIII : De la procédure applicable aux infractions en matière économique et financière (art. 704 à 706-1-1)](#189)
+      - [Titre XIII : De la procédure applicable aux infractions en matière économique et financière (art. 704 à 706-1-2)](#189)
       - [Titre XIII bis : De la procédure applicable aux infractions en matière sanitaire (art. 706-2 à 706-2-1)](#190)
       - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction (art. 706-3 à 706-15)](#191)
       - [Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme (art. 706-16 à 706-25-1)](#192)
@@ -3119,7 +3119,7 @@ _Cité par_:
 
 ###### Article 28-1
 
-I. - Des agents des douanes de catégories A et B, spécialement désignés par arrêté des ministres chargés de la justice et du
+I.-Des agents des douanes de catégories A et B, spécialement désignés par arrêté des ministres chargés de la justice et du
 budget, pris après avis conforme d'une commission dont la composition et le fonctionnement sont déterminés par décret en
 Conseil d'Etat, peuvent être habilités à effectuer des enquêtes judiciaires sur réquisition du procureur de la République ou
 sur commission rogatoire du juge d'instruction.
@@ -3140,13 +3140,13 @@ biens culturels ;
 
 5° Les infractions prévues par les articles 324-1 à 324-9 du code pénal ;
 
-6° Les infractions prévues aux articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle ;
+6° Les infractions prévues au code de la propriété intellectuelle ;
 
 7° Les infractions connexes aux infractions visées aux 1° à 6°.
 
 Toutefois, sous réserve des dispositions du II, ils n'ont pas compétence en matière de trafic de stupéfiants.
 
-II. - Pour la recherche et la constatation des infractions prévues par les articles 222-34 à 222-40 du code pénal et des
+II.-Pour la recherche et la constatation des infractions prévues par les articles 222-34 à 222-40 du code pénal et des
 infractions qui leur sont connexes, le procureur de la République ou le juge d'instruction territorialement compétent peut
 constituer des unités temporaires composées d'officiers de police judiciaire et d'agents des douanes pris parmi ceux
 mentionnés au I. Le procureur de la République ou le juge d'instruction désigne le chef de chaque unité qu'il constitue.
@@ -3154,25 +3154,25 @@ mentionnés au I. Le procureur de la République ou le juge d'instruction désig
 Les unités temporaires agissent sous la direction du procureur de la République ou du juge d'instruction mandant,
 conformément aux dispositions du présent code. Elles ont compétence sur toute l'étendue du territoire national.
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - Les agents des douanes désignés dans les conditions prévues au I doivent, pour mener des enquêtes judiciaires et
-recevoir des commissions rogatoires, y être habilités personnellement en vertu d'une décision du procureur général.
+IV.-Les agents des douanes désignés dans les conditions prévues au I doivent, pour mener des enquêtes judiciaires et recevoir
+des commissions rogatoires, y être habilités personnellement en vertu d'une décision du procureur général.
 
 La décision d'habilitation est prise par le procureur général près la cour d'appel du siège de leur fonction. Elle est
 accordée, suspendue ou retirée dans des conditions fixées par décret en Conseil d'Etat.
 
 Dans le mois qui suit la notification de la décision de suspension ou de retrait de l'habilitation, l'agent concerné peut
-demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois. A
+demander au procureur général de rapporter cette décision. Le procureur général doit statuer dans un délai d'un mois.A
 défaut, son silence vaut rejet de la demande. Dans un délai d'un mois à partir du rejet de la demande, l'agent concerné peut
 former un recours devant la commission prévue à l'article 16-2. La procédure applicable devant cette commission est celle
 prévue par l'article 16-3 et ses textes d'application.
 
-V. - Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur
-de la République, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction du siège de
-leur fonction dans les conditions prévues par les articles 224 à 230.
+V.-Pour l'exercice des missions mentionnées aux I et II, les agents des douanes sont placés sous la direction du procureur de
+la République, sous la surveillance du procureur général et sous le contrôle de la chambre de l'instruction du siège de leur
+fonction dans les conditions prévues par les articles 224 à 230. 
 
-VI. - Lorsque, sur réquisition du procureur de la République, les agents des douanes mentionnés aux I et II procèdent à des
+VI.-Lorsque, sur réquisition du procureur de la République, les agents des douanes mentionnés aux I et II procèdent à des
 enquêtes judiciaires, il est fait application des articles 54 (deuxième et troisième alinéas), 55-1, 56, 57 à 62, 63 à 67, 75
 à 78.
 
@@ -3182,19 +3182,21 @@ Lorsque ces agents agissent sur commission rogatoire d'un juge d'instruction, il
 Ces agents sont autorisés à déclarer comme domicile l'adresse du siège du service dont ils dépendent.
 
 Au cours des procédures confiées sur réquisition ou commission rogatoire à ces agents, les dispositions des articles 100 à
-100-7, 122 à 136, 694 à 695-3, 706-28, 706-30-1 et 706-73 à 706-106 sont applicables ; lorsque ces agents agissent en
-application des articles 706-80 à 706-87, ils sont également compétents en matière d'infractions douanières de contrebande de
-tabac manufacturé, d'alcool et de spiritueux et de contrefaçon de marque, ainsi que pour celles prévues à l'article 415 du
-code des douanes et aux articles L. 716-9 à L. 716-11 du code de la propriété intellectuelle. Ces agents peuvent être
-assistés par les personnes mentionnées aux articles 706 et 706-2 agissant sur délégation des magistrats.
+100-7, 122 à 136, 694 à 695-3, 
+706-28, 
+706-30-1 et 706-73 à 706-106 sont applicables ; lorsque ces agents agissent en application des articles 706-80 à 706-87, ils
+sont également compétents en matière d'infractions douanières de contrebande de tabac manufacturé, d'alcool et de spiritueux
+et de contrefaçon de marque, ainsi que pour celles prévues à l'article 415 du code des douanes et aux articles L. 716-9 à L.
+716-11 du code de la propriété intellectuelle. Ces agents peuvent être assistés par les personnes mentionnées aux articles
+706 et 706-2 agissant sur délégation des magistrats.
 
 Par dérogation à la règle fixée au 2 de l'article 343 du code des douanes, l'action pour l'application des sanctions fiscales
 peut être exercée par le ministère public, en vue de l'application des dispositions du présent article.
 
-VII. - Les agents des douanes mentionnés aux I et II sont placés sous la direction administrative d'un magistrat de l'ordre
+VII.-Les agents des douanes mentionnés aux I et II sont placés sous la direction administrative d'un magistrat de l'ordre
 judiciaire selon des modalités fixées par décret en Conseil d'Etat.
 
-VIII. - Les agents de l'administration des douanes mentionnés aux I et II ne peuvent, à peine de nullité, exercer d'autres
+VIII.-Les agents de l'administration des douanes mentionnés aux I et II ne peuvent, à peine de nullité, exercer d'autres
 attributions ou accomplir d'autres actes que ceux prévus par le présent code dans le cadre des faits dont ils sont saisis par
 l'autorité judiciaire.
 
@@ -3262,25 +3264,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 18 () JORF 13 décembre 2005
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - Code de la propriété intellectuelle L716-9 à L716-11
-  - Code pénal 324-1 à 324-9, 222-34 à 222-40
-  - CODE DE PROCEDURE PENALE - art. 16-2 (V)
-  - CODE DE PROCEDURE PENALE - art. 16-3 (V)
-  - CODE DE PROCEDURE PENALE - art. 54 (V)
-  - CODE DE PROCEDURE PENALE - art. 55-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 56 (M)
-  - CODE DE PROCEDURE PENALE - art. 706 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-2 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 706-28 (M)
-  - CODE DE PROCEDURE PENALE - art. 706-30-1 (V)
-  - Code de procédure pénale 16-2, 16-3, 224 à 230, 54, 55-1, 56, 57 à 62, 63 à 67, 75 à 78, 152 à 155, 100 à 100-7, 122 à 136, 694 à 695-3, 706-28, 706-30-1, 706-73 à 706-106, 706-80 à 706-87, 706, 706-2
-  - Code de la défense L2339-1 à L2339-11, L2353-13
-  - Code de la défense. - art. L2353-13 (M)
-  - Code des douanes - art. 415 (T)
+  - Code de la propriété intellectuelle - art. L716-9 (V)
+  - Code pénal - art. 222-34 (V)
+  - Code pénal - art. 324-1 (V)
+  - Code de procédure pénale - art. 100 (V)
+  - Code de procédure pénale - art. 122 (V)
+  - Code de procédure pénale - art. 152 (V)
+  - Code de procédure pénale - art. 16-2 (V)
+  - Code de procédure pénale - art. 16-3 (V)
+  - Code de procédure pénale - art. 224 (V)
+  - Code de procédure pénale - art. 54 (V)
+  - Code de procédure pénale - art. 694 (V)
+  - Code de procédure pénale - art. 706 (V)
+  - Code de procédure pénale - art. 706-28 (V)
+  - Code de procédure pénale - art. 706-30-1 (V)
+  - Code de procédure pénale - art. 706-73 (V)
+  - Code de procédure pénale - art. 706-80 (V)
+  - Code de la défense. - art. L2339-1 (V)
+  - Code de la défense. - art. L2353-13 (V)
 
 
 ##### Paragraphe 3 : Des gardes particuliers assermentés<a id=12></a>
@@ -4296,6 +4301,10 @@ objets dont la restitution est de nature à créer un danger pour les personnes 
 sous réserve des droits des tiers, dès que la décision de non-restitution ne peut plus être contestée, ou dès que le jugement
 ou l'arrêt de non-restitution est devenu définitif.
 
+Le procureur de la République peut ordonner la destruction des biens meubles saisis dont la conservation n'est plus
+nécessaire à la manifestation de la vérité, lorsqu'il s'agit d'objets qualifiés par la loi de dangereux ou nuisibles, ou dont
+la détention est illicite.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -4304,7 +4313,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 126 () JORF 10 mars 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -4315,6 +4324,50 @@ _Cité par_:
   - Code de procédure pénale - art. 41-6 (VD)
   - Code de procédure pénale - art. D43-5 (V)
   - Code général de la propriété des personnes publ... - art. L1125-1 (VD)
+
+
+###### Article 41-5
+
+Lorsqu'au cours de l'enquête la restitution des biens meubles saisis et dont la conservation n'est plus nécessaire à la
+manifestation de la vérité s'avère impossible, soit parce que le propriétaire ne peut être identifié, soit parce que le
+propriétaire ne réclame pas l'objet dans un délai de deux mois à compter d'une mise en demeure adressée à son dernier
+domicile connu, le juge des libertés et de la détention peut, sur requête du procureur de la République et sous réserve des
+droits des tiers, autoriser la destruction de ces biens ou leur remise au service des domaines aux fins d'aliénation.
+
+Le juge des libertés et de la détention peut également autoriser la remise au service des domaines, en vue de leur
+aliénation, des biens meubles saisis dont la conservation en nature n'est plus nécessaire à la manifestation de la vérité et
+dont la confiscation est prévue par la loi, lorsque le maintien de la saisie serait de nature à diminuer la valeur du bien.
+S'il est procédé à la vente du bien, le produit de celle-ci est consigné. En cas de classement sans suite, de non-lieu ou de
+relaxe, ou lorsque la peine de confiscation n'est pas prononcée, ce produit est restitué au propriétaire des objets s'il en
+fait la demande.
+
+Les ordonnances prises en application des deux premiers alinéas sont motivées et notifiées au ministère public et, s'ils sont
+connus, au propriétaire ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la chambre de l'instruction
+par déclaration au greffe du tribunal dans les dix jours qui suivent la notification de la décision. Cet appel est suspensif.
+Le propriétaire et les tiers peuvent être entendus par la chambre de l'instruction. Les tiers ne peuvent toutefois pas
+prétendre à la mise à disposition de la procédure.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Cité par_:
+
+  - Loi n°94-589 du 15 juillet 1994 - art. 11 (V)
+  - Loi n°94-589 du 15 juillet 1994 - art. 16 bis (Ab)
+  - Décret n°2011-2078 du 30 décembre 2011 (V)
+  - Code de procédure pénale - art. 706-160 (V)
+  - Code de procédure pénale - art. 727-1 (V)
+  - Code de procédure pénale - art. R15-33-66-1 (V)
+  - Code de procédure pénale - art. R54-9 (V)
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 
 ###### Article 42
@@ -5057,44 +5110,44 @@ _Cité par_:
 Si la nature du crime est telle que la preuve en puisse être acquise par la saisie des papiers, documents, données
 informatiques ou autres objets en la possession des personnes qui paraissent avoir participé au crime ou détenir des pièces,
 informations ou objets relatifs aux faits incriminés, l'officier de police judiciaire se transporte sans désemparer au
-domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal.
+domicile de ces derniers pour y procéder à une perquisition dont il dresse procès-verbal. 
 
 Il a seul, avec les personnes désignées à l'article 57 et celles auxquelles il a éventuellement recours en application de
 l'article 60, le droit de prendre connaissance des papiers, documents ou données informatiques avant de procéder à leur
-saisie.
+saisie. 
 
 Toutefois, il a l'obligation de provoquer préalablement toutes mesures utiles pour que soit assuré le respect du secret
-professionnel et des droits de la défense.
+professionnel et des droits de la défense. 
 
 Tous objets et documents saisis sont immédiatement inventoriés et placés sous scellés. Cependant, si leur inventaire sur
 place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur
 mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues
-à l'article 57.
+à l'article 57. 
 
 Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de
 justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la
-perquisition.
+perquisition. 
 
 Si une copie est réalisée, il peut être procédé, sur instruction du procureur de la République, à l'effacement définitif, sur
 le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la détention ou l'usage est
-illégal ou dangereux pour la sécurité des personnes ou des biens.
+illégal ou dangereux pour la sécurité des personnes ou des biens. 
 
 Avec l'accord du procureur de la République, l'officier de police judiciaire ne maintient que la saisie des objets, documents
-et données informatiques utiles à la manifestation de la vérité.
+et données informatiques utiles à la manifestation de la vérité. 
 
 Le procureur de la République peut également, lorsque la saisie porte sur des espèces, lingots, effets ou valeurs dont la
 conservation en nature n'est pas nécessaire à la manifestation de la vérité ou à la sauvegarde des droits des personnes
-intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France.
+intéressées, autoriser leur dépôt à la Caisse des dépôts et consignations ou à la Banque de France. 
 
-Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaits, l'officier de police
+Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaisants, l'officier de police
 judiciaire doit transmettre, pour analyse et identification, au moins un exemplaire de chaque type de billets ou pièces
 suspectés faux au centre d'analyse national habilité à cette fin. Le centre d'analyse national peut procéder à l'ouverture
 des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture ou réouverture des scellés. Lorsque
 les opérations sont terminées, le rapport et les scellés sont déposés entre les mains du greffier de la juridiction
-compétente. Ce dépôt est constaté par procès-verbal.
+compétente. Ce dépôt est constaté par procès-verbal. 
 
 Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe qu'un seul exemplaire d'un type de billets ou
-de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité.
+de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité. 
 
 Si elles sont susceptibles de fournir des renseignements sur les objets, documents et données informatiques saisis, les
 personnes présentes lors de la perquisition peuvent être retenues sur place par l'officier de police judiciaire le temps
@@ -5154,11 +5207,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 41 () JORF 22 juin 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 60 (M)
+  - Code de procédure pénale - art. 60 (V)
 
 **Liens**:
 
@@ -8858,40 +8911,40 @@ _Cité par_:
 Lorsqu'il y a lieu, en cours d'information, de rechercher des documents ou des données informatiques et sous réserve des
 nécessités de l'information et du respect, le cas échéant, de l'obligation stipulée par l'alinéa 3 de l'article précédent, le
 juge d'instruction ou l'officier de police judiciaire par lui commis a seul le droit d'en prendre connaissance avant de
-procéder à la saisie.
+procéder à la saisie. 
 
 Tous les objets, documents ou données informatiques placés sous main de justice sont immédiatement inventoriés et placés sous
 scellés. Cependant, si leur inventaire sur place présente des difficultés, l'officier de police judiciaire procède comme il
-est dit au quatrième alinéa de l'article 56.
+est dit au quatrième alinéa de l'article 56. 
 
 Il est procédé à la saisie des données informatiques nécessaires à la manifestation de la vérité en plaçant sous main de
 justice soit le support physique de ces données, soit une copie réalisée en présence des personnes qui assistent à la
-perquisition.
+perquisition. 
 
 Si une copie est réalisée dans le cadre de cette procédure, il peut être procédé, sur ordre du juge d'instruction, à
 l'effacement définitif, sur le support physique qui n'a pas été placé sous main de justice, des données informatiques dont la
-détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
+détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens. 
 
 Avec l'accord du juge d'instruction, l'officier de police judiciaire ne maintient que la saisie des objets, documents et
-données informatiques utiles à la manifestation de la vérité.
+données informatiques utiles à la manifestation de la vérité. 
 
 Lorsque ces scellés sont fermés, ils ne peuvent être ouverts et les documents dépouillés qu'en présence de la personne mise
 en examen, assistée de son avocat, ou eux dûment appelés. Le tiers chez lequel la saisie a été faite est également invité à
-assister à cette opération.
+assister à cette opération. 
 
 Si les nécessités de l'instruction ne s'y opposent pas, copie ou photocopie des documents ou des données informatiques placés
-sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande.
+sous main de justice peuvent être délivrées à leurs frais, dans le plus bref délai, aux intéressés qui en font la demande. 
 
 Si la saisie porte sur des espèces, lingots, effets ou valeurs dont la conservation en nature n'est pas nécessaire à la
 manifestation de la vérité ou à la sauvegarde des droits des parties, il peut autoriser le greffier à en faire le dépôt à la
-Caisse des dépôts et consignations ou à la Banque de France.
+Caisse des dépôts et consignations ou à la Banque de France. 
 
-Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaits, le juge d'instruction
-ou l'officier de police judiciaire par lui commis doit transmettre, pour analyse et identification, au moins un exemplaire de
-chaque type de billets ou pièces suspectés faux au centre d'analyse national habilité à cette fin. Le centre d'analyse
-national peut procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture
-ou réouverture des scellés. Lorsque les opérations sont terminées, le rapport et les scellés sont déposés entre les mains du
-greffier de la juridiction compétente. Ce dépôt est constaté par procès-verbal.
+Lorsque la saisie porte sur des billets de banque ou pièces de monnaie libellés en euros contrefaisants, le juge
+d'instruction ou l'officier de police judiciaire par lui commis doit transmettre, pour analyse et identification, au moins un
+exemplaire de chaque type de billets ou pièces suspectés faux au centre d'analyse national habilité à cette fin. Le centre
+d'analyse national peut procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute
+ouverture ou réouverture des scellés. Lorsque les opérations sont terminées, le rapport et les scellés sont déposés entre les
+mains du greffier de la juridiction compétente. Ce dépôt est constaté par procès-verbal. 
 
 Les dispositions du précédent alinéa ne sont pas applicables lorsqu'il n'existe qu'un seul exemplaire d'un type de billets ou
 de pièces suspectés faux, tant que celui-ci est nécessaire à la manifestation de la vérité.
@@ -8915,12 +8968,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 43 () JORF 22 juin 2004
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 56 (M)
-  - CODE DE PROCEDURE PENALE - art. 96 (M)
+  - Code de procédure pénale - art. 56 (V)
 
 **Liens**:
 
@@ -38621,6 +38673,37 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de procédure pénale - art. 704-4 (VD)
+
+
+###### Article 706-1-2
+
+Les articles 706-80 à 706-87 sont applicables à l'enquête relative aux délits prévus par les articles L. 335-2, L. 335-3, L.
+335-4, 
+L. 343-4, L. 521-10, L. 615-14, L. 716-9 et L. 716-10 du code de la propriété intellectuelle lorsqu'ils sont commis en bande
+organisée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 58-1296 1958-12-23
+
+_Créé par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 46 () JORF 30 octobre 2007
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L335-2 (V)
+  - Code de la propriété intellectuelle - art. L343-4 (V)
+  - Code de la propriété intellectuelle - art. L521-10 (V)
+  - Code de la propriété intellectuelle - art. L615-14 (V)
+  - Code de la propriété intellectuelle - art. L716-9 (V)
+  - Code de procédure pénale - art. 706-80 (V)
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. 706-1 (VD)
 
 
 ### Titre XIII bis : De la procédure applicable aux infractions en matière sanitaire<a id=190></a>
