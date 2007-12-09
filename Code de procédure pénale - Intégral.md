@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-11-25
+Version Consolidée au 2007-12-10
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -61576,19 +61576,18 @@ i) L'article R. 215-2 du code rural ;
 10-2, R. 10-4 et R. 10-9.
 
 6° Contraventions réprimées par le code de la santé publique prévues par les articles R. 3512-1 et le 1° et le 2° de
-l'article R. 3512-2.
+l'article R. 3512-2 ;
 
 Contraventions en matière de vente de boissons alcoolisées réprimées par l'article R. 3353-5-1 du code la santé publique.
 
+6° bis Contraventions réprimées par les 1° et 3° de l'article R. 254-20 du code rural.
+
 **Nota:**
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 10 septembre 2008.
+Une erreur matérielle s'est glissée dans le décret n° 2007-1726 du 7 décembre 2007 JORF du 9 décembre 2007 art. 2 : il faut
+lire 6° bis, au lieu de 6°.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
 
 _Cité par_:
 
@@ -61597,6 +61596,7 @@ _Cité par_:
   - Décret n°2012-343 du 9 mars 2012 (V)
   - Décret n°2016-34 du 20 janvier 2016 - art. 3 (V)
   - CODE DE PROCEDURE PENALE - art. R49-13 (V)
+  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
   - CODE DE PROCEDURE PENALE - art. R53-40 (Ab)
   - Code de l'environnement - art. R*242-78 (Ab)
   - Code de l'environnement - art. R322-42 (V)
@@ -61607,47 +61607,9 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R10-11 (V)
   - Code des postes et des communications électronique - art. R11 (T)
 
-_Cite_:
-
-  - Loi n°66-1005 1966-12-28
-  - Décret n°76-352 du 15 avril 1976 - art. 10 (M)
-  - Décret n°80-791 du 1 octobre 1980 - art. 15 (M)
-  - Décret n°86-1130 du 17 octobre 1986 - art. 3 (M)
-  - Décret n°87-223 du 26 mars 1987 - art. 6 (Ab)
-  - Décret n°87-848 du 19 octobre 1987 - art. 26 (M)
-  - Décret n°90-200 1990-03-05 art. 22-2
-  - Décret n°91-823 1991-08-28 art. 16
-  - Décret n°97-608 du 31 mai 1997 - art. 12 (V)
-  - Décret n°97-608 du 31 mai 1997 - art. 13 (M)
-  - Décret n°98-1039 du 18 novembre 1998 - art. 11 (V)
-  - Décret n°98-1039 du 18 novembre 1998 - art. 12 (M)
-  - Décret n°99-752 du 30 août 1999 - art. 19 (M)
-  - Décret n°2000-1302 du 26 décembre 2000 - art. 10 (Ab)
-  - Décret n°2002-747 2002-05-02 art. 17
-  - Décret n°2004-1186 2004-11-08 art. 26
-  - Code pénal - art. R622-2 (V)
-  - Code pénal - art. R632-1 (M)
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 25 (V)
-  - CODE DE PROCEDURE PENALE - art. R49-8-5 (V)
-  - Code de procédure pénale R49-8-5, 16, 25, R322-5, L133-1, R10-1, R10-2, R10-4, R10-9, R3512-1, R3512-2
-  - Code forestier - art. R133-5 (M)
-  - Code forestier - art. R137-4 (M)
-  - Code forestier - art. R138-20 (M)
-  - Code forestier - art. R322-5-1 (M)
-  - Code forestier - art. R331-1 (M)
-  - Code forestier - art. R331-3 (M)
-  - Code forestier R322-5-1, R331-3, R133-5, R137-4, R138-20, R331-1, 331-2
-  - Code de la santé publique - art. R3353-5-1 (V)
-  - Code des assurances - art. R*211-14 (M)
-  - Code des assurances - art. R211-21-5 (V)
-  - Code de l'environnement - art. L322-10-2 (V)
-  - Code rural 276, 276-2, 276-3, R215-6, R215-7, R215-8, R215-2
-  - Décret n°42-730 1942-03-22 art. 80-1
-
 _Modifié par_:
 
-  - Décret n°2007-1388 du 26 septembre 2007 - art. 11 () JORF 28 septembre 2007
+  - Décret n°2007-1726 du 7 décembre 2007 - art. 2 (V)
 
 **Liens**:
 
