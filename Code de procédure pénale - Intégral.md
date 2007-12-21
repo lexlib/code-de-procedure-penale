@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-12-10
+Version Consolidée au 2007-12-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -3992,26 +3992,26 @@ _Modifié par_:
 S'il lui apparaît qu'une telle mesure est susceptible d'assurer la réparation du dommage causé à la victime, de mettre fin au
 trouble résultant de l'infraction ou de contribuer au reclassement de l'auteur des faits, le procureur de la République peut,
 préalablement à sa décision sur l'action publique, directement ou par l'intermédiaire d'un officier de police judiciaire,
-d'un délégué ou d'un médiateur du procureur de la République :
+d'un délégué ou d'un médiateur du procureur de la République : 
 
-1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
+1° Procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ; 
 
 2° Orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans
 l'accomplissement par l'auteur des faits, à ses frais, d'un stage ou d'une formation dans un service ou un organisme
 sanitaire, social ou professionnel, et notamment d'un stage de citoyenneté, d'un stage de responsabilité parentale ou d'un
 stage de sensibilisation aux dangers de l'usage de produits stupéfiants ; en cas d'infraction commise à l'occasion de la
 conduite d'un véhicule terrestre à moteur, cette mesure peut consister dans l'accomplissement, par l'auteur des faits, à ses
-frais, d'un stage de sensibilisation à la sécurité routière ;
+frais, d'un stage de sensibilisation à la sécurité routière ; 
 
-3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ;
+3° Demander à l'auteur des faits de régulariser sa situation au regard de la loi ou des règlements ; 
 
-4° Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ;
+4° Demander à l'auteur des faits de réparer le dommage résultant de ceux-ci ; 
 
-5° Faire procéder, avec l'accord des parties, à une mission de médiation entre l'auteur des faits et la victime ; En cas de
+5° Faire procéder, avec l'accord des parties, à une mission de médiation entre l'auteur des faits et la victime. En cas de
 réussite de la médiation, le procureur de la République ou le médiateur du procureur de la République en dresse procès-
 verbal, qui est signé par lui-même et par les parties, et dont une copie leur est remise ; si l'auteur des faits s'est engagé
 à verser des dommages et intérêts à la victime, celle-ci peut, au vu de ce procès-verbal, en demander le recouvrement suivant
-la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile. 
+la procédure d'injonction de payer, conformément aux règles prévues par le code de procédure civile ;
 
 6° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de solidarité,
 soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, demander à l'auteur des faits de résider hors du
@@ -4019,7 +4019,7 @@ domicile ou de la résidence du couple et, le cas échéant, de s'abstenir de pa
 aux abords immédiats de celui-ci, ainsi que, si nécessaire, de faire l'objet d'une prise en charge sanitaire, sociale ou
 psychologique ; les dispositions du présent 6° sont également applicables lorsque l'infraction est commise par l'ancien
 conjoint ou concubin de la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile
-concerné étant alors celui de la victime.
+concerné étant alors celui de la victime. 
 
 La procédure prévue au présent article suspend la prescription de l'action publique. 
 
@@ -4054,13 +4054,9 @@ _Cité par_:
   - Code de procédure pénale - art. R155 (V)
   - Code de procédure pénale - art. R92 (VD)
 
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 65 () JORF 7 mars 2007
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ###### Article 41-2
@@ -4069,45 +4065,45 @@ Le procureur de la République, tant que l'action publique n'a pas été mise en
 l'intermédiaire d'une personne habilitée, une composition pénale à une personne physique qui reconnaît avoir commis un ou
 plusieurs délits punis à titre de peine principale d'une peine d'amende ou d'une peine d'emprisonnement d'une durée
 inférieure ou égale à cinq ans, ainsi que, le cas échéant, une ou plusieurs contraventions connexes qui consiste en une ou
-plusieurs des mesures suivantes :
+plusieurs des mesures suivantes : 
 
 1° Verser une amende de composition au Trésor public. Le montant de cette amende, qui ne peut excéder le montant maximum de
 l'amende encourue, est fixé en fonction de la gravité des faits ainsi que des ressources et des charges de la personne. Son
 versement peut être échelonné, selon un échéancier fixé par le procureur de la République, à l'intérieur d'une période qui ne
-peut être supérieure à un an ;
+peut être supérieure à un an ; 
 
 2° Se dessaisir au profit de l'Etat de la chose qui a servi ou était destinée à commettre l'infraction ou qui en est le
-produit ;
+produit ; 
 
-3° Remettre son véhicule, pour une période maximale de six mois, à des fins d'immobilisation ;
+3° Remettre son véhicule, pour une période maximale de six mois, à des fins d'immobilisation ; 
 
-4° Remettre au greffe du tribunal de grande instance son permis de conduire, pour une période maximale de six mois ;
+4° Remettre au greffe du tribunal de grande instance son permis de conduire, pour une période maximale de six mois ; 
 
-5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour une période maximale de six mois ;
+5° Remettre au greffe du tribunal de grande instance son permis de chasser, pour une période maximale de six mois ; 
 
 6° Accomplir au profit de la collectivité, notamment au sein d'une personne morale de droit public ou d'une personne morale
 de droit privé chargée d'une mission de service public ou d'une association habilitées, un travail non rémunéré pour une
-durée maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois ;
+durée maximale de soixante heures, dans un délai qui ne peut être supérieur à six mois ; 
 
 7° Suivre un stage ou une formation dans un service ou un organisme sanitaire, social ou professionnel pour une durée qui ne
-peut excéder trois mois dans un délai qui ne peut être supérieur à dix-huit mois ;
+peut excéder trois mois dans un délai qui ne peut être supérieur à dix-huit mois ; 
 
 8° Ne pas émettre, pour une durée de six mois au plus, des chèques autres que ceux qui permettent le retrait de fonds par le
-tireur auprès du tiré ou ceux qui sont certifiés et ne pas utiliser de cartes de paiement ;
+tireur auprès du tiré ou ceux qui sont certifiés et ne pas utiliser de cartes de paiement ; 
 
 9° Ne pas paraître, pour une durée qui ne saurait excéder six mois, dans le ou les lieux dans lesquels l'infraction a été
 commise et qui sont désignés par le procureur de la République, à l'exception des lieux dans lesquels la personne réside
-habituellement ;
+habituellement ; 
 
 10° Ne pas rencontrer ou recevoir, pour une durée qui ne saurait excéder six mois, la ou les victimes de l'infraction
-désignées par le procureur de la République ou ne pas entrer en relation avec elles ;
+désignées par le procureur de la République ou ne pas entrer en relation avec elles ; 
 
 11° Ne pas rencontrer ou recevoir, pour une durée qui ne saurait excéder six mois, le ou les coauteurs ou complices éventuels
-désignés par le procureur de la République ou ne pas entrer en relation avec eux ;
+désignés par le procureur de la République ou ne pas entrer en relation avec eux ; 
 
-12° Ne pas quitter le territoire national et remettre son passeport pour une durée qui ne saurait excéder six mois ;
+12° Ne pas quitter le territoire national et remettre son passeport pour une durée qui ne saurait excéder six mois ; 
 
-13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté ;
+13° Accomplir, le cas échéant à ses frais, un stage de citoyenneté ; 
 
 14° En cas d'infraction commise soit contre son conjoint, son concubin ou son partenaire lié par un pacte civil de
 solidarité, soit contre ses enfants ou ceux de son conjoint, concubin ou partenaire, résider hors du domicile ou de la
@@ -4115,44 +4111,44 @@ résidence du couple et, le cas échéant, s'abstenir de paraître dans ce domic
 celui-ci, ainsi que, si nécessaire, faire l'objet d'une prise en charge sanitaire, sociale ou psychologique ; les
 dispositions du présent 14° sont également applicables lorsque l'infraction est commise par l'ancien conjoint ou concubin de
 la victime, ou par la personne ayant été liée à elle par un pacte civil de solidarité, le domicile concerné étant alors celui
-de la victime ;
+de la victime ; 
 
-15° Accomplir, le cas échéant à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ;
+15° Accomplir, le cas échéant à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ; 
 
 16° Se soumettre à une mesure d'activité de jour consistant en la mise en oeuvre d'activités d'insertion professionnelle ou
 de mise à niveau scolaire soit auprès d'une personne morale de droit public, soit auprès d'une personne morale de droit privé
-chargée d'une mission de service public ou d'une association habilitées à mettre en oeuvre une telle mesure ;
+chargée d'une mission de service public ou d'une association habilitées à mettre en oeuvre une telle mesure ; 
 
 17° Se soumettre à une mesure d'injonction thérapeutique, selon les modalités définies aux articles L. 3413-1 à L. 3413-4 du
 code de la santé publique, lorsqu'il apparaît que l'intéressé fait usage de stupéfiants ou fait une consommation habituelle
-et excessive de boissons alcooliques.
+et excessive de boissons alcooliques. 
 
 Lorsque la victime est identifiée, et sauf si l'auteur des faits justifie de la réparation du préjudice commis, le procureur
 de la République doit également proposer à ce dernier de réparer les dommages causés par l'infraction dans un délai qui ne
 peut être supérieur à six mois. Il informe la victime de cette proposition. Cette réparation peut consister, avec l'accord de
-la victime, en la remise en état d'un bien endommagé par la commission de l'infraction.
+la victime, en la remise en état d'un bien endommagé par la commission de l'infraction. 
 
 La proposition de composition pénale émanant du procureur de la République peut être portée à la connaissance de l'auteur des
 faits par l'intermédiaire d'un officier de police judiciaire. Elle fait alors l'objet d'une décision écrite et signée de ce
-magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure.
+magistrat, qui précise la nature et le quantum des mesures proposées et qui est jointe à la procédure. 
 
-La composition pénale peut être proposée dans une maison de justice et du droit.
+La composition pénale peut être proposée dans une maison de justice et du droit. 
 
 La personne à qui est proposée une composition pénale est informée qu'elle peut se faire assister par un avocat avant de
 donner son accord à la proposition du procureur de la République. Ledit accord est recueilli par procès-verbal. Une copie de
-ce procès-verbal lui est transmise.
+ce procès-verbal lui est transmise. 
 
 Lorsque l'auteur des faits donne son accord aux mesures proposées, le procureur de la République saisit par requête le
 président du tribunal aux fins de validation de la composition. Le procureur de la République informe de cette saisine
 l'auteur des faits et, le cas échéant, la victime. Le président du tribunal peut procéder à l'audition de l'auteur des faits
 et de la victime, assistés, le cas échéant, de leur avocat. Si ce magistrat rend une ordonnance validant la composition, les
 mesures décidées sont mises à exécution. Dans le cas contraire, la proposition devient caduque. La décision du président du
-tribunal, qui est notifiée à l'auteur des faits et, le cas échéant, à la victime, n'est pas susceptible de recours.
+tribunal, qui est notifiée à l'auteur des faits et, le cas échéant, à la victime, n'est pas susceptible de recours. 
 
 Si la personne n'accepte pas la composition pénale ou si, après avoir donné son accord, elle n'exécute pas intégralement les
 mesures décidées, le procureur de la République met en mouvement l'action publique, sauf élément nouveau. En cas de
 poursuites et de condamnation, il est tenu compte, s'il y a lieu, du travail déjà accompli et des sommes déjà versées par la
-personne.
+personne. 
 
 Les actes tendant à la mise en oeuvre ou à l'exécution de la composition pénale sont interruptifs de la prescription de
 l'action publique.
@@ -4162,16 +4158,16 @@ de délivrer citation directe devant le tribunal correctionnel dans les conditio
 composé d'un seul magistrat exerçant les pouvoirs conférés au président, ne statue alors que sur les seuls intérêts civils,
 au vu du dossier de la procédure qui est versé au débat. La victime a également la possibilité, au vu de l'ordonnance de
 validation, lorsque l'auteur des faits s'est engagé à lui verser des dommages et intérêts, d'en demander le recouvrement
-suivant la procédure d'injonction de payer, conformément aux règles prévues par le nouveau code de procédure civile.
+suivant la procédure d'injonction de payer, conformément aux règles prévues par le code de procédure civile. 
 
-Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier judiciaire.
+Les compositions pénales exécutées sont inscrites au bulletin n° 1 du casier judiciaire. 
 
 Les dispositions du présent article ne sont pas applicables en matière de délits de presse, de délits d'homicides
 involontaires ou de délits politiques. Elles sont applicables aux mineurs âgés d'au moins treize ans, selon les modalités
-prévues par l'article 7-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+prévues par l'article 7-2 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante. 
 
 Le président du tribunal peut désigner, aux fins de validation de la composition pénale, tout juge du tribunal ainsi que tout
-juge de proximité exerçant dans le ressort du tribunal.
+juge de proximité exerçant dans le ressort du tribunal. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -4225,15 +4221,13 @@ _Cité par_:
   - Code de procédure pénale - art. R15-33-55-9 (V)
   - Code de procédure pénale - art. R55 (VD)
 
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 50 () JORF 7 mars 2007
-  - Loi n°2007-297 du 5 mars 2007 - art. 63 () JORF 7 mars 2007
-  - Loi n°2007-297 du 5 mars 2007 - art. 64 () JORF 7 mars 2007
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L3413-1 (V)
 
 
 ###### Article 41-3
@@ -28103,27 +28097,23 @@ _Cite_:
 
 Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant les règles
 prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à courir à compter
-de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif.
+de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif. 
 
 Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut
 former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne
 l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte
-d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée. S'il s'agit
+d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.S'il s'agit
 d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois
 lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat
 d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son
 changement d'adresse au service d'immatriculation des véhicules ; dans ce dernier cas, le contrevenant n'est redevable que
 d'une somme égale au montant de l'amende forfaitaire s'il s'en acquitte dans un délai de quarante-cinq jours, ce qui a pour
-effet d'annuler le titre exécutoire pour le montant de la majoration.
+effet d'annuler le titre exécutoire pour le montant de la majoration. 
 
-La réclamation doit être accompagnée de l'avis correspondant à l'amende considérée ainsi que, dans le cas prévu par l'article
-529-10, de l'un des documents exigés par cet article, à défaut de quoi elle n'a pas pour effet d'annuler le titre exécutoire.
+La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée correspondant à l'amende considérée ainsi que,
+dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est irrecevable.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 58-1296 1958-12-23
 
 _Cité par_:
 
@@ -28151,16 +28141,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-204 du 9 mars 2004 - art. 62 () JORF 10 mars 2004
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 5
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la route. - art. L121-5 (M)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 529-2
+  - Code de procédure pénale - art. 529-5
 
 
 ###### Article 530-1
@@ -31418,9 +31408,9 @@ _Créé par_:
 ###### Article 627-3
 
 L'exécution sur le territoire français des mesures conservatoires mentionnées au k du paragraphe 1 de l'article 93 du statut
-est ordonnée, aux frais avancés du Trésor et selon les modalités prévues par le nouveau code de procédure civile, par le
-procureur de la République de Paris. La durée maximale de ces mesures est limitée à deux ans. Elles peuvent être renouvelées
-dans les mêmes conditions avant l'expiration de ce délai à la demande de la Cour pénale internationale.
+est ordonnée, aux frais avancés du Trésor et selon les modalités prévues par le    code de procédure civile, par le procureur
+de la République de Paris. La durée maximale de ces mesures est limitée à deux ans. Elles peuvent être renouvelées dans les
+mêmes conditions avant l'expiration de ce délai à la demande de la Cour pénale internationale. 
 
 Le procureur de la République de Paris transmet aux autorités compétentes, en vertu de l'article 87 du statut, toute
 difficulté relative à l'exécution de ces mesures, afin que soient menées les consultations prévues aux articles 93,
@@ -31428,13 +31418,9 @@ paragraphe 3, et 97 du statut.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 58-1296 1958-12-23
-
-_Créé par_:
-
-  - Loi n°2002-268 du 26 février 2002 - art. 1 () JORF 27 février 2002
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ##### Section 2 : De l'arrestation et de la remise<a id=136></a>
@@ -52377,6 +52363,25 @@ _Cite_:
 
   - Code de procédure pénale - art. 145 (VT)
   - Code de procédure pénale - art. 187-1 (V)
+
+
+###### Article 823-1
+
+Les dispositions de l'article 706-71 sont applicables au débat contradictoire préalable au placement en détention provisoire
+d'une personne libre, tenu par le juge des libertés et de la détention du tribunal de première instance de Nouméa en
+application des articles 145 et 396.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 25
+
+_Cite_:
+
+  - Code de procédure pénale - art. 145
+  - Code de procédure pénale - art. 396
+  - Code de procédure pénale - art. 706-71
 
 
 ###### Article 824
