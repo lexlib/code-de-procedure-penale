@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2007-12-31
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -782,8 +782,8 @@ Version Consolidée au 2007-12-31
       - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#779)
       - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#780)
     - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#781)
-      - [Titre Ier (art. A38-2 à A38-4)](#782)
-        - [Chapitre Ier : Dispositions générales. (art. A38-2 à A38-4)](#783)
+      - [Titre Ier (art. A38-2 à A38-5)](#782)
+        - [Chapitre Ier : Dispositions générales. (art. A38-2 à A38-5)](#783)
       - [Titre II : De la détention (art. A39 à A43-3)](#784)
         - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#785)
           - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#786)
@@ -81915,88 +81915,63 @@ _Cite_:
 
 Il est tenu en permanence au parquet général de chaque cour d'appel un dossier individuel concernant l'activité, en tant
 qu'officier de police judiciaire et pour l'ensemble du ressort, de chacun des fonctionnaires et militaires habilités à
-exercer les attributions attachées à la qualité d'officier de police judiciaire.
+exercer les attributions attachées à la qualité d'officier de police judiciaire. 
 
-Ce dossier comprend notamment :
+Ce dossier comprend notamment : 
 
-1° Les demandes d'habilitation et les documents qui y sont joints ;
+1° Les demandes d'habilitation et les documents qui y sont joints ; 
 
 2° La copie des décisions prononcées par l'autorité judiciaire en application des dispositions des articles 16-1, 16-3, 224 à
-229, R. 15-2 et R. 15-5, et notamment la copie des arrêtés d'habilitation ;
+229, R. 15-2 et R. 15-5, et notamment la copie des arrêtés d'habilitation ; 
 
-3° L'avis des promotions dont l'intéressé a pu faire l'objet depuis sa dernière habilitation ;
+3° L'avis des promotions dont l'intéressé a pu faire l'objet depuis sa dernière habilitation ; 
 
 4° La copie de tout document émanant d'un magistrat ou d'un service exerçant des attributions d'inspection et relatif à
-l'exercice des activités judiciaires de l'intéressé ;
+l'exercice des activités judiciaires de l'intéressé ; 
 
-5° Les notations annuelles établies en application des dispositions ci-après.
+5° Les notations établies en application des dispositions ci-après. 
 
 Le dossier est communiqué à la chambre d'instruction lorsque celle-ci se trouve saisie dans les conditions fixées à l'article
 225.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 224 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 225 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 226 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 227 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 228 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 229 (M)
-  - TXT_SOURCE: CODE DE PROCEDURE PENALE - art. 230 (M)
-
 _Modifié par_:
 
-  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 13 (M)
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 16-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 16-3 (V)
-  - CODE DE PROCEDURE PENALE - art. 19-1 (V)
-  - CODE DE PROCEDURE PENALE - art. 225 (M)
-  - CODE DE PROCEDURE PENALE - art. R15-2 (V)
-  - CODE DE PROCEDURE PENALE - art. R15-5 (V)
-  - Code de procédure pénale 13, 16, 19-1, 224 à 230, 16-1, 16-3, 224 à 229, R15-2, R15-5, 225
+  - Décret n°2007-1817 du 24 décembre 2007 - art. 2
 
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. D45 (M)
   - CODE DE PROCEDURE PENALE - art. D47 (M)
 
+_Cite_:
+
+  - Code de procédure pénale - art. 16-1 (V)
+  - Code de procédure pénale - art. 16-3 (V)
+  - Code de procédure pénale - art. 224 (V)
+  - Code de procédure pénale - art. 225 (V)
+  - Code de procédure pénale - art. R15-2 (V)
+
 
 ###### Article D45
 
-Pour les officiers de police judiciaire appartenant à un service ou à une unité dont le ressort n'excède pas celui d'un
-tribunal de grande instance, le procureur de la République, après avoir recueilli les observations du ou des juges
-d'instruction et, le cas échéant, des juges des enfants et de l'application des peines et celles du ou des présidents des
-chambres correctionnelles, établit une proposition de notation qu'il transmet chaque année au procureur général près la cour
-d'appel.
+Le procureur de la République, après avoir recueilli les observations du ou des juges d'instruction et, le cas échéant, des
+juges des enfants ainsi que celles du ou des présidents de chambres correctionnelles, établit, tous les deux ans, une
+proposition de notation des officiers de police judiciaire affectés dans un service ou une unité ayant son siège dans le
+ressort du tribunal, qu'il transmet au procureur général près la cour d'appel.
 
-La notation est établie par le procureur général, après consultation, le cas échéant, des présidents de la chambre
-d'instruction et des cours d'assises du ressort.
+La notation est établie par le procureur général, après consultation, le cas échéant, des autres procureurs de la République
+concernés de son ressort, des présidents de la chambre de l'instruction, de la chambre des mineurs, de la chambre des appels
+correctionnels et des cours d'assises. Lorsque le service ou l'unité dans lequel l'officier de police judiciaire est affecté
+excède le ressort de la cour d'appel, ou lorsque l'officier de police judiciaire est affecté depuis moins d'un an dans le
+ressort de la cour d'appel, le procureur général peut également recueillir l'avis des autres procureurs généraux concernés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-
 _Modifié par_:
 
-  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+  - Décret n°2007-1817 du 24 décembre 2007 - art. 3
 
 _Cité par_:
 
@@ -82004,82 +81979,46 @@ _Cité par_:
   - Code de procédure pénale - art. D46 (M)
 
 
-###### Article D45-1
+###### Article D46
 
-A l'égard des officiers de police judiciaire qui sont affectés à un service ou à une unité dont le ressort excède celui d'un
-tribunal de grande instance, le procureur de la République du tribunal dans le ressort duquel le service ou l'unité a son
-siège, après avoir recueilli les observations du ou des juges d'instruction et, le cas échéant, des juges des enfants et de
-l'application des peines et celles du ou des présidents des chambres correctionnelles, établit une proposition de notation
-qu'il transmet chaque année au procureur général près la cour d'appel.
+Les propositions de notation et les notations prévues à l'article D. 45 sont établies sur un imprimé conforme au modèle fixé
+par le ministre de la justice. 
 
-Celui-ci établit la notation après avoir, le cas échéant, recueilli les observations des autres procureurs de la République
-concernés de son ressort, des présidents de la chambre d'instruction et des cours d'assises. Lorsque le service ou l'unité
-dans lequel l'officier de police judiciaire est affecté excède le ressort de la cour d'appel, le procureur général peut
-également recueillir l'avis des autres procureurs généraux concernés.
+Elles doivent comporter une appréciation générale circonstanciée, ainsi qu'une note chiffrée de 0 à 10 et une appréciation
+sur chacun des éléments suivants lorsqu'ils ont été observés : 
+
+1. Relations professionnelles avec l'autorité judiciaire ; 
+
+2. Qualité de la coordination de l'activité de police judiciaire du service ou de l'unité ; 
+
+3. Qualité des procédures et de la rédaction des rapports et des procès-verbaux ; 
+
+4. Qualité des constatations et des investigations techniques ; 
+
+5. Valeur des informations données au parquet ; 
+
+6. Engagement professionnel ; 
+
+7. Capacité à conduire les investigations ; 
+
+8. Degré de confiance accordé. 
+
+Lorsque l'un de ces éléments n'a pas été observé, la mention : "activité judiciaire non observée"   est substituée à la
+notation chiffrée et à l'appréciation correspondantes.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
 
 _Modifié par_:
 
-  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
-
-_Abrogé par_:
-
-  - Décret n°2007-1817 du 24 décembre 2007 - art. 4
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. D46 (V)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. D46 (T)
-
-
-###### Article D46
-
-Les propositions de notation et les notations prévues aux articles D. 45 et D. 45-1 sont établies sur un imprimé conforme au
-modèle fixé par le ministre de la justice.
-
-Elles doivent comporter une note chiffrée de 0 à 5 et une appréciation sur chacun des éléments suivants :
-
-1. Qualité de procédure et rédaction des rapports et des procès-verbaux ;
-
-2. Valeur des informations données au parquet ;
-
-3. Habileté professionnelle ;
-
-4. Degré de confiance accordé ;
-
-5. Note générale.
-
-Elles doivent également comporter une appréciation générale circonstanciée.
-
-Si l'activité de l'officier de police judiciaire est demeurée inconnue de l'autorité judiciaire, l'imprimé visé au premier
-alinéa porte pour seule mention les mots : "activité judiciaire non observée".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-1304 1958-12-23
+  - Décret n°2007-1817 du 24 décembre 2007 - art. 5
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°58-1304 1958-12-23 art. 6
-
-_Modifié par_:
-
-  - Décret n°2001-475 du 30 mai 2001 - art. 3 () JORF 3 juin 2001
+  - TRANSFERE: Décret n°2016-1202 du 7 septembre 2016 - art. 8
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D45 (M)
-  - CODE DE PROCEDURE PENALE - art. D45-1 (M)
+  - Code de procédure pénale - art. D45 (V)
 
 _Nouveaux textes_:
 
@@ -112206,6 +112145,28 @@ _Créé par_:
 _Cite_:
 
   - Code de la route L130-19
+
+
+###### Article A38-5
+
+Par dérogation aux dispositions de l'article A. 38-3, le comptable du Trésor de la trésorerie de Toulouse amendes, sise à
+Toulouse, assure le recouvrement des amendes et condamnations pécuniaires pour lesquelles le Trésor public a compétence et
+qui sont prononcées par les juridictions des départements de l'Ariège, de l'Aveyron, de la Haute-Garonne, du Gers, du Lot,
+des Hautes-Pyrénées, du Tarn et de Tarn-et-Garonne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 7 décembre 2007 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 26 octobre 2018 - art. 1
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. A38-3 (V)
 
 
 ### Titre II : De la détention<a id=784></a>
