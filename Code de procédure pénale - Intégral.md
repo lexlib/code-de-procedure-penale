@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-01-02
+Version Consolidée au 2008-01-05
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -110153,41 +110153,39 @@ _Cite_:
 ###### Article A39
 
 La liste des établissements pénitentiaires classés dans la catégorie des maisons centrales ou comportant un quartier maison
-centrale prévue à l'article D. 71 est fixée comme suit :
+centrale prévue à l'article D. 71 est fixée comme suit : 
 
-Quartier maison centrale du centre pénitentiaire d'Arles (Bouches-du-Rhône).
+Quartier maison centrale du centre pénitentiaire d'Arles (Bouches-du-Rhône). 
 
-Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne).
+Quartier maison centrale du centre pénitentiaire de Château-Thierry (Aisne). 
 
-Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube).
+Quartier maison centrale du centre pénitentiaire de Clairvaux (Aube). 
 
-Quartier maison centrale du centre pénitentiaire de Ducos (Martinique).
+Quartier maison centrale du centre pénitentiaire de Ducos (Martinique). 
 
-Maison centrale d'Ensisheim (Haut-Rhin).
+Maison centrale d'Ensisheim (Haut-Rhin). 
 
-Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées).
+Quartier maison centrale du centre pénitentiaire de Lannemezan (Hautes-Pyrénées). 
 
-Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier).
+Quartier maison centrale du centre pénitentiaire de Lille-Loos-Sequedin (Nord) 
 
-Maison centrale de Poissy (Yvelines).
+Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure (Allier). 
 
-Quartier maison centrale du centre pénitentiaire du Port (Réunion).
+Maison centrale de Poissy (Yvelines). 
 
-Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane).
+Quartier maison centrale du centre pénitentiaire du Port (Réunion). 
 
-Maison centrale de Saint-Martin-de-Ré (Charente-Maritime).
+Quartier maison centrale du centre pénitentiaire de Remire-Montjoly (Guyane). 
+
+Maison centrale de Saint-Martin-de-Ré (Charente-Maritime). 
 
 Maison centrale de Saint-Maur (Indre).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1959-02-27
-
 _Modifié par_:
 
-  - Arrêté 2005-12-13 art. 1 JORF 24 décembre 2005
+  - Arrêté du 19 décembre 2007 - art. 1
 
 _Cité par_:
 
@@ -110195,7 +110193,7 @@ _Cité par_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. D71 (M)
+  - CODE DE PROCEDURE PENALE - art. D71 (V)
 
 
 ###### Article A39-1
@@ -110725,6 +110723,12 @@ La liste des établissements pénitentiaires spécialisés pour mineurs prévue 
 
 - établissement spécialisé pour mineurs de Marseille (Bouches-du-Rhône) ;
 
+- établissement spécialisé pour mineurs de Meaux-Chauconin-Neufmontiers (Seine-et-Marne) ;
+
+- établissement spécialisé pour mineurs d'Orvault (Loire-Atlantique) ;
+
+- établissement spécialisé pour mineurs de Porcheville (Yvelines) ;
+
 - établissement spécialisé pour mineurs de Quiévrechain (Nord) ;
 
 - établissement spécialisé pour mineurs du Rhône (Meyzieu, Rhône).
@@ -110736,13 +110740,9 @@ l'article A43-4).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1959-02-27
-
-_Créé par_:
-
-  - Arrêté 2007-05-09 art. 1 JORF 15 mai 2007
+  - Arrêté du 19 décembre 2007 - art. 2
 
 _Nouveaux textes_:
 
@@ -110756,135 +110756,111 @@ _Cite_:
 ###### Article A43-3
 
 La liste des quartiers des mineurs des maisons d'arrêt ou des établissements pour peines prévue à l'article R. 57-9-11 est
-fixée comme suit :
+fixée comme suit : 
 
-Quartier des mineurs de la maison d'arrêt d'Aix-Luynes (Bouches-du-Rhône) ;
+Quartier des mineurs de la maison d'arrêt d'Angers (Maine-et-Loire) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Amiens (Somme) ;
+Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Angers (Maine-et-Loire) ;
+Quartier des mineurs du centre pénitentiaire d'Avignon-le-Pontet (Vaucluse) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Angoulême (Charente) ;
+Quartier des mineurs du centre pénitentiaire de Baie-Mahault (Guadeloupe) ; 
 
-Quartier des mineurs du centre pénitentiaire d'Avignon-le-Pontet (Vaucluse) ;
+Quartier des mineurs de la maison d'arrêt de Besançon (Doubs) ; 
 
-Quartier des mineurs du centre pénitentiaire de Baie-Mahault (Guadeloupe) ;
+Quartier des mineurs de la maison d'arrêt de Bois-d'Arcy (Yvelines) ; 
 
-Quartier des mineurs de la maison d'arrêt de Besançon (Doubs) ;
+Quartier des mineurs de la maison d'arrêt de Bonneville (Haute-Savoie) ; 
 
-Quartier des mineurs de la maison d'arrêt de Bois-d'Arcy (Yvelines) ;
+Quartier des mineurs de la maison d'arrêt de Bordeaux-Gradignan (Gironde) ; 
 
-Quartier des mineurs de la maison d'arrêt de Bonneville (Haute-Savoie) ;
+Quartier des mineurs du centre pénitentiaire de Borgo (Haute-Corse) ; 
 
-Quartier des mineurs de la maison d'arrêt de Bordeaux-Gradignan (Gironde) ;
+Quartier des mineurs de la maison d'arrêt de Bourges (Cher) ; 
 
-Quartier des mineurs du centre pénitentiaire de Borgo (Haute-Corse) ;
+Quartier des mineurs de la maison d'arrêt de Brest (Finistère) ; 
 
-Quartier des mineurs de la maison d'arrêt de Bourges (Cher) ;
+Quartier des mineurs du centre pénitentiaire de Caen (Calvados) ; 
 
-Quartier des mineurs de la maison d'arrêt de Brest (Finistère) ;
+Quartier des mineurs de la maison d'arrêt de Chambéry (Savoie) ; 
 
-Quartier des mineurs du centre pénitentiaire de Caen (Calvados) ;
+Quartier des mineurs de la maison d'arrêt de Chaumont (Haute-Marne) ; 
 
-Quartier des mineurs de la maison d'arrêt de Chambéry (Savoie) ;
+Quartier des mineurs de la maison d'arrêt de Dijon (Côte-d'Or) ; 
 
-Quartier des mineurs de la maison d'arrêt de Chaumont (Haute-Marne) ;
+Quartier des mineurs du centre pénitentiaire de Ducos (Martinique) ; 
 
-Quartier des mineurs de la maison d'arrêt de Dijon (Côte-d'Or) ;
+Quartier des mineurs de la maison d'arrêt d'Epinal (Vosges) ; 
 
-Quartier des mineurs du centre pénitentiaire de Ducos (Martinique) ;
+Quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Epinal (Vosges) ;
+Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ; 
 
-Quartier des mineurs de la maison d'arrêt de Fleury-Mérogis (Essonne) ;
+Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ; 
 
-Quartier des mineurs de la maison d'arrêt de Grasse (Alpes-Maritimes) ;
+Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ; 
 
-Quartier des mineurs de la maison d'arrêt de Grenoble-Varces (Isère) ;
+Quartier des mineurs du centre pénitentiaire du Port (Réunion) ; 
 
-Quartier des mineurs du centre pénitentiaire de Laon (Aisne) ;
+Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ; 
 
-Quartier des mineurs du centre pénitentiaire du Port (Réunion) ;
+Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ; 
 
-Quartier des mineurs du centre pénitentiaire de Liancourt (Oise) ;
+Quartier des mineurs de la maison d'arrêt de Longuenesse (Pas-de-Calais) ; 
 
-Quartier des mineurs de la maison d'arrêt du centre pénitentiaire de Lille-Loos-Sequedin (Nord) ;
+Quartier des mineurs du centre pénitentiaire de Lorient-Plömeur (Morbihan) ; 
 
-Quartier des mineurs de la maison d'arrêt de Limoges (Haute-Vienne) ;
+Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ; 
 
-Quartier des mineurs de la maison d'arrêt de Longuenesse (Pas-de-Calais) ;
+Quartier des mineurs du centre de semi-liberté de Maxéville (Meurthe-et-Moselle) ; 
 
-Quartier des mineurs du centre pénitentiaire de Lorient-Plömeur (Morbihan) ;
+Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ; 
 
-Quartier des mineurs de la maison d'arrêt de Lyon-Perrache (Rhône) ;
+Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ; 
 
-Quartier des mineurs de la maison d'arrêt de Majicavo (Mayotte) ;
+Quartier des mineurs de la maison d'arrêt de Mulhouse (Bas-Rhin) ; 
 
-Quartier des mineurs du centre de semi-liberté de Maxéville (Meurthe-et-Moselle) ;
+Quartier des mineurs de la maison d'arrêt de Nancy (Meurthe-et-Moselle) ; 
 
-Quartier des mineurs du centre pénitentiaire de Metz (Moselle) ;
+Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ; 
 
-Quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
+Quartier des mineurs du centre pénitentiaire de Nantes (Loire-Atlantique) ; 
 
-Quartier des mineurs de la maison d'arrêt de Mulhouse (Bas-Rhin) ;
+Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ; 
 
-Quartier des mineurs de la maison d'arrêt de Nancy (Meurthe-et-Moselle) ;
+Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ; 
 
-Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
+Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ; 
 
-Quartier des mineurs du centre pénitentiaire de Nantes (Loire-Atlantique) ;
+Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ; 
 
-Quartier des mineurs de la maison d'arrêt de Nîmes (Gard) ;
+Quartier des mineurs de la maison d'arrêt de Poitiers (Vienne) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
+Quartier des mineurs de la maison d'arrêt de Reims (Marne) ; 
 
-Quartier des mineurs de la maison d'arrêt d'Osny-Pontoise (Val-d'Oise) ;
+Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ; 
 
-Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
+Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ; 
 
-Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
+Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ; 
 
-Quartier des mineurs de la maison d'arrêt de Poitiers (Vienne) ;
+Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ; 
 
-Quartier des mineurs de la maison d'arrêt de Reims (Marne) ;
+Quartier des mineurs de la maison d'arrêt de Strasbourg (Bas-Rhin) ; 
 
-Quartier des mineurs du centre pénitentiaire de Remire-Montjoly (Guyane) ;
+Quartier des mineurs de la maison d'arrêt de Tours (Indre-et-Loire) ; 
 
-Quartier des mineurs de la maison d'arrêt de Rennes (Ille-et-Vilaine) ;
+Quartier des mineurs de la maison d'arrêt de Varennes-le-Grand (Saône-et-Loire) ; 
 
-Quartier des mineurs de la maison d'arrêt de Riom (Puy-de-Dôme) ;
-
-Quartier des mineurs de la maison d'arrêt de Rouen (Seine-Maritime) ;
-
-Quartier des mineurs du centre pénitentiaire de Saint-Etienne (Loire) ;
-
-Quartier des mineurs de la maison d'arrêt de Strasbourg (Haut-Rhin) ;
-
-Quartier des mineurs du centre pénitentiaire de Toulon-La Farlède (Var) ;
-
-Quartier des mineurs de la maison d'arrêt de Toulouse-Seysses (Haute-Garonne) ;
-
-Quartier des mineurs de la maison d'arrêt de Tours (Indre-et-Loire) ;
-
-Quartier des mineurs de la maison d'arrêt de Valenciennes (Nord) ;
-
-Quartier des mineurs de la maison d'arrêt de Varennes-le-Grand (Saône-et-Loire) ;
-
-Quartier des mineurs de la maison d'arrêt de Villefranche-sur-Saône (Rhône) ;
-
-Quartier des mineurs de la maison d'arrêt de Villeneuve-lès-Maguelone (Hérault) ;
+Quartier des mineurs de la maison d'arrêt de Villeneuve-lès-Maguelone (Hérault) ; 
 
 Quartier des mineurs de la maison d'arrêt de Villepinte (Seine-Saint-Denis).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Arrêté 1959-02-27
-
-_Créé par_:
-
-  - Arrêté 2007-05-09 art. 1 JORF 15 mai 2007
+  - Arrêté du 19 décembre 2007 - art. 3
 
 _Cite_:
 
