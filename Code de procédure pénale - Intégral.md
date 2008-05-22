@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-05-17
+Version Consolidée au 2008-05-23
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -782,7 +782,7 @@ Version Consolidée au 2008-05-17
     - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. D600)](#779)
     - [Livre VII : Dispositions applicables à Mayotte (art. D601)](#780)
   - [Partie Arrêtés (art. A1 à A59)](#781)
-    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-10)](#782)
+    - [Livre Ier : De l'exercice de l'action publique et de l'instruction (art. A1 à A36-11-1)](#782)
       - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction (art. A1 à A36-10)](#783)
         - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-10)](#784)
           - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#785)
@@ -790,37 +790,39 @@ Version Consolidée au 2008-05-17
             - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#787)
             - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#788)
           - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-10)](#789)
-    - [Livre II : Des juridictions de jugement (art. A36-12 à A37-9)](#790)
-      - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#791)
-        - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#792)
-      - [Titre III : Du jugement des contraventions (art. A37 à A37-9)](#793)
-        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-9)](#794)
-    - [Livre IV (art. A38 à A38-1)](#795)
-      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#796)
-      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#797)
-    - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#798)
-      - [Titre Ier (art. A38-2 à A38-5)](#799)
-        - [Chapitre Ier : Dispositions générales. (art. A38-2 à A38-5)](#800)
-      - [Titre II : De la détention (art. A39 à A43-3)](#801)
-        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#802)
-          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#803)
-        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#804)
-          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#805)
-        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#806)
-          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#807)
-            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#808)
-        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-3)](#809)
-          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#810)
-          - [Section 7 : Des mineurs détenus (art. A43-2 à A43-3)](#811)
-      - [Titre X : Des frais de justice (art. A43-4)](#812)
-      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#813)
-        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#814)
-        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#815)
-          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#816)
-        - [Disposition générale (art. A53)](#817)
-    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#818)
-    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A57-1 à A58)](#819)
-    - [Livre VIII : Dispositions applicables en Polynésie française (art. A58-1 à A59)](#820)
+      - [Titre II : Des enquêtes et des contrôles d'identité (art. A36-11)](#790)
+      - [Titre III : Des juridictions d'instruction (art. A36-11-1)](#791)
+    - [Livre II : Des juridictions de jugement (art. A36-12 à A37-9)](#792)
+      - [Titre Ier : De la cour d'assises (art. A36-12 à A36-13)](#793)
+        - [Chapitre III : De la composition de la cour d'assises (art. A36-12 à A36-13)](#794)
+      - [Titre III : Du jugement des contraventions (art. A37 à A37-9)](#795)
+        - [Chapitre II bis : De la procédure de l'amende forfaitaire (art. A37 à A37-9)](#796)
+    - [Livre IV (art. A38 à A38-1)](#797)
+      - [Titre XX : Du fichier national automatisé des empreintes génétiques. (art. A38)](#798)
+      - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure. (art. A38-1)](#799)
+    - [Livre V : Des procédures d'exécution (art. A38-2 à A53)](#800)
+      - [Titre Ier (art. A38-2 à A38-5)](#801)
+        - [Chapitre Ier : Dispositions générales. (art. A38-2 à A38-5)](#802)
+      - [Titre II : De la détention (art. A39 à A43-3)](#803)
+        - [Chapitre II : De l'exécution des peines privatives de liberté. (art. A39 à A39-3)](#804)
+          - [Section 1 : Des divers établissements affectés à l'exécution des peines (art. A39 à A39-3)](#805)
+        - [Chapitre V : De la discipline et de la sécurité des prisons (art. A40 à A40-1)](#806)
+          - [Section 4 : Des réclamations formulées par les détenus (art. A40 à A40-1)](#807)
+        - [Chapitre VII : De la gestion des biens et de l'entretien des détenus (art. A41 à A42-3)](#808)
+          - [Section 1 : De la gestion des biens des détenus (art. A41 à A42-3)](#809)
+            - [Paragraphe 1er : Pécule. (art. A41 à A42-3)](#810)
+        - [Chapitre XI : Des différentes catégories de détenus. (art. A43 à A43-3)](#811)
+          - [Section 2 : Des détenus bénéficiant d'un régime spécial (art. A43 à A43-1)](#812)
+          - [Section 7 : Des mineurs détenus (art. A43-2 à A43-3)](#813)
+      - [Titre X : Des frais de justice (art. A43-4)](#814)
+      - [Titre XI : Le service pénitentiaire d'insertion et de probation (art. A44 à A53)](#815)
+        - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation (art. A44)](#816)
+        - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#817)
+          - [Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation (art. A45 à A47)](#818)
+        - [Disposition générale (art. A53)](#819)
+    - [Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion (art. A54 à A57)](#820)
+    - [Livre VII : Dispositions applicables en Nouvelle-Calédonie (art. A57-1 à A58)](#821)
+    - [Livre VIII : Dispositions applicables en Polynésie française (art. A58-1 à A59)](#822)
 # Partie législative<a id=1></a>
 
 ###### Article préliminaire
@@ -114674,11 +114676,63 @@ _Créé par_:
   - Arrêté 2000-11-02 art. 1 JORF 4 novembre 2000
 
 
-## Livre II : Des juridictions de jugement<a id=790></a>
+### Titre II : Des enquêtes et des contrôles d'identité<a id=790></a>
 
-### Titre Ier : De la cour d'assises<a id=791></a>
+###### Article A36-11
 
-#### Chapitre III : De la composition de la cour d'assises<a id=792></a>
+Les supports et formats des enregistrements audiovisuels des interrogatoires des personnes gardées à vue réalisés en
+application des articles 64-1 et D. 15-6 et transmis aux juridictions doivent respecter les normes et recommandations fixées
+par le référentiel général d'interopérabilité (RGI). 
+
+Les supports, notamment CD et DVD, doivent être non réinscriptibles. 
+
+Si le format des enregistrements n'est pas conforme au RGI, un lecteur logiciel, fonctionnant sous le système d'exploitation
+utilisé sur les postes de travail du ministère de la justice au jour de la publication de l'arrêté, doit figurer sur le
+support. 
+
+Les systèmes d'exploitation utilisés peuvent évoluer dès lors qu'ils conservent leur compatibilité entre eux, conformément
+aux instructions données par la direction des affaires criminelles et des grâces, la direction générale de la police
+nationale et la direction générale de la gendarmerie nationale, et qu'ils comportent un horodatage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 14 avril 2008 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 64-1
+  - Code de procédure pénale - art. D15-6
+
+
+### Titre III : Des juridictions d'instruction<a id=791></a>
+
+###### Article A36-11-1
+
+Les supports et formats des enregistrements audiovisuels des interrogatoires des personnes mises en examen réalisés en
+application des articles 116-1 et D. 32-2 et transmis aux juridictions doivent respecter les normes et recommandations fixées
+par le référentiel général d'interopérabilité (RGI). 
+
+Les supports, notamment CD et DVD, doivent être non réinscriptibles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 14 avril 2008 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 116-1
+  - Code de procédure pénale - art. D32-2
+
+
+## Livre II : Des juridictions de jugement<a id=792></a>
+
+### Titre Ier : De la cour d'assises<a id=793></a>
+
+#### Chapitre III : De la composition de la cour d'assises<a id=794></a>
 
 ###### Article A36-12
 
@@ -115060,9 +115114,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 264 (M)
 
 
-### Titre III : Du jugement des contraventions<a id=793></a>
+### Titre III : Du jugement des contraventions<a id=795></a>
 
-#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=794></a>
+#### Chapitre II bis : De la procédure de l'amende forfaitaire<a id=796></a>
 
 ###### Article A37
 
@@ -115469,9 +115523,9 @@ _Cité par_:
   - Code de procédure pénale - art. A37-27-3 (VD)
 
 
-## Livre IV<a id=795></a>
+## Livre IV<a id=797></a>
 
-### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=796></a>
+### Titre XX : Du fichier national automatisé des empreintes génétiques.<a id=798></a>
 
 ###### Article A38
 
@@ -115778,7 +115832,7 @@ _Modifié par_:
   - Arrêté du 23 octobre 2006 - art. 1, v. init.
 
 
-### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=797></a>
+### Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.<a id=799></a>
 
 ###### Article A38-1
 
@@ -115809,11 +115863,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 706-71 (M)
 
 
-## Livre V : Des procédures d'exécution<a id=798></a>
+## Livre V : Des procédures d'exécution<a id=800></a>
 
-### Titre Ier<a id=799></a>
+### Titre Ier<a id=801></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=800></a>
+#### Chapitre Ier : Dispositions générales.<a id=802></a>
 
 ###### Article A38-2
 
@@ -115932,11 +115986,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. A38-3 (V)
 
 
-### Titre II : De la détention<a id=801></a>
+### Titre II : De la détention<a id=803></a>
 
-#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=802></a>
+#### Chapitre II : De l'exécution des peines privatives de liberté.<a id=804></a>
 
-##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=803></a>
+##### Section 1 : Des divers établissements affectés à l'exécution des peines<a id=805></a>
 
 ###### Article A39
 
@@ -116190,9 +116244,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D72-1 (M)
 
 
-#### Chapitre V : De la discipline et de la sécurité des prisons<a id=804></a>
+#### Chapitre V : De la discipline et de la sécurité des prisons<a id=806></a>
 
-##### Section 4 : Des réclamations formulées par les détenus<a id=805></a>
+##### Section 4 : Des réclamations formulées par les détenus<a id=807></a>
 
 ###### Article A40
 
@@ -116355,11 +116409,11 @@ _Cité par_:
   - Arrêté du 25 avril 2008 - art. 2 (V)
 
 
-#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=806></a>
+#### Chapitre VII : De la gestion des biens et de l'entretien des détenus<a id=808></a>
 
-##### Section 1 : De la gestion des biens des détenus<a id=807></a>
+##### Section 1 : De la gestion des biens des détenus<a id=809></a>
 
-##### Paragraphe 1er : Pécule.<a id=808></a>
+##### Paragraphe 1er : Pécule.<a id=810></a>
 
 ###### Article A41
 
@@ -116446,9 +116500,9 @@ _Créé par_:
   - Arrêté 1973-03-07 art. 1 JORF 21 mars 1973
 
 
-#### Chapitre XI : Des différentes catégories de détenus.<a id=809></a>
+#### Chapitre XI : Des différentes catégories de détenus.<a id=811></a>
 
-##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=810></a>
+##### Section 2 : Des détenus bénéficiant d'un régime spécial<a id=812></a>
 
 ###### Article A43
 
@@ -116507,7 +116561,7 @@ _Créé par_:
   - Arrêté 1971-09-16 art. 1 JORF 19 septembre 1971
 
 
-##### Section 7 : Des mineurs détenus<a id=811></a>
+##### Section 7 : Des mineurs détenus<a id=813></a>
 
 ###### Article A43-2
 
@@ -116661,7 +116715,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. R57-9-11 (V)
 
 
-### Titre X : Des frais de justice<a id=812></a>
+### Titre X : Des frais de justice<a id=814></a>
 
 ###### Article A43-4
 
@@ -117083,9 +117137,9 @@ _Anciens textes_:
   - CODE DE PROCEDURE PENALE - art. A43-2 (T)
 
 
-### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=813></a>
+### Titre XI : Le service pénitentiaire d'insertion et de probation<a id=815></a>
 
-#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=814></a>
+#### Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation<a id=816></a>
 
 ###### Article A44
 
@@ -122388,9 +122442,9 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. D572 (M)
 
 
-#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=815></a>
+#### Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation<a id=817></a>
 
-##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=816></a>
+##### Paragraphe 1er : De l'agrément des personnes bénévoles participant aux missions du service pénitentiaire d'insertion et de probation<a id=818></a>
 
 ###### Article A45
 
@@ -122465,7 +122519,7 @@ _Modifié par_:
   - Arrêté 2001-04-18 art. 2 JORF 9 juin 2001
 
 
-#### Disposition générale<a id=817></a>
+#### Disposition générale<a id=819></a>
 
 ###### Article A53
 
@@ -122483,7 +122537,7 @@ _Modifié par_:
   - Arrêté 1964-02-27 art. 4 JORF 19 mars 1964
 
 
-## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=818></a>
+## Livre VI : Modalités d'application en ce qui concerne les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion<a id=820></a>
 
 ###### Article A54
 
@@ -122581,7 +122635,7 @@ _Modifié par_:
   - Arrêté 2003-03-04 art. 1 JORF 15 mars 2003
 
 
-## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=819></a>
+## Livre VII : Dispositions applicables en Nouvelle-Calédonie<a id=821></a>
 
 ###### Article A57-1
 
@@ -122700,7 +122754,7 @@ _Créé par_:
   - Arrêté 2005-04-27 art. 1 JORF 12 mai 2005
 
 
-## Livre VIII : Dispositions applicables en Polynésie française<a id=820></a>
+## Livre VIII : Dispositions applicables en Polynésie française<a id=822></a>
 
 ###### Article A58-1
 
