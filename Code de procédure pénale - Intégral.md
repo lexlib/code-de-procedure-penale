@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-05-23
+Version Consolidée au 2008-05-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -787,8 +787,8 @@ Version Consolidée au 2008-05-23
         - [Chapitre Ier : De la police judiciaire (art. A1-1 à A36-10)](#784)
           - [Section 2 : Des officiers de police judiciaire (art. A1-1 à A35)](#785)
             - [Paragraphe 1er : Désignation des gendarmes officiers de police judiciaire (art. A1-1 à A12)](#786)
-            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A13 à A33)](#787)
-            - [Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°). (art. A34 à A35)](#788)
+            - [Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale (art. A22 à A33)](#787)
+            - [Paragraphe 3 : Affectation de fonctionnaires du corps d'encadrement et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visées à l'article 16 (4°) (art. A34 à A35)](#788)
           - [Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire (art. A36 à A36-10)](#789)
       - [Titre II : Des enquêtes et des contrôles d'identité (art. A36-11)](#790)
       - [Titre III : Des juridictions d'instruction (art. A36-11-1)](#791)
@@ -113276,475 +113276,6 @@ _Modifié par_:
 
 ##### Paragraphe 2 : Désignation des officiers de police judiciaire de la police nationale<a id=787></a>
 
-###### Article A13
-
-Pour l'application de l'article R. 10 du code de procédure pénale et aux fins de constater l'aptitude à la qualité d'officier
-de police judiciaire des élèves lieutenants de police, il est prévu dans la scolarité de l'Ecole nationale supérieure des
-officiers de police un examen, comportant le groupe d'épreuves suivant : 
-
-1° Une épreuve écrite de caractère pratique, en droit pénal général et droit pénal spécial (durée : quatre heures) ; 
-
-2° Une épreuve écrite de caractère pratique, en procédure pénale et police judiciaire (durée : quatre heures) ; 
-
-3° Une épreuve orale en libertés publiques et procédure pénale. 
-
-Ces épreuves sont noter de 0 à 20. Toute note égale ou inférieure à 5 obtenue à l'une de ces épreuves est éliminatoire. 
-
-Ces épreuves sont affectées d'un coefficient 4 pour chaque épreuve écrite et d'un coefficient 8 pour l'épreuve orale. 
-
-Nul ne pourra être considéré comme ayant satisfait à ce groupe d'épreuves s'il ne totalise au moins 160 points. 
-
-Dans l'hypothèse où l'élève lieutenant de police a été éliminé ou n'a pas obtenu 160 points, il est admis à se présenter à
-une session spéciale de rattrapage comportant une épreuve orale. Cette épreuve, notée de 0 à 20, porte sur les matières
-visées aux 1°, 2° et 3° pour la ou lesquelles l'élève n'a pas obtenu une note moyenne égale ou supérieure à 10. 
-
-Nul ne pourra être considéré comme ayant satisfait à l'examen s'il n'a obtenu à cette session une note égale ou supérieure à
-10 sur 20.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté du 9 avril 2004 - art. 2
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. A20 (Ab)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R10 (V)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A22 (T)
-
-
-###### Article A14
-
-Le programme des épreuves de l'examen prévu par l'article qui précède est le suivant :
-
-Procédure pénale
-
-L'action publique et l'action civile.
-
-Les autorités investies par la loi de fonctions de police judiciaire (en particulier ministère public, juges d'instruction,
-officiers et agents de police judiciaire).
-
-Les cadres juridiques et les actes de la mission de police judiciaire.
-
-Le contrôle de la mission de police judiciaire.
-
-L'instruction préparatoire.
-
-Les mandats de justice.
-
-La détention provisoire et le contrôle judiciaire.
-
-La nullité des actes de procédure.
-
-La procédure pénale applicable aux mineurs.
-
-Les juridictions judiciaires pénales.
-
-L'exécution des décisions de justice pénale.
-
-Droit pénal général
-
-A. - Généralités sur la législation pénale.
-
-B. - L'infraction pénale :
-
-Les principes généraux de la responsabilité pénale ;
-
-La classification des infractions et l'organisation judiciaire en matière pénale ;
-
-Les éléments constitutifs de l'infraction ;
-
-La tentative ;
-
-La complicité ;
-
-La responsabilité pénale des personnes morales ;
-
-Les faits justificatifs légaux.
-
-C. - La sanction :
-
-Notions générales (classification des sanctions et des mesures de sûreté) ;
-
-Modalités de mise en oeuvre des sanctions (période de sûreté ; causes d'atténuation, d'exemption, d'aggravation, de
-suspension et d'extinction de la sanction).
-
-Droit pénal spécial
-
-A. - Infractions contre les personnes :
-
-Les atteintes volontaires à la vie (meurtre, assassinat, empoisonnement, circonstances aggravantes) ;
-
-Les atteintes involontaires à la vie (homicide involontaire) ;
-
-Les atteintes volontaires à l'intégrité de la personne (tortures et actes de barbarie, violences, menaces) ;
-
-Les atteintes involontaires à l'intégrité de la personne ;
-
-Les agressions sexuelles (viol, autres agressions sexuelles, harcèlement sexuel) ;
-
-L'usage et le trafic de stupéfiants ;
-
-La mise en danger de la personne (risques causés à autrui, délaissement de la personne hors d'état de se protéger, entraves
-aux mesures d'assistance, omission de porter secours, expérimentation sur la personne, interruption illégale de la grossesse,
-provocation au suicide) ;
-
-Les atteintes à la liberté de la personne (enlèvement et séquestration) ;
-
-Les atteintes à la dignité de la personne (proxénétisme, conditions de travail et d'hébergement contraires à la dignité de la
-personne, le respect dû aux morts) ;
-
-Les atteintes aux mineurs et à la famille (délaissement du mineur, abandon de famille, atteintes à l'exercice de l'autorité
-parentale, atteintes à la filiation, les délits de mise en péril des mineurs).
-
-B. - Infractions contre les biens :
-
-Le vol ;
-
-L'escroquerie ;
-
-L'abus frauduleux de l'état d'ignorance ;
-
-Les détournements (abus de confiance, détournement de gage, organisation de l'insolvabilité) ;
-
-Les abus de biens sociaux ;
-
-La filouterie ;
-
-L'extorsion ;
-
-Le chantage ;
-
-Le recel ;
-
-L'immunité familiale ;
-
-Les menaces ;
-
-Les destructions, dégradations et détériorations ;
-
-Les atteintes aux systèmes de traitement automatisé de données.
-
-C. - Infractions contre la nation, l'Etat et la paix publique :
-
-L'association de malfaiteurs ;
-
-Les faux ;
-
-Les crimes et délits commis par ou contre un fonctionnaire (rébellion, outrages, corruption, trafic d'influence, concussion).
-
-D. - Les infractions à la police de la circulation routière.
-
-E. - Les problèmes internationaux et européens de la législation pénale.
-
-Libertés publiques
-
-Introduction générale aux libertés publiques (sources, régime juridique, garanties et protection des libertés publiques).
-
-Les libertés individuelles et la vie privée :
-
-La sûreté ou liberté individuelle ;
-
-La liberté d'aller et venir ;
-
-Le respect de la vie privée, du domicile et des correspondances ;
-
-Le respect de la personne et les lois antidiscriminatoires.
-
-Les libertés d'expression collective :
-
-La liberté d'association ;
-
-La liberté de réunion ;
-
-Le régime des manifestations ;
-
-Le régime des attroupements ;
-
-La liberté de la presse.
-
-Les libertés à contenu économique et social :
-
-La liberté syndicale ;
-
-Le droit de grève.
-
-Les libertés contemporaines :
-
-La motivation des décisions administratives ;
-
-L'accès aux documents administratifs ;
-
-L'informatique et les libertés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté du 16 octobre 1995 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A25 (T)
-
-
-###### Article A15
-
-Les sujets des épreuves écrites sont choisis par le président du jury prévu par l'article R. 11 du code de procédure pénale,
-sur proposition du directeur de la formation de la police nationale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Cité par_:
-
-  - Arrêté du 16 octobre 1995 - art. 4 (V)
-  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
-  - Code de procédure pénale - art. A21 (V)
-
-_Modifié par_:
-
-  - Arrêté du 9 avril 2004 - art. 3
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. R11 (V)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A24 (T)
-
-
-###### Article A16
-
-Le secrétariat du jury et l'organisation matérielle des épreuves qui se déroulent à l'Ecole nationale supérieure des
-officiers de police sont assurés par la direction de la formation de la police nationale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté du 9 avril 2004 - art. 4
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A23 (T)
-
-
-###### Article A17
-
-Il est interdit aux candidats, sous peine d'exclusion, d'avoir par-devers eux des documents imprimés ou manuscrits ou des
-codes annotés et commentés article par article par des praticiens du droit ; toutefois, ils peuvent consulter des codes ou
-recueils de lois, décrets et circulaires : ces derniers peuvent comporter des références à des textes législatifs ou
-réglementaires ainsi qu'à des articles de doctrine ou des décisions de jurisprudence.
-
-Toute fraude ou tentative de fraude dans l'une quelconque des épreuves écrites entraîne l'exclusion immédiate de l'examen,
-prononcée sans délai et sans appel.
-
-L'enveloppe renfermant chaque sujet d'épreuve écrite est décachetée en présence des candidats à l'ouverture de la séance
-affectée à l'épreuve.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté du 16 octobre 1995 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A26 (T)
-
-
-###### Article A18
-
-Le président réunit le jury pour l'établissement des normes de correction et pour la répartition des copies entre les
-correcteurs. Il fixe la date à laquelle les copies corrigées doivent être remises au secrétariat de la commission.
-
-L'anonymat des copies est assuré par un coin gommé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-_Modifié par_:
-
-  - Arrêté du 16 octobre 1995 - art. 1
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A27 (T)
-
-
-###### Article A19
-
-Les modalités pratiques de déroulement de l'épreuve orale sont fixées, sur proposition du secrétariat de la commission, par
-le président. Les membres du jury peuvent être répartis en plusieurs sous-commissions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-_Modifié par_:
-
-  - Arrêté du 16 octobre 1995 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 16 octobre 1995 - art. 3 (V)
-  - CODE DE PROCEDURE PENALE - art. A24 (Ab)
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A29 (T)
-
-
-###### Article A20
-
-Le secrétariat de la commission : 
-
-1° Soumet au président les copies des épreuves visées au 1° ou 2° de l'article A. 13 pour lesquelles est proposée une note
-moyenne égale ou inférieure à 5 sur 20. Ces copies font l'objet d'une seconde correction par un membre désigné par le
-président et appartenant à une autre formation (magistrature, police nationale) que celle dont fait partie le premier
-correcteur. Le résultat de ces doubles corrections est soumis à la commission qui en délibère spécialement et fixe la note
-définitive ; 
-
-2° Opère un relevé des notes attribuées pour chaque épreuve par les examinateurs ; 
-
-3° Dresse la liste des candidats ayant obtenu le nombre de points exigé pour le groupe d'épreuves.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
-_Modifié par_:
-
-  - Arrêté du 16 octobre 1995 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 16 octobre 1995 - art. 4 (V)
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. A13 (Ab)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A30 (T)
-
-
-###### Article A21
-
-A l'issue des épreuves, le jury établit la liste des candidats reconnus aptes à la qualité d'officier de police judiciaire.
-Cette liste mentionne les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-_Modifié par_:
-
-  - Arrêté du 9 avril 2004 - art. 5
-
-_Abrogé par_:
-
-  - Arrêté du 30 avril 2008 - art. 1
-
-_Cité par_:
-
-  - CODE DE PROCEDURE PENALE - art. A27 (Ab)
-
-_Anciens textes_:
-
-  - Code de procédure pénale - art. A31 (T)
-
-
 ###### Article A22
 
 Pour l'application de l'article 16 (4°) du code de procédure pénale, et aux fins de constater l'aptitude à la fonction
@@ -113981,22 +113512,14 @@ _Anciens textes_:
 ###### Article A24
 
 Peuvent être admis à subir l'examen technique destiné à l'attribution de la qualité d'officier de police judiciaire les
-fonctionnaires du corps de maîtrise et d'application de la police nationale comptant au moins deux ans de services dans le
-corps au 1er janvier de l'année de l'examen.
+fonctionnaires du corps     d'encadrement et d'application  de la police nationale comptant au moins deux ans de services
+dans le corps au 1er janvier de l'année de l'examen.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1979-04-02 art. 2 et art. 3 dispositions transitoires
-
 _Modifié par_:
 
-  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+  - Arrêté du 30 avril 2008 - art. 1
 
 _Nouveaux textes_:
 
@@ -114197,30 +113720,30 @@ _Cite_:
 
 ###### Article A32
 
-Dans un délai maximum de quatre mois après la date de l'examen, le président réunit la commission aux fins d'arrêter :
+Dans un délai maximum de quatre mois après la date de l'examen, le président réunit la commission aux fins d'arrêter : 
 
-1° La liste par ordre de mérite des fonctionnaires du corps de maîtrise et d'application de la police nationale pour lesquels
-la commission émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire.
+1° La liste par ordre de mérite des fonctionnaires du corps     d'encadrement et d'application  de la police nationale pour
+lesquels la commission émet un avis favorable à l'attribution de la qualité d'officier de police judiciaire. 
 
-Seuls peuvent être retenus les candidats qui totalisent 30 points au moins pour l'ensemble des trois épreuves ;
+Seuls peuvent être retenus les candidats qui totalisent 30 points au moins pour l'ensemble des trois épreuves ; 
 
-2° La liste des fonctionnaires du corps de maîtrise et d'application de la police nationale éliminés ou n'ayant pas obtenu le
-nombre de points exigés.
+2° La liste des fonctionnaires du corps     d'encadrement et d'application  de la police nationale éliminés ou n'ayant pas
+obtenu le nombre de points exigés. 
 
-Ces listes mentionnent les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus.
+Ces listes mentionnent les notes attribuées aux candidats dans chacune des épreuves et le total des points obtenus. 
 
 Elles sont adressées à la direction générale de la police nationale, accompagnées des copies des candidats et du procès-
 verbal de séance.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
 _Modifié par_:
 
-  - Arrêté 1999-06-11 art. 1 JORF 15 juin 1999
+  - Arrêté du 30 avril 2008 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Arrêté du 9 août 2016 - art. 12
 
 _Nouveaux textes_:
 
@@ -114255,14 +113778,14 @@ _Nouveaux textes_:
   - Code de procédure pénale - art. A23 (V)
 
 
-##### Paragraphe 3 : Affectation de fonctionnaires du corps de maîtrise et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visés à l'article 16 (4°).<a id=788></a>
+##### Paragraphe 3 : Affectation de fonctionnaires du corps d'encadrement et d'application de la police nationale ayant la qualité d'officier de police judiciaire dans les services visées à l'article 16 (4°)<a id=788></a>
 
 ###### Article A34
 
-Les fonctionnaires du corps de maîtrise et d'application de la police nationale visés à l'article 16 (4°) et ayant la qualité
-d'officier de police judiciaire peuvent recevoir l'habilitation à exercer les attributions attachées à cette qualité s'ils
-sont affectés à un des services ou à l'une des catégories de services définies aux articles R. 15-18 à R. 15-26-1 et énumérés
-ci-après :
+Les fonctionnaires du corps d'encadrement et d'application de la police nationale visés à l'article 16 (4°) et ayant la
+qualité d'officier de police judiciaire peuvent recevoir l'habilitation à exercer les attributions attachées à cette qualité
+s'ils sont affectés à un des services ou à l'une des catégories de services définies aux articles R. 15-18 à R. 15-26-1 et
+énumérés ci-après : 
 
 1° Services dont la compétence territoriale s'étend sur l'ensemble du territoire national :
 
@@ -114278,7 +113801,7 @@ ci-après :
 
 - le détachement de la police nationale auprès de la direction nationale des enquêtes douanières ;
 
-- le centre automatisé de constatation des infractions routières.
+- le centre automatisé de constatation des infractions routières. 
 
 2° Services dont la compétence territoriale s'étend sur le ressort d'une ou plusieurs zones de défense ou parties de celles-
 ci :
@@ -114294,7 +113817,7 @@ les directions régionales de police judiciaire ainsi que leurs services départ
 
 - les circonscriptions de sécurité publique visées à l'article R. 15-19 (7°) ;
 
-- les sections de recherches de la gendarmerie départementale.
+- les sections de recherches de la gendarmerie départementale. 
 
 3° Services dont la compétence territoriale s'étend sur l'ensemble d'un département :
 
@@ -114307,21 +113830,17 @@ préfecture de police.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
 _Modifié par_:
 
-  - Arrêté 2004-06-18 art. 1 JORF 14 juillet 2004
+  - Arrêté du 30 avril 2008 - art. 1
 
 
 ###### Article A35
 
-Les fonctionnaires du corps de maîtrise et d'application de la police nationale visés à l'article 16 (4°) du code de
+Les fonctionnaires du corps d'encadrement et d'application de la police nationale visés à l'article 16 (4°) du code de
 procédure pénale et ayant la qualité d'officier de police judiciaire peuvent recevoir l'habilitation à exercer les
 attributions attachées à cette qualité prévue à l'article 16 précité s'ils sont affectés à titre exclusif dans l'une des
-formations de services suivantes :
+formations de services suivantes : 
 
 1° Pour la direction centrale de la police aux frontières :
 
@@ -114331,7 +113850,7 @@ formations de services suivantes :
 
 - l'unité nationale d'escorte, de soutien et d'intervention ;
 
-- le bureau de la police aéronautique.
+- le bureau de la police aéronautique. 
 
 2° Pour les directions zonales de la police aux frontières :
 
@@ -114341,7 +113860,7 @@ formations de services suivantes :
 
 - les brigades de police aéronautique ;
 
-- les unités d'éloignement.
+- les unités d'éloignement. 
 
 3° Pour les directions de la police aux frontières des aérodromes Charles-de-Gaulle, Le Bourget et de l'aérodrome d'Orly, les
 directions départementales, les directions de la police aux frontières de la Nouvelle-Calédonie et des îles Wallis-et-Futuna,
@@ -114355,25 +113874,26 @@ de la Polynésie française, de Saint-Pierre-et-Miquelon et de Mayotte et les se
 
 - les brigades mobiles de recherches ;
 
-- les unités d'éloignement.
+- les unités d'éloignement. 
 
 4° Pour les unités autoroutières des compagnies républicaines de sécurité pour les voies de circulation auxquelles elles sont
-affectées : les bureaux de circulation routière.
+affectées : les bureaux de circulation routière. 
 
-5° Pour la direction de la police urbaine de proximité de la préfecture de police :
+5° Pour la direction de la police urbaine de proximité de la préfecture de police : 
 
 Le service de police déconcentré chargé de la sécurité des personnes et des biens sur les réseaux de transport en commun de
 voyageurs par voie ferrée visé au deuxième alinéa de l'article R. 15-30 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Arrêté 1958-12-23
-
 _Modifié par_:
 
-  - Arrêté 2004-06-18 art. 2 JORF 14 juillet 2004
+  - Arrêté du 30 avril 2008 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 16
+  - Code de procédure pénale - art. R15-30
 
 
 ##### Section 3 : Désignation des agents des douanes chargés de l'exercice de certaines missions de police judiciaire<a id=789></a>
