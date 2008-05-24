@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-05-24
+Version Consolidée au 2008-05-25
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -65328,23 +65328,22 @@ _Cite_:
 
 ###### Article R50-28
 
-Les dispositions des articles 643 à 647 du nouveau code de procédure civile s'appliquent aux délais d'un mois et de deux mois
-prévus aux articles R. 50-15, R. 50-12-2 et R. 50-17.
-
-**Nota:**
-
-Décret 2005-564 du 27 mai 2005 art. 4 : les dispositions du présent décret sont applicables aux demandes d'indemnisation
-déposées à compter de sa publication.
+Les dispositions des articles 643 à 647 du code de procédure civile s'appliquent aux délais d'un mois et de deux mois prévus
+aux articles R. 50- 15, 
+R. 50- 12- 2 et R. 50- 17.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
-
 _Modifié par_:
 
-  - Décret n°2005-564 du 27 mai 2005 - art. 3 () JORF 28 mai 2005
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 643 (V)
+  - CODE DE PROCEDURE PENALE - art. R50-12-2 (V)
+  - CODE DE PROCEDURE PENALE - art. R50-15 (V)
+  - CODE DE PROCEDURE PENALE - art. R50-17 (V)
 
 
 ### Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme<a id=384></a>
@@ -72425,84 +72424,80 @@ _Modifié par_:
 
 ###### Article R93
 
-Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et de police, les dépenses qui résultent :
+Sont, en outre, assimilées aux frais de justice criminelle, correctionnelle et de police, les dépenses qui résultent : 
 
-1° Des procédures suivies en application des lois concernant la protection de l'enfance en danger.
+1° Des procédures suivies en application des lois concernant la protection de l' enfance en danger. 
 
-2° De l'application de la législation sur le régime des aliénés.
+2° De l' application de la législation sur le régime des aliénés. 
 
 3° Des procédures suivies en application de la législation en matière de tutelle des mineurs, de tutelle et curatelle des
-majeurs et de sauvegarde de justice.
+majeurs et de sauvegarde de justice. 
 
-4° Des frais exposés à la requête du ministère public lorsque celui-ci est partie principale ou partie jointe en matière
-civile, commerciale et prud'homale et des dépens qui peuvent être laissés à la charge du ministère public, lorsque celui-ci
-est partie principale en application de l'article 696 du nouveau code de procédure civile.
+4° Des frais exposés à la requête du ministère public lorsque celui- ci est partie principale ou partie jointe en matière
+civile, commerciale et prud' homale et des dépens qui peuvent être laissés à la charge du ministère public, lorsque celui- ci
+est partie principale en application de l' article 696 du code de procédure civile. 
 
-5° Des inscriptions hypothécaires requises par le ministère public.
+5° Des inscriptions hypothécaires requises par le ministère public. 
 
-6° Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l'article 94 de la
-loi n° 67-563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d'actif.
+6° Des avances faites en matière de règlement judiciaire ou de liquidation des biens dans les cas prévus à l' article 94 de
+la loi n° 67- 563 du 13 juillet 1967, ainsi que des frais relatifs aux jugements de clôture pour insuffisance d' actif. 
 
 7° Des avances faites par le Trésor public en matière de redressement et de liquidation judiciaire des entreprises, en
-application de l'article L. 663-1 du code de commerce.
+application de l' article L. 663- 1 du code de commerce. 
 
-8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l'occasion de toute
-procédure pour la délivrance des pièces à l'autorité judiciaire.
+8° Des frais de copie, droits, redevances et émoluments dus aux greffiers des tribunaux de commerce à l' occasion de toute
+procédure pour la délivrance des pièces à l' autorité judiciaire. 
 
-9° De la contribution versée par l'Etat au titre de l'aide juridictionnelle.
+9° De la contribution versée par l' Etat au titre de l' aide juridictionnelle. 
 
-10° Des frais et dépens mis à la charge du Trésor public soit en application d'une disposition législative ou réglementaire,
-soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision.
+10° Des frais et dépens mis à la charge du Trésor public soit en application d' une disposition législative ou réglementaire,
+soit en cas de décision juridictionnelle rectifiant ou interprétant une précédente décision. 
 
-11° Des frais exposés devant la commission prévue par l'article 16-2.
+11° Des frais exposés devant la commission prévue par l' article 16- 2. 
 
-12° Des enquêtes ordonnées en matière d'exercice de l'autorité parentale.
+12° Des enquêtes ordonnées en matière d' exercice de l' autorité parentale. 
 
-13° Des indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l'ordre
-judiciaire, sans préjudice des dispositions de l'article R. 92.
+13° Des indemnités de transport et de séjour des magistrats, des greffiers et des secrétaires des juridictions de l' ordre
+judiciaire, sans préjudice des dispositions de l' article R. 92. 
 
-14° Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l'envoi des
-bulletins de casier judiciaire.
+14° Des frais postaux des greffes des juridictions civiles nécessités par les actes et procédures ainsi que par l' envoi des
+bulletins de casier judiciaire. 
 
-15° Des actes faits d'office en matière de mesures conservatoires prises après l'ouverture d'une succession.
+15° Des actes faits d' office en matière de mesures conservatoires prises après l' ouverture d' une succession. 
 
-16° Des dispositions législatives ou réglementaires particulières prévoyant que l'avance doit être faite par le Trésor
-public.
+16° Des dispositions législatives ou réglementaires particulières prévoyant que l' avance doit être faite par le Trésor
+public. 
 
-17° Des frais d'interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
-ne relevant pas de l'administration pénitentiaire.
+17° Des frais d' interprète exposés dans le cadre du contentieux judiciaire relatif au maintien des étrangers dans des locaux
+ne relevant pas de l' administration pénitentiaire. 
 
-18° Des frais des mesures d'instruction prévues à l'article L. 332-2 du code de la consommation.
+18° Des frais des mesures d' instruction prévues à l' article L. 332- 2 du code de la consommation. 
 
-19° Les frais d'impression, d'insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances de
-justice en application de l'article 131-35 du code pénal.
+19° Les frais d' impression, d' insertion, de publication et de diffusion audiovisuelle des arrêts, jugements et ordonnances
+de justice en application de l' article 131- 35 du code pénal. 
 
-20° Les frais d'une immobilisation décidée en application du 5° de l'article 131-6 et du 2° de l'article 131-14 du code
-pénal.
+20° Les frais d' une immobilisation décidée en application du 5° de l' article 131- 6 et du 2° de l' article 131- 14 du code
+pénal. 
 
-21° Les frais des administrateurs ad hoc désignés en application des articles 388-2 et 389-3 du code civil, lorsqu'ils
-figurent sur la liste prévue à l'article R. 53.
+21° Les frais des administrateurs ad hoc désignés en application des articles 388- 2 et 389- 3 du code civil, lorsqu' ils
+figurent sur la liste prévue à l' article R. 53. 
 
-22° Des indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone
-d'attente ou demandeurs du statut de réfugié par application de l'article 17 de la loi n° 2002-305 du 4 mars 2002 et désignés
-conformément à son décret d'application n° 2003-841 du 2 septembre 2003.
+22° Des indemnités forfaitaires des administrateurs ad hoc institués pour la représentation des mineurs maintenus en zone d'
+attente ou demandeurs du statut de réfugié par application de l' article 17 de la loi n° 2002- 305 du 4 mars 2002 et désignés
+conformément à son décret d' application n° 2003- 841 du 2 septembre 2003. 
 
-23° La rémunération et les indemnités des interprètes désignés en application de l'article 23-1 du nouveau code de procédure
-civile.
+23° La rémunération et les indemnités des interprètes désignés en application de l' article 23- 1 du code de procédure
+civile. 
 
-24° La rémunération et les indemnités des interprètes désignés par le tribunal de grande instance pour l'exécution d'une
-mesure d'instruction à la demande d'une juridiction étrangère en application du règlement (CE) n° 1206/2001 du Conseil du 28
-mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en
-matière civile et commerciale.
+24° La rémunération et les indemnités des interprètes désignés par le tribunal de grande instance pour l' exécution d' une
+mesure d' instruction à la demande d' une juridiction étrangère en application du règlement (CE) n° 1206 / 2001 du Conseil du
+28 mai 2001 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l' obtention des preuves en
+matière civile et commerciale. 
 
-25° Des frais de la notification prévue à l'article 30-3 de l'annexe du nouveau code de procédure civile relative à son
-application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+25° Des frais de la notification prévue à l' article 30- 3 de l' annexe du code de procédure civile relative à son
+application dans les départements du Bas- Rhin, du Haut- Rhin et de la Moselle.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°59-318 1959-02-23
 
 _Cité par_:
 
@@ -72532,7 +72527,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 2 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 
 ###### Article R93-1
@@ -81371,87 +81366,88 @@ _Cite_:
 
 ###### Article D1-1
 
-Les modalités d'application des articles 11-1 à 11-3 de la loi n° 2004-1486 du 30 décembre 2004 portant création de la Haute
-Autorité de lutte contre les discriminations et pour l'égalité conférant un pouvoir de transaction à la haute autorité sont
-précisées par le présent article.
+Les modalités d' application des articles 11- 1 à 11- 3 de la loi n° 2004- 1486 du 30 décembre 2004 portant création de la
+Haute Autorité de lutte contre les discriminations et pour l' égalité conférant un pouvoir de transaction à la haute autorité
+sont précisées par le présent article. 
 
-Le collège délibère sur la qualification des faits et sur le mandat de transaction confié à son président.
+Le collège délibère sur la qualification des faits et sur le mandat de transaction confié à son président. 
 
-I. - La proposition de transaction émanant de la haute autorité est communiquée à l'auteur des faits ou, s'il s'agit d'une
-personne morale, à son représentant, par l'intermédiaire de l'un de ses agents assermentés devant lequel l'intéressé a été
-préalablement convoqué. La proposition de transaction peut également être notifiée par lettre recommandée avec demande d'avis
-de réception à l'auteur des faits.
+I.- La proposition de transaction émanant de la haute autorité est communiquée à l' auteur des faits ou, s' il s' agit d' une
+personne morale, à son représentant, par l' intermédiaire de l' un de ses agents assermentés devant lequel l' intéressé a été
+préalablement convoqué. La proposition de transaction peut également être notifiée par lettre recommandée avec demande d'
+avis de réception à l' auteur des faits. 
 
 La proposition de transaction précise :
 
 - la nature des faits reprochés ainsi que leur qualification juridique ;
 
-- la nature et le quantum des mesures proposées en application des articles 11-1 et 11-2 de la loi du 30 décembre 2004, ainsi
-que les délais dans lesquels elles devront être exécutées ;
+- la nature et le quantum des mesures proposées en application des articles 11- 1 et 11- 2 de la loi du 30 décembre 2004,
+ainsi que les délais dans lesquels elles devront être exécutées ;
 
-- le montant des dommages et intérêts dus à la victime.
+- le montant des dommages et intérêts dus à la victime. 
 
-L'accord de la victime à la transaction peut être recueilli par tout moyen.
+L' accord de la victime à la transaction peut être recueilli par tout moyen. 
 
-Lorsque sont proposées les mesures d'affichage, de transmission, de diffusion ou de publication d'un communiqué prévues à
-l'article 11-2 de la loi précitée, la personne est informée du contenu du communiqué et du montant des frais qui seront à sa
-charge et qu'elle devra acquitter avant que la haute autorité ne procède à cet affichage ou cette diffusion.
+Lorsque sont proposées les mesures d' affichage, de transmission, de diffusion ou de publication d' un communiqué prévues à
+l' article 11- 2 de la loi précitée, la personne est informée du contenu du communiqué et du montant des frais qui seront à
+sa charge et qu' elle devra acquitter avant que la haute autorité ne procède à cet affichage ou cette diffusion. 
 
-La personne à qui est proposée une transaction est informée qu'elle dispose d'un délai de quinze jours avant de faire
-connaître sa décision, après s'être, le cas échéant, fait assister par un avocat.
+La personne à qui est proposée une transaction est informée qu' elle dispose d' un délai de quinze jours avant de faire
+connaître sa décision, après s' être, le cas échéant, fait assister par un avocat. 
 
-En cas d'audition par un agent assermenté de la Haute autorité, il est dressé procès-verbal de ces opérations, et copie en
-est remis à l'intéressé.
+En cas d' audition par un agent assermenté de la Haute autorité, il est dressé procès- verbal de ces opérations, et copie en
+est remis à l' intéressé. 
 
-II. - Si l'auteur des faits a accepté la transaction proposée, ce procès-verbal, ou copie de la lettre recommandée, avec les
-procès-verbaux constatant le cas échéant la commission de l'infraction ainsi que l'accord de la victime, est adressé pour
-homologation au procureur de la République territorialement compétent.
+II.- Si l' auteur des faits a accepté la transaction proposée, ce procès- verbal, ou copie de la lettre recommandée, avec les
+procès- verbaux constatant le cas échéant la commission de l' infraction ainsi que l' accord de la victime, est adressé pour
+homologation au procureur de la République territorialement compétent. 
 
-Ce magistrat adresse alors à la haute autorité, dans les meilleurs délais, sa décision indiquant s'il homologue ou non la
-transaction.
+Ce magistrat adresse alors à la haute autorité, dans les meilleurs délais, sa décision indiquant s' il homologue ou non la
+transaction. 
 
-III. - Si la transaction est homologuée, la haute autorité le signifie à l'auteur des faits par un document indiquant à ce
-dernier comment exécuter ses obligations, dans les délais qu'elle précise.
+III.- Si la transaction est homologuée, la haute autorité le signifie à l' auteur des faits par un document indiquant à ce
+dernier comment exécuter ses obligations, dans les délais qu' elle précise. 
 
-Ce document comporte une mention indiquant que si la personne n'exécute pas ces mesures dans le délai imparti, la haute
-autorité pourra mettre en mouvement l'action publique par voie de citation directe.
+Ce document comporte une mention indiquant que si la personne n' exécute pas ces mesures dans le délai imparti, la haute
+autorité pourra mettre en mouvement l' action publique par voie de citation directe. 
 
-Le paiement de l'amende transactionnelle ainsi que celui des frais d'affichage ou de diffusion d'un communiqué s'exécute
-conformément aux dispositions de l'article R. 15-33-51 du présent code, sous la réserve que les justificatifs du paiement
-sont retournés à la haute autorité.
+Le paiement de l' amende transactionnelle ainsi que celui des frais d' affichage ou de diffusion d' un communiqué s' exécute
+conformément aux dispositions de l' article R. 15- 33- 51 du présent code, sous la réserve que les justificatifs du paiement
+sont retournés à la haute autorité. 
 
-L'auteur des faits doit, s'il y a lieu, justifier de l'indemnisation de la victime, ainsi que de l'exécution des mesures
-prévues aux 1°, 2° et 4° de l'article 11-2 de la loi précitée.
+L' auteur des faits doit, s' il y a lieu, justifier de l' indemnisation de la victime, ainsi que de l' exécution des mesures
+prévues aux 1°, 2° et 4° de l' article 11- 2 de la loi précitée. 
 
-IV. - Si l'auteur des faits refuse la transaction proposée, y compris en ne répondant pas aux convocations qui lui ont été
-adressées, ou s'il n'exécute pas ses obligations dans les délais prescrits, la haute autorité en informe le procureur de la
-République, sauf à mettre elle-même en mouvement l'action publique par voie de citation directe.
+IV.- Si l' auteur des faits refuse la transaction proposée, y compris en ne répondant pas aux convocations qui lui ont été
+adressées, ou s' il n' exécute pas ses obligations dans les délais prescrits, la haute autorité en informe le procureur de la
+République, sauf à mettre elle- même en mouvement l' action publique par voie de citation directe. 
 
-Lorsque, pour des motifs graves d'ordre médical, familial, professionnel ou social, la personne n'a pas pu exécuter les
-mesures décidées dans les délais prescrits, la haute autorité peut, à sa demande, prolonger les délais d'exécution de ces
-mesures, sans pouvoir toutefois dépasser six mois.
+Lorsque, pour des motifs graves d' ordre médical, familial, professionnel ou social, la personne n' a pas pu exécuter les
+mesures décidées dans les délais prescrits, la haute autorité peut, à sa demande, prolonger les délais d' exécution de ces
+mesures, sans pouvoir toutefois dépasser six mois. 
 
-La victime a la possibilité, au vu de la décision d'homologation, lorsque l'auteur des faits s'est engagé à lui verser des
-dommages et intérêts, d'en demander le recouvrement suivant la procédure de l'injonction de payer, conformément aux règles
-prévues par le nouveau code de procédure civile.
+La victime a la possibilité, au vu de la décision d' homologation, lorsque l' auteur des faits s' est engagé à lui verser des
+dommages et intérêts, d' en demander le recouvrement suivant la procédure de l' injonction de payer, conformément aux règles
+prévues par le code de procédure civile. 
 
 Si la transaction homologuée est exécutée dans les délais prescrits, la haute autorité en informe le procureur de la
-République, qui constate l'extinction de l'action publique conformément aux dispositions du troisième alinéa de l'article 6
-du présent code. Ce magistrat en avise l'intéressé et, le cas échéant, la victime.
+République, qui constate l' extinction de l' action publique conformément aux dispositions du troisième alinéa de l' article
+6 du présent code. Ce magistrat en avise l' intéressé et, le cas échéant, la victime. 
 
-Si des poursuites sont engagées dans le cas où la transaction acceptée et homologuée n'a pas été entièrement exécutée, le
+Si des poursuites sont engagées dans le cas où la transaction acceptée et homologuée n' a pas été entièrement exécutée, le
 dossier de la procédure dans lequel sont précisées les mesures exécutées en tout ou partie par la personne est communiqué à
-la juridiction de jugement afin qu'elle puisse en tenir compte, en cas de condamnation, dans le prononcé de sa décision.
+la juridiction de jugement afin qu' elle puisse en tenir compte, en cas de condamnation, dans le prononcé de sa décision.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°58-1304 1958-12-23
+  - Loi n°2004-1486 du 30 décembre 2004 - art. 11-1 (V)
+  - CODE DE PROCEDURE PENALE - art. R15-33-51 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-641 du 1 juin 2006 - art. 1 () JORF 2 juin 2006
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 
 ## Livre Ier : De l'exercice de l'action publique et de l'instruction<a id=536></a>
@@ -111872,37 +111868,44 @@ _Cite_:
 En application des dispositions du dernier alinéa de l'article 776, peuvent obtenir la délivrance du bulletin n° 2 du casier
 judiciaire d'une personne, lorsque celui-ci ne porte la mention d'aucune condamnation, et pour les seules nécessités liées au
 recrutement de la personne, les dirigeants des personnes morales de droit public ou privé gestionnaires des établissements,
-services ou lieux de vie et d'accueil ainsi que les organisateurs d'accueil suivants :
+services ou lieux de vie et d' accueil ainsi que les organisateurs d'accueil suivants : 
 
-1° Les accueils mentionnés à l'article L. 227-4 du code de l'action sociale et des familles.
+1° Les accueils mentionnés à l'article L. 227- 4 du code de l'action sociale et des familles. 
 
 2° Les établissements ou services mettant en oeuvre les mesures éducatives ordonnées par l'autorité judiciaire en application
-de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375-8 du code civil ou
+de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ou des articles 375 à 375- 8 du code civil ou
 concernant des majeurs de moins de vingt et un ans ou les mesures d'investigation préalables aux mesures d'assistances
-éducatives prévues par le nouveau code de procédure civile et par l'ordonnance précitée du 2 février 1945.
+éducatives prévues par le code de procédure civile et par l'ordonnance précitée du 2 février 1945. 
 
 3° Les lieux de vie et d'accueil mentionnés aux articles D. 316-1 et suivants du code de l'action sociale et des familles qui
-accueillent des mineurs mentionnés au 2° du I de l'article D. 316-2 de ce même code.
+accueillent des mineurs mentionnés au 2° du I de l'article D. 316-2 de ce même code. 
 
 4° Les lieux de vie et d'accueil mentionnés aux articles D. 316-1 et suivants du code de l'action sociale et des familles
 ayant été autorisés par le représentant de l'Etat, seul ou conjointement avec le président du conseil général, qui
-accueillent des mineurs mentionnés aux 1°, 3° et 4° du I de l'article D. 316-2 de ce même code.
+accueillent des mineurs mentionnés aux 1°, 3° et 4° du I de l'article D. 316-2 de ce même code. 
 
 5° Les établissements ou services d'enseignement et d'éducation spéciale qui assurent, à titre principal, une éducation
 adaptée et un accompagnement social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés
-d'adaptation, prévus par le 2° du I de l'article L. 312-1 du code de l'action sociale et des familles.
+d'adaptation, prévus par le 2° du I de l'article L. 312-1 du code de l'action sociale et des familles. 
 
 6° Les centres d'action médico-sociale précoce mentionnés à l'article L. 2132-4 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°59-322 1959-02-23
+  - Ordonnance n°45-174 du 2 février 1945 (V)
+  - Code civil - art. 375 (V)
+  - CODE DE PROCEDURE PENALE - art. 776 (V)
+  - Code de la santé publique - art. L2132-4 (V)
+  - Code de l'action sociale et des familles - art. D316-1 (V)
+  - Code de l'action sociale et des familles - art. D316-2 (V)
+  - Code de l'action sociale et des familles - art. L227-4 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-417 du 23 mars 2007 - art. 2 () JORF 25 mars 2007
+  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
 _Cité par_:
 
