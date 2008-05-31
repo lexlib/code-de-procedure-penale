@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -545,7 +545,7 @@ Version Consolidée au 2008-05-25
           - [Section 4 : Des procédures d'infiltration, des sonorisations et fixations d'images de certains lieux ou véhicules (art. D15-1-1 à D15-1-5)](#542)
         - [Chapitre II : Du ministère public (art. D15-2 à D15-4-3)](#543)
         - [Chapitre III : Du juge d'instruction et des pôles de l'instruction (art. D15-4-4 à D15-4-8)](#544)
-      - [Titre II : Des enquêtes et des contrôles d'identité (art. D15-5)](#545)
+      - [Titre II : Des enquêtes et des contrôles d'identité (art. D15-5 à D15-6)](#545)
       - [Titre III : Des juridictions d'instruction (art. D15-7 à D47)](#546)
         - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré (art. D15-7 à D40-3)](#547)
           - [Section 1 : Dispositions générales (art. D15-7 à D31-2)](#548)
@@ -553,7 +553,7 @@ Version Consolidée au 2008-05-25
             - [Paragraphe 5 : Examens médical et médico-psychologique. (art. D16 à D26)](#550)
             - [Paragraphe 6 : Désignation du juge d'instruction. (art. D27 à D31-2)](#551)
           - [Section 2 : De la constitution de partie civile et de ses effets (art. D32)](#552)
-          - [Section 3 : Instructions et renseignements donnés par l'autorité judiciaire (art. D32-1)](#553)
+          - [Section 3 : Instructions et renseignements donnés par l'autorité judiciaire (art. D32-1 à D32-2)](#553)
           - [Section 7 : Du contrôle judiciaire et de la détention provisoire (art. D32-3)](#554)
           - [Section 8 : Des commissions rogatoires (art. D33 à D36)](#555)
           - [Section 9 : De l'expertise (art. D37 à D40)](#556)
@@ -6133,6 +6133,76 @@ _Cite_:
   - Code de procédure pénale - art. 63-2 (V)
 
 
+###### Article 64-1
+
+Les interrogatoires des personnes placées en garde à vue pour crime, réalisés dans les locaux d'un service ou d'une unité de
+police ou de gendarmerie exerçant une mission de police judiciaire font l'objet d'un enregistrement audiovisuel.
+
+L'enregistrement ne peut être consulté, au cours de l'instruction ou devant la juridiction de jugement, qu'en cas de
+contestation du contenu du procès-verbal d'interrogatoire, sur décision du juge d'instruction ou de la juridiction de
+jugement, à la demande du ministère public ou d'une des parties. Les huit derniers alinéas de l'article 114 ne sont pas
+applicables. Lorsqu'une partie demande la consultation de l'enregistrement, cette demande est formée et le juge d'instruction
+statue conformément aux deux premiers alinéas de l'article 82-1. 
+
+Le fait, pour toute personne, de diffuser un enregistrement réalisé en application du présent article est puni d'un an
+d'emprisonnement et de 15 000 euros d'amende.
+
+A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement est détruit
+dans le délai d'un mois. 
+
+Lorsque le nombre de personnes gardées à vue devant être simultanément interrogées, au cours de la même procédure ou de
+procédures distinctes, fait obstacle à l'enregistrement de tous les interrogatoires, l'officier de police judiciaire en
+réfère sans délai au procureur de la République qui désigne, par décision écrite versée au dossier, au regard des nécessités
+de l'enquête, la ou les personnes dont les interrogatoires ne seront pas enregistrés. 
+
+Lorsque l'enregistrement ne peut être effectué en raison d'une impossibilité technique, il en est fait mention dans le
+procès-verbal d'interrogatoire qui précise la nature de cette impossibilité. Le procureur de la République en est
+immédiatement avisé. 
+
+Le présent article n'est pas applicable lorsque la personne est gardée à vue pour un crime mentionné à l'article 706-73 du
+présent code ou prévu par les titres Ier et II du livre IV du code pénal, sauf si le procureur de la République ordonne
+l'enregistrement. 
+
+Un décret précise en tant que de besoin les modalités d'application du présent article.
+
+**Nota:**
+
+Loi 2007-291 du 5 mars 2007 article 30 IV : Les articles 14 et 15 de la présente loi entrent en vigueur le premier jour du
+quinzième mois suivant la date de publication de la présente loi.
+
+Toutefois, jusqu'à cette date, le procureur de la République ou le juge d'instruction peut, d'office ou à la demande de
+l'officier de police judiciaire, ordonner qu'il soit procédé à un enregistrement audiovisuel conformément à l'article 64-1 du
+code de procédure pénale dans sa rédaction résultant du I de l'article 14 de la présente loi, et le juge d'instruction peut,
+d'office, sur réquisition du procureur de la République ou à la demande des parties, décider de procéder à un enregistrement
+audiovisuel conformément à l'article 116-1 du même code, dans sa rédaction résultant de l'article 15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 14 () JORF 6 mars 2007 en vigueur le 1er juin 2008
+
+_Cité par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+  - Arrêté du 14 avril 2008 (V)
+  - Décret n°2019-1421 du 20 décembre 2019 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. 154 (VD)
+  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
+  - Code de procédure pénale - art. 67 (V)
+  - Code de procédure pénale - art. D15-6 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 114 (V)
+  - Code de procédure pénale - art. 706-73 (V)
+  - Code de procédure pénale - art. 82-1 (V)
+
+
 ###### Article 65
 
 Les mentions et émargements prévus par le premier alinéa de l'article 64, en ce qui concerne les dates et heures de début et
@@ -6815,27 +6885,29 @@ _Cite_:
 L'officier de police judiciaire peut, pour les nécessités de l'enquête, garder à sa disposition toute personne à l'encontre
 de laquelle il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une
 infraction. Il en informe dès le début de la garde à vue le procureur de la République. La personne gardée à vue ne peut être
-retenue plus de vingt-quatre heures.
+retenue plus de vingt-quatre heures. 
 
 Le procureur de la République peut, avant l'expiration du délai de vingt-quatre heures, prolonger la garde à vue d'un nouveau
 délai de vingt-quatre heures au plus. Cette prolongation ne peut être accordée qu'après présentation préalable de la personne
 à ce magistrat. Toutefois, elle peut, à titre exceptionnel, être accordée par décision écrite et motivée sans présentation
 préalable de la personne. Si l'enquête est suivie dans un autre ressort que celui du siège du procureur de la République
-saisi des faits, la prolongation peut être accordée par le procureur de la République du lieu d'exécution de la mesure.
+saisi des faits, la prolongation peut être accordée par le procureur de la République du lieu d'exécution de la mesure. 
 
 Sur instructions du procureur de la République saisi des faits, les personnes à l'encontre desquelles les éléments recueillis
 sont de nature à motiver l'exercice de poursuites sont, à l'issue de la garde à vue, soit remises en liberté, soit déférées
-devant ce magistrat.
+devant ce magistrat. 
 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
-constituent un seul et même ressort.
+constituent un seul et même ressort. 
 
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre du
-présent chapitre.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64, 64-1 et 65 sont applicables aux gardes à vue exécutées dans le
+cadre du présent chapitre.
 
 **Nota:**
 
-La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
+Dans sa décision n° 2010-14/22 QPC du 30 juillet 2010 (NOR : CSCX1020678S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 77 du code de procédure pénale. Cette déclaration d'inconstitutionnalité prend effet le 1er juillet
+2011 dans les conditions fixées au considérant 30.
 
 **Liens relatifs à cet article**
 
@@ -6856,16 +6928,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-307 du 4 mars 2002 - art. 1 () JORF 5 mars 2002
+  - Loi n°2007-291 du 5 mars 2007 - art. 14 () JORF 6 mars 2007 en vigueur le 1er juin 2008
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 63-2 (M)
-  - CODE DE PROCEDURE PENALE - art. 63-3 (M)
-  - CODE DE PROCEDURE PENALE - art. 63-4 (M)
-  - CODE DE PROCEDURE PENALE - art. 64 (M)
-  - CODE DE PROCEDURE PENALE - art. 65 (M)
+  - Code de procédure pénale - art. 63-1 (V)
 
 
 ###### Article 77-1
@@ -10343,6 +10410,60 @@ _Cite_:
   - Code de procédure pénale - art. 82-1 (V)
 
 
+###### Article 116-1
+
+En matière criminelle, les interrogatoires des personnes mises en examen réalisés dans le cabinet du juge d'instruction, y
+compris l'interrogatoire de première comparution et les confrontations, font l'objet d'un enregistrement audiovisuel.
+
+L'enregistrement ne peut être consulté, au cours de l'instruction ou devant la juridiction de jugement, qu'en cas de
+contestation sur la portée des déclarations recueillies, sur décision du juge d'instruction ou de la juridiction de jugement,
+à la demande du ministère public ou d'une des parties. Les huit derniers alinéas de l'article 114 ne sont pas applicables.
+Lorsqu'une partie demande la consultation de l'enregistrement, cette demande est formée et le juge d'instruction statue
+conformément aux deux premiers alinéas de l'article 82-1. 
+
+Le fait, pour toute personne, de diffuser un enregistrement réalisé en application du présent article est puni d'un an
+d'emprisonnement et de 15 000 euros d'amende.
+
+A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement est détruit
+dans le délai d'un mois. 
+
+Lorsque le nombre de personnes mises en examen devant être simultanément interrogées, au cours de la même procédure ou de
+procédures distinctes, fait obstacle à l'enregistrement de tous les interrogatoires, le juge d'instruction décide, au regard
+des nécessités de l'investigation, quels interrogatoires ne seront pas enregistrés. 
+
+Lorsque l'enregistrement ne peut être effectué en raison d'une impossibilité technique, il en est fait mention dans le
+procès-verbal d'interrogatoire qui précise la nature de cette impossibilité. 
+
+Le présent article n'est pas applicable lorsque l'information concerne un crime mentionné à l'article 706-73 du présent code
+ou prévu par les titres Ier et II du livre IV du code pénal, sauf si le juge d'instruction décide de procéder à
+l'enregistrement. 
+
+Un décret précise en tant que de besoin les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°57-1426 1957-12-31
+
+_Créé par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 15 () JORF 6 mars 2007 en vigueur le 1er juin 2008
+
+_Cité par_:
+
+  - Loi n°2007-291 du 5 mars 2007 - art. 30 (V)
+  - CODE DE PROCEDURE PENALE - art. A36-11-1 (V)
+  - Code de procédure pénale - art. 819 (V)
+  - Code de procédure pénale - art. D32-2 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 114 (V)
+  - Code de procédure pénale - art. 706-73 (V)
+  - Code de procédure pénale - art. 82-1 (V)
+
+
 ###### Article 117
 
 Nonobstant les dispositions prévues à l'article 116, le juge d'instruction peut procéder à un interrogatoire immédiat et à
@@ -13197,14 +13318,10 @@ autorisation par décision écrite et motivée sans présentation préalable de 
 Pour l'application du présent article, les ressorts des tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil
 constituent un seul et même ressort.
 
-Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64 et 65 sont applicables aux gardes à vue exécutées dans le cadre de
-la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2 et 63-3 sont alors exercés par
-le juge d'instruction. L'information prévue au troisième alinéa de l'article 63-4 précise que la garde à vue intervient dans
-le cadre d'une commission rogatoire.
-
-**Nota:**
-
-La présente version de cet article est en vigueur jusqu'au 1er juin 2008.
+Les dispositions des articles 63-1, 63-2, 63-3, 63-4, 64, 64-1 et 65 sont applicables aux gardes à vue exécutées dans le
+cadre de la présente section. Les pouvoirs conférés au procureur de la République par les articles 63-2, 63-3 et 64-1 sont
+alors exercés par le juge d'instruction. L'information prévue au troisième alinéa de l'article 63-4 précise que la garde à
+vue intervient dans le cadre d'une commission rogatoire.
 
 **Liens relatifs à cet article**
 
@@ -13228,7 +13345,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-307 du 4 mars 2002 - art. 2 () JORF 5 mars 2002
+  - Loi n°2007-291 du 5 mars 2007 - art. 14 () JORF 6 mars 2007 en vigueur le 1er juin 2008
 
 _Cite_:
 
@@ -13237,6 +13354,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 63-3 (M)
   - CODE DE PROCEDURE PENALE - art. 63-4 (M)
   - CODE DE PROCEDURE PENALE - art. 64 (M)
+  - CODE DE PROCEDURE PENALE - art. 64-1 (Ab)
   - CODE DE PROCEDURE PENALE - art. 65 (M)
 
 **Liens**:
@@ -51806,34 +51924,46 @@ _Cite_:
 
 ###### Article 776
 
-Le bulletin n° 2 du casier judiciaire est délivré :
+Le bulletin n° 2 du casier judiciaire est délivré : 
 
 1° Aux préfets et aux administrations publiques de l'Etat saisis de demandes d'emplois publics, de propositions relatives à
 des distinctions honorifiques ou de soumissions pour des adjudications de travaux ou de marchés publics ou en vue de
 poursuites disciplinaires ou de l'ouverture d'une école privée, ainsi que de demandes d'agrément destinées à permettre la
-constatation par procès-verbal d'infractions à la loi pénale ;
+constatation par procès-verbal d'infractions à la loi pénale ; 
 
 2° Aux autorités militaires pour les appelés des classes et de l'inscription maritime et pour les jeunes qui demandent à
 contracter un engagement ainsi qu'aux autorités publiques compétentes en cas de contestation sur l'exercice des droits
 électoraux ou sur l'existence de l'incapacité d'exercer une fonction publique élective prévue par l'article 194 de la loi n°
-85-98 du 25 janvier 1985 précitée(1) ;
+85-98 du 25 janvier 1985 précitée (1) ; 
 
 3° Aux administrations et personnes morales dont la liste sera déterminée par le décret en Conseil d'Etat prévu à l'article
 779, ainsi qu'aux administrations ou organismes chargés par la loi ou le règlement du contrôle de l'exercice d'une activité
 professionnelle ou sociale lorsque cet exercice fait l'objet de restrictions expressément fondées sur l'existence de
-condamnations pénales.
+condamnations pénales ou de sanctions disciplinaires. 
 
 4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi
-qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre ;
+qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre ; 
 
 5° Aux présidents de conseils généraux saisis d'une demande d'agrément en vue d'adoption prévu à l'article L. 225-2 du code
-de l'action sociale et des familles.
+de l'action sociale et des familles ; 
+
+6° Aux autorités compétentes désignées par arrêté du ministre de la justice, lorsque celles-ci reçoivent, en application des
+articles 8 et 56 de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la
+reconnaissance des qualifications professionnelles, une demande de communication des sanctions pénales ou disciplinaires
+prononcées à l'encontre d'un professionnel de la part d'une autorité compétente d'un autre Etat membre de la Communauté
+européenne ou partie à l'accord sur l'Espace économique européen chargée d'appliquer, dans celui-ci, des restrictions
+d'exercice concernant cette activité professionnelle. 
 
 Les dirigeants de personnes morales de droit public ou privé exerçant auprès des mineurs une activité culturelle, éducative
 ou sociale au sens de l'article L. 312-1 du code de l'action sociale et des familles peuvent obtenir la délivrance du
 bulletin n° 2 du casier judiciaire, pour les seules nécessités liées au recrutement d'une personne, lorsque ce bulletin ne
 porte la mention d'aucune condamnation. La liste de ces personnes morales est déterminée par décret du ministre de la justice
-et du ou des ministres intéressés.
+et du ou des ministres intéressés. 
+
+Le bulletin n° 2 du casier judiciaire est transmis, en application de la directive 2005 / 36 / CE précitée, aux autorités
+compétentes chargées d'appliquer, dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace
+économique européen, des restrictions d'exercice d'une activité professionnelle fondées, dans cet Etat, sur l'existence de
+sanctions pénales ou disciplinaires.
 
 **Nota:**
 
@@ -51862,13 +51992,17 @@ _Cité par_:
   - Code de procédure pénale - art. R79 (V)
   - Code du sport. - art. Annexe II-12 (art. A212-176) (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 58-1296 1958-12-23
+  - Loi n°85-98 du 25 janvier 1985 - art. 194
+  - Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005
+  - Code de procédure pénale - art. 779
+  - Code de l'action sociale et des familles - art. L225-2
+  - Code de l'action sociale et des familles - art. L312-1
 
 _Modifié par_:
 
-  - Loi n°2007-293 du 5 mars 2007 - art. 10 () JORF 6 mars 2007
+  - Ordonnance n°2008-507 du 30 mai 2008 - art. 2
 
 **Liens**:
 
@@ -84008,6 +84142,52 @@ _Cite_:
   - Code de procédure pénale - art. 99-3 (V)
 
 
+###### Article D15-6
+
+Pour l'application des dispositions de l'article 64-1 relatif à l'enregistrement audiovisuel de l'interrogatoire de la
+personne gardée à vue pour crime, il est tenu compte de la nature de l'infraction dont est informée cette personne
+conformément aux dispositions du premier alinéa de l'article 63-1, sans préjudice d'une nouvelle qualification des faits à
+tout moment de la procédure par l'officier de police judiciaire, le procureur de la République ou le juge d'instruction.
+
+L'enregistrement original est placé sous scellé fermé et une copie est versée au dossier. Cette copie peut être commune à
+l'ensemble des enregistrements effectués au cours de la procédure. Sur instruction du procureur de la République, ils sont
+détruits par le greffe de la juridiction dans le délai prévu par le quatrième alinéa de l'article 64-1.
+
+Une copie de l'enregistrement peut être conservée par le service ou l'unité de police judiciaire en charge de la procédure,
+qui peut la consulter pour les nécessités des investigations. Cette copie est détruite au plus tard dans un délai de cinq ans
+après le dernier acte de procédure dressé par les enquêteurs.
+
+Les modalités techniques de l'enregistrement audiovisuel sont déterminées par arrêté conjoint du ministre de la justice, du
+ministre de l'intérieur et du ministre de la défense.
+
+Les dispositions des alinéas 2 à 4 du présent article sont applicables aux enregistrements des interrogatoires des mineurs en
+garde à vue réalisés en application des dispositions du VI de l'article 4 de l'ordonnance n° 45-174 du 2 février 1945
+relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-174 du 2 février 1945 - art. 4 (M)
+  - CODE DE PROCEDURE PENALE - art. 63-1 (Ab)
+  - CODE DE PROCEDURE PENALE - art. 64-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+_Créé par_:
+
+  - Décret n°2007-699 du 3 mai 2007 - art. 3 () JORF 5 mai 2007 en vigueur le 1er juin 2008
+
+_Cité par_:
+
+  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+  - Décret n°2019-1421 du 20 décembre 2019 - art. 2 (V)
+  - CODE DE PROCEDURE PENALE - art. A36-11 (V)
+  - CODE DE PROCEDURE PENALE - art. D15-8 (Ab)
+
+
 ### Titre III : Des juridictions d'instruction<a id=546></a>
 
 #### Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré<a id=547></a>
@@ -84522,6 +84702,43 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de procédure pénale - art. D32-1-1 (V)
+
+
+###### Article D32-2
+
+Pour l'application des dispositions de l'article 116-1 relatif à l'enregistrement audiovisuel des interrogatoires des
+personnes mises en examen en matière criminelle, il est établi un enregistrement original placé sous scellé fermé. 
+
+Une copie de cet enregistrement est versée au dossier. Cette copie peut être commune à l'ensemble des enregistrements
+effectués au cours de l'instruction. 
+
+Sur instruction du procureur de la République, les enregistrements sont détruits par le greffe de la juridiction dans le
+délai prévu par le quatrième alinéa de l'article 116-1. 
+
+Les modalités techniques de l'enregistrement audiovisuel sont déterminées par arrêté du ministre de la justice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°58-1304 1958-12-23
+
+_Créé par_:
+
+  - Décret n°2007-699 du 3 mai 2007 - art. 4 () JORF 5 mai 2007 en vigueur le 1er juin 2008
+
+_Cité par_:
+
+  - Décret n°2007-699 du 3 mai 2007 - art. 14 (V)
+  - CODE DE PROCEDURE PENALE - art. A36-11-1 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 116-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de procédure pénale - art. D32-2-2 (VD)
 
 
 ##### Section 7 : Du contrôle judiciaire et de la détention provisoire<a id=554></a>
