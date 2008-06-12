@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-05
+Version Consolidée au 2008-06-13
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -92346,6 +92346,37 @@ _Cite_:
   - Code de procédure pénale - art. D52
 
 
+###### Article D53-1
+
+Si un prévenu demande au chef d'établissement à bénéficier du régime de l'emprisonnement individuel de jour et de nuit alors
+que la distribution intérieure de la maison d'arrêt et le nombre de détenus présents ne lui permettent pas de bénéficier sur
+place de ce régime, il est fait application des dispositions du présent article. 
+
+Le prévenu est informé qu'il a la possibilité de déposer auprès du chef d'établissement une requête pour être transféré, afin
+d'être placé en cellule individuelle, dans la maison d'arrêt la plus proche permettant un tel placement, à la condition que
+ce transfèrement obtienne l'accord du magistrat saisi du dossier de l'information.  
+
+Dans un délai de deux mois à compter du dépôt de la requête, le chef d'établissement indique au prévenu les propositions de
+transfèrement permettant de répondre à sa demande, en lui précisant la ou les maisons d'arrêt dans laquelle il sera
+susceptible d'être détenu. 
+
+Si le prévenu indique accepter l'une ou plusieurs de ces propositions, le chef d'établissement en informe immédiatement le
+magistrat saisi du dossier de l'information, au moyen d'un formulaire adressé par télécopie. Ce dernier indique alors au chef
+d'établissement, selon les mêmes modalités, s'il donne ou non son accord. 
+
+En cas d'acceptation du prévenu et d'accord du magistrat, il est procédé dans les meilleurs délais au transfèrement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-546 du 10 juin 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-368 du 30 avril 2013 - art. 2
+
+
 ###### Article D54
 
 Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers,
@@ -101920,15 +101951,16 @@ _Cité par_:
 
 La mise en cellule disciplinaire prévue par les articles D. 251 (5°) et D. 251-1-2 consiste dans le placement du détenu dans
 une cellule aménagée à cet effet et qu'il doit occuper seul. La sanction emporte pendant toute sa durée la privation d'achats
-en cantine prévue à l'article D. 251 (3°) ainsi que la privation des visites et de toutes les activités sous réserve des
-dispositions de l'article D. 251-1-2 relatifs aux mineurs de plus de seize ans.
+en cantine prévue à l'article D. 251 (3°) ainsi que la privation de toutes les activités sous réserve des dispositions de
+l'article D. 251-1-2 relatifs aux mineurs de plus de seize ans. 
 
-Toutefois, les détenus placés en cellule disciplinaire font une promenade d'une heure par jour dans une cour individuelle. La
-sanction n'emporte en outre aucune restriction à leur droit de correspondance écrite.
+Toutefois, les détenus placés en cellule disciplinaire font une promenade d'au moins une heure par jour dans une cour
+individuelle. Nonobstant les dispositions de l'article D. 410, ils ne peuvent être visités plus d'une fois par semaine. La
+sanction n'emporte en outre aucune restriction à leur droit de correspondance écrite. 
 
 Pour les détenus majeurs, la durée de la mise en cellule disciplinaire ne peut excéder quarante-cinq jours pour une faute
 disciplinaire du premier degré, trente jours pour une faute disciplinaire du deuxième degré, et quinze jours pour une faute
-disciplinaire du troisième degré.
+disciplinaire du troisième degré. 
 
 Les sanctions de mise en cellule disciplinaire sont inscrites sur le registre du quartier disciplinaire tenu sous l'autorité
 du chef d'établissement. Ce registre est présenté aux autorités administratives et judiciaires lors de leurs visites de
@@ -101936,19 +101968,23 @@ contrôle et d'inspection.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°59-322 1959-02-23
-
 _Modifié par_:
 
-  - Décret n°2007-814 du 11 mai 2007 - art. 10 () JORF 12 mai 2007 en vigueur le 1er juin 2007
+  - Décret n°2008-546 du 10 juin 2008 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2010-1635 du 23 décembre 2010 - art. 18
 
 _Cité par_:
 
   - Code de procédure pénale - art. D250-3 (Ab)
   - Code de procédure pénale - art. D251 (Ab)
-  - Code de procédure pénale - art. D251-1-2 (Ab)
+
+_Cite_:
+
+  - Code de procédure pénale - art. D251-1-2
+  - Code de procédure pénale - art. D410
 
 
 ###### Article D251-4
