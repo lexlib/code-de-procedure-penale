@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-13
+Version Consolidée au 2008-06-19
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -1867,23 +1867,17 @@ _Cité par_:
 
 ###### Article 10
 
-L'action civile se prescrit selon les règles du code civil. Toutefois, cette action ne peut plus être engagée devant la
-juridiction répressive après l'expiration du délai de prescription de l'action publique.
+Lorsque l'action civile est exercée devant une juridiction répressive, elle se prescrit selon les règles de l'action
+publique. Lorsqu'elle est exercée devant une juridiction civile, elle se prescrit selon les règles du code civil.
 
 Lorsqu'il a été statué sur l'action publique, les mesures d'instruction ordonnées par le juge pénal sur les seuls intérêts
 civils obéissent aux règles de la procédure civile.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
 _Modifié par_:
 
-  - Ordonnance n°58-1296 du 23 décembre 1958 - art. 1 () JORF 24 décembre 1958 en vigueur le 2 mars 1959
-  - Loi n°80-1042 1980-12-23 art. 1 JORF 24 décembre 1980
-  - Loi n°81-82 du 2 février 1981 - art. 82 () JORF 3 février 1981
+  - Loi n°2008-561 du 17 juin 2008 - art. 13
 
 _Cité par_:
 
