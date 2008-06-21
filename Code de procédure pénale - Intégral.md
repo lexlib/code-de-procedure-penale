@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-19
+Version Consolidée au 2008-06-22
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -9219,36 +9219,42 @@ procédé à la saisie ou au retrait, à quelque titre que ce soit, d'un ou plus
 République près le tribunal de grande instance du lieu de l'infraction ou, lorsqu'il est saisi, le juge d'instruction peut
 placer l'animal dans un lieu de dépôt prévu à cet effet ou le confier à une fondation ou à une association de protection
 animale reconnue d'utilité publique ou déclarée. La décision mentionne le lieu de placement et vaut jusqu'à ce qu'il ait été
-statué sur l'infraction.
+statué sur l'infraction. 
 
 Lorsque les conditions du placement sont susceptibles de rendre l'animal dangereux ou de mettre sa santé en péril, le juge
 d'instruction, lorsqu'il est saisi, ou le président du tribunal de grande instance ou un magistrat du siège délégué par lui
 peut, par ordonnance motivée prise sur les réquisitions du procureur de la République et après avis d'un vétérinaire,
-ordonner qu'il sera cédé à titre onéreux ou confié à un tiers ou qu'il sera procédé à son euthanasie.
+ordonner qu'il sera cédé à titre onéreux ou confié à un tiers ou qu'il sera procédé à son euthanasie. 
 
 Cette ordonnance est notifiée au propriétaire s'il est connu, qui peut la déférer soit au premier président de la cour
 d'appel du ressort ou à un magistrat de cette cour désigné par lui, soit, lorsqu'il s'agit d'une ordonnance du juge
-d'instruction, à la chambre de l'instruction dans les conditions prévues aux cinquième et sixième alinéas de l'article 99.
+d'instruction, à la chambre de l'instruction dans les conditions prévues aux cinquième et sixième alinéas de l'article 99. 
 
 Le produit de la vente de l'animal est consigné pendant une durée de cinq ans. Lorsque l'instance judiciaire qui a motivé la
 saisie se conclut par un non-lieu ou par une décision de relaxe, le produit de la vente est restitué à la personne qui était
 propriétaire de l'animal au moment de la saisie si celle-ci en fait la demande. Dans le cas où l'animal a été confié à un
 tiers, son propriétaire peut saisir le magistrat désigné au deuxième alinéa d'une requête tendant à la restitution de
-l'animal.
+l'animal. 
 
 Les frais exposés pour la garde de l'animal dans le lieu de dépôt sont à la charge du propriétaire, sauf décision contraire
 du magistrat désigné au deuxième alinéa saisi d'une demande d'exonération ou du tribunal statuant sur le fond. Cette
-exonération peut également être accordée en cas de non-lieu ou de relaxe.
+exonération peut également être accordée en cas de non-lieu ou de relaxe. 
+
+Lorsque, au cours de la procédure judiciaire, la conservation de l'animal saisi ou retiré n'est plus nécessaire à la
+manifestation de la vérité et que l'animal est susceptible de présenter un danger grave et immédiat pour les personnes ou les
+animaux domestiques, le procureur de la République ou le juge d'instruction lorsqu'il est saisi ordonne la remise de l'animal
+à l'autorité administrative afin que celle-ci mette en œuvre les mesures prévues au II de l'article L. 211-11 du code rural.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°57-1426 1957-12-31
-
 _Modifié par_:
 
-  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 5 () JORF 6 octobre 2006
+  - Loi n°2008-582 du 20 juin 2008 - art. 14
+
+_Cite_:
+
+  - Code de procédure pénale - art. 99
+  - Code rural - art. L211-11
 
 _Cité par_:
 
@@ -22935,31 +22941,34 @@ _Modifié par_:
 
 ###### Article 398-1
 
-Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 :
+Sont jugés dans les conditions prévues au troisième alinéa de l'article 398 : 
 
 1° Les délits prévus par les articles 66 et 69 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et
-relatif aux cartes de paiement ;
+relatif aux cartes de paiement ; 
 
 2° Les délits prévus par le code de la route ainsi que, lorsqu'ils sont commis à l'occasion de la conduite d'un véhicule, par
-les articles 222-19-1, 222-20-1, 223-1 et 434-10 du code pénal ;
+les articles 222-19-1, 222-20-1, 223-1 et 434-10 du code pénal ; 
 
-3° Les délits en matière de réglementations relatives aux transports terrestres ;
+3° Les délits en matière de réglementations relatives aux transports terrestres ; 
 
-4° Les délits de port ou transport d'armes de la 6e catégorie prévus par l'article L. 2339-9 du code de la défense ;
+4° Les délits de port ou transport d'armes de la 6e catégorie prévus par l'article L. 2339-9 du code de la défense ; 
 
 5° Les délits prévus par les articles 222-11, 222-12 (1° à 13°), 222-13 (1° à 13°), 222-16, 222-17, 222-18, 222-32, 225-10-1,
-227-3 à 227-11 311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14, 433-3, premier et
-deuxième alinéas, 433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et L. 628 du code de
-la santé publique ;
+227-3 à 227-11 
+311-3, 311-4 (1° à 8°), 313-5, 314-5, 314-6, 321-1, 322-1 à 322-4-1, 322-12, 322-13, 322-14, 
+433-3, premier et deuxième alinéas, 433-5, 433-6 à 433-8, premier alinéa, 433-10, premier alinéa, et 521-1 du code pénal et
+L. 628 du code de la santé publique ; 
 
 6° Les délits prévus par le code de l'environnement en matière de chasse, de pêche en eau douce, de pêche maritime et de
-protection de la faune et de la flore ;
+protection de la faune et de la flore ; 
 
-7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts ;
+7° Les délits prévus par le code forestier et par le code de l'urbanisme pour la protection des bois et forêts ; 
 
-7° bis Le délit prévu par l'article L. 126-3 du code de la construction et de l'habitation ;
+7° bis Le délit prévu par l'article L. 126-3 du code de la construction et de l'habitation ; 
 
-8° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à l'exception des délits de presse.
+8° Les délits pour lesquels une peine d'emprisonnement n'est pas encourue, à l'exception des délits de presse ; 
+
+9° Les délits prévus par le code rural en matière de garde et de circulation des animaux. 
 
 Toutefois, le tribunal statue obligatoirement dans les conditions prévues par le premier alinéa de l'article 398 lorsque le
 prévenu est en état de détention provisoire lors de sa comparution à l'audience ou lorsqu'il est poursuivi selon la procédure
@@ -22968,13 +22977,32 @@ jugement des délits prévus au présent article lorsque ces délits sont connex
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 58-1296 1958-12-23
+  - Décret-loi du 30 octobre 1935
+  - Code pénal - art. 222-11
+  - Code pénal - art. 222-16
+  - Code pénal - art. 222-19-1
+  - Code pénal - art. 222-20-1
+  - Code pénal - art. 222-32
+  - Code pénal - art. 223-1
+  - Code pénal - art. 225-10-1
+  - Code pénal - art. 227-3
+  - Code pénal - art. 311-3
+  - Code pénal - art. 321-1
+  - Code pénal - art. 433-3
+  - Code pénal - art. 434-10
+  - Code pénal - art. 521-1 (V)
+  - Code rural
+  - Code forestier
+  - Code de la santé publique - art. L628 (Ab)
+  - Code de l'urbanisme
+  - Code de la construction et de l'habitation. - art. L126-3
+  - Code de l'environnement
 
 _Modifié par_:
 
-  - Loi n°2007-297 du 5 mars 2007 - art. 73 () JORF 7 mars 2007
+  - Loi n°2008-582 du 20 juin 2008 - art. 14
 
 _Cité par_:
 
