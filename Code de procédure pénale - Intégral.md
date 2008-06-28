@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-22
+Version Consolidée au 2008-06-29
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -57848,28 +57848,25 @@ c) La direction de l'aérodrome d'Orly, sur l'emprise de cet aérodrome ;
 de circulation auxquelles elles sont affectées et les unités motocyclistes régionales pour les infractions visées à l'article
 L. 130-1 du code de la route ;
 
-4° La direction des renseignements généraux de la préfecture de police ;
+4° Au titre de la direction centrale de la sécurité publique : 
 
-5° L'inspection générale des services de la préfecture de police, dans les départements de Paris, des Hauts-de-Seine, du Val-
-de-Marne et de la Seine-Saint-Denis ;
+a) Les circonscriptions de sécurité publique dont la compétence couvre un département ainsi qu'une partie d'un ou plusieurs
+départements limitrophes ; 
 
-6° La direction de la logistique de la préfecture de police dans les départements de Paris, des Hauts-de-Seine, du Val-de-
-Marne et de la Seine-Saint-Denis ;
+b) Les services interdépartementaux de sécurisation des réseaux de transport en commun de voyageurs. 
 
-7° Les circonscriptions de sécurité publique dont la compétence couvre un département ainsi qu'une partie d'un ou plusieurs
-départements limitrophes ;
+5° Au titre de la préfecture de police : 
 
-8° Les services interdépartementaux de sécurisation des réseaux de transports en commun de voyageurs.
+a) Le service chargé de la lutte contre l'immigration irrégulière et le travail illégal des étrangers, dans les départements
+de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-Saint-Denis ; 
+
+b) L'inspection générale des services, dans les départements de Paris, des Hauts-de-Seine, du Val-de-Marne et de la Seine-
+Saint-Denis ; 
+
+c) La direction opérationnelle des services techniques et logistiques, dans les départements de Paris, des Hauts-de-Seine, du
+Val-de-Marne et de la Seine-Saint-Denis.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
-
-_Modifié par_:
-
-  - Décret n°2005-1664 du 28 décembre 2005 - art. 2 () JORF 29 décembre 2005
 
 _Cité par_:
 
@@ -57889,38 +57886,33 @@ _Cité par_:
   - Code de procédure pénale - art. R15-20 (V)
   - Code de procédure pénale - art. R15-29 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - CODE DE PROCEDURE PENALE - art. 15-1 (M)
-  - Code de la route. - art. L130-1 (V)
+  - Décret n°2008-610 du 27 juin 2008 - art. 2
 
 
 ###### Article R15-20
 
 Les catégories de services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire
 exercent leurs fonctions habituelles et dont la compétence s'exerce dans le ressort d'un département ou d'une collectivité
-d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes :
+d'outre-mer ainsi qu'en Nouvelle-Calédonie sont les suivantes : 
 
-1° Les sûretés départementales et les circonscriptions de sécurité publique ;
+1° Les sûretés départementales, les compagnies de sécurisation et les circonscriptions de sécurité publique ; 
 
 2° A Paris, la direction de la police urbaine de proximité et la direction de l'ordre public et de la circulation de la
-préfecture de police ;
+préfecture de police ; 
 
-3° Au titre de la police aux frontières :
+3° Au titre de la police aux frontières : 
 
 a) Les directions départementales ainsi que, sous réserve des dispositions du a du 2° de l'article R. 15-19, les brigades des
 chemins de fer, les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans le département
-où elles ont leur siège ;
+où elles ont leur siège ; 
 
 b) Les directions de la Nouvelle-Calédonie et des îles Wallis-et-Futuna, de la Polynésie française, de Saint-Pierre-et-
 Miquelon et de Mayotte ainsi que les brigades mobiles de recherche et les unités d'éloignement qui leur sont rattachées, dans
 les territoires de ces collectivités.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
 
 _Cité par_:
 
@@ -57932,7 +57924,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-795 du 25 août 2003 - art. 3 () JORF 27 août 2003
+  - Décret n°2008-610 du 27 juin 2008 - art. 3
+
+_Cite_:
+
+  - Code de procédure pénale - art. R15-19
 
 
 ###### Article R15-21
