@@ -1,5 +1,5 @@
 # Code de procédure pénale  
-Version Consolidée au 2008-06-29
+Version Consolidée au 2008-07-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à 934)](#1)
     - [Titre préliminaire : De l'action publique et de l'action civile (art. 1 à 10)](#2)
@@ -57777,29 +57777,23 @@ _Cité par_:
 ###### Article R15-18
 
 Les services actifs de la police nationale au sein desquels les officiers et agents de police judiciaire exercent leurs
-fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivants :
+fonctions habituelles et dont la compétence s'exerce sur l'ensemble du territoire national sont les suivants : 
 
-1° La direction centrale de la police judiciaire ;
+1° La direction centrale de la police judiciaire ; 
 
-2° La direction centrale de la police aux frontières ;
+2° La direction centrale de la police aux frontières ; 
 
-3° La direction de la surveillance du territoire ;
+3° La direction centrale du renseignement intérieur ; 
 
-4° La sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
+4° L'inspection générale de la police nationale ; 
 
-5° L'inspection générale de la police nationale ;
-
-6° Le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
+5° Le détachement de la police nationale auprès de la direction nationale des enquêtes douanières.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°58-358 1958-04-02
-
 _Modifié par_:
 
-  - Décret n°2001-303 du 4 avril 2001 - art. 4 () JORF 8 avril 2001
+  - Décret n°2008-610 du 27 juin 2008 - art. 1
 
 _Cité par_:
 
@@ -57807,10 +57801,6 @@ _Cité par_:
   - CODE DE PROCEDURE PENALE - art. R13 (M)
   - Code de procédure pénale - art. A34 (V)
   - Code de procédure pénale - art. D8-1 (VD)
-
-_Cite_:
-
-  - Code de procédure pénale 81 al. 6
 
 
 ###### Article R15-19
@@ -82049,9 +82039,7 @@ techniques mentionnés à l'article 706-96 sont :
 
 - la direction centrale de la police judiciaire et ses directions interrégionales et régionales ;
 
-- la direction de la surveillance du territoire ;
-
-- la direction centrale des renseignements généraux ;
+- la direction centrale du renseignement intérieur ;
 
 - les offices centraux de police judiciaire ;
 
@@ -82067,21 +82055,18 @@ techniques mentionnés à l'article 706-96 sont :
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°58-1304 1958-12-23
+  - Décret n°2008-611 du 27 juin 2008 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2004-1026 du 29 septembre 2004 - art. 1 () JORF 30 septembre 2004
+  - Code de procédure pénale - art. 706-96
+  - Code de procédure pénale - art. 706-99
 
 _Cité par_:
 
   - Code de procédure pénale - art. D15-1-7 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Code de procédure pénale 20 et 21
 
 
 #### Chapitre II : Du ministère public<a id=543></a>
@@ -113799,9 +113784,7 @@ s'ils sont affectés à un des services ou à l'une des catégories de services 
 
 - la sous-direction de la police judiciaire de la gendarmerie nationale ;
 
-- la direction de la surveillance du territoire ;
-
-- la sous-direction chargée des courses et jeux de la direction centrale des renseignements généraux ;
+- la direction centrale du renseignement intérieur ;
 
 - l'inspection générale de la police nationale ;
 
@@ -113838,7 +113821,12 @@ préfecture de police.
 
 _Modifié par_:
 
-  - Arrêté du 30 avril 2008 - art. 1
+  - Arrêté du 27 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code de procédure pénale - art. 16
+  - Code de procédure pénale - art. R15-18
 
 
 ###### Article A35
