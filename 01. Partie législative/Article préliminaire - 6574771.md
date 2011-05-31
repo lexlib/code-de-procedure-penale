@@ -23,15 +23,14 @@ Il doit être définitivement statué sur l'accusation dont cette personne fait 
 
 Toute personne condamnée a le droit de faire examiner sa condamnation par une autre juridiction.
 
+En matière criminelle et correctionnelle, aucune condamnation ne peut être prononcée contre une personne sur le seul
+fondement de déclarations qu'elle a faites sans avoir pu s'entretenir avec un avocat et être assistée par lui.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°57-1426 1957-12-31
-
-_Créé par_:
-
-  - Loi n°2000-516 du 15 juin 2000 - art. 1 () JORF 16 juin 2000
+  - Loi n°57-1426 du 31 décembre 1957
 
 _Cité par_:
 
@@ -40,3 +39,7 @@ _Cité par_:
   - Décret n°2013-958 du 25 octobre 2013 (V)
   - Arrêté du 23 juillet 2014 - art. Annexe I (Ab)
   - Arrêté du 6 août 2019 - art. (V)
+
+_Modifié par_:
+
+  - Loi n°2011-392 du 14 avril 2011 - art. 1
