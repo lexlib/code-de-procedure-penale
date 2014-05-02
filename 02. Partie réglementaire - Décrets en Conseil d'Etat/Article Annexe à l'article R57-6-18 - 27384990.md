@@ -386,6 +386,11 @@ Elle peut également recevoir d'autres cours par correspondance avec l'autorisat
 La personne détenue supporte les frais qui en découlent, sauf convention particulière entre l'administration pénitentiaire et
 l'organisme d'enseignement à distance. 
 
+Article 17-1 
+
+La consultation des personnes détenues sur les activités qui leur sont proposées, prévue à l'article 29 de la loi du 24
+novembre 2009 pénitentiaire, est mise en œuvre dans les conditions fixées aux articles R. 57-9-2-1 à R. 57-9-2-5. 
+
 Article 18 
 
 L'assistance spirituelle 
@@ -420,7 +425,7 @@ de télévision ;
 
 6° Par l'utilisation collective ou individuelle d'équipements informatiques non connectés à des réseaux extérieurs ; 
 
-7° Par l'utilisation collective ou individuelle d'équipements terminaux au sens du 10° de l'article  L. 32 du code des postes
+7° Par l'utilisation collective ou individuelle d'équipements terminaux au sens du 10° de l'article L. 32 du code des postes
 et des communications électroniques. 
 
 II.-La médiathèque met gratuitement les publications écrites et audiovisuelles de son fonds à la disposition de chaque
@@ -978,16 +983,20 @@ Les repas sont pris soit en cellule, soit en commun.
 
 _Cite_:
 
+  - Loi n°2009-1436 du 24 novembre 2009 - art. 22
   - Loi n°2009-1436 du 24 novembre 2009 - art. 23
-  - Loi n°2009-1436 du 24 novembre 2009 - art. 22 (V)
+  - Loi n°2009-1436 du 24 novembre 2009 - art. 29 (V)
+  - Code de procédure pénale - art. 715 (V)
   - Code de procédure pénale - art. D262
-  - Code de procédure pénale - art. R57-6-1 (V)
-  - Code de procédure pénale - art. R57-7 (V)
-  - Code de procédure pénale - art. R57-7-62 (V)
-  - Code de procédure pénale - art. R57-7-79 (V)
-  - Code de procédure pénale - art. R57-8-16 (V)
-  - Code de procédure pénale - art. R57-8-21 (V)
+  - Code de procédure pénale - art. R57-5-1 (V)
+  - Code de procédure pénale - art. R57-6-1
+  - Code de procédure pénale - art. R57-7
+  - Code de procédure pénale - art. R57-7-62
+  - Code de procédure pénale - art. R57-7-79
+  - Code de procédure pénale - art. R57-8-16
+  - Code de procédure pénale - art. R57-8-21
+  - Code de procédure pénale - art. R57-9-2-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-368 du 30 avril 2013 - art.
+  - Décret n°2014-442 du 29 avril 2014 - art. 3
