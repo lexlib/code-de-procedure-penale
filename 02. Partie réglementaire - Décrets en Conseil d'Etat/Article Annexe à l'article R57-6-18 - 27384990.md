@@ -979,24 +979,144 @@ La personne détenue circule librement au sein de l'établissement.
 
 Les repas sont pris soit en cellule, soit en commun.
 
+Chapitre III
+
+Dispositions spécifiques aux personnes mineures détenues en établissements pénitentiaires
+
+Art. 50. - Champ d'application
+
+Les dispositions du présent chapitre sont applicables aux personnes mineures détenues dans les établissements pénitentiaires
+spécialisés pour mineurs, dans les quartiers mineurs des maisons d'arrêt ou dans tout autre établissement pénitentiaire.
+
+Art. 51. - La séparation hommes-femmes
+
+Les personnes détenues mineures de sexe féminin sont hébergées dans les unités prévues à cet effet sous la surveillance des
+personnels de leur sexe. Toutefois, l'encadrement peut comporter des personnels masculins.
+
+Les activités organisées dans les établissements pénitentiaires accueillant des personnes détenues mineures peuvent admettre
+des détenus des deux sexes.
+
+Art. 52. - L'accueil
+
+A son arrivée, la personne détenue mineure est mise en mesure d'informer sa famille de son incarcération dans les meilleurs
+délais. Si la personne détenue mineure n'a pas informé l'un de ses titulaires de l'autorité parentale ou représentants
+légaux, le chef d'établissement procède à cette diligence et informe également les services du secteur public de la
+protection judiciaire de la jeunesse.
+
+Art. 53. - Les entretiens obligatoires
+
+La personne détenue mineure est reçue, dès que possible, par un agent du secteur public de la protection judiciaire de la
+jeunesse. Au cours de cet entretien, le mineur est informé du rôle et des modalités d'organisation du service éducatif en
+détention.
+
+Art. 54. - L'encellulement
+
+La personne détenue mineure est, la nuit, seule en cellule.
+
+A titre exceptionnel, sur décision du chef d'établissement, elle peut être placée en cellule avec une personne détenue de son
+âge soit pour motif médical, soit en raison de sa personnalité.
+
+Dans ce cas, l'hébergement de nuit dans une même cellule ne peut concerner plus de deux personnes mineures.
+
+Art. 55. - Obligation(s) générale(s)
+
+Les personnes détenues mineures ont l'interdiction de fumer en tout lieu, y compris dans les espaces non couverts.
+
+Art. 56. - L'alimentation
+
+Les repas des personnes détenues mineures sont composés conformément aux principes de la diététique et servis dans des
+conditions permettant leur éducation à une alimentation équilibrée et régulière.
+
+Art. 57. - Les actions de préparation à la réinsertion
+
+L'enseignement ou la formation constituent la part la plus importante de l'emploi du temps de la personne détenue mineure.
+
+Un bilan pédagogique est réalisé par le personnel enseignant de l'éducation nationale auprès de chaque personne détenue
+mineure entrant. A partir des éléments recueillis, un projet individuel visant une reprise ou une poursuite de l'enseignement
+ou de la formation est proposé à la personne détenue mineure.
+
+La personne détenue mineure a également accès à des activités socio-éducatives et sportives ou de détente adaptées à son âge.
+Un temps est consacré aux activités de plein air.
+
+L'emploi du temps de la personne détenue mineure intègre l'ensemble des entretiens utiles avec les personnels et intervenants
+concourant à son éducation et son insertion sociale.
+
+Les personnes détenues mineures de seize ans et plus suivent une activité à caractère éducatif destinée à contribuer au
+développement de leur personnalité et à favoriser leur insertion sociale, scolaire et professionnelle.
+
+Les activités proposées à ce titre consistent en des activités d'enseignement, de formation, socio-éducatives et sportives.
+
+A titre exceptionnel, le chef d'établissement, seul ou à l'initiative de l'équipe pluridisciplinaire, peut proposer des
+activités de travail aux personnes détenues mineures, âgées de seize ans et plus. Ces activités ne doivent pas se substituer
+aux activités d'enseignement ou de formation.
+
+A titre exceptionnel également, le chef d'établissement peut autoriser la participation d'une personne détenue mineure âgée
+de seize ans et plus aux activités organisées dans l'établissement pénitentiaire avec des personnes détenues majeures, si
+l'intérêt du mineur le justifie.
+
+Art. 58. - L'intervention des services de la protection judiciaire de la jeunesse
+
+Les services du secteur public de la protection judiciaire de la jeunesse sont consultés par le chef d'établissement avant
+toute décision relative aux modalités de prise en charge d'une personne détenue mineure.
+
+Les activités socio-éducatives mises en œuvre par les services de la protection judiciaire de la jeunesse auprès de la
+personne détenue mineure sont obligatoires et contribuent à la préparation par la protection judiciaire de la jeunesse du
+projet de sortie individualisé de la personne détenue mineure.
+
+Art. 59. - L'information des titulaires de l'autorité parentale ou des représentants légaux
+
+Les titulaires de l'autorité parentale ou les représentants légaux de la personne détenue mineure sont destinataires du
+règlement intérieur de l'établissement pénitentiaire. Ils sont informés de toute demande de permis de visite faite au chef de
+l'établissement, de toute modification du régime de détention, ainsi que de toute procédure disciplinaire. Ils reçoivent
+mensuellement un état du compte nominatif de la personne détenue mineure. Ils sont tenus informés du déroulement de sa
+scolarité, de sa formation ou de ses activités professionnelles. Les emplois du temps scolaires et les livrets d'attestation
+des parcours leur sont communiqués.
+
+Art. 60. - Les communications téléphoniques
+
+Les personnes détenues mineures peuvent téléphoner aux membres de leur famille ou à toute personne participant effectivement
+à leur éducation ou à leur insertion sociale, sous réserve, en ce qui concerne les prévenus, d'y avoir été autorisées par le
+magistrat saisi du dossier de la procédure.
+
+Art. 61. - La mesure de protection individuelle
+
+Toute personne détenue mineure peut demander à bénéficier d'une mesure de protection individuelle. Le chef d'établissement
+peut faire droit à cette demande s'il estime que les circonstances de la détention ou la personnalité de la personne détenue
+mineure nécessitent la mise en œuvre de mesures de protection particulières. Il s'attache à recueillir préalablement l'avis
+de l'équipe pluridisciplinaire.
+
+La personne détenue mineure bénéficiant d'une mesure de protection individuelle fait l'objet d'un suivi éducatif renforcé et
+peut être momentanément dispensée de tout ou partie de la vie collective.
+
+Cette mesure ne suspend pas l'exercice de ses droits.
+
+La mise sous protection individuelle est d'une durée maximale de six jours, renouvelable une fois. La durée de cette mesure
+ne peut excéder douze jours par période de détention de quatre mois. Le chef d'établissement peut y mettre fin à tout moment
+après avoir entendu l'intéressé et recueilli l'avis de l'équipe pluridisciplinaire. Il est tenu d'y mettre fin si l'intéressé
+le demande.
+
+La décision de mise sous protection individuelle et sa levée sont portées à la connaissance des titulaires de l'autorité
+parentale ou des représentants légaux de la personne détenue mineure et du magistrat saisi du dossier de l'information ou en
+charge de l'application des peines.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2009-1436 du 24 novembre 2009 - art. 22
   - Loi n°2009-1436 du 24 novembre 2009 - art. 23
-  - Loi n°2009-1436 du 24 novembre 2009 - art. 29 (V)
-  - Code de procédure pénale - art. 715 (V)
+  - Loi n°2009-1436 du 24 novembre 2009 - art. 29
+  - Code de procédure pénale - art. 715
   - Code de procédure pénale - art. D262
-  - Code de procédure pénale - art. R57-5-1 (V)
+  - Code de procédure pénale - art. R57-5-1
   - Code de procédure pénale - art. R57-6-1
   - Code de procédure pénale - art. R57-7
   - Code de procédure pénale - art. R57-7-62
   - Code de procédure pénale - art. R57-7-79
   - Code de procédure pénale - art. R57-8-16
   - Code de procédure pénale - art. R57-8-21
-  - Code de procédure pénale - art. R57-9-2-1 (V)
+  - Code de procédure pénale - art. R57-9-2-1
 
 _Modifié par_:
 
-  - Décret n°2014-442 du 29 avril 2014 - art. 3
+  - Décret n°2015-1486 du 16 novembre 2015 - art. 2
