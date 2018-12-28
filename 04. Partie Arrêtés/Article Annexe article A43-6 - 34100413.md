@@ -7,9 +7,7 @@ I.-TARIFS APPLICABLES AUX ACTES DE MÉDECINE LÉGALE
     <tr>
       <th>
 
-NATURE DE L'ACTE 
-
-</th>
+NATURE DE L'ACTE </th>
       <th>
 
 RÉFÉRENCE 
@@ -19,110 +17,78 @@ de la lettre clé
 </th>
       <th>
 
-COEFFICIENT 
-
-</th>
+COEFFICIENT </th>
       <th>
 
-INDEMNITÉ COMPLÉMENTAIRE 
-
-</th>
+INDEMNITÉ COMPLÉMENTAIRE </th>
     </tr>
     <tr>
       <td>
 
-1° Médecine du vivant 
-
-</td>
-      <td align="left"> </td>
-      <td align="left"> </td>
-      <td> </td>
-    </tr>
+1° Médecine du vivant </td>
+      <td align="left">
+      </td><td align="left">
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport 
+a) Pour une visite judiciaire comportant un ou plusieurs examens et le dépôt d'un rapport </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-2,5 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+2,5 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
 b) Pour une visite judiciaire comportant un ou plusieurs examens d'une victime, la fixation des taux d'incapacité et le dépôt
-d'un rapport 
+d'un rapport </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-3,5 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+3,5 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
 c) Pour l'examen clinique et la prise de sang prévus aux articles R. 3354-7 à R. 3354-13 du code de la santé publique et pour
 l'avis donné par l'expert visé à l'article R. 3354-15 du même code, pour l'examen clinique et le prélèvement biologique
 prévus par l'article R. 235-6 du code de la route, ainsi que le recueil de liquide biologique et le dépistage de stupéfiants
-prévus par l'article R. 235-4 du même code :
-
-</td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
-      <td valign="middle"> </td>
-    </tr>
+prévus par l'article R. 235-4 du même code :</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-- auxquels il est procédé entre 7 heures et 22 heures ; 
+- auxquels il est procédé entre 7 heures et 22 heures ; </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-1,5
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+1,5</td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
-- auxquels il est procédé entre 22 heures et 7 heures ; 
+- auxquels il est procédé entre 22 heures et 7 heures ; </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-1,5 
-
-</td>
-      <td valign="middle">
+1,5 </td>
+      <td>
 
 10,67 € 
 
@@ -134,20 +100,14 @@ dans les îles Wallis et Futuna
     <tr>
       <td>
 
-- auxquels il est procédé les dimanches et jours fériés ; 
+- auxquels il est procédé les dimanches et jours fériés ; </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-1,5 
-
-</td>
-      <td valign="middle">
+1,5 </td>
+      <td>
 
 7,62 € 
 
@@ -161,132 +121,93 @@ dans les îles Wallis et Futuna
 
 Lorsque, par dérogation aux dispositions de l'article R. 235-3 du code de la route, le matériel nécessaire au dépistage est
 fourni par le praticien requis, les honoraires prévus au c ci-dessus sont augmentés d'une indemnité égale au prix unitaire
-d'acquisition de ce matériel sans pouvoir excéder 25 euros 
-
-</td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
-      <td valign="middle"> </td>
-    </tr>
+d'acquisition de ce matériel sans pouvoir excéder 25 euros </td>
+      <td align="left">
+      </td><td align="left">
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
 d) Pour chaque examen prévu par l'article 706-88 du code de procédure pénale 
-
 </td>
-      <td align="left" valign="middle">
+      <td align="left">
 
-C 
+C </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
-
-2 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+2 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
-2° Autopsies 
-
-</td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
-      <td valign="middle"> </td>
-    </tr>
+2° Autopsies </td>
+      <td align="left">
+      </td><td align="left">
+      </td><td>
+    </td></tr>
     <tr>
       <td>
 
-a) Pour une description de cadavre 
+a) Pour une description de cadavre </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+C </td>
+      <td align="left">
 
-C 
-
-</td>
-      <td align="left" valign="middle">
-
-2,5 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+2,5 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
-b) Pour une autopsie avant inhumation 
+b) Pour une autopsie avant inhumation </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+CS </td>
+      <td align="left">
 
-CS 
-
-</td>
-      <td align="left" valign="middle">
-
-6 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+6 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
-c) Pour une autopsie après exhumation ou une autopsie de cadavre en état de décomposition avancée 
+c) Pour une autopsie après exhumation ou une autopsie de cadavre en état de décomposition avancée </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+CS </td>
+      <td align="left">
 
-CS 
-
-</td>
-      <td align="left" valign="middle">
-
-10 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+10 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
-d) Pour une autopsie de cadavre de nouveau-né avant inhumation 
+d) Pour une autopsie de cadavre de nouveau-né avant inhumation </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+CS </td>
+      <td align="left">
 
-CS 
-
-</td>
-      <td align="left" valign="middle">
-
-3 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+3 </td>
+      <td>
+    </td></tr>
     <tr>
       <td>
 
 e) Pour une autopsie de cadavre de nouveau-né après exhumation ou une autopsie de cadavre de nouveau-né en état de
-décomposition avancée 
+décomposition avancée </td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+CS </td>
+      <td align="left">
 
-CS 
-
-</td>
-      <td align="left" valign="middle">
-
-5 
-
-</td>
-      <td valign="middle"> </td>
-    </tr>
+5 </td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -297,9 +218,7 @@ II.-TARIFS APPLICABLES AUX ACTES DE PSYCHIATRIE LÉGALE
     <tr>
       <th>
 
-NATURE DE L'ACTE 
-
-</th>
+NATURE DE L'ACTE </th>
       <th>
 
 RÉFÉRENCE 
@@ -309,96 +228,66 @@ de la lettre clé
 </th>
       <th>
 
-COEFFICIENT 
-
-</th>
+COEFFICIENT </th>
     </tr>
     <tr>
       <td>
 
-1° Pour une expertise psychiatrique comportant un ou plusieurs examens 
+1° Pour une expertise psychiatrique comportant un ou plusieurs examens </td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-      <td align="left"> </td>
-      <td align="left"> </td>
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. </td>
+      <td align="center">
+
+CNPSY </td>
+      <td align="center">
+
+8 </td>
     </tr>
     <tr>
       <td>
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. 
+b) Acte réalisé par un médecin ne relevant pas du a </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+CNPSY </td>
+      <td align="center">
 
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-8 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Acte réalisé par un médecin ne relevant pas du a 
-
-</td>
-      <td align="center" valign="middle">
-
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-11 
-
-</td>
+11 </td>
     </tr>
     <tr>
       <td>
 
 2° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée
-pour infraction sexuelle ou une victime d'une telle infraction 
+pour infraction sexuelle ou une victime d'une telle infraction </td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-      <td align="left"> </td>
-      <td align="left"> </td>
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale </td>
+      <td align="center">
+
+CNPSY </td>
+      <td align="center">
+
+8,5 </td>
     </tr>
     <tr>
       <td>
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale 
+b) Acte réalisé par un médecin ne relevant pas du a </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+CNPSY </td>
+      <td align="center">
 
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-8,5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Acte réalisé par un médecin ne relevant pas du a 
-
-</td>
-      <td align="center" valign="middle">
-
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-11,5 
-
-</td>
+11,5 </td>
     </tr>
   </tbody>
 </table>
@@ -410,9 +299,7 @@ III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
     <tr>
       <th>
 
-NATURE DE L'ACTE 
-
-</th>
+NATURE DE L'ACTE </th>
       <th>
 
 RÉFÉRENCE 
@@ -422,158 +309,108 @@ de la lettre clé
 </th>
       <th>
 
-COEFFICIENT 
-
-</th>
+COEFFICIENT </th>
     </tr>
     <tr>
       <td>
 
-1° Pour une expertise psychologique comportant un ou plusieurs examens 
+1° Pour une expertise psychologique comportant un ou plusieurs examens </td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
+a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité sociale </td>
+      <td align="center">
+
+CNPSY </td>
+      <td align="center">
+
+6,5 </td>
     </tr>
     <tr>
       <td>
 
-a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité sociale 
+b) Acte réalisé par une personne ne relevant pas du a </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+CNPSY </td>
+      <td align="center">
 
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-6,5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Acte réalisé par une personne ne relevant pas du a 
-
-</td>
-      <td align="center" valign="middle">
-
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-9,5 
-
-</td>
+9,5 </td>
     </tr>
     <tr>
       <td>
 
 2° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la
-qualité de psychologue, intervenant en qualité d'expert unique 
+qualité de psychologue, intervenant en qualité d'expert unique </td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-      <td align="left"> </td>
-      <td align="left"> </td>
+a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. </td>
+      <td align="center">
+
+CNPSY </td>
+      <td align="center">
+
+6,5 </td>
     </tr>
     <tr>
       <td>
 
-a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité sociale. 
+b) Acte réalisé par un médecin ne relevant pas du a </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+CNPSY </td>
+      <td align="center">
 
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-6,5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Acte réalisé par un médecin ne relevant pas du a 
-
-</td>
-      <td align="center" valign="middle">
-
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-9,5 
-
-</td>
+9,5 </td>
     </tr>
     <tr>
       <td>
 
 3° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en
-qualité d'expert distinct 
+qualité d'expert distinct </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+C </td>
+      <td align="center">
 
-C 
-
-</td>
-      <td align="center" valign="middle">
-
-3,5 
-
-</td>
+3,5 </td>
     </tr>
     <tr>
       <td>
 
 4° Pour la partie psychologique de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en
-qualité d'expert distinct 
+qualité d'expert distinct </td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
-</td>
-      <td align="left" valign="middle"> </td>
-      <td align="left" valign="middle"> </td>
+a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité sociale </td>
+      <td align="center">
+
+CNPSY </td>
+      <td align="center">
+
+6,5 </td>
     </tr>
     <tr>
       <td>
 
-a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité sociale 
+b) Acte réalisé par une personne ne relevant pas du a </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+CNPSY </td>
+      <td align="center">
 
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-6,5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-b) Acte réalisé par une personne ne relevant pas du a 
-
-</td>
-      <td align="center" valign="middle">
-
-CNPSY 
-
-</td>
-      <td align="center" valign="middle">
-
-9,5 
-
-</td>
+9,5 </td>
     </tr>
   </tbody>
 </table>
@@ -585,9 +422,7 @@ IV.-TARIFS APPLICABLES AUX ACTES DE RADIOLOGIE
     <tr>
       <th>
 
-NATURE DE L'ACTE 
-
-</th>
+NATURE DE L'ACTE </th>
       <th>
 
 RÉFÉRENCE 
@@ -597,58 +432,44 @@ de la lettre clé
 </th>
       <th>
 
-COEFFICIENT 
-
-</th>
+COEFFICIENT </th>
     </tr>
     <tr>
       <td>
 
-1° Pour la localisation d'un corps étranger dans un cadavre 
+1° Pour la localisation d'un corps étranger dans un cadavre </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+Z </td>
+      <td align="center">
 
-Z 
-
-</td>
-      <td align="center" valign="middle">
-
-20 
-
-</td>
+20 </td>
     </tr>
     <tr>
       <td>
 
-2° Pour la localisation d'un corps étranger dans un cadavre putréfié 
+2° Pour la localisation d'un corps étranger dans un cadavre putréfié </td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+Z </td>
+      <td align="center">
 
-Z 
-
-</td>
-      <td align="center" valign="middle">
-
-35
-
-</td>
+35</td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 27 février 2017 - art.
+  - Arrêté du 24 décembre 2018 - art. 1
 
 _Cite_:
 
-  - Code de procédure pénale - art. 706-88 (V)
-  - Code de la santé publique - art. R3354-15 (V)
-  - Code de la santé publique - art. R3354-7 (V)
-  - Code de la sécurité sociale. - art. D311-1 (V)
-  - Code de la route. - art. R235-4 (V)
-  - Code de la route. - art. R235-6 (V)
+  - Code de procédure pénale - art. 706-88
+  - Code de la santé publique - art. R3354-15
+  - Code de la santé publique - art. R3354-7
+  - Code de la sécurité sociale. - art. D311-1
+  - Code de la route. - art. R235-3
+  - Code de la route. - art. R235-6
