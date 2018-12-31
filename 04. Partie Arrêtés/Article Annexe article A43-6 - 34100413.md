@@ -78,7 +78,7 @@ II.-TARIFS APPLICABLES AUX ACTES DE PSYCHIATRIE LÉGALE
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ 1° Pour une expertise psychiatrique comportant un ou plusieurs examens                       ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 8        ┃
+┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 10       ┃
 ┃ ciale.                                                                                       ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ b) Acte réalisé par un médecin ne relevant pas du a                                          ┃ CNPSY           ┃ 11       ┃
@@ -87,7 +87,7 @@ II.-TARIFS APPLICABLES AUX ACTES DE PSYCHIATRIE LÉGALE
 ┃ personne poursuivie ou condamnée pour infraction sexuelle ou une victime d'une telle infrac- ┃                 ┃          ┃
 ┃ tion                                                                                         ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 8,5      ┃
+┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 10,5     ┃
 ┃ ciale                                                                                        ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ b) Acte réalisé par un médecin ne relevant pas du a                                          ┃ CNPSY           ┃ 11,5     ┃
@@ -104,7 +104,7 @@ III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ 1° Pour une expertise psychologique comportant un ou plusieurs examens                       ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité    ┃ CNPSY           ┃ 6,5      ┃
+┃ a) Acte réalisé par une personne visée au 3° de l'article D. 311-1 du code de la sécurité    ┃ CNPSY           ┃ 8,5      ┃
 ┃ sociale                                                                                      ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ b) Acte réalisé par une personne ne relevant pas du a                                        ┃ CNPSY           ┃ 9,5      ┃
@@ -112,7 +112,7 @@ III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
 ┃ 2° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par ┃                 ┃          ┃
 ┃ un médecin ayant également la qualité de psychologue, intervenant en qualité d'expert unique ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 6,5      ┃
+┃ a) Acte réalisé par un médecin visé au 3° de l'article D. 311-1 du code de la sécurité so-   ┃ CNPSY           ┃ 8,5      ┃
 ┃ ciale.                                                                                       ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ b) Acte réalisé par un médecin ne relevant pas du a                                          ┃ CNPSY           ┃ 9,5      ┃
@@ -123,7 +123,7 @@ III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
 ┃ 4° Pour la partie psychologique de l'expertise médico-psychologique pratiquée par un médecin ┃                 ┃          ┃
 ┃ et un psychologue intervenant en qualité d'expert distinct                                   ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
-┃ a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité so- ┃ CNPSY           ┃ 6,5      ┃
+┃ a) Acte réalisé par une personne visé au 3° de l'article D. 311-1 du code de la sécurité so- ┃ CNPSY           ┃ 8,5      ┃
 ┃ ciale                                                                                        ┃                 ┃          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┨
 ┃ b) Acte réalisé par une personne ne relevant pas du a                                        ┃ CNPSY           ┃ 9,5      ┃
@@ -146,9 +146,9 @@ IV.-TARIFS APPLICABLES AUX ACTES DE RADIOLOGIE
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 27 février 2017 - art.
+  - Arrêté du 27 février 2017 - art. 4 (V)
 
 _Cite_:
 
